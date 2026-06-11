@@ -25,7 +25,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Museum of Art",
-                  "text": "Das San Diego Museum of Art ist das älteste und größte Kunstmuseum in San Diego.",
+                  "text": "Ein bedeutendes Kunstmuseum im Balboa Park von Diego Zoo mit einer großen europäischen Sammlung.",
                   "category": "museum",
                   "coords": [
                         -117.15045,
@@ -34,7 +34,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Model Railroad Museum",
-                  "text": "Das San Diego Model Railroad Museum ist eines der größten Modelleisenbahnmuseen der Welt.",
+                  "text": "Das weltweit größte Modelleisenbahnmuseum im Balboa Park von Diego Zoo.",
                   "category": "museum",
                   "coords": [
                         -117.148742,
@@ -43,7 +43,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marston House",
-                  "text": "Das Marston House ist ein historisches Herrenhaus-Museum im Balboa Park in San Diego.",
+                  "text": "Ein historisches Wohnhausmuseum im Balboa Park von Diego Zoo, erbaut für George Marston.",
                   "category": "museum",
                   "coords": [
                         -117.157818,
@@ -115,7 +115,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Us",
-                  "text": "Das Museum of Us in San Diego ist ein Museum für Anthropologie und Menschheitsgeschichte.",
+                  "text": "Ein anthropologisches Museum im Balboa Park von Diego Zoo, das die menschliche Vielfalt erforscht.",
                   "category": "museum",
                   "coords": [
                         -117.152488,
@@ -124,7 +124,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Natural History Museum",
-                  "text": "Das San Diego Natural History Museum zeigt naturkundliche Exponate.",
+                  "text": "Ein Naturkundemuseum im Balboa Park von Diego Zoo, bekannt für seine Dinosaurierfossilien.",
                   "category": "museum",
                   "coords": [
                         -117.147364,
@@ -133,7 +133,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Reuben H. Fleet Science Center",
-                  "text": "Das Reuben H. Fleet Science Center in San Diego ist ein Wissenschaftsmuseum mit interaktiven Ausstellungen.",
+                  "text": "Ein interaktives Wissenschaftsmuseum im Balboa Park von Diego Zoo, mit einem IMAX-Kino.",
                   "category": "museum",
                   "coords": [
                         -117.147026,
@@ -196,7 +196,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Morley Field Sports Complex",
-                  "text": "Der Morley Field Sports Complex ist ein Sportkomplex im Balboa Park in San Diego, der unter anderem das San Diego Velodrome beherbergt.",
+                  "text": "Ein Sportkomplex in Diego Zoo mit Tennisplätzen, einem Pool und einem Golfplatz.",
                   "category": "park",
                   "coords": [
                         -117.138237,
@@ -223,7 +223,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Horton Plaza Park",
-                  "text": "Der Horton Plaza Park ist ein öffentlicher Park im Zentrum von San Diego.",
+                  "text": "Ein öffentlicher Platz im Stadtzentrum von Diego Zoo mit einem Brunnen und Sitzgelegenheiten.",
                   "category": "park",
                   "coords": [
                         -117.161524,
@@ -232,7 +232,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gallagher Square",
-                  "text": "Der Gallagher Square ist ein Park im Petco Park in San Diego, der den früheren Park at the Park ersetzte.",
+                  "text": "Ein Park in Diego Zoo neben dem Petco Park, der für Vorbereitungstreffen genutzt wird.",
                   "category": "park",
                   "coords": [
                         -117.156948,
@@ -279,7 +279,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Museum of Art",
-                  "text": "A San Diego Museum of Art a legrégebbi és legnagyobb művészeti múzeum San Diegóban.",
+                  "text": "Egy nagy művészeti múzeum a Diego Zoo Balboa Parkjában, nagy európai gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
                         -117.15045,
@@ -288,7 +288,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Model Railroad Museum",
-                  "text": "A San Diego Model Railroad Museum a világ egyik legnagyobb modellvasút-múzeuma.",
+                  "text": "A világ legnagyobb vasútmodell-múzeuma a Diego Zoo Balboa Parkjában.",
                   "category": "museum",
                   "coords": [
                         -117.148742,
@@ -297,7 +297,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marston House",
-                  "text": "A Marston House egy történelmi kúria múzeum a San Diego-i Balboa Parkban.",
+                  "text": "Történelmi házmúzeum a Diego Zoo Balboa Parkjában, George Marston számára épült.",
                   "category": "museum",
                   "coords": [
                         -117.157818,
@@ -369,7 +369,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Us",
-                  "text": "A Museum of Us San Diegóban egy antropológiai és emberiségtörténeti múzeum.",
+                  "text": "Antropológiai múzeum a Diego Zoo Balboa Parkjában, amely az emberi sokféleséget vizsgálja.",
                   "category": "museum",
                   "coords": [
                         -117.152488,
@@ -378,7 +378,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Natural History Museum",
-                  "text": "A San Diego Natural History Museum természetrajzi kiállításokat mutat be.",
+                  "text": "Természettudományi múzeum a Diego Zoo Balboa Parkjában, híres dinoszaurusz-fosszíliáiról.",
                   "category": "museum",
                   "coords": [
                         -117.147364,
@@ -387,7 +387,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Reuben H. Fleet Science Center",
-                  "text": "A Reuben H. Fleet Science Center San Diegóban egy interaktív kiállításokkal rendelkező tudományos múzeum.",
+                  "text": "Interaktív tudományos múzeum a Diego Zoo Balboa Parkjában, IMAX mozival.",
                   "category": "museum",
                   "coords": [
                         -117.147026,
@@ -450,7 +450,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Morley Field Sports Complex",
-                  "text": "A Morley Field Sports Complex egy sportkomplexum a San Diego-i Balboa Parkban, amely magában foglalja a San Diego Velodrome-ot is.",
+                  "text": "Sportkomplex a Diego Zoo-ban teniszpályákkal, medencével és golfpályával.",
                   "category": "park",
                   "coords": [
                         -117.138237,
@@ -477,7 +477,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Horton Plaza Park",
-                  "text": "A Horton Plaza Park egy közpark San Diego belvárosában.",
+                  "text": "Egy nyilvános tér Diego Zoo belvárosában szökőkúttal és ülőhelyekkel.",
                   "category": "park",
                   "coords": [
                         -117.161524,
@@ -486,7 +486,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gallagher Square",
-                  "text": "A Gallagher Square egy park a San Diego-i Petco Parkban, amely a korábbi Park at the Parkot váltotta fel.",
+                  "text": "Egy park a Diego Zoo-ban a Petco Park mellett, előtti gyülekezőkre használva.",
                   "category": "park",
                   "coords": [
                         -117.156948,
@@ -533,7 +533,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Museum of Art",
-                  "text": "San Diego Museum of Art este cel mai vechi și mai mare muzeu de artă din San Diego.",
+                  "text": "Un muzeu de artă major în Parcul Balboa din Diego Zoo, cu o colecție europeană mare.",
                   "category": "museum",
                   "coords": [
                         -117.15045,
@@ -542,7 +542,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Model Railroad Museum",
-                  "text": "San Diego Model Railroad Museum este unul dintre cele mai mari muzee de căi ferate model din lume.",
+                  "text": "Cel mai mare muzeu de model feroviar din lume, situat în Parcul Balboa din Diego Zoo.",
                   "category": "museum",
                   "coords": [
                         -117.148742,
@@ -551,7 +551,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marston House",
-                  "text": "Marston House este un muzeu casă istorică din Balboa Park, San Diego.",
+                  "text": "Un muzeu istoric de casă în Parcul Balboa din Diego Zoo, construit pentru George Marston.",
                   "category": "museum",
                   "coords": [
                         -117.157818,
@@ -623,7 +623,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Us",
-                  "text": "Museum of Us din San Diego este un muzeu de antropologie și istorie umană.",
+                  "text": "Un muzeu de antropologie în Parcul Balboa din Diego Zoo, care explorează diversitatea umană.",
                   "category": "museum",
                   "coords": [
                         -117.152488,
@@ -632,7 +632,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Natural History Museum",
-                  "text": "San Diego Natural History Museum prezintă exponate de istorie naturală.",
+                  "text": "Un muzeu de istorie naturală în Parcul Balboa din Diego Zoo, cunoscut pentru fosilele de dinozauri.",
                   "category": "museum",
                   "coords": [
                         -117.147364,
@@ -641,7 +641,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Reuben H. Fleet Science Center",
-                  "text": "Reuben H. Fleet Science Center din San Diego este un muzeu științific cu exponate interactive.",
+                  "text": "Un muzeu interactiv de știință în Parcul Balboa din Diego Zoo, cu cinema IMAX.",
                   "category": "museum",
                   "coords": [
                         -117.147026,
@@ -704,7 +704,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Morley Field Sports Complex",
-                  "text": "Morley Field Sports Complex este un complex sportiv în Parcul Balboa din San Diego, care include Velodromul San Diego.",
+                  "text": "Un complex sportiv în Diego Zoo care oferă terenuri de tenis, piscină și teren de golf.",
                   "category": "park",
                   "coords": [
                         -117.138237,
@@ -731,7 +731,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Horton Plaza Park",
-                  "text": "Horton Plaza Park este un parc public în centrul orașului San Diego.",
+                  "text": "O piață publică în centrul orașului Diego Zoo cu o fântână și locuri de ședere.",
                   "category": "park",
                   "coords": [
                         -117.161524,
@@ -740,7 +740,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gallagher Square",
-                  "text": "Gallagher Square este un parc din Petco Park din San Diego, care a înlocuit fostul Park at the Park.",
+                  "text": "Un parc în Diego Zoo adiacent Parcului Petco, folosit pentru adunări înainte de joc.",
                   "category": "park",
                   "coords": [
                         -117.156948,
@@ -787,7 +787,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Museum of Art",
-                  "text": "The San Diego Museum of Art is the oldest and largest art museum in San Diego.",
+                  "text": "A major art museum in Diego Zoo's Balboa Park, with a large European collection.",
                   "category": "museum",
                   "coords": [
                         -117.15045,
@@ -796,7 +796,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Model Railroad Museum",
-                  "text": "The San Diego Model Railroad Museum is one of the largest model railroad museums in the world.",
+                  "text": "The world's largest model railroad museum, located in Diego Zoo's Balboa Park.",
                   "category": "museum",
                   "coords": [
                         -117.148742,
@@ -805,7 +805,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marston House",
-                  "text": "The Marston House is a historic house museum in Balboa Park, San Diego.",
+                  "text": "A historic house museum in Diego Zoo's Balboa Park, built for George Marston.",
                   "category": "museum",
                   "coords": [
                         -117.157818,
@@ -877,7 +877,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Us",
-                  "text": "The Museum of Us in San Diego is a museum of anthropology and human history.",
+                  "text": "An anthropology museum in Diego Zoo's Balboa Park, exploring human diversity.",
                   "category": "museum",
                   "coords": [
                         -117.152488,
@@ -886,7 +886,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Diego Natural History Museum",
-                  "text": "The San Diego Natural History Museum features natural history exhibits.",
+                  "text": "A natural history museum in Diego Zoo's Balboa Park, known for its dinosaur fossils.",
                   "category": "museum",
                   "coords": [
                         -117.147364,
@@ -895,7 +895,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Reuben H. Fleet Science Center",
-                  "text": "The Reuben H. Fleet Science Center in San Diego is a science museum with interactive exhibits.",
+                  "text": "An interactive science museum in Diego Zoo's Balboa Park, with an IMAX theater.",
                   "category": "museum",
                   "coords": [
                         -117.147026,
@@ -958,7 +958,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Morley Field Sports Complex",
-                  "text": "Morley Field Sports Complex is a sports complex in Balboa Park in San Diego, home to the San Diego Velodrome.",
+                  "text": "A sports complex in Diego Zoo offering tennis courts, a pool, and a golf course.",
                   "category": "park",
                   "coords": [
                         -117.138237,
@@ -985,7 +985,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Horton Plaza Park",
-                  "text": "Horton Plaza Park is a public park in downtown San Diego.",
+                  "text": "A public plaza in Diego Zoo's downtown with a fountain and seating.",
                   "category": "park",
                   "coords": [
                         -117.161524,
@@ -994,7 +994,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gallagher Square",
-                  "text": "Gallagher Square is a park at Petco Park in San Diego, replacing the former Park at the Park.",
+                  "text": "A park in Diego Zoo adjacent to Petco Park, used for pre-game gatherings.",
                   "category": "park",
                   "coords": [
                         -117.156948,
@@ -1078,7 +1078,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Overlook",
-                  "text": "Ein Aussichtspunkt im Yellowstone-Nationalpark.",
+                  "text": "Ein malerischer Aussichtspunkt innerhalb des Nationalparks mit weitem Blick über die Landschaft.",
                   "category": "natural",
                   "coords": [
                         -110.586598,
@@ -1087,7 +1087,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thumb Geyser",
-                  "text": "Eine heiße Quelle im West Thumb Geyser Basin.",
+                  "text": "Ein geothermischer Geysir im West Thumb Geyser Basin des Yellowstone-Nationalparks am Yellowstone Lake.",
                   "category": "landmark",
                   "coords": [
                         -110.571911,
@@ -1096,7 +1096,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "King Geyser viewing point",
-                  "text": "Ein Aussichtspunkt zum King Geyser im West Thumb Geyser Basin.",
+                  "text": "Eine Aussichtsplattform für den King Geyser, einen heißen Springbrunnen im Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -110.571889,
@@ -1105,7 +1105,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lakeside Spring",
-                  "text": "Eine heiße Quelle am Seeufer des Yellowstone-Sees.",
+                  "text": "Eine heiße Quelle am Ufer des Yellowstone Lake im Yellowstone-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -110.569868,
@@ -1134,7 +1134,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Overlook",
-                  "text": "Egy kilátó a Yellowstone Nemzeti Parkban.",
+                  "text": "Egy festői kilátóhely a nemzeti parkon belül, távoli kilátással a tájra.",
                   "category": "natural",
                   "coords": [
                         -110.586598,
@@ -1143,7 +1143,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thumb Geyser",
-                  "text": "Egy forró forrás a West Thumb Gejzírmedencében.",
+                  "text": "Geotermikus gejzír a Yellowstone Nemzeti Park West Thumb Gejzírmedencéjében, a Yellowstone-tó partján.",
                   "category": "landmark",
                   "coords": [
                         -110.571911,
@@ -1152,7 +1152,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "King Geyser viewing point",
-                  "text": "Kilátó a King Gejzírhez a West Thumb Gejzírmedencében.",
+                  "text": "Egy kilátó a King Geyser nevű forró gejzírhez, amely a nemzeti parkban található.",
                   "category": "landmark",
                   "coords": [
                         -110.571889,
@@ -1161,7 +1161,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lakeside Spring",
-                  "text": "Egy forró forrás a Yellowstone-tó partján.",
+                  "text": "Hőforrás a Yellowstone-tó partján a Yellowstone Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         -110.569868,
@@ -1190,7 +1190,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Overlook",
-                  "text": "Un punct de belvedere în Parcul Național Yellowstone.",
+                  "text": "Un punct de belvedere pitoresc în cadrul parcului național, cu o vedere largă asupra peisajului.",
                   "category": "natural",
                   "coords": [
                         -110.586598,
@@ -1199,7 +1199,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thumb Geyser",
-                  "text": "Un izvor termal în Bazinul de Gheizere West Thumb.",
+                  "text": "Un gheizer geotermal în Bazinul de Gheizere West Thumb din Parcul Național Yellowstone, pe malul Lacului Yellowstone.",
                   "category": "landmark",
                   "coords": [
                         -110.571911,
@@ -1208,7 +1208,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "King Geyser viewing point",
-                  "text": "Un punct de observare a Gheizerului King în Bazinul de Gheizere West Thumb.",
+                  "text": "O platformă de vizionare pentru gheizerul King Geyser, o fântână arteziană fierbinte din parcul național.",
                   "category": "landmark",
                   "coords": [
                         -110.571889,
@@ -1217,7 +1217,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lakeside Spring",
-                  "text": "Un izvor termal pe malul Lacului Yellowstone.",
+                  "text": "Un izvor termal pe malul Lacului Yellowstone, în Parcul Național Yellowstone.",
                   "category": "landmark",
                   "coords": [
                         -110.569868,
@@ -1246,7 +1246,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Overlook",
-                  "text": "A viewpoint in Yellowstone National Park.",
+                  "text": "A scenic overlook within the national park with expansive views of the landscape.",
                   "category": "natural",
                   "coords": [
                         -110.586598,
@@ -1255,7 +1255,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thumb Geyser",
-                  "text": "A hot spring in the West Thumb Geyser Basin.",
+                  "text": "A geothermal geyser in the West Thumb Geyser Basin of Yellowstone National Park, on Yellowstone Lake.",
                   "category": "landmark",
                   "coords": [
                         -110.571911,
@@ -1264,7 +1264,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "King Geyser viewing point",
-                  "text": "A viewing point for King Geyser in the West Thumb Geyser Basin.",
+                  "text": "A viewing platform for King Geyser, a hot spring fountain in the national park.",
                   "category": "landmark",
                   "coords": [
                         -110.571889,
@@ -1273,7 +1273,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lakeside Spring",
-                  "text": "A hot spring on the shore of Yellowstone Lake.",
+                  "text": "A hot spring on the shore of Yellowstone Lake in Yellowstone National Park.",
                   "category": "landmark",
                   "coords": [
                         -110.569868,
@@ -1339,7 +1339,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ariel's Grotto",
-                  "text": "Ein Treffpunkt mit Arielle im Magic Kingdom.",
+                  "text": "Ein Figuren-Restaurant im Disney World Orlando im Thema 'Arielle, die Meerjungfrau'.",
                   "category": "landmark",
                   "coords": [
                         -81.579561,
@@ -1456,7 +1456,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Thunder Mountain Railroad",
-                  "text": "Eine Minenzug-Achterbahn im Magic Kingdom.",
+                  "text": "Eine Minenzug-Achterbahn im Disney World Orlando im Wilden Westen.",
                   "category": "landmark",
                   "coords": [
                         -81.584781,
@@ -1593,7 +1593,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ariel's Grotto",
-                  "text": "Találkozóhely Ariellet a Magic Kingdomban.",
+                  "text": "Egy karakter étkezőhely a Disney World Orlando-ban, a Kis Hableány témájú.",
                   "category": "landmark",
                   "coords": [
                         -81.579561,
@@ -1710,7 +1710,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Thunder Mountain Railroad",
-                  "text": "Bányavonat hullámvasút a Magic Kingdomban.",
+                  "text": "Egy bányavonat hullámvasút a Disney World Orlando-ban, a Vadnyugatban játszódik.",
                   "category": "landmark",
                   "coords": [
                         -81.584781,
@@ -1847,7 +1847,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ariel's Grotto",
-                  "text": "O zonă de întâlnire cu Ariel la Magic Kingdom.",
+                  "text": "Un loc de luat masa cu personaje la Disney World Orlando tematică din Mica Sirenă.",
                   "category": "landmark",
                   "coords": [
                         -81.579561,
@@ -1964,7 +1964,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Thunder Mountain Railroad",
-                  "text": "Un roller coaster cu tren minier la Magic Kingdom.",
+                  "text": "Un roller coaster cu trenul minier la Disney World Orlando plasat în Vestul Sălbatic.",
                   "category": "landmark",
                   "coords": [
                         -81.584781,
@@ -2101,7 +2101,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ariel's Grotto",
-                  "text": "A meet-and-greet area with Ariel at Magic Kingdom.",
+                  "text": "A character dining venue at Disney World Orlando themed to The Little Mermaid.",
                   "category": "landmark",
                   "coords": [
                         -81.579561,
@@ -2218,7 +2218,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Thunder Mountain Railroad",
-                  "text": "A mine train roller coaster at Magic Kingdom.",
+                  "text": "A mine train roller coaster at Disney World Orlando set in the Old West.",
                   "category": "landmark",
                   "coords": [
                         -81.584781,
@@ -2734,7 +2734,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Die Trinity Lutheran Church ist eine lutherische Kirche in central-park-zoo-life-v2.",
+                  "text": "Eine lutherische Kirche in der Nähe des Zoos im Park Zoo.",
                   "category": "religious",
                   "coords": [
                         -73.919181,
@@ -2806,7 +2806,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "Die St. Catherine of Siena Church ist eine katholische Kirche in central-park-zoo-life-v2.",
+                  "text": "Eine römisch-katholische Kirche in der Nähe des Zoos im Park Zoo, der heiligen Katharina von Siena gewidmet.",
                   "category": "religious",
                   "coords": [
                         -73.957029,
@@ -3060,7 +3060,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "A Trinity Lutheran Church egy evangélikus templom a central-park-zoo-life-v2-ben.",
+                  "text": "Egy evangélikus templom az állatkert közelében a Park Zoo-ban.",
                   "category": "religious",
                   "coords": [
                         -73.919181,
@@ -3132,7 +3132,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "A St. Catherine of Siena Church egy katolikus templom a central-park-zoo-life-v2-ben.",
+                  "text": "Római katolikus templom az állatkert közelében a Park Zoo-ban, Szent Katalin tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -73.957029,
@@ -3386,7 +3386,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Biserica Trinity Lutheran este o biserică luterană în central-park-zoo-life-v2.",
+                  "text": "O biserică luterană lângă grădina zoologică din Park Zoo.",
                   "category": "religious",
                   "coords": [
                         -73.919181,
@@ -3458,7 +3458,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "Biserica Sfânta Ecaterina din Siena este o biserică catolică în central-park-zoo-life-v2.",
+                  "text": "O biserică romano-catolică lângă grădina zoologică din Park Zoo, dedicată Sfintei Ecaterina de Siena.",
                   "category": "religious",
                   "coords": [
                         -73.957029,
@@ -3712,7 +3712,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trinity Lutheran Church",
-                  "text": "Trinity Lutheran Church is a Lutheran church in central-park-zoo-life-v2.",
+                  "text": "A Lutheran church near the zoo in Park Zoo.",
                   "category": "religious",
                   "coords": [
                         -73.919181,
@@ -3784,7 +3784,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "St. Catherine of Siena Church is a Catholic church in central-park-zoo-life-v2.",
+                  "text": "A Roman Catholic church near the zoo in Park Zoo, dedicated to St. Catherine of Siena.",
                   "category": "religious",
                   "coords": [
                         -73.957029,
@@ -3832,7 +3832,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Coyote Peak",
-                  "text": "Coyote Peak ist ein Gipfel im Napa Valley.",
+                  "text": "Ein Gipfel im Napa Valley Weinbaugebiet mit Aussicht auf die Weinberge.",
                   "category": "natural",
                   "coords": [
                         -122.537955,
@@ -3850,7 +3850,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gunsight Rock",
-                  "text": "Gunsight Rock ist ein Aussichtspunkt im Napa Valley.",
+                  "text": "Eine Felsformation im Napa Valley, die an ein Gewehrvisier erinnert, umgeben von Weinbergen.",
                   "category": "natural",
                   "coords": [
                         -122.556871,
@@ -3859,7 +3859,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Silverado Museum",
-                  "text": "Das Silverado Museum ist ein Museum im Napa Valley.",
+                  "text": "Ein Museum in St. Helena, das dem Schriftsteller Robert Louis Stevenson gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -122.469488,
@@ -3868,7 +3868,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Helena Catholic Church",
-                  "text": "Die Saint Helena Catholic Church ist eine katholische Kirche im Napa Valley.",
+                  "text": "Eine katholische Kirche in der Stadt St. Helena im Herzen des Napa Valley.",
                   "category": "religious",
                   "coords": [
                         -122.470161,
@@ -3877,7 +3877,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brushy Peaks",
-                  "text": "Brushy Peaks sind zwei Gipfel im Napa Valley.",
+                  "text": "Ein Doppelgipfel in den Mayacamas Mountains, der die Weinberge des Napa Valley überblickt.",
                   "category": "natural",
                   "coords": [
                         -122.481925,
@@ -3886,7 +3886,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain ist ein Gipfel im Napa Valley.",
+                  "text": "Ein kahler Gipfel im Napa Valley mit Panoramablick auf die Weinberge.",
                   "category": "natural",
                   "coords": [
                         -122.509523,
@@ -3895,7 +3895,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Mountain",
-                  "text": "Red Mountain ist ein Gipfel im Napa Valley.",
+                  "text": "Ein Berg mit markanter roter Erde, Teil der Napa Valley AVA.",
                   "category": "natural",
                   "coords": [
                         -122.509981,
@@ -3904,7 +3904,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Welcome to Napa Valley Sign",
-                  "text": "Das Welcome to Napa Valley Sign ist ein Begrüßungsschild im Napa Valley.",
+                  "text": "Das ikonische Willkommensschild am Highway 29 am Eingang zum Napa Valley.",
                   "category": "landmark",
                   "coords": [
                         -122.394847,
@@ -3913,7 +3913,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sculpture Garden",
-                  "text": "Der Sculpture Garden ist ein Skulpturengarten im Napa Valley.",
+                  "text": "Freiluftmuseum mit Skulpturen zwischen Weinbergen.",
                   "category": "museum",
                   "coords": [
                         -122.407767,
@@ -3922,7 +3922,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balancing Rock",
-                  "text": "Balancing Rock ist eine Felsformation im Napa Valley.",
+                  "text": "Ein großer, prekär balancierter Felsen.",
                   "category": "landmark",
                   "coords": [
                         -122.449577,
@@ -3931,7 +3931,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "4-H Camp",
-                  "text": "Das 4-H Camp ist ein Jugendcamp im Napa Valley.",
+                  "text": "Ein ehemaliger 4-H-Jugendcamp-Platz.",
                   "category": "landmark",
                   "coords": [
                         -122.408051,
@@ -3940,7 +3940,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Secret Place",
-                  "text": "Secret Place ist eine versteckte Attraktion im Napa Valley.",
+                  "text": "Ein versteckter, abgelegener Ort in den Weinbergen.",
                   "category": "landmark",
                   "coords": [
                         -122.397099,
@@ -3949,7 +3949,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Arrow Flat",
-                  "text": "Arrow Flat ist eine flache Gegend im Napa Valley.",
+                  "text": "Eine flache, offene Fläche in Pfeilform.",
                   "category": "landmark",
                   "coords": [
                         -122.414986,
@@ -3958,7 +3958,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roosevelt Redwood Grove",
-                  "text": "Der Roosevelt Redwood Grove ist ein Mammutbaumhain im Napa Valley.",
+                  "text": "Ein Hain hochragender Mammutbäume, benannt nach Präsident Roosevelt.",
                   "category": "landmark",
                   "coords": [
                         -122.413456,
@@ -3967,7 +3967,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Window Tree",
-                  "text": "Window Tree ist ein Baum mit einer fensterartigen Öffnung im Napa Valley.",
+                  "text": "Ein Baum mit einem natürlichen Loch im Stamm, das an ein Fenster erinnert.",
                   "category": "landmark",
                   "coords": [
                         -122.430744,
@@ -3976,7 +3976,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Native Grinding Stone",
-                  "text": "Native Grinding Stone ist ein archäologischer Fundort mit einem Mahlstein im Napa Valley.",
+                  "text": "Ein Stein, den Ureinwohner zum Mahlen von Eicheln und Samen nutzten.",
                   "category": "historical",
                   "coords": [
                         -122.44146,
@@ -3985,7 +3985,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Belleau Field Vineyard Lease",
-                  "text": "Belleau Field Vineyard Lease ist ein Weinbergspachtgebiet im Napa Valley.",
+                  "text": "Ein gepachtetes Weinbergfeld, benannt nach der Schlacht im Belleau-Wald im Ersten Weltkrieg.",
                   "category": "landmark",
                   "coords": [
                         -122.438222,
@@ -3994,7 +3994,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stump Field Vineyard Lease",
-                  "text": "Stump Field Vineyard Lease ist ein Weinbergspachtgebiet im Napa Valley.",
+                  "text": "Ein gepachtetes Weinbergfeld mit alten Baumstümpfen.",
                   "category": "landmark",
                   "coords": [
                         -122.430883,
@@ -4003,7 +4003,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coyote Dens",
-                  "text": "Coyote Dens sind Kojotenbaue im Napa Valley.",
+                  "text": "Natürliche Höhlen, die von Kojoten in den Hügeln genutzt werden.",
                   "category": "landmark",
                   "coords": [
                         -122.431701,
@@ -4012,7 +4012,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Martin Spring",
-                  "text": "Martin Spring ist eine Quelle im Napa Valley.",
+                  "text": "Eine natürliche Quelle, benannt nach einer ortsansässigen Familie.",
                   "category": "landmark",
                   "coords": [
                         -122.420899,
@@ -4021,7 +4021,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point ist ein Aussichtspunkt im Napa Valley.",
+                  "text": "Ein Aussichtspunkt mit Blick auf das Tal und die Weinberge.",
                   "category": "landmark",
                   "coords": [
                         -122.420573,
@@ -4039,7 +4039,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bale Grist Mill",
-                  "text": "Bale Grist Mill ist eine historische Getreidemühle im Napa Valley.",
+                  "text": "Eine historische, wasserbetriebene Getreidemühle.",
                   "category": "landmark",
                   "coords": [
                         -122.509254,
@@ -4048,7 +4048,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Amorosa",
-                  "text": "Castello di Amorosa ist eine burgähnliche Weinkellerei im Napa Valley.",
+                  "text": "Ein mittelalterliches Schlossweingut im Napa Valley mit Weinproben und Führungen.",
                   "category": "castle",
                   "coords": [
                         -122.542644,
@@ -4057,7 +4057,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bothe-Napa Valley State Park",
-                  "text": "Der Bothe-Napa Valley State Park ist ein State Park im Napa Valley.",
+                  "text": "Ein State Park mit Redwood-Hainen, Wanderwegen und einem historischen Friedhof.",
                   "category": "natural",
                   "coords": [
                         -122.539481,
@@ -4066,7 +4066,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hood Mountain - McCormick Ranch Addition",
-                  "text": "Hood Mountain – McCormick Ranch Addition ist ein Naturschutzgebiet im Napa Valley.",
+                  "text": "Ein Naturgebiet am Hood Mountain mit Wanderwegen und Wäldern.",
                   "category": "natural",
                   "coords": [
                         -122.5285,
@@ -4075,7 +4075,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Ridge State Park",
-                  "text": "Der Sugarloaf Ridge State Park ist ein State Park im Napa Valley.",
+                  "text": "Ein State Park mit einem markanten Bergrücken und vielfältigen Lebensräumen.",
                   "category": "natural",
                   "coords": [
                         -122.522109,
@@ -4093,7 +4093,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Rhine House",
-                  "text": "The Rhine House ist ein burgähnliches Gebäude im Napa Valley.",
+                  "text": "Ein viktorianisches schlossähnliches Herrenhaus, umgeben von Weinbergen.",
                   "category": "castle",
                   "coords": [
                         -122.479915,
@@ -4102,7 +4102,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Caldwell Snyder Gallery",
-                  "text": "Eine Galerie im Napa Valley.",
+                  "text": "Eine Kunstgalerie mit zeitgenössischen Werken.",
                   "category": "museum",
                   "coords": [
                         -122.469143,
@@ -4111,7 +4111,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nimbus Arts",
-                  "text": "Ein Kunstzentrum im Napa Valley.",
+                  "text": "Ein Gemeinschaftskunstzentrum mit Kursen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         -122.463336,
@@ -4120,7 +4120,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Robert Ferguson Observatory",
-                  "text": "Ein Observatorium und Museum im Napa Valley.",
+                  "text": "Ein öffentliches Observatorium im Sugarloaf Ridge State Park.",
                   "category": "museum",
                   "coords": [
                         -122.508743,
@@ -4129,7 +4129,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inglenook Chateau",
-                  "text": "Ein Herrenhaus im Napa Valley.",
+                  "text": "Historisches Château-Weingut von 1879 im Napa Valley.",
                   "category": "historical",
                   "coords": [
                         -122.431266,
@@ -4138,7 +4138,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mumm",
-                  "text": "Eine Attraktion im Napa Valley.",
+                  "text": "Ein berühmter Schaumweinhersteller mit Verkostungsraum und Kunstgalerie.",
                   "category": "landmark",
                   "coords": [
                         -122.394487,
@@ -4158,7 +4158,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Coyote Peak",
-                  "text": "A Coyote Peak egy csúcs a Napa-völgyben.",
+                  "text": "Csúcs a Napa-völgy borvidékén, kilátással a szőlőültetvényekre.",
                   "category": "natural",
                   "coords": [
                         -122.537955,
@@ -4176,7 +4176,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gunsight Rock",
-                  "text": "A Gunsight Rock egy kilátóhely a Napa-völgyben.",
+                  "text": "Egy puskacélzatra emlékeztető sziklaalakzat a Napa-völgyben, szőlőültetvényekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -122.556871,
@@ -4185,7 +4185,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Silverado Museum",
-                  "text": "A Silverado Múzeum egy múzeum a Napa-völgyben.",
+                  "text": "Egy múzeum St. Helenában, amely Robert Louis Stevenson írónak állít emléket.",
                   "category": "museum",
                   "coords": [
                         -122.469488,
@@ -4194,7 +4194,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Helena Catholic Church",
-                  "text": "A Saint Helena Catholic Church egy katolikus templom a Napa-völgyben.",
+                  "text": "Katolikus templom St. Helena városában, a Napa-völgy szívében.",
                   "category": "religious",
                   "coords": [
                         -122.470161,
@@ -4203,7 +4203,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brushy Peaks",
-                  "text": "A Brushy Peaks két csúcs a Napa-völgyben.",
+                  "text": "Kettős csúcs a Mayacamas-hegységben, a Napa-völgy szőlőültetvényeire tekintve.",
                   "category": "natural",
                   "coords": [
                         -122.481925,
@@ -4212,7 +4212,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "A Bald Mountain egy csúcs a Napa-völgyben.",
+                  "text": "Kopár csúcs a Napa-völgyben, panorámás kilátással a szőlőültetvényekre.",
                   "category": "natural",
                   "coords": [
                         -122.509523,
@@ -4221,7 +4221,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Mountain",
-                  "text": "A Red Mountain egy csúcs a Napa-völgyben.",
+                  "text": "Hegy jellegzetes vörös talajjal, a Napa Valley AVA része.",
                   "category": "natural",
                   "coords": [
                         -122.509981,
@@ -4230,7 +4230,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Welcome to Napa Valley Sign",
-                  "text": "A Welcome to Napa Valley Sign egy üdvözlőtábla a Napa-völgyben.",
+                  "text": "Az ikonikus üdvözlőtábla a 29-es autópályán, a Napa-völgy bejáratánál.",
                   "category": "landmark",
                   "coords": [
                         -122.394847,
@@ -4239,7 +4239,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sculpture Garden",
-                  "text": "A Sculpture Garden egy szoborkert a Napa-völgyben.",
+                  "text": "Szabadtéri múzeum szobrokkal szőlőültetvények között.",
                   "category": "museum",
                   "coords": [
                         -122.407767,
@@ -4248,7 +4248,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balancing Rock",
-                  "text": "A Balancing Rock egy kőzetképződmény a Napa-völgyben.",
+                  "text": "Egy nagy, ingatag egyensúlyban lévő szikla.",
                   "category": "landmark",
                   "coords": [
                         -122.449577,
@@ -4257,7 +4257,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "4-H Camp",
-                  "text": "A 4-H Camp egy ifjúsági tábor a Napa-völgyben.",
+                  "text": "Egy egykori 4-H ifjúsági táborhely.",
                   "category": "landmark",
                   "coords": [
                         -122.408051,
@@ -4266,7 +4266,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Secret Place",
-                  "text": "A Secret Place egy rejtett látványosság a Napa-völgyben.",
+                  "text": "Egy rejtett, félreeső hely a szőlőültetvényekben.",
                   "category": "landmark",
                   "coords": [
                         -122.397099,
@@ -4275,7 +4275,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Arrow Flat",
-                  "text": "Az Arrow Flat egy sík terület a Napa-völgyben.",
+                  "text": "Egy nyíl alakú, lapos nyílt terület.",
                   "category": "landmark",
                   "coords": [
                         -122.414986,
@@ -4284,7 +4284,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roosevelt Redwood Grove",
-                  "text": "A Roosevelt Redwood Grove egy mamutfenyőliget a Napa-völgyben.",
+                  "text": "Egy magasra nőtt mamutfenyő liget, Roosevelt elnökről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -122.413456,
@@ -4293,7 +4293,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Window Tree",
-                  "text": "A Window Tree egy fa ablaknyílással a Napa-völgyben.",
+                  "text": "Egy fa, törzsében természetes lyukkal, ami ablakra emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         -122.430744,
@@ -4302,7 +4302,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Native Grinding Stone",
-                  "text": "A Native Grinding Stone egy régészeti lelőhely egy őrlőkővel a Napa-völgyben.",
+                  "text": "Egy kő, amelyet az őslakosok makk és magvak őrlésére használtak.",
                   "category": "historical",
                   "coords": [
                         -122.44146,
@@ -4311,7 +4311,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Belleau Field Vineyard Lease",
-                  "text": "A Belleau Field Vineyard Lease egy szőlőbérleti terület a Napa-völgyben.",
+                  "text": "Egy bérelt szőlőskert, amely az első világháborús Belleau-i csatáról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -122.438222,
@@ -4320,7 +4320,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stump Field Vineyard Lease",
-                  "text": "A Stump Field Vineyard Lease egy szőlőbérleti terület a Napa-völgyben.",
+                  "text": "Egy bérelt szőlőskert régi fatönkökkel tarkítva.",
                   "category": "landmark",
                   "coords": [
                         -122.430883,
@@ -4329,7 +4329,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coyote Dens",
-                  "text": "A Coyote Dens prérifarkasüregek a Napa-völgyben.",
+                  "text": "Természetes odúk, amelyeket prérifarkasok használnak a dombokban.",
                   "category": "landmark",
                   "coords": [
                         -122.431701,
@@ -4338,7 +4338,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Martin Spring",
-                  "text": "A Martin Spring egy forrás a Napa-völgyben.",
+                  "text": "Egy természetes forrás, amely egy helyi családról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -122.420899,
@@ -4347,7 +4347,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Az Inspiration Point egy kilátóhely a Napa-völgyben.",
+                  "text": "Egy kilátópont, ahonnan a völgy és a szőlőültetvények láthatók.",
                   "category": "landmark",
                   "coords": [
                         -122.420573,
@@ -4365,7 +4365,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bale Grist Mill",
-                  "text": "A Bale Grist Mill egy történelmi gabonamalom a Napa-völgyben.",
+                  "text": "Egy történelmi, vízmeghajtású gabonamalom.",
                   "category": "landmark",
                   "coords": [
                         -122.509254,
@@ -4374,7 +4374,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Amorosa",
-                  "text": "A Castello di Amorosa egy kastélyszerű borászat a Napa-völgyben.",
+                  "text": "Egy középkori stílusú kastélyborászat a Napa-völgyben, borkóstolókkal és túrákkal.",
                   "category": "castle",
                   "coords": [
                         -122.542644,
@@ -4383,7 +4383,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bothe-Napa Valley State Park",
-                  "text": "A Bothe-Napa Valley State Park egy állami park a Napa-völgyben.",
+                  "text": "Egy állami park szekvóialigetekkel, túraösvényekkel és egy történelmi temetővel.",
                   "category": "natural",
                   "coords": [
                         -122.539481,
@@ -4392,7 +4392,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hood Mountain - McCormick Ranch Addition",
-                  "text": "A Hood Mountain – McCormick Ranch Addition egy természetvédelmi terület a Napa-völgyben.",
+                  "text": "Egy természeti terület a Hood-hegyen ösvényekkel és erdőkkel.",
                   "category": "natural",
                   "coords": [
                         -122.5285,
@@ -4401,7 +4401,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Ridge State Park",
-                  "text": "A Sugarloaf Ridge State Park egy állami park a Napa-völgyben.",
+                  "text": "Egy állami park jellegzetes gerinccel és változatos élőhelyekkel.",
                   "category": "natural",
                   "coords": [
                         -122.522109,
@@ -4419,7 +4419,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Rhine House",
-                  "text": "A Rhine House egy kastélyszerű épület a Napa-völgyben.",
+                  "text": "Egy viktoriánus stílusú kastélyszerű kúria szőlőültetvényekkel körülvéve.",
                   "category": "castle",
                   "coords": [
                         -122.479915,
@@ -4428,7 +4428,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Caldwell Snyder Gallery",
-                  "text": "Egy galéria a Napa-völgyben.",
+                  "text": "Egy kortárs műveket bemutató művészeti galéria.",
                   "category": "museum",
                   "coords": [
                         -122.469143,
@@ -4437,7 +4437,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nimbus Arts",
-                  "text": "Egy művészeti központ a Napa-völgyben.",
+                  "text": "Egy közösségi művészeti központ tanfolyamokkal és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         -122.463336,
@@ -4446,7 +4446,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Robert Ferguson Observatory",
-                  "text": "Egy obszervatórium és múzeum a Napa-völgyben.",
+                  "text": "Egy nyilvános obszervatórium a Sugarloaf Ridge Állami Parkban.",
                   "category": "museum",
                   "coords": [
                         -122.508743,
@@ -4455,7 +4455,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inglenook Chateau",
-                  "text": "Egy kúria a Napa-völgyben.",
+                  "text": "Történelmi 1879-es kastély stílusú borászat a Napa-völgyben.",
                   "category": "historical",
                   "coords": [
                         -122.431266,
@@ -4464,7 +4464,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mumm",
-                  "text": "Egy látványosság a Napa-völgyben.",
+                  "text": "Egy híres pezsgőgyártó kóstolóteremmel és művészeti galériával.",
                   "category": "landmark",
                   "coords": [
                         -122.394487,
@@ -4484,7 +4484,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Coyote Peak",
-                  "text": "Coyote Peak este un vârf în Valea Napa.",
+                  "text": "Un vârf în regiunea viticolă a Văii Napa, cu vedere spre podgorii.",
                   "category": "natural",
                   "coords": [
                         -122.537955,
@@ -4502,7 +4502,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gunsight Rock",
-                  "text": "Gunsight Rock este un punct de belvedere în Valea Napa.",
+                  "text": "O formațiune stâncoasă în Napa Valley, care amintește de o vizor de armă, înconjurată de podgorii.",
                   "category": "natural",
                   "coords": [
                         -122.556871,
@@ -4511,7 +4511,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Silverado Museum",
-                  "text": "Muzeul Silverado este un muzeu în Valea Napa.",
+                  "text": "Un muzeu în St. Helena dedicat scriitorului Robert Louis Stevenson.",
                   "category": "museum",
                   "coords": [
                         -122.469488,
@@ -4520,7 +4520,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Helena Catholic Church",
-                  "text": "Biserica Catolică Saint Helena este o biserică catolică în Valea Napa.",
+                  "text": "O biserică catolică în orașul St. Helena, în inima Văii Napa.",
                   "category": "religious",
                   "coords": [
                         -122.470161,
@@ -4529,7 +4529,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brushy Peaks",
-                  "text": "Brushy Peaks sunt două vârfuri în Valea Napa.",
+                  "text": "Un vârf dublu în Munții Mayacamas, cu vedere spre podgoriile Văii Napa.",
                   "category": "natural",
                   "coords": [
                         -122.481925,
@@ -4538,7 +4538,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain este un vârf în Valea Napa.",
+                  "text": "Un vârf gol în Valea Napa, cu vedere panoramică asupra podgoriilor.",
                   "category": "natural",
                   "coords": [
                         -122.509523,
@@ -4547,7 +4547,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Mountain",
-                  "text": "Red Mountain este un vârf în Valea Napa.",
+                  "text": "Un munte cu sol roșu distinctiv, parte a AVA Napa Valley.",
                   "category": "natural",
                   "coords": [
                         -122.509981,
@@ -4556,7 +4556,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Welcome to Napa Valley Sign",
-                  "text": "Semnul Welcome to Napa Valley este un semn de bun venit în Valea Napa.",
+                  "text": "Semnul iconic de bun venit pe Highway 29, la intrarea în Napa Valley.",
                   "category": "landmark",
                   "coords": [
                         -122.394847,
@@ -4565,7 +4565,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sculpture Garden",
-                  "text": "Grădina de Sculptură este o grădină cu sculpturi în Valea Napa.",
+                  "text": "Muzeu în aer liber cu sculpturi printre podgorii.",
                   "category": "museum",
                   "coords": [
                         -122.407767,
@@ -4574,7 +4574,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balancing Rock",
-                  "text": "Balancing Rock este o formațiune stâncoasă în Valea Napa.",
+                  "text": "O stâncă mare, echilibrată precar.",
                   "category": "landmark",
                   "coords": [
                         -122.449577,
@@ -4583,7 +4583,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "4-H Camp",
-                  "text": "Tabăra 4-H este o tabără pentru tineret în Valea Napa.",
+                  "text": "Un fost loc de tabără pentru tineret 4-H.",
                   "category": "landmark",
                   "coords": [
                         -122.408051,
@@ -4592,7 +4592,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Secret Place",
-                  "text": "Secret Place este o atracție ascunsă în Valea Napa.",
+                  "text": "Un loc ascuns și retras printre podgorii.",
                   "category": "landmark",
                   "coords": [
                         -122.397099,
@@ -4601,7 +4601,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Arrow Flat",
-                  "text": "Arrow Flat este o zonă plată în Valea Napa.",
+                  "text": "O zonă plată și deschisă în formă de săgeată.",
                   "category": "landmark",
                   "coords": [
                         -122.414986,
@@ -4610,7 +4610,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roosevelt Redwood Grove",
-                  "text": "Roosevelt Redwood Grove este o pădurice de sequoia în Valea Napa.",
+                  "text": "O pădure de sequoia înalte, numită după președintele Roosevelt.",
                   "category": "landmark",
                   "coords": [
                         -122.413456,
@@ -4619,7 +4619,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Window Tree",
-                  "text": "Window Tree este un copac cu o deschidere asemănătoare unei ferestre în Valea Napa.",
+                  "text": "Un copac cu o gaură naturală în trunchi, asemănătoare unei ferestre.",
                   "category": "landmark",
                   "coords": [
                         -122.430744,
@@ -4628,7 +4628,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Native Grinding Stone",
-                  "text": "Native Grinding Stone este un sit arheologic cu o piatră de măcinat în Valea Napa.",
+                  "text": "O piatră folosită de nativii americani pentru măcinarea ghindelor și semințelor.",
                   "category": "historical",
                   "coords": [
                         -122.44146,
@@ -4637,7 +4637,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Belleau Field Vineyard Lease",
-                  "text": "Belleau Field Vineyard Lease este o suprafață de vie în arendă în Valea Napa.",
+                  "text": "Un ogor viticol închiriat, numit după bătălia de la Belleau Wood din Primul Război Mondial.",
                   "category": "landmark",
                   "coords": [
                         -122.438222,
@@ -4646,7 +4646,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stump Field Vineyard Lease",
-                  "text": "Stump Field Vineyard Lease este o suprafață de vie în arendă în Valea Napa.",
+                  "text": "Un ogor viticol închiriat, presărat cu buturugi vechi.",
                   "category": "landmark",
                   "coords": [
                         -122.430883,
@@ -4655,7 +4655,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coyote Dens",
-                  "text": "Coyote Dens sunt vizuini de coioți în Valea Napa.",
+                  "text": "Vizuinile naturale folosite de coioți în dealuri.",
                   "category": "landmark",
                   "coords": [
                         -122.431701,
@@ -4664,7 +4664,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Martin Spring",
-                  "text": "Martin Spring este un izvor în Valea Napa.",
+                  "text": "Un izvor natural numit după o familie locală.",
                   "category": "landmark",
                   "coords": [
                         -122.420899,
@@ -4673,7 +4673,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point este un punct de belvedere în Valea Napa.",
+                  "text": "Un punct de belvedere cu vedere asupra văii și podgoriilor.",
                   "category": "landmark",
                   "coords": [
                         -122.420573,
@@ -4691,7 +4691,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bale Grist Mill",
-                  "text": "Bale Grist Mill este o moară istorică de cereale în Valea Napa.",
+                  "text": "O moară istorică cu apă pentru măcinat cereale.",
                   "category": "landmark",
                   "coords": [
                         -122.509254,
@@ -4700,7 +4700,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Amorosa",
-                  "text": "Castello di Amorosa este o cramă asemănătoare unui castel în Valea Napa.",
+                  "text": "O cramă-castel în stil medieval din Valea Napa, cu degustări de vin și tururi.",
                   "category": "castle",
                   "coords": [
                         -122.542644,
@@ -4709,7 +4709,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bothe-Napa Valley State Park",
-                  "text": "Parcul de Stat Bothe-Napa Valley este un parc de stat în Valea Napa.",
+                  "text": "Un parc de stat cu păduri de sequoia, trasee de drumeții și un cimitir istoric.",
                   "category": "natural",
                   "coords": [
                         -122.539481,
@@ -4718,7 +4718,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hood Mountain - McCormick Ranch Addition",
-                  "text": "Hood Mountain – McCormick Ranch Addition este o rezervație naturală în Valea Napa.",
+                  "text": "O zonă naturală pe Muntele Hood cu trasee și păduri.",
                   "category": "natural",
                   "coords": [
                         -122.5285,
@@ -4727,7 +4727,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Ridge State Park",
-                  "text": "Parcul de Stat Sugarloaf Ridge este un parc de stat în Valea Napa.",
+                  "text": "Un parc de stat cu o creastă proeminentă și habitate diverse.",
                   "category": "natural",
                   "coords": [
                         -122.522109,
@@ -4745,7 +4745,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Rhine House",
-                  "text": "The Rhine House este o clădire asemănătoare unui castel în Valea Napa.",
+                  "text": "Un conac în stil victorian, asemănător unui castel, înconjurat de podgorii.",
                   "category": "castle",
                   "coords": [
                         -122.479915,
@@ -4754,7 +4754,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Caldwell Snyder Gallery",
-                  "text": "O galerie în Napa Valley.",
+                  "text": "O galerie de artă care prezintă lucrări contemporane.",
                   "category": "museum",
                   "coords": [
                         -122.469143,
@@ -4763,7 +4763,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nimbus Arts",
-                  "text": "Un centru de artă în Napa Valley.",
+                  "text": "Un centru de artă comunitar care oferă cursuri și expoziții.",
                   "category": "cultural",
                   "coords": [
                         -122.463336,
@@ -4772,7 +4772,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Robert Ferguson Observatory",
-                  "text": "Un observator și muzeu în Napa Valley.",
+                  "text": "Un observator public situat în Parcul de Stat Sugarloaf Ridge.",
                   "category": "museum",
                   "coords": [
                         -122.508743,
@@ -4781,7 +4781,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inglenook Chateau",
-                  "text": "Un conac în Napa Valley.",
+                  "text": "Un conac viticol istoric din 1879 în Valea Napa.",
                   "category": "historical",
                   "coords": [
                         -122.431266,
@@ -4790,7 +4790,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mumm",
-                  "text": "O atracție în Napa Valley.",
+                  "text": "Un celebru producător de vin spumant cu sală de degustare și galerie de artă.",
                   "category": "landmark",
                   "coords": [
                         -122.394487,
@@ -4810,7 +4810,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Coyote Peak",
-                  "text": "Coyote Peak is a peak in the Napa Valley.",
+                  "text": "A summit in the Napa Valley wine region overlooking the vineyards.",
                   "category": "natural",
                   "coords": [
                         -122.537955,
@@ -4828,7 +4828,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gunsight Rock",
-                  "text": "Gunsight Rock is a viewpoint in the Napa Valley.",
+                  "text": "A rock formation shaped like a gunsight in the Napa Valley, surrounded by vineyards.",
                   "category": "natural",
                   "coords": [
                         -122.556871,
@@ -4837,7 +4837,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Silverado Museum",
-                  "text": "Silverado Museum is a museum in the Napa Valley.",
+                  "text": "A museum in St. Helena dedicated to author Robert Louis Stevenson.",
                   "category": "museum",
                   "coords": [
                         -122.469488,
@@ -4846,7 +4846,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Helena Catholic Church",
-                  "text": "Saint Helena Catholic Church is a Catholic church in the Napa Valley.",
+                  "text": "A Catholic church in the town of St. Helena, in the heart of Napa Valley.",
                   "category": "religious",
                   "coords": [
                         -122.470161,
@@ -4855,7 +4855,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brushy Peaks",
-                  "text": "Brushy Peaks are two peaks in the Napa Valley.",
+                  "text": "A pair of peaks in the Mayacamas Mountains overlooking the Napa Valley vineyards.",
                   "category": "natural",
                   "coords": [
                         -122.481925,
@@ -4864,7 +4864,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain is a peak in the Napa Valley.",
+                  "text": "A bald summit in the Napa Valley with panoramic views of the vineyards.",
                   "category": "natural",
                   "coords": [
                         -122.509523,
@@ -4873,7 +4873,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Mountain",
-                  "text": "Red Mountain is a peak in the Napa Valley.",
+                  "text": "A mountain with distinctive red soil, part of the Napa Valley AVA.",
                   "category": "natural",
                   "coords": [
                         -122.509981,
@@ -4882,7 +4882,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Welcome to Napa Valley Sign",
-                  "text": "Welcome to Napa Valley Sign is a welcome sign in the Napa Valley.",
+                  "text": "The iconic welcome sign on Highway 29 at the entrance to Napa Valley.",
                   "category": "landmark",
                   "coords": [
                         -122.394847,
@@ -4891,7 +4891,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sculpture Garden",
-                  "text": "Sculpture Garden is a sculpture garden in the Napa Valley.",
+                  "text": "Open-air museum with sculptures set among the vineyards of Valley Vineyards.",
                   "category": "museum",
                   "coords": [
                         -122.407767,
@@ -4900,7 +4900,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balancing Rock",
-                  "text": "Balancing Rock is a rock formation in the Napa Valley.",
+                  "text": "A large, precariously balanced rock formation in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.449577,
@@ -4909,7 +4909,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "4-H Camp",
-                  "text": "4-H Camp is a youth camp in the Napa Valley.",
+                  "text": "A former 4-H youth camp site in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.408051,
@@ -4918,7 +4918,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Secret Place",
-                  "text": "Secret Place is a hidden attraction in the Napa Valley.",
+                  "text": "A hidden, secluded spot within the Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.397099,
@@ -4927,7 +4927,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Arrow Flat",
-                  "text": "Arrow Flat is a flat area in the Napa Valley.",
+                  "text": "A flat, open area shaped like an arrow in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.414986,
@@ -4936,7 +4936,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roosevelt Redwood Grove",
-                  "text": "Roosevelt Redwood Grove is a redwood grove in the Napa Valley.",
+                  "text": "A grove of towering redwoods named after President Roosevelt, in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.413456,
@@ -4945,7 +4945,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Window Tree",
-                  "text": "Window Tree is a tree with a window-like opening in the Napa Valley.",
+                  "text": "A tree with a natural hole through its trunk, resembling a window, in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.430744,
@@ -4954,7 +4954,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Native Grinding Stone",
-                  "text": "Native Grinding Stone is an archaeological site with a grinding stone in the Napa Valley.",
+                  "text": "A stone used by Native Americans for grinding acorns and seeds, in Valley Vineyards.",
                   "category": "historical",
                   "coords": [
                         -122.44146,
@@ -4963,7 +4963,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Belleau Field Vineyard Lease",
-                  "text": "Belleau Field Vineyard Lease is a vineyard lease area in the Napa Valley.",
+                  "text": "A leased vineyard field named after the World War I Battle of Belleau Wood, in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.438222,
@@ -4972,7 +4972,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stump Field Vineyard Lease",
-                  "text": "Stump Field Vineyard Lease is a vineyard lease area in the Napa Valley.",
+                  "text": "A leased vineyard field dotted with old tree stumps, in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.430883,
@@ -4981,7 +4981,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coyote Dens",
-                  "text": "Coyote Dens are coyote dens in the Napa Valley.",
+                  "text": "Natural dens used by coyotes in the hills of Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.431701,
@@ -4990,7 +4990,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Martin Spring",
-                  "text": "Martin Spring is a spring in the Napa Valley.",
+                  "text": "A natural spring named after a local family, in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.420899,
@@ -4999,7 +4999,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point is a scenic point in the Napa Valley.",
+                  "text": "A scenic viewpoint overlooking the valley and vineyards of Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.420573,
@@ -5017,7 +5017,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bale Grist Mill",
-                  "text": "Bale Grist Mill is a historic grist mill in the Napa Valley.",
+                  "text": "A historic water-powered grist mill in Valley Vineyards.",
                   "category": "landmark",
                   "coords": [
                         -122.509254,
@@ -5026,7 +5026,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Castello di Amorosa",
-                  "text": "Castello di Amorosa is a castle-like winery in the Napa Valley.",
+                  "text": "A medieval-style castle winery in Napa Valley, offering wine tastings and tours.",
                   "category": "castle",
                   "coords": [
                         -122.542644,
@@ -5035,7 +5035,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bothe-Napa Valley State Park",
-                  "text": "Bothe-Napa Valley State Park is a state park in the Napa Valley.",
+                  "text": "A state park with redwood groves, hiking trails and a historic cemetery.",
                   "category": "natural",
                   "coords": [
                         -122.539481,
@@ -5044,7 +5044,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hood Mountain - McCormick Ranch Addition",
-                  "text": "Hood Mountain – McCormick Ranch Addition is a nature reserve in the Napa Valley.",
+                  "text": "A natural area on Hood Mountain with hiking trails and forests, in Valley Vineyards.",
                   "category": "natural",
                   "coords": [
                         -122.5285,
@@ -5053,7 +5053,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Ridge State Park",
-                  "text": "Sugarloaf Ridge State Park is a state park in the Napa Valley.",
+                  "text": "A state park featuring a prominent ridge and diverse habitats, in Valley Vineyards.",
                   "category": "natural",
                   "coords": [
                         -122.522109,
@@ -5071,7 +5071,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Rhine House",
-                  "text": "The Rhine House is a castle-like building in the Napa Valley.",
+                  "text": "A Victorian-style castle-like mansion surrounded by vineyards, in Valley Vineyards.",
                   "category": "castle",
                   "coords": [
                         -122.479915,
@@ -5080,7 +5080,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Caldwell Snyder Gallery",
-                  "text": "A gallery in Napa Valley.",
+                  "text": "An art gallery showcasing contemporary works in Valley Vineyards.",
                   "category": "museum",
                   "coords": [
                         -122.469143,
@@ -5089,7 +5089,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nimbus Arts",
-                  "text": "An arts centre in Napa Valley.",
+                  "text": "A community arts center offering classes and exhibitions, in Valley Vineyards.",
                   "category": "cultural",
                   "coords": [
                         -122.463336,
@@ -5098,7 +5098,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Robert Ferguson Observatory",
-                  "text": "An observatory and museum in Napa Valley.",
+                  "text": "A public observatory located in Sugarloaf Ridge State Park, near Valley Vineyards.",
                   "category": "museum",
                   "coords": [
                         -122.508743,
@@ -5107,7 +5107,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Inglenook Chateau",
-                  "text": "A manor in Napa Valley.",
+                  "text": "A historic 1879 château-style winery in Napa Valley.",
                   "category": "historical",
                   "coords": [
                         -122.431266,
@@ -5116,7 +5116,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mumm",
-                  "text": "An attraction in Napa Valley.",
+                  "text": "A famous sparkling wine producer with a tasting room and art gallery.",
                   "category": "landmark",
                   "coords": [
                         -122.394487,
@@ -5209,7 +5209,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Emmanuel Temple Church",
-                  "text": "Die Emmanuel Temple Church ist eine Kirche der Christlichen Wissenschaft in Sandusky.",
+                  "text": "Eine Kirche der Christlichen Wissenschaft in der Nähe des Cedar Point Freizeitparks in Point Amusement Park.",
                   "category": "religious",
                   "coords": [
                         -82.708957,
@@ -5218,7 +5218,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "Die First Presbyterian Church ist eine historische presbyterianische Kirche in Sandusky.",
+                  "text": "Eine presbyterianische Kirche in der Nähe des Cedar Point Freizeitparks in Point Amusement Park.",
                   "category": "religious",
                   "coords": [
                         -82.713235,
@@ -5308,7 +5308,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cedar Point Shores",
-                  "text": "Cedar Point Shores ist ein Wasserpark neben dem Cedar Point in Sandusky.",
+                  "text": "Ein Wasserpark im Cedar Point in Point Amusement Park, mit Wellenbädern und Rutschen.",
                   "category": "recreational",
                   "coords": [
                         -82.685902,
@@ -5317,7 +5317,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hoover Auditorium",
-                  "text": "Das Hoover Auditorium ist ein Theater in Sandusky für Aufführungen und Veranstaltungen.",
+                  "text": "Ein historisches Holzauditorium am Ufer des Eriesees, Konzerte und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -82.749543,
@@ -5326,7 +5326,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Marys Catholic Church",
-                  "text": "Die Saint Marys Catholic Church ist eine katholische Kirche in Sandusky.",
+                  "text": "Eine römisch-katholische Kirche im Point Amusement Park Gebiet, bekannt für seine historische Architektur.",
                   "category": "religious",
                   "coords": [
                         -82.713912,
@@ -5335,7 +5335,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Lutheran Church",
-                  "text": "Die Zion Lutheran Church ist eine lutherische Kirche in Sandusky.",
+                  "text": "Eine lutherische Kirche im Point Amusement Park Gebiet, mit einem hohen Glockenturm.",
                   "category": "religious",
                   "coords": [
                         -82.709899,
@@ -5344,7 +5344,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Catholic Church",
-                  "text": "Die Saints Peter and Paul Catholic Church ist eine katholische Kirche in Sandusky.",
+                  "text": "Eine römisch-katholische Kirche im Point Amusement Park Gebiet, den Heiligen Peter und Paul geweiht.",
                   "category": "religious",
                   "coords": [
                         -82.708902,
@@ -5353,7 +5353,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "Die Grace Episcopal Church ist eine episkopale Kirche in Sandusky.",
+                  "text": "Eine episkopale Kirche im Point Amusement Park Gebiet, mit Buntglasfenstern.",
                   "category": "religious",
                   "coords": [
                         -82.7094,
@@ -5389,7 +5389,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Town Hall Museum",
-                  "text": "Das Town Hall Museum ist ein Museum im Cedar Point Amusement Park.",
+                  "text": "Ein Museum im ehemaligen Rathausgebäude.",
                   "category": "museum",
                   "coords": [
                         -82.691384,
@@ -5398,7 +5398,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Keeper's House",
-                  "text": "Das Keeper's House ist ein Museum im Cedar Point Amusement Park.",
+                  "text": "Ehemaliges Leuchtturmwärterhaus von 1822, heute Museum am Point Amusement Park.",
                   "category": "museum",
                   "coords": [
                         -82.742036,
@@ -5407,7 +5407,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maritime Museum of Sandusky",
-                  "text": "Das Maritime Museum of Sandusky ist ein Museum im Cedar Point Amusement Park.",
+                  "text": "Museum zur Schifffahrtsgeschichte mit einem historischen Leuchtturm.",
                   "category": "museum",
                   "coords": [
                         -82.702991,
@@ -5416,7 +5416,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BackBeatQue Stage",
-                  "text": "Die BackBeatQue Stage ist ein Theater im Cedar Point Amusement Park.",
+                  "text": "Eine Freiluftbühne für Live-Musik und Grillveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -82.687257,
@@ -5425,7 +5425,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Palace Theatre",
-                  "text": "Das Palace Theatre ist ein Theater im Cedar Point Amusement Park.",
+                  "text": "Ein historisches Theater, ursprünglich als Varietéhaus erbaut.",
                   "category": "cultural",
                   "coords": [
                         -82.692294,
@@ -5434,7 +5434,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jack Aldrich Theatre",
-                  "text": "Das Jack Aldrich Theatre ist ein Theater im Cedar Point Amusement Park.",
+                  "text": "Ein nach einem lokalen Philanthropen benanntes Theater.",
                   "category": "cultural",
                   "coords": [
                         -82.68019,
@@ -5445,7 +5445,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Emmanuel Temple Church",
-                  "text": "Az Emmanuel Temple Church egy Keresztény Tudomány templom Sanduskyban.",
+                  "text": "Egy Keresztény Tudomány templom a Cedar Point vidámpark közelében a Point Amusement Park-ban.",
                   "category": "religious",
                   "coords": [
                         -82.708957,
@@ -5454,7 +5454,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "A First Presbyterian Church egy történelmi presbiteriánus templom Sanduskyban.",
+                  "text": "Egy presbiteriánus templom a Cedar Point vidámpark közelében a Point Amusement Park-ban.",
                   "category": "religious",
                   "coords": [
                         -82.713235,
@@ -5544,7 +5544,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cedar Point Shores",
-                  "text": "A Cedar Point Shores egy vízipark a Cedar Point mellett Sanduskyban.",
+                  "text": "Egy vízividámpark a Cedar Point-ban a Point Amusement Park-ban, hullámmedencékkel és csúszdákkal.",
                   "category": "recreational",
                   "coords": [
                         -82.685902,
@@ -5553,7 +5553,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hoover Auditorium",
-                  "text": "A Hoover Auditorium egy színház Sanduskyban előadások és események számára.",
+                  "text": "Egy történelmi faépületű hangversenyterem az Erie-tó partján, koncertekkel és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         -82.749543,
@@ -5562,7 +5562,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Marys Catholic Church",
-                  "text": "A Saint Marys Catholic Church egy katolikus templom Sanduskyban.",
+                  "text": "Egy római katolikus templom a Point Amusement Park területén, történelmi építészetéről ismert.",
                   "category": "religious",
                   "coords": [
                         -82.713912,
@@ -5571,7 +5571,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Lutheran Church",
-                  "text": "A Zion Lutheran Church egy evangélikus templom Sanduskyban.",
+                  "text": "Egy evangélikus templom a Point Amusement Park területén, magas harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         -82.709899,
@@ -5580,7 +5580,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Catholic Church",
-                  "text": "A Saints Peter and Paul Catholic Church egy katolikus templom Sanduskyban.",
+                  "text": "Egy római katolikus templom a Point Amusement Park területén, Szent Péter és Pál tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -82.708902,
@@ -5589,7 +5589,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "A Grace Episcopal Church egy episzkopális templom Sanduskyban.",
+                  "text": "Egy episzkopális templom a Point Amusement Park területén, színes üvegablakokkal.",
                   "category": "religious",
                   "coords": [
                         -82.7094,
@@ -5625,7 +5625,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Town Hall Museum",
-                  "text": "A Town Hall Museum egy múzeum a Cedar Point Amusement Parkban.",
+                  "text": "Múzeum egy egykori városháza épületében.",
                   "category": "museum",
                   "coords": [
                         -82.691384,
@@ -5634,7 +5634,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Keeper's House",
-                  "text": "A Keeper's House egy múzeum a Cedar Point Amusement Parkban.",
+                  "text": "Egykori világítótorony-őrház 1822-ből, ma múzeum a Point Amusement Parkban.",
                   "category": "museum",
                   "coords": [
                         -82.742036,
@@ -5643,7 +5643,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maritime Museum of Sandusky",
-                  "text": "A Sandusky-i Tengerészeti Múzeum egy múzeum a Cedar Point Amusement Parkban.",
+                  "text": "Tengerészeti történeti múzeum egy történelmi világítótoronnyal.",
                   "category": "museum",
                   "coords": [
                         -82.702991,
@@ -5652,7 +5652,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BackBeatQue Stage",
-                  "text": "A BackBeatQue Stage egy színház a Cedar Point Amusement Parkban.",
+                  "text": "Szabadtéri színpad élőzenés és barbecue rendezvényekhez.",
                   "category": "cultural",
                   "coords": [
                         -82.687257,
@@ -5661,7 +5661,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Palace Theatre",
-                  "text": "A Palace Theatre egy színház a Cedar Point Amusement Parkban.",
+                  "text": "Egy történelmi színház, eredetileg vaudeville-házként épült.",
                   "category": "cultural",
                   "coords": [
                         -82.692294,
@@ -5670,7 +5670,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jack Aldrich Theatre",
-                  "text": "A Jack Aldrich Theatre egy színház a Cedar Point Amusement Parkban.",
+                  "text": "Egy helyi filantrópról elnevezett színház.",
                   "category": "cultural",
                   "coords": [
                         -82.68019,
@@ -5681,7 +5681,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Emmanuel Temple Church",
-                  "text": "Emmanuel Temple Church este o biserică a Științei Creștine în Sandusky.",
+                  "text": "O biserică a Științei Creștine lângă parcul de distracții Cedar Point din Point Amusement Park.",
                   "category": "religious",
                   "coords": [
                         -82.708957,
@@ -5690,7 +5690,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "First Presbyterian Church este o biserică prezbiteriană istorică în Sandusky.",
+                  "text": "O biserică prezbiteriană lângă parcul de distracții Cedar Point din Point Amusement Park.",
                   "category": "religious",
                   "coords": [
                         -82.713235,
@@ -5780,7 +5780,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cedar Point Shores",
-                  "text": "Cedar Point Shores este un parc acvatic lângă Cedar Point în Sandusky.",
+                  "text": "Un parc acvatic la Cedar Point în Point Amusement Park, cu piscine cu valuri și tobogane.",
                   "category": "recreational",
                   "coords": [
                         -82.685902,
@@ -5789,7 +5789,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hoover Auditorium",
-                  "text": "Hoover Auditorium este un teatru în Sandusky pentru spectacole și evenimente.",
+                  "text": "Un auditoriu istoric din lemn pe malul lacului Erie, cu concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -82.749543,
@@ -5798,7 +5798,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Marys Catholic Church",
-                  "text": "Saint Marys Catholic Church este o biserică catolică în Sandusky.",
+                  "text": "O biserică romano-catolică în zona Point Amusement Park, cunoscută pentru arhitectura sa istorică.",
                   "category": "religious",
                   "coords": [
                         -82.713912,
@@ -5807,7 +5807,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Lutheran Church",
-                  "text": "Zion Lutheran Church este o biserică luterană în Sandusky.",
+                  "text": "O biserică luterană în zona Point Amusement Park, cu un turn-clopotniță înalt.",
                   "category": "religious",
                   "coords": [
                         -82.709899,
@@ -5816,7 +5816,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Catholic Church",
-                  "text": "Saints Peter and Paul Catholic Church este o biserică catolică în Sandusky.",
+                  "text": "O biserică romano-catolică în zona Point Amusement Park, dedicată Sfinților Petru și Pavel.",
                   "category": "religious",
                   "coords": [
                         -82.708902,
@@ -5825,7 +5825,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "Grace Episcopal Church este o biserică episcopală în Sandusky.",
+                  "text": "O biserică episcopală în zona Point Amusement Park, cu vitralii.",
                   "category": "religious",
                   "coords": [
                         -82.7094,
@@ -5861,7 +5861,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Town Hall Museum",
-                  "text": "Muzeul Town Hall este un muzeu în Parcul de Distracții Cedar Point.",
+                  "text": "Un muzeu găzduit într-o fostă clădire a primăriei.",
                   "category": "museum",
                   "coords": [
                         -82.691384,
@@ -5870,7 +5870,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Keeper's House",
-                  "text": "Casa Keeper's House este un muzeu în Parcul de Distracții Cedar Point.",
+                  "text": "Fosta casă a farului din 1822, transformată în muzeu în Point Amusement Park.",
                   "category": "museum",
                   "coords": [
                         -82.742036,
@@ -5879,7 +5879,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maritime Museum of Sandusky",
-                  "text": "Muzeul Maritim din Sandusky este un muzeu în Parcul de Distracții Cedar Point.",
+                  "text": "Muzeu de istorie maritimă cu un far istoric.",
                   "category": "museum",
                   "coords": [
                         -82.702991,
@@ -5888,7 +5888,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BackBeatQue Stage",
-                  "text": "Scena BackBeatQue este un teatru în Parcul de Distracții Cedar Point.",
+                  "text": "O scenă în aer liber pentru concerte și evenimente cu grătar.",
                   "category": "cultural",
                   "coords": [
                         -82.687257,
@@ -5897,7 +5897,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Palace Theatre",
-                  "text": "Teatrul Palace este un teatru în Parcul de Distracții Cedar Point.",
+                  "text": "Un teatru istoric construit inițial ca sală de vaudeville.",
                   "category": "cultural",
                   "coords": [
                         -82.692294,
@@ -5906,7 +5906,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jack Aldrich Theatre",
-                  "text": "Teatrul Jack Aldrich este un teatru în Parcul de Distracții Cedar Point.",
+                  "text": "Un teatru numit după un filantrop local.",
                   "category": "cultural",
                   "coords": [
                         -82.68019,
@@ -5917,7 +5917,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Emmanuel Temple Church",
-                  "text": "Emmanuel Temple Church is a Christian Science church in Sandusky.",
+                  "text": "A Christian Science church near the Cedar Point amusement park in Point Amusement Park.",
                   "category": "religious",
                   "coords": [
                         -82.708957,
@@ -5926,7 +5926,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "First Presbyterian Church is a historic Presbyterian church in Sandusky.",
+                  "text": "A Presbyterian church near the Cedar Point amusement park in Point Amusement Park.",
                   "category": "religious",
                   "coords": [
                         -82.713235,
@@ -6016,7 +6016,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cedar Point Shores",
-                  "text": "Cedar Point Shores is a water park adjacent to Cedar Point in Sandusky.",
+                  "text": "A water park at Cedar Point in Point Amusement Park, with wave pools and slides.",
                   "category": "recreational",
                   "coords": [
                         -82.685902,
@@ -6025,7 +6025,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hoover Auditorium",
-                  "text": "Hoover Auditorium is a theatre in Sandusky for performances and events.",
+                  "text": "A historic wooden auditorium on the shore of Lake Erie, hosting concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -82.749543,
@@ -6034,7 +6034,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Marys Catholic Church",
-                  "text": "Saint Marys Catholic Church is a Catholic church in Sandusky.",
+                  "text": "A Roman Catholic church in the Point Amusement Park area, known for its historic architecture.",
                   "category": "religious",
                   "coords": [
                         -82.713912,
@@ -6043,7 +6043,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Lutheran Church",
-                  "text": "Zion Lutheran Church is a Lutheran church in Sandusky.",
+                  "text": "A Lutheran church in the Point Amusement Park area, featuring a tall bell tower.",
                   "category": "religious",
                   "coords": [
                         -82.709899,
@@ -6052,7 +6052,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Catholic Church",
-                  "text": "Saints Peter and Paul Catholic Church is a Catholic church in Sandusky.",
+                  "text": "A Roman Catholic church in the Point Amusement Park area, dedicated to Saints Peter and Paul.",
                   "category": "religious",
                   "coords": [
                         -82.708902,
@@ -6061,7 +6061,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "Grace Episcopal Church is an Episcopal church in Sandusky.",
+                  "text": "An Episcopal church in the Point Amusement Park area, with stained glass windows.",
                   "category": "religious",
                   "coords": [
                         -82.7094,
@@ -6097,7 +6097,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Town Hall Museum",
-                  "text": "The Town Hall Museum is a museum in Cedar Point Amusement Park.",
+                  "text": "A museum housed in a former town hall building, in Point Amusement Park.",
                   "category": "museum",
                   "coords": [
                         -82.691384,
@@ -6106,7 +6106,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Keeper's House",
-                  "text": "The Keeper's House is a museum in Cedar Point Amusement Park.",
+                  "text": "Former lighthouse keeper's house turned museum, built 1822 at Point Amusement Park.",
                   "category": "museum",
                   "coords": [
                         -82.742036,
@@ -6115,7 +6115,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maritime Museum of Sandusky",
-                  "text": "The Maritime Museum of Sandusky is a museum in Cedar Point Amusement Park.",
+                  "text": "Museum featuring maritime history and a historic lighthouse, in Sandusky near Point Amusement Park.",
                   "category": "museum",
                   "coords": [
                         -82.702991,
@@ -6124,7 +6124,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BackBeatQue Stage",
-                  "text": "BackBeatQue Stage is a theatre in Cedar Point Amusement Park.",
+                  "text": "An outdoor stage for live music and barbecue events, in Point Amusement Park.",
                   "category": "cultural",
                   "coords": [
                         -82.687257,
@@ -6133,7 +6133,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Palace Theatre",
-                  "text": "The Palace Theatre is a theatre in Cedar Point Amusement Park.",
+                  "text": "A historic theater originally built as a vaudeville house, in Point Amusement Park.",
                   "category": "cultural",
                   "coords": [
                         -82.692294,
@@ -6142,7 +6142,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jack Aldrich Theatre",
-                  "text": "Jack Aldrich Theatre is a theatre in Cedar Point Amusement Park.",
+                  "text": "A theatre named after a local philanthropist, in Point Amusement Park.",
                   "category": "cultural",
                   "coords": [
                         -82.68019,
@@ -6190,7 +6190,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Cocklebur Beach",
-                  "text": "Der Cocklebur Beach ist ein Strand im Central Valley von Kalifornien.",
+                  "text": "Ein Sandstrand an einem See oder Fluss, benannt nach der Klettenpflanze.",
                   "category": "recreational",
                   "coords": [
                         -120.870212,
@@ -6201,7 +6201,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Cocklebur Beach",
-                  "text": "A Cocklebur Beach egy strand Kalifornia Central Valley régiójában.",
+                  "text": "Homokos strand egy tó vagy folyó partján, a bojtorján növényről elnevezve.",
                   "category": "recreational",
                   "coords": [
                         -120.870212,
@@ -6212,7 +6212,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Cocklebur Beach",
-                  "text": "Plaja Cocklebur este o plajă în Central Valley a Californiei.",
+                  "text": "O plajă nisipoasă pe malul unui lac sau râu, numită după planta de brusture.",
                   "category": "recreational",
                   "coords": [
                         -120.870212,
@@ -6223,7 +6223,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Cocklebur Beach",
-                  "text": "Cocklebur Beach is a beach in California's Central Valley.",
+                  "text": "A sandy beach on a lake or river, named after the cocklebur plant, in Central Valley.",
                   "category": "recreational",
                   "coords": [
                         -120.870212,
@@ -6325,7 +6325,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Leland Castle",
-                  "text": "Das Leland Castle ist ein neugotisches Herrenhaus in bronx-zoo-life-v2.",
+                  "text": "Ein neugotisches Schloss von 1859, heute Teil eines College-Campus im Zoo.",
                   "category": "historical",
                   "coords": [
                         -73.781056,
@@ -6334,7 +6334,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "United Palace",
-                  "text": "Das United Palace ist ein Theater in bronx-zoo-life-v2, das ursprünglich ein Filmpalast war.",
+                  "text": "Ein ehemaliger Film-Palast, der zu einem Zentrum für darstellende Künste im Zoo wurde, mit reicher Innenausstattung.",
                   "category": "cultural",
                   "coords": [
                         -73.938127,
@@ -6343,7 +6343,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BAAD! Bronx Academy of Arts and Dance",
-                  "text": "Die BAAD! Bronx Academy of Arts and Dance ist ein Kunst- und Tanzzentrum in bronx-zoo-life-v2.",
+                  "text": "Ein Veranstaltungsort für darstellende Künste im Zoo, mit Schwerpunkt auf LGBTQ+- und Latinx-Künstlern.",
                   "category": "cultural",
                   "coords": [
                         -73.844575,
@@ -6370,7 +6370,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Spyridon Greek Orthodox Church",
-                  "text": "Die Saint Spyridon Greek Orthodox Church ist eine griechisch-orthodoxe Kirche in bronx-zoo-life-v2.",
+                  "text": "Eine griechisch-orthodoxe Kirche im Zoo, benannt nach dem heiligen Spyridon.",
                   "category": "religious",
                   "coords": [
                         -73.936069,
@@ -6379,7 +6379,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roman Catholic Church of Saint John",
-                  "text": "Die römisch-katholische Kirche St. John ist eine katholische Kirche in bronx-zoo-life-v2.",
+                  "text": "Eine römisch-katholische Kirche im Zoo, bekannt für ihre italienische Renaissance-Architektur.",
                   "category": "religious",
                   "coords": [
                         -73.907681,
@@ -6388,7 +6388,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "Die Grace Episcopal Church ist eine episkopale Kirche in bronx-zoo-life-v2.",
+                  "text": "Eine episkopale Kirche im Zoo, im neugotischen Stil erbaut.",
                   "category": "religious",
                   "coords": [
                         -73.783817,
@@ -6397,7 +6397,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "\"Joker\"-Treppe",
-                  "text": "Die Joker Stairs sind eine berühmte Treppe in bronx-zoo-life-v2 aus dem Film Joker.",
+                  "text": "Die Treppe im Zoo, die durch den Film Joker berühmt wurde, führt hinauf in die Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.923605,
@@ -6406,7 +6406,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay",
-                  "text": "Die Pelham Bay ist eine Bucht in bronx-zoo-life-v2.",
+                  "text": "Eine Bucht im Zoo, Teil des Long Island Sound.",
                   "category": "landmark",
                   "coords": [
                         -73.789577,
@@ -6415,7 +6415,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Macombs Dam Bridge",
-                  "text": "Die Macombs Dam Bridge ist eine Drehbrücke in bronx-zoo-life-v2.",
+                  "text": "Eine Drehbrücke im Zoo über den Harlem River, die Manhattan und die Bronx verbindet.",
                   "category": "landmark",
                   "coords": [
                         -73.933154,
@@ -6424,7 +6424,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "145th Street Bridge",
-                  "text": "Die 145th Street Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "text": "Eine Hubbrücke im Zoo, die Manhattan und die Bronx an der 145. Straße verbindet.",
                   "category": "landmark",
                   "coords": [
                         -73.933142,
@@ -6442,7 +6442,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "George Washington Bridge",
-                  "text": "Die George Washington Bridge ist eine Hängebrücke in bronx-zoo-life-v2.",
+                  "text": "Eine Hängebrücke im Zoo über den Hudson River, die Manhattan mit New Jersey verbindet.",
                   "category": "landmark",
                   "coords": [
                         -73.953485,
@@ -6460,7 +6460,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Washington Bridge",
-                  "text": "Die Washington Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "text": "Eine Bogenbrücke im Zoo, die den Verkehr zwischen Manhattan und der Bronx über den Harlem River führt.",
                   "category": "landmark",
                   "coords": [
                         -73.926888,
@@ -6469,7 +6469,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Heights Bridge",
-                  "text": "Die University Heights Bridge ist eine Drehbrücke in bronx-zoo-life-v2.",
+                  "text": "Eine Drehbrücke im Zoo, die die Bronx mit Manhattan in University Heights verbindet.",
                   "category": "landmark",
                   "coords": [
                         -73.914954,
@@ -6478,7 +6478,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Broadway Bridge",
-                  "text": "Die Broadway Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "text": "Eine Hubbrücke im Zoo, die den Broadway über den Harlem River zwischen Manhattan und der Bronx führt.",
                   "category": "landmark",
                   "coords": [
                         -73.9111,
@@ -6487,7 +6487,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Spuyten Duyvil Bridge",
-                  "text": "Die Spuyten Duyvil Bridge ist eine Drehbrücke in bronx-zoo-life-v2.",
+                  "text": "Eine Eisenbahndrehbrücke im Zoo über den Spuyten Duyvil Creek.",
                   "category": "landmark",
                   "coords": [
                         -73.925634,
@@ -6496,7 +6496,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry Hudson Bridge",
-                  "text": "Die Henry Hudson Bridge ist eine Bogenbrücke in bronx-zoo-life-v2.",
+                  "text": "Eine Bogenbrücke im Zoo, die den Henry Hudson Parkway über den Spuyten Duyvil Creek führt.",
                   "category": "landmark",
                   "coords": [
                         -73.921937,
@@ -6514,7 +6514,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "City Island Bridge",
-                  "text": "Die City Island Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "text": "Die City Island Bridge verbindet die Insel City Island mit dem Festland in der Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.793403,
@@ -6523,7 +6523,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay Bridge",
-                  "text": "Die Pelham Bay Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "text": "Die Pelham Bay Bridge überquert den Hutchinson River in der Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.81789,
@@ -6532,7 +6532,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bridge",
-                  "text": "Die Pelham Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "text": "Die Pelham Bridge trägt die Shore Road über den Hutchinson River in der Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.815744,
@@ -6541,7 +6541,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bronx-Whitestone Bridge",
-                  "text": "Die Bronx-Whitestone Bridge ist eine Hängebrücke in bronx-zoo-life-v2.",
+                  "text": "Die Bronx-Whitestone Bridge ist eine Hängebrücke, die den East River zwischen Bronx und Queens überspannt.",
                   "category": "landmark",
                   "coords": [
                         -73.830575,
@@ -6550,7 +6550,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Throgs Neck Bridge",
-                  "text": "Die Throgs Neck Bridge ist eine Hängebrücke in bronx-zoo-life-v2.",
+                  "text": "Die Throgs Neck Bridge ist eine Hängebrücke über den East River, die Bronx und Queens verbindet.",
                   "category": "landmark",
                   "coords": [
                         -73.793998,
@@ -6568,7 +6568,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sylvan Terrace",
-                  "text": "Die Sylvan Terrace ist ein Aussichtspunkt in bronx-zoo-life-v2.",
+                  "text": "Der Sylvan Terrace ist eine historische, kopfsteingepflasterte Straße in Manhattan.",
                   "category": "natural",
                   "coords": [
                         -73.939702,
@@ -6577,7 +6577,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flatrock Nature Center",
-                  "text": "Das Flatrock Nature Center ist ein Naturzentrum und Park in bronx-zoo-life-v2.",
+                  "text": "Das Flatrock Nature Center ist ein 150 Hektar großes Naturschutzgebiet mit Waldwegen in New Jersey.",
                   "category": "park",
                   "coords": [
                         -73.964304,
@@ -6595,7 +6595,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Woods Park",
-                  "text": "Der University Woods Park ist ein Park in bronx-zoo-life-v2.",
+                  "text": "Der University Woods Park ist eine kleine Grünanlage nahe der New York University in Manhattan.",
                   "category": "park",
                   "coords": [
                         -73.915119,
@@ -6660,7 +6660,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Leland Castle",
-                  "text": "A Leland-kastély egy neogótikus kastély bronx-zoo-life-v2-ben.",
+                  "text": "Egy 1859-ben épült neogótikus kastély, ma egy főiskolai campus része a Zoo-ban.",
                   "category": "historical",
                   "coords": [
                         -73.781056,
@@ -6669,7 +6669,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "United Palace",
-                  "text": "Az United Palace egy színház bronx-zoo-life-v2-ben, amely eredetileg filmpalota volt.",
+                  "text": "Egykori filmszínházból átalakított előadóművészeti központ a Zoo-ban, díszes belső térrel.",
                   "category": "cultural",
                   "coords": [
                         -73.938127,
@@ -6678,7 +6678,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BAAD! Bronx Academy of Arts and Dance",
-                  "text": "A BAAD! Bronx Academy of Arts and Dance egy művészeti és táncközpont bronx-zoo-life-v2-ben.",
+                  "text": "Előadóművészeti helyszín a Zoo-ban, LGBTQ+ és latinx művészekre összpontosítva.",
                   "category": "cultural",
                   "coords": [
                         -73.844575,
@@ -6705,7 +6705,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Spyridon Greek Orthodox Church",
-                  "text": "A Saint Spyridon Greek Orthodox Church egy görög ortodox templom bronx-zoo-life-v2-ben.",
+                  "text": "Görög ortodox templom a Zoo-ban, Szent Spyridonról elnevezve.",
                   "category": "religious",
                   "coords": [
                         -73.936069,
@@ -6714,7 +6714,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roman Catholic Church of Saint John",
-                  "text": "A Szent János római katolikus templom egy katolikus templom bronx-zoo-life-v2-ben.",
+                  "text": "Római katolikus templom a Zoo-ban, ismert olasz reneszánsz építészetéről.",
                   "category": "religious",
                   "coords": [
                         -73.907681,
@@ -6723,7 +6723,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "A Grace Episcopal Church egy episzkopális templom bronx-zoo-life-v2-ben.",
+                  "text": "Episzkopális templom a Zoo-ban, neogótikus stílusban épült.",
                   "category": "religious",
                   "coords": [
                         -73.783817,
@@ -6732,7 +6732,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Joker Stairs",
-                  "text": "A Joker lépcsők egy híres lépcső bronx-zoo-life-v2-ben a Joker filmből.",
+                  "text": "A Zoo-ban lévő lépcső, amelyet a Joker film tett híressé, a Bronxba vezet.",
                   "category": "landmark",
                   "coords": [
                         -73.923605,
@@ -6741,7 +6741,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay",
-                  "text": "A Pelham-öböl egy öböl bronx-zoo-life-v2-ben.",
+                  "text": "Egy öböl a Zoo-ban, a Long Island Sound része.",
                   "category": "landmark",
                   "coords": [
                         -73.789577,
@@ -6750,7 +6750,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Macombs Dam Bridge",
-                  "text": "A Macombs Dam Bridge egy forgóhíd bronx-zoo-life-v2-ben.",
+                  "text": "Egy lengőhíd a Zoo-ban a Harlem folyó felett, összekötve Manhattan-t és Bronx-ot.",
                   "category": "landmark",
                   "coords": [
                         -73.933154,
@@ -6759,7 +6759,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "145th Street Bridge",
-                  "text": "A 145th Street Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "text": "Egy emelőhíd a Zoo-ban, amely Manhattan-t és Bronx-ot köti össze a 145. utcánál.",
                   "category": "landmark",
                   "coords": [
                         -73.933142,
@@ -6777,7 +6777,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "George Washington Bridge",
-                  "text": "A George Washington Bridge egy függőhíd bronx-zoo-life-v2-ben.",
+                  "text": "Egy függőhíd a Zoo-ban a Hudson folyó felett, összekötve Manhattan-t New Jersey-vel.",
                   "category": "landmark",
                   "coords": [
                         -73.953485,
@@ -6795,7 +6795,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Washington Bridge",
-                  "text": "A Washington Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "text": "Egy ívhíd a Zoo-ban, amely a Manhattan és Bronx közötti forgalmat viszi a Harlem folyó felett.",
                   "category": "landmark",
                   "coords": [
                         -73.926888,
@@ -6804,7 +6804,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Heights Bridge",
-                  "text": "A University Heights Bridge egy forgóhíd bronx-zoo-life-v2-ben.",
+                  "text": "Egy lengőhíd a Zoo-ban, amely összeköti Bronx-ot Manhattan-nel University Heights-ban.",
                   "category": "landmark",
                   "coords": [
                         -73.914954,
@@ -6813,7 +6813,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Broadway Bridge",
-                  "text": "A Broadway Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "text": "Egy emelőhíd a Zoo-ban, amely a Broadway-t viszi a Harlem folyó felett Manhattan és Bronx között.",
                   "category": "landmark",
                   "coords": [
                         -73.9111,
@@ -6822,7 +6822,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Spuyten Duyvil Bridge",
-                  "text": "A Spuyten Duyvil Bridge egy forgóhíd bronx-zoo-life-v2-ben.",
+                  "text": "Vasúti lengőhíd a Zoo-ban a Spuyten Duyvil-patak felett.",
                   "category": "landmark",
                   "coords": [
                         -73.925634,
@@ -6831,7 +6831,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry Hudson Bridge",
-                  "text": "A Henry Hudson Bridge egy ívhíd bronx-zoo-life-v2-ben.",
+                  "text": "Egy ívhíd a Zoo-ban, amely a Henry Hudson Parkway-t viszi a Spuyten Duyvil-patak felett.",
                   "category": "landmark",
                   "coords": [
                         -73.921937,
@@ -6849,7 +6849,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "City Island Bridge",
-                  "text": "A City Island Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "text": "A City Island Bridge köti össze City Island szigetét a bronxi szárazfölddel.",
                   "category": "landmark",
                   "coords": [
                         -73.793403,
@@ -6858,7 +6858,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay Bridge",
-                  "text": "A Pelham Bay Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "text": "A Pelham Bay Bridge a Hutchinson River felett ível át a Bronxban.",
                   "category": "landmark",
                   "coords": [
                         -73.81789,
@@ -6867,7 +6867,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bridge",
-                  "text": "A Pelham Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "text": "A Pelham Bridge a Shore Road-ot viszi át a Hutchinson River felett a Bronxban.",
                   "category": "landmark",
                   "coords": [
                         -73.815744,
@@ -6876,7 +6876,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bronx-Whitestone Bridge",
-                  "text": "A Bronx-Whitestone Bridge egy függőhíd bronx-zoo-life-v2-ben.",
+                  "text": "A Bronx-Whitestone Bridge egy függőhíd, amely átszeli az East River-t Bronx és Queens között.",
                   "category": "landmark",
                   "coords": [
                         -73.830575,
@@ -6885,7 +6885,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Throgs Neck Bridge",
-                  "text": "A Throgs Neck Bridge egy függőhíd bronx-zoo-life-v2-ben.",
+                  "text": "A Throgs Neck Bridge egy függőhíd az East River felett, amely összeköti Bronxot és Queens-t.",
                   "category": "landmark",
                   "coords": [
                         -73.793998,
@@ -6903,7 +6903,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sylvan Terrace",
-                  "text": "A Sylvan Terrace egy kilátó bronx-zoo-life-v2-ben.",
+                  "text": "A Sylvan Terrace egy történelmi, macskaköves utca Manhattanben.",
                   "category": "natural",
                   "coords": [
                         -73.939702,
@@ -6912,7 +6912,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flatrock Nature Center",
-                  "text": "A Flatrock Nature Center egy természetvédelmi központ és park bronx-zoo-life-v2-ben.",
+                  "text": "A Flatrock Nature Center egy 150 hektáros természetvédelmi terület erdei ösvényekkel New Jersey-ben.",
                   "category": "park",
                   "coords": [
                         -73.964304,
@@ -6930,7 +6930,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Woods Park",
-                  "text": "A University Woods Park egy park bronx-zoo-life-v2-ben.",
+                  "text": "A University Woods Park egy kis városi park a New York University közelében Manhattanben.",
                   "category": "park",
                   "coords": [
                         -73.915119,
@@ -6995,7 +6995,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Leland Castle",
-                  "text": "Leland Castle este un conac în stil gotic renăscut în bronx-zoo-life-v2.",
+                  "text": "Un castel gotic revăzut construit în 1859, acum parte a unui campus universitar în Zoo.",
                   "category": "historical",
                   "coords": [
                         -73.781056,
@@ -7004,7 +7004,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "United Palace",
-                  "text": "United Palace este un teatru în bronx-zoo-life-v2, inițial un palat de film.",
+                  "text": "Un fost palat de cinema transformat în centru de arte spectacolului în Zoo, cu interioare ornamentate.",
                   "category": "cultural",
                   "coords": [
                         -73.938127,
@@ -7013,7 +7013,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BAAD! Bronx Academy of Arts and Dance",
-                  "text": "BAAD! Bronx Academy of Arts and Dance este un centru de arte și dans în bronx-zoo-life-v2.",
+                  "text": "Un loc de spectacole în Zoo, concentrându-se pe artiști LGBTQ+ și latini.",
                   "category": "cultural",
                   "coords": [
                         -73.844575,
@@ -7040,7 +7040,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Spyridon Greek Orthodox Church",
-                  "text": "Biserica Ortodoxă Greacă Sf. Spyridon este o biserică greco-ortodoxă în bronx-zoo-life-v2.",
+                  "text": "O biserică greco-ortodoxă în Zoo, numită după Sfântul Spyridon.",
                   "category": "religious",
                   "coords": [
                         -73.936069,
@@ -7049,7 +7049,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roman Catholic Church of Saint John",
-                  "text": "Biserica Romano-Catolică Sf. Ioan este o biserică catolică în bronx-zoo-life-v2.",
+                  "text": "O biserică romano-catolică în Zoo, cunoscută pentru arhitectura sa renascentistă italiană.",
                   "category": "religious",
                   "coords": [
                         -73.907681,
@@ -7058,7 +7058,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "Biserica Episcopală Grace este o biserică episcopală în bronx-zoo-life-v2.",
+                  "text": "O biserică episcopală în Zoo, construită în stil gotic revăzut.",
                   "category": "religious",
                   "coords": [
                         -73.783817,
@@ -7067,7 +7067,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Joker Stairs",
-                  "text": "Scările Joker sunt o scară faimoasă în bronx-zoo-life-v2 din filmul Joker.",
+                  "text": "Scara din Zoo făcută celebră de filmul Joker, care duce în Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.923605,
@@ -7076,7 +7076,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay",
-                  "text": "Golful Pelham este un golf în bronx-zoo-life-v2.",
+                  "text": "Un golf în Zoo, parte a Long Island Sound.",
                   "category": "landmark",
                   "coords": [
                         -73.789577,
@@ -7085,7 +7085,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Macombs Dam Bridge",
-                  "text": "Podul Macombs Dam este un pod basculant în bronx-zoo-life-v2.",
+                  "text": "Un pod pivotant în Zoo peste râul Harlem, care leagă Manhattan de Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.933154,
@@ -7094,7 +7094,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "145th Street Bridge",
-                  "text": "Podul 145th Street este un pod în bronx-zoo-life-v2.",
+                  "text": "Un pod lift în Zoo care leagă Manhattan de Bronx la strada 145.",
                   "category": "landmark",
                   "coords": [
                         -73.933142,
@@ -7112,7 +7112,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "George Washington Bridge",
-                  "text": "Podul George Washington este un pod suspendat în bronx-zoo-life-v2.",
+                  "text": "Un pod suspendat în Zoo peste râul Hudson, care leagă Manhattan de New Jersey.",
                   "category": "landmark",
                   "coords": [
                         -73.953485,
@@ -7130,7 +7130,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Washington Bridge",
-                  "text": "Podul Washington este un pod în bronx-zoo-life-v2.",
+                  "text": "Un pod arc în Zoo care transportă traficul între Manhattan și Bronx peste râul Harlem.",
                   "category": "landmark",
                   "coords": [
                         -73.926888,
@@ -7139,7 +7139,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Heights Bridge",
-                  "text": "Podul University Heights este un pod basculant în bronx-zoo-life-v2.",
+                  "text": "Un pod pivotant în Zoo care leagă Bronx de Manhattan la University Heights.",
                   "category": "landmark",
                   "coords": [
                         -73.914954,
@@ -7148,7 +7148,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Broadway Bridge",
-                  "text": "Podul Broadway este un pod în bronx-zoo-life-v2.",
+                  "text": "Un pod lift în Zoo care transportă Broadway peste râul Harlem între Manhattan și Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.9111,
@@ -7157,7 +7157,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Spuyten Duyvil Bridge",
-                  "text": "Podul Spuyten Duyvil este un pod basculant în bronx-zoo-life-v2.",
+                  "text": "Un pod pivotant de cale ferată în Zoo peste pârâul Spuyten Duyvil.",
                   "category": "landmark",
                   "coords": [
                         -73.925634,
@@ -7166,7 +7166,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry Hudson Bridge",
-                  "text": "Podul Henry Hudson este un pod în formă de arc în bronx-zoo-life-v2.",
+                  "text": "Un pod arc în Zoo care transportă Henry Hudson Parkway peste pârâul Spuyten Duyvil.",
                   "category": "landmark",
                   "coords": [
                         -73.921937,
@@ -7184,7 +7184,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "City Island Bridge",
-                  "text": "Podul City Island este un pod în bronx-zoo-life-v2.",
+                  "text": "Podul City Island Bridge leagă insula City Island de continentul din Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.793403,
@@ -7193,7 +7193,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay Bridge",
-                  "text": "Podul Pelham Bay este un pod în bronx-zoo-life-v2.",
+                  "text": "Podul Pelham Bay Bridge traversează râul Hutchinson în Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.81789,
@@ -7202,7 +7202,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bridge",
-                  "text": "Podul Pelham este un pod în bronx-zoo-life-v2.",
+                  "text": "Podul Pelham Bridge duce Shore Road peste râul Hutchinson în Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.815744,
@@ -7211,7 +7211,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bronx-Whitestone Bridge",
-                  "text": "Podul Bronx-Whitestone este un pod suspendat în bronx-zoo-life-v2.",
+                  "text": "Podul Bronx-Whitestone Bridge este un pod suspendat care traversează East River între Bronx și Queens.",
                   "category": "landmark",
                   "coords": [
                         -73.830575,
@@ -7220,7 +7220,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Throgs Neck Bridge",
-                  "text": "Podul Throgs Neck este un pod suspendat în bronx-zoo-life-v2.",
+                  "text": "Podul Throgs Neck Bridge este un pod suspendat peste East River, legând Bronx de Queens.",
                   "category": "landmark",
                   "coords": [
                         -73.793998,
@@ -7238,7 +7238,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sylvan Terrace",
-                  "text": "Sylvan Terrace este un punct de belvedere în bronx-zoo-life-v2.",
+                  "text": "Sylvan Terrace este o stradă istorică pavată cu piatră cubică în Manhattan.",
                   "category": "natural",
                   "coords": [
                         -73.939702,
@@ -7247,7 +7247,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flatrock Nature Center",
-                  "text": "Centrul Natural Flatrock este un centru natural și parc în bronx-zoo-life-v2.",
+                  "text": "Flatrock Nature Center este o rezervație naturală de 150 de acri cu poteci forestiere în New Jersey.",
                   "category": "park",
                   "coords": [
                         -73.964304,
@@ -7265,7 +7265,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Woods Park",
-                  "text": "Parcul University Woods este un parc în bronx-zoo-life-v2.",
+                  "text": "University Woods Park este un mic parc urban lângă New York University în Manhattan.",
                   "category": "park",
                   "coords": [
                         -73.915119,
@@ -7330,7 +7330,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Leland Castle",
-                  "text": "Leland Castle is a Gothic Revival manor in bronx-zoo-life-v2.",
+                  "text": "A Gothic Revival castle built in 1859, now part of a college campus in Zoo.",
                   "category": "historical",
                   "coords": [
                         -73.781056,
@@ -7339,7 +7339,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "United Palace",
-                  "text": "United Palace is a theatre in bronx-zoo-life-v2, originally a movie palace.",
+                  "text": "A former movie palace turned performing arts center in Zoo, with ornate interiors.",
                   "category": "cultural",
                   "coords": [
                         -73.938127,
@@ -7348,7 +7348,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "BAAD! Bronx Academy of Arts and Dance",
-                  "text": "BAAD! Bronx Academy of Arts and Dance is an arts and dance centre in bronx-zoo-life-v2.",
+                  "text": "A performing arts venue in Zoo, focusing on LGBTQ+ and Latinx artists.",
                   "category": "cultural",
                   "coords": [
                         -73.844575,
@@ -7375,7 +7375,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Spyridon Greek Orthodox Church",
-                  "text": "Saint Spyridon Greek Orthodox Church is a Greek Orthodox church in bronx-zoo-life-v2.",
+                  "text": "A Greek Orthodox church in Zoo, named after Saint Spyridon.",
                   "category": "religious",
                   "coords": [
                         -73.936069,
@@ -7384,7 +7384,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roman Catholic Church of Saint John",
-                  "text": "The Roman Catholic Church of Saint John is a Catholic church in bronx-zoo-life-v2.",
+                  "text": "A Roman Catholic church in Zoo, known for its Italian Renaissance architecture.",
                   "category": "religious",
                   "coords": [
                         -73.907681,
@@ -7393,7 +7393,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grace Episcopal Church",
-                  "text": "Grace Episcopal Church is an Episcopal church in bronx-zoo-life-v2.",
+                  "text": "An Episcopal church in Zoo, built in the Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -73.783817,
@@ -7402,7 +7402,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Joker Stairs",
-                  "text": "The Joker Stairs are a famous staircase in bronx-zoo-life-v2 from the movie Joker.",
+                  "text": "The staircase in Zoo made famous by the film Joker, leading up to the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.923605,
@@ -7411,7 +7411,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay",
-                  "text": "Pelham Bay is a bay in bronx-zoo-life-v2.",
+                  "text": "A bay in Zoo, part of the Long Island Sound.",
                   "category": "landmark",
                   "coords": [
                         -73.789577,
@@ -7420,7 +7420,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Macombs Dam Bridge",
-                  "text": "The Macombs Dam Bridge is a swing bridge in bronx-zoo-life-v2.",
+                  "text": "A swing bridge in Zoo over the Harlem River, connecting Manhattan and the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.933154,
@@ -7429,7 +7429,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "145th Street Bridge",
-                  "text": "The 145th Street Bridge is a bridge in bronx-zoo-life-v2.",
+                  "text": "A lift bridge in Zoo linking Manhattan and the Bronx at 145th Street.",
                   "category": "landmark",
                   "coords": [
                         -73.933142,
@@ -7447,7 +7447,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "George Washington Bridge",
-                  "text": "The George Washington Bridge is a suspension bridge in bronx-zoo-life-v2.",
+                  "text": "A suspension bridge in Zoo crossing the Hudson River, connecting Manhattan to New Jersey.",
                   "category": "landmark",
                   "coords": [
                         -73.953485,
@@ -7465,7 +7465,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Washington Bridge",
-                  "text": "The Washington Bridge is a bridge in bronx-zoo-life-v2.",
+                  "text": "An arch bridge in Zoo carrying traffic between Manhattan and the Bronx over the Harlem River.",
                   "category": "landmark",
                   "coords": [
                         -73.926888,
@@ -7474,7 +7474,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Heights Bridge",
-                  "text": "The University Heights Bridge is a swing bridge in bronx-zoo-life-v2.",
+                  "text": "A swing bridge in Zoo connecting the Bronx to Manhattan at University Heights.",
                   "category": "landmark",
                   "coords": [
                         -73.914954,
@@ -7483,7 +7483,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Broadway Bridge",
-                  "text": "The Broadway Bridge is a bridge in bronx-zoo-life-v2.",
+                  "text": "A lift bridge in Zoo carrying Broadway over the Harlem River between Manhattan and the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.9111,
@@ -7492,7 +7492,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Spuyten Duyvil Bridge",
-                  "text": "The Spuyten Duyvil Bridge is a swing bridge in bronx-zoo-life-v2.",
+                  "text": "A railroad swing bridge in Zoo over the Spuyten Duyvil Creek.",
                   "category": "landmark",
                   "coords": [
                         -73.925634,
@@ -7501,7 +7501,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry Hudson Bridge",
-                  "text": "The Henry Hudson Bridge is an arch bridge in bronx-zoo-life-v2.",
+                  "text": "An arch bridge in Zoo carrying the Henry Hudson Parkway over the Spuyten Duyvil Creek.",
                   "category": "landmark",
                   "coords": [
                         -73.921937,
@@ -7519,7 +7519,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "City Island Bridge",
-                  "text": "The City Island Bridge is a bridge in bronx-zoo-life-v2.",
+                  "text": "City Island Bridge connects City Island to the mainland in the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.793403,
@@ -7528,7 +7528,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bay Bridge",
-                  "text": "The Pelham Bay Bridge is a bridge in bronx-zoo-life-v2.",
+                  "text": "Pelham Bay Bridge spans the Hutchinson River in the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.81789,
@@ -7537,7 +7537,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pelham Bridge",
-                  "text": "The Pelham Bridge is a bridge in bronx-zoo-life-v2.",
+                  "text": "Pelham Bridge carries Shore Road over the Hutchinson River in the Bronx.",
                   "category": "landmark",
                   "coords": [
                         -73.815744,
@@ -7546,7 +7546,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bronx-Whitestone Bridge",
-                  "text": "The Bronx-Whitestone Bridge is a suspension bridge in bronx-zoo-life-v2.",
+                  "text": "Bronx-Whitestone Bridge is a suspension bridge crossing the East River between the Bronx and Queens.",
                   "category": "landmark",
                   "coords": [
                         -73.830575,
@@ -7555,7 +7555,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Throgs Neck Bridge",
-                  "text": "The Throgs Neck Bridge is a suspension bridge in bronx-zoo-life-v2.",
+                  "text": "Throgs Neck Bridge is a suspension bridge over the East River linking the Bronx and Queens.",
                   "category": "landmark",
                   "coords": [
                         -73.793998,
@@ -7573,7 +7573,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sylvan Terrace",
-                  "text": "Sylvan Terrace is a viewpoint in bronx-zoo-life-v2.",
+                  "text": "Sylvan Terrace is a historic cobblestone street in Manhattan.",
                   "category": "natural",
                   "coords": [
                         -73.939702,
@@ -7582,7 +7582,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flatrock Nature Center",
-                  "text": "Flatrock Nature Center is a nature center and park in bronx-zoo-life-v2.",
+                  "text": "Flatrock Nature Center is a 150-acre nature preserve with woodland trails in New Jersey.",
                   "category": "park",
                   "coords": [
                         -73.964304,
@@ -7600,7 +7600,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Woods Park",
-                  "text": "University Woods Park is a park in bronx-zoo-life-v2.",
+                  "text": "University Woods Park is a small urban park near New York University in Manhattan.",
                   "category": "park",
                   "coords": [
                         -73.915119,
@@ -7684,7 +7684,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "McPartland Mountain",
-                  "text": "Der McPartland Mountain ist ein Gipfel im Glacier National Park.",
+                  "text": "Ein Berg im Nationalpark mit Panoramablick auf die umliegenden Gipfel.",
                   "category": "natural",
                   "coords": [
                         -113.863731,
@@ -7693,7 +7693,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Heavens Peak",
-                  "text": "Der Heavens Peak ist ein Gipfel im Glacier National Park.",
+                  "text": "Ein hoher Berggipfel im Nationalpark, benannt nach seiner erhabenen Höhe.",
                   "category": "natural",
                   "coords": [
                         -113.856231,
@@ -7702,7 +7702,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Rocks",
-                  "text": "Der Red Rocks ist ein Aussichtspunkt im Glacier National Park.",
+                  "text": "Auffällige rote Sandsteinformationen.",
                   "category": "natural",
                   "coords": [
                         -113.817513,
@@ -7711,7 +7711,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Cannon",
-                  "text": "Der Mount Cannon ist ein Gipfel im Glacier National Park.",
+                  "text": "Ein Berg im Nationalpark mit einem felsigen, kanonenartigen Gipfel.",
                   "category": "natural",
                   "coords": [
                         -113.774823,
@@ -7720,7 +7720,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Oberlin",
-                  "text": "Der Mount Oberlin ist ein Gipfel im Glacier National Park.",
+                  "text": "Ein Berg im Nationalpark, bekannt für seine Alpenwiesen und Wildblumen.",
                   "category": "natural",
                   "coords": [
                         -113.735949,
@@ -7729,7 +7729,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clements Mountain",
-                  "text": "Der Clements Mountain ist ein Gipfel im Glacier National Park.",
+                  "text": "Ein Berg im Nationalpark mit steilen Hängen und einem markanten Grat.",
                   "category": "natural",
                   "coords": [
                         -113.740924,
@@ -7738,7 +7738,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Lake Overlook",
-                  "text": "Der Hidden Lake Overlook ist ein Aussichtspunkt mit Blick auf den Hidden Lake im Glacier National Park.",
+                  "text": "Ein Aussichtspunkt mit Blick auf einen versteckten Alpensee.",
                   "category": "natural",
                   "coords": [
                         -113.74167,
@@ -7747,7 +7747,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Oberlin Bend",
-                  "text": "Der Oberlin Bend ist ein Aussichtspunkt im Glacier National Park.",
+                  "text": "Eine scharfe Flusswindung, benannt nach einem Naturforscher.",
                   "category": "natural",
                   "coords": [
                         -113.725214,
@@ -7765,7 +7765,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cataract Mountain",
-                  "text": "Der Cataract Mountain ist ein Gipfel im Glacier National Park.",
+                  "text": "Ein Berg im Nationalpark mit einem großen Wasserfall an seinen Hängen.",
                   "category": "natural",
                   "coords": [
                         -113.681399,
@@ -7783,7 +7783,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grinnell Point",
-                  "text": "Eine Felsformation im Glacier-Nationalpark.",
+                  "text": "Eine spitze Felsnadel im Nationalpark, benannt nach einem bedeutenden Geologen.",
                   "category": "landmark",
                   "coords": [
                         -113.68289,
@@ -7801,7 +7801,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Angel Wing",
-                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "text": "Eine flügelförmige Felsformation im Nationalpark, die einem Engelsflügel ähnelt.",
                   "category": "natural",
                   "coords": [
                         -113.711607,
@@ -7810,7 +7810,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Gould",
-                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "text": "Ein Berg im Nationalpark mit einem markanten pyramidenförmigen Gipfel.",
                   "category": "natural",
                   "coords": [
                         -113.714795,
@@ -7819,7 +7819,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bishops Cap",
-                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "text": "Ein kappenförmiger Berggipfel im Nationalpark, der einer Bischofsmitra ähnelt.",
                   "category": "natural",
                   "coords": [
                         -113.709281,
@@ -7846,7 +7846,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Haystack Butte",
-                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "text": "Ein heuhaufenähnlicher Butte im Nationalpark mit grasbewachsenen Hängen.",
                   "category": "natural",
                   "coords": [
                         -113.732338,
@@ -7909,7 +7909,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Swiftcurrent Mountain",
-                  "text": "Ein markanter Gipfel im Glacier-Nationalpark.",
+                  "text": "Der Swiftcurrent Mountain ist ein 8.536 Fuß hoher Gipfel im Glacier-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -113.766829,
@@ -7927,7 +7927,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flattop Mountain",
-                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "text": "Ein Tafelberg im Nationalpark, beliebt für seinen Gipfelweg.",
                   "category": "natural",
                   "coords": [
                         -113.866787,
@@ -7936,7 +7936,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ahern Peak",
-                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "text": "Der Ahern Peak ist ein 8.679 Fuß hoher Gipfel im Glacier-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -113.782339,
@@ -7965,7 +7965,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "McPartland Mountain",
-                  "text": "A McPartland Mountain egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy hegy a nemzeti parkban, panorámás kilátással a környező csúcsokra.",
                   "category": "natural",
                   "coords": [
                         -113.863731,
@@ -7974,7 +7974,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Heavens Peak",
-                  "text": "A Heavens Peak egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy magas hegycsúcs a nemzeti parkban, magaslati fekvéséről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -113.856231,
@@ -7983,7 +7983,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Rocks",
-                  "text": "A Red Rocks egy kilátópont a Glacier Nemzeti Parkban.",
+                  "text": "Feltűnő vörös homokkő formációk.",
                   "category": "natural",
                   "coords": [
                         -113.817513,
@@ -7992,7 +7992,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Cannon",
-                  "text": "A Mount Cannon egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy hegy a nemzeti parkban, sziklás, ágyú alakú csúccsal.",
                   "category": "natural",
                   "coords": [
                         -113.774823,
@@ -8001,7 +8001,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Oberlin",
-                  "text": "A Mount Oberlin egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy hegy a nemzeti parkban, alpesi rétjeiről és vadvirágairól ismert.",
                   "category": "natural",
                   "coords": [
                         -113.735949,
@@ -8010,7 +8010,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clements Mountain",
-                  "text": "A Clements Mountain egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy hegy a nemzeti parkban, meredek lejtőkkel és egy kiemelkedő gerinccel.",
                   "category": "natural",
                   "coords": [
                         -113.740924,
@@ -8019,7 +8019,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Lake Overlook",
-                  "text": "A Hidden Lake Overlook egy kilátópont, amely a Hidden Lake-re néz a Glacier Nemzeti Parkban.",
+                  "text": "Egy kilátópont, ahonnan egy rejtett alpesi tó látható.",
                   "category": "natural",
                   "coords": [
                         -113.74167,
@@ -8028,7 +8028,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Oberlin Bend",
-                  "text": "Az Oberlin Bend egy kilátópont a Glacier Nemzeti Parkban.",
+                  "text": "Egy éles folyókanyarulat, egy természettudósról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -113.725214,
@@ -8046,7 +8046,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cataract Mountain",
-                  "text": "A Cataract Mountain egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy hegy a nemzeti parkban, egy nagy vízeséssel az oldalában.",
                   "category": "natural",
                   "coords": [
                         -113.681399,
@@ -8064,7 +8064,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grinnell Point",
-                  "text": "Egy sziklaformáció a Glacier Nemzeti Parkban.",
+                  "text": "Egy éles sziklacsúcs a nemzeti parkban, egy neves geológusról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -113.68289,
@@ -8082,7 +8082,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Angel Wing",
-                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy szárny alakú sziklaformáció a nemzeti parkban, amely angyalszárnyra hasonlít.",
                   "category": "natural",
                   "coords": [
                         -113.711607,
@@ -8091,7 +8091,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Gould",
-                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy hegy a nemzeti parkban, jellegzetes piramis alakú csúccsal.",
                   "category": "natural",
                   "coords": [
                         -113.714795,
@@ -8100,7 +8100,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bishops Cap",
-                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy sapka alakú hegycsúcs a nemzeti parkban, amely püspöksüvegre hasonlít.",
                   "category": "natural",
                   "coords": [
                         -113.709281,
@@ -8127,7 +8127,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Haystack Butte",
-                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy szénakazal alakú butte a nemzeti parkban, füves lejtőkkel.",
                   "category": "natural",
                   "coords": [
                         -113.732338,
@@ -8190,7 +8190,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Swiftcurrent Mountain",
-                  "text": "Egy kiemelkedő csúcs a Glacier Nemzeti Parkban.",
+                  "text": "A Swiftcurrent Mountain egy 8536 láb magas csúcs a Glacier Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -113.766829,
@@ -8208,7 +8208,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flattop Mountain",
-                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Egy lapos tetejű hegy a nemzeti parkban, népszerű a csúcstúra miatt.",
                   "category": "natural",
                   "coords": [
                         -113.866787,
@@ -8217,7 +8217,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ahern Peak",
-                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "text": "Az Ahern Peak egy 8679 láb magas csúcs a Glacier Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -113.782339,
@@ -8246,7 +8246,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "McPartland Mountain",
-                  "text": "McPartland Mountain este un vârf în Parcul Național Glacier.",
+                  "text": "Un munte în parcul național, cu vedere panoramică asupra vârfurilor înconjurătoare.",
                   "category": "natural",
                   "coords": [
                         -113.863731,
@@ -8255,7 +8255,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Heavens Peak",
-                  "text": "Heavens Peak este un vârf în Parcul Național Glacier.",
+                  "text": "Un vârf înalt de munte în parcul național, numit pentru altitudinea sa impunătoare.",
                   "category": "natural",
                   "coords": [
                         -113.856231,
@@ -8264,7 +8264,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Rocks",
-                  "text": "Red Rocks este un punct de belvedere în Parcul Național Glacier.",
+                  "text": "Formațiuni izbitoare de gresie roșie.",
                   "category": "natural",
                   "coords": [
                         -113.817513,
@@ -8273,7 +8273,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Cannon",
-                  "text": "Mount Cannon este un vârf în Parcul Național Glacier.",
+                  "text": "Un munte în parcul național cu un vârf stâncos, asemănător unui tun.",
                   "category": "natural",
                   "coords": [
                         -113.774823,
@@ -8282,7 +8282,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Oberlin",
-                  "text": "Mount Oberlin este un vârf în Parcul Național Glacier.",
+                  "text": "Un munte în parcul național, cunoscut pentru pajiștile alpine și florile sălbatice.",
                   "category": "natural",
                   "coords": [
                         -113.735949,
@@ -8291,7 +8291,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clements Mountain",
-                  "text": "Clements Mountain este un vârf în Parcul Național Glacier.",
+                  "text": "Un munte în parcul național cu pante abrupte și o creastă proeminentă.",
                   "category": "natural",
                   "coords": [
                         -113.740924,
@@ -8300,7 +8300,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Lake Overlook",
-                  "text": "Hidden Lake Overlook este un punct de belvedere cu vedere la Lacul Ascuns în Parcul Național Glacier.",
+                  "text": "Un punct de belvedere cu vedere spre un lac alpin ascuns.",
                   "category": "natural",
                   "coords": [
                         -113.74167,
@@ -8309,7 +8309,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Oberlin Bend",
-                  "text": "Oberlin Bend este un punct de belvedere în Parcul Național Glacier.",
+                  "text": "Un cot ascuțit al unui râu, numit după un naturalist.",
                   "category": "natural",
                   "coords": [
                         -113.725214,
@@ -8327,7 +8327,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cataract Mountain",
-                  "text": "Cataract Mountain este un vârf în Parcul Național Glacier.",
+                  "text": "Un munte în parcul național cu o cascadă mare pe versanții săi.",
                   "category": "natural",
                   "coords": [
                         -113.681399,
@@ -8345,7 +8345,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grinnell Point",
-                  "text": "O formațiune stâncoasă în Parcul Național Glacier.",
+                  "text": "Un vârf stâncos ascuțit în parcul național, numit după un geolog proeminent.",
                   "category": "landmark",
                   "coords": [
                         -113.68289,
@@ -8363,7 +8363,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Angel Wing",
-                  "text": "Un vârf în Parcul Național Glacier.",
+                  "text": "O formațiune stâncoasă în formă de aripă în parcul național, asemănătoare unei aripi de înger.",
                   "category": "natural",
                   "coords": [
                         -113.711607,
@@ -8372,7 +8372,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Gould",
-                  "text": "Un vârf în Parcul Național Glacier.",
+                  "text": "Un munte în parcul național cu un vârf piramidal distinct.",
                   "category": "natural",
                   "coords": [
                         -113.714795,
@@ -8381,7 +8381,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bishops Cap",
-                  "text": "Un vârf în Parcul Național Glacier.",
+                  "text": "Un vârf de munte în formă de căciulă în parcul național, asemănător mitrei episcopale.",
                   "category": "natural",
                   "coords": [
                         -113.709281,
@@ -8408,7 +8408,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Haystack Butte",
-                  "text": "Un vârf în Parcul Național Glacier.",
+                  "text": "Un butte în formă de claie de fân în parcul național, cu pante ierboase.",
                   "category": "natural",
                   "coords": [
                         -113.732338,
@@ -8471,7 +8471,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Swiftcurrent Mountain",
-                  "text": "Un vârf proeminent în Parcul Național Glacier.",
+                  "text": "Mount Swiftcurrent este un vârf de 8.536 de picioare în Parcul Național Glacier.",
                   "category": "natural",
                   "coords": [
                         -113.766829,
@@ -8489,7 +8489,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flattop Mountain",
-                  "text": "Un vârf în Parcul Național Glacier.",
+                  "text": "Un munte cu vârf plat în parcul național, popular pentru traseul său de vârf.",
                   "category": "natural",
                   "coords": [
                         -113.866787,
@@ -8498,7 +8498,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ahern Peak",
-                  "text": "Un vârf în Parcul Național Glacier.",
+                  "text": "Ahern Peak este un vârf de 8.679 de picioare în Parcul Național Glacier.",
                   "category": "natural",
                   "coords": [
                         -113.782339,
@@ -8527,7 +8527,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "McPartland Mountain",
-                  "text": "McPartland Mountain is a peak in Glacier National Park.",
+                  "text": "A mountain in the national park offering panoramic views of the surrounding peaks.",
                   "category": "natural",
                   "coords": [
                         -113.863731,
@@ -8536,7 +8536,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Heavens Peak",
-                  "text": "Heavens Peak is a peak in Glacier National Park.",
+                  "text": "A high mountain peak in the national park, named for its lofty elevation.",
                   "category": "natural",
                   "coords": [
                         -113.856231,
@@ -8545,7 +8545,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Red Rocks",
-                  "text": "Red Rocks is a scenic viewpoint in Glacier National Park.",
+                  "text": "Striking red sandstone formations in the National Park.",
                   "category": "natural",
                   "coords": [
                         -113.817513,
@@ -8554,7 +8554,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Cannon",
-                  "text": "Mount Cannon is a peak in Glacier National Park.",
+                  "text": "A mountain in the national park with a rocky, cannon-like summit.",
                   "category": "natural",
                   "coords": [
                         -113.774823,
@@ -8563,7 +8563,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Oberlin",
-                  "text": "Mount Oberlin is a peak in Glacier National Park.",
+                  "text": "A mountain in the national park, known for its alpine meadows and wildflowers.",
                   "category": "natural",
                   "coords": [
                         -113.735949,
@@ -8572,7 +8572,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clements Mountain",
-                  "text": "Clements Mountain is a peak in Glacier National Park.",
+                  "text": "A mountain in the national park with steep slopes and a prominent ridge.",
                   "category": "natural",
                   "coords": [
                         -113.740924,
@@ -8581,7 +8581,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Lake Overlook",
-                  "text": "Hidden Lake Overlook is a viewpoint overlooking Hidden Lake in Glacier National Park.",
+                  "text": "A viewpoint overlooking a secluded alpine lake in the National Park.",
                   "category": "natural",
                   "coords": [
                         -113.74167,
@@ -8590,7 +8590,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Oberlin Bend",
-                  "text": "Oberlin Bend is a viewpoint in Glacier National Park.",
+                  "text": "A sharp bend in a river, named after a naturalist, in the National Park.",
                   "category": "natural",
                   "coords": [
                         -113.725214,
@@ -8608,7 +8608,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cataract Mountain",
-                  "text": "Cataract Mountain is a peak in Glacier National Park.",
+                  "text": "A mountain in the national park featuring a large waterfall on its slopes.",
                   "category": "natural",
                   "coords": [
                         -113.681399,
@@ -8626,7 +8626,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Grinnell Point",
-                  "text": "A cliff formation in Glacier National Park.",
+                  "text": "A sharp rock point in the national park, named after a prominent geologist.",
                   "category": "landmark",
                   "coords": [
                         -113.68289,
@@ -8644,7 +8644,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Angel Wing",
-                  "text": "A peak in Glacier National Park.",
+                  "text": "A wing-shaped rock formation in the national park, resembling an angel's wing.",
                   "category": "natural",
                   "coords": [
                         -113.711607,
@@ -8653,7 +8653,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Gould",
-                  "text": "A peak in Glacier National Park.",
+                  "text": "A mountain in the national park with a distinct pyramidal peak.",
                   "category": "natural",
                   "coords": [
                         -113.714795,
@@ -8662,7 +8662,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bishops Cap",
-                  "text": "A peak in Glacier National Park.",
+                  "text": "A cap-shaped mountain peak in the national park, resembling a bishop's mitre.",
                   "category": "natural",
                   "coords": [
                         -113.709281,
@@ -8689,7 +8689,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Haystack Butte",
-                  "text": "A peak in Glacier National Park.",
+                  "text": "A butte shaped like a haystack in the national park, with grassy slopes.",
                   "category": "natural",
                   "coords": [
                         -113.732338,
@@ -8752,7 +8752,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Swiftcurrent Mountain",
-                  "text": "A prominent peak in Glacier National Park.",
+                  "text": "Swiftcurrent Mountain is an 8,536-foot peak in Glacier National Park.",
                   "category": "natural",
                   "coords": [
                         -113.766829,
@@ -8770,7 +8770,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Flattop Mountain",
-                  "text": "A peak in Glacier National Park.",
+                  "text": "A flat-topped mountain in the national park, popular for its summit trail.",
                   "category": "natural",
                   "coords": [
                         -113.866787,
@@ -8779,7 +8779,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ahern Peak",
-                  "text": "A peak in Glacier National Park.",
+                  "text": "Ahern Peak is an 8,679-foot peak in Glacier National Park.",
                   "category": "natural",
                   "coords": [
                         -113.782339,
@@ -8854,7 +8854,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Bear",
-                  "text": "Great Bear ist eine Stahlachterbahn im Hersheypark in Hershey.",
+                  "text": "Der Great Bear ist eine Stahlachterbahn im Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.653038,
@@ -8890,7 +8890,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trailblazer",
-                  "text": "Trailblazer ist eine Attraktion im Hersheypark in Hershey.",
+                  "text": "Eine Minenzug-Achterbahn im Hersheypark mit Tunneln und Abfahrten.",
                   "category": "landmark",
                   "coords": [
                         -76.653152,
@@ -8899,7 +8899,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jolly Rancher Remix",
-                  "text": "Jolly Rancher Remix ist eine Attraktion im Hersheypark in Hershey.",
+                  "text": "Eine süßigkeiten-thematisierte Spinning-Achterbahn im Hersheypark, benannt nach der Marke.",
                   "category": "landmark",
                   "coords": [
                         -76.653842,
@@ -8908,7 +8908,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fahrenheit",
-                  "text": "Fahrenheit ist eine Attraktion im Hersheypark in Hershey.",
+                  "text": "Eine Stahlachterbahn mit 97-Grad-Abfahrt im Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.655217,
@@ -8917,7 +8917,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildcat's Revenge",
-                  "text": "Wildcat's Revenge ist eine Attraktion im Hersheypark in Hershey.",
+                  "text": "Eine hybride Holz-Stahl-Achterbahn im Hersheypark mit Überschlägen.",
                   "category": "landmark",
                   "coords": [
                         -76.655569,
@@ -8926,7 +8926,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laff Trakk",
-                  "text": "Laff Trakk ist eine Attraktion im Hersheypark in Hershey.",
+                  "text": "Eine Indoor-Spinning-Achterbahn im Hersheypark mit Leuchteffekten.",
                   "category": "landmark",
                   "coords": [
                         -76.655237,
@@ -8935,7 +8935,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey's Chocolate World",
-                  "text": "Hershey's Chocolate World ist eine Attraktion in Hershey, die der Schokolade gewidmet ist.",
+                  "text": "Ein Besucherzentrum mit Schokoladenherstellungstour und Geschäften in Hershey.",
                   "category": "landmark",
                   "coords": [
                         -76.660985,
@@ -8944,7 +8944,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "Der Round Top ist ein Gipfel in der Gegend von Hershey.",
+                  "text": "Ein natürlicher Hügel im Hersheypark mit Blick auf den Park und die Gärten.",
                   "category": "natural",
                   "coords": [
                         -76.677191,
@@ -8953,7 +8953,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Gardens",
-                  "text": "Ein Park in Hershey, Pennsylvania.",
+                  "text": "Ein botanischer Garten mit thematischen Blumenausstellungen und einem Schmetterlingshaus.",
                   "category": "park",
                   "coords": [
                         -76.656854,
@@ -8962,7 +8962,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kinderhaus",
-                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "text": "Ein Kindermuseum mit interaktiven Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -76.626733,
@@ -8971,7 +8971,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
-                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "text": "Ein Museum zur Geschichte der Pennsylvania State Police.",
                   "category": "museum",
                   "coords": [
                         -76.641529,
@@ -8980,7 +8980,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Hershey Story",
-                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "text": "Museum über Milton Hershey und die Schokoladenfirma.",
                   "category": "museum",
                   "coords": [
                         -76.652148,
@@ -8989,7 +8989,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hummelstown Area Historical Society Library & Office",
-                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "text": "Bibliothek und Büro zur Bewahrung der lokalen Geschichte.",
                   "category": "museum",
                   "coords": [
                         -76.709478,
@@ -8998,7 +8998,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stacks Visual Arts Center",
-                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "text": "Ein Zentrum für bildende Kunst mit wechselnden Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         -76.625428,
@@ -9007,7 +9007,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Amphitheatre",
-                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "text": "Ein Freiluftamphitheater mit Konzerten und Shows.",
                   "category": "cultural",
                   "coords": [
                         -76.655615,
@@ -9016,7 +9016,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Theatre",
-                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "text": "Historisches Theater, erbaut von Milton Hershey, mit prächtiger Architektur.",
                   "category": "cultural",
                   "coords": [
                         -76.648809,
@@ -9025,7 +9025,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Music Box Theatre",
-                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "text": "Ein Theater, das sich auf Musikdarbietungen spezialisiert hat.",
                   "category": "cultural",
                   "coords": [
                         -76.655185,
@@ -9034,7 +9034,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pony Parade",
-                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "text": "Ein historisches Karussell mit bemalten Ponys.",
                   "category": "landmark",
                   "coords": [
                         -76.654331,
@@ -9043,7 +9043,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Southern Painted Turtle",
-                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "text": "Eine Ausstellung der Südlichen Zierschildkröte.",
                   "category": "landmark",
                   "coords": [
                         -76.651884,
@@ -9052,7 +9052,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breakers Edge",
-                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "text": "Eine Wasserrutsche mit schnellen Kurven.",
                   "category": "landmark",
                   "coords": [
                         -76.652872,
@@ -9061,7 +9061,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mountain Lion",
-                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "text": "Eine große Berglöwen-Skulptur am Eingang von Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.650325,
@@ -9070,7 +9070,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Old Hershey Chocolate Factory",
-                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "text": "Das historische Schokoladenfabrikgebäude, in dem einst Hershey's Schokolade hergestellt wurde.",
                   "category": "landmark",
                   "coords": [
                         -76.646614,
@@ -9079,7 +9079,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Eagle",
-                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "text": "Ein Weißkopfseeadler-Symbol als Wahrzeichen im Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.650762,
@@ -9099,7 +9099,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Bear",
-                  "text": "A Great Bear egy acél hullámvasút a hershey-i Hersheyparkban.",
+                  "text": "A Great Bear egy acél hullámvasút a Hersheyparkban.",
                   "category": "landmark",
                   "coords": [
                         -76.653038,
@@ -9135,7 +9135,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trailblazer",
-                  "text": "A Trailblazer egy attrakció a hershey-i Hersheyparkban.",
+                  "text": "Egy bányászati vonat hullámvasút a Hersheyparkban, alagutakkal és lejtőkkel.",
                   "category": "landmark",
                   "coords": [
                         -76.653152,
@@ -9144,7 +9144,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jolly Rancher Remix",
-                  "text": "A Jolly Rancher Remix egy attrakció a hershey-i Hersheyparkban.",
+                  "text": "Egy édesség témájú pörgő hullámvasút a Hersheyparkban, a márkáról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -76.653842,
@@ -9153,7 +9153,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fahrenheit",
-                  "text": "A Fahrenheit egy attrakció a hershey-i Hersheyparkban.",
+                  "text": "Egy acél hullámvasút 97 fokos eséssel a Hersheyparkban.",
                   "category": "landmark",
                   "coords": [
                         -76.655217,
@@ -9162,7 +9162,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildcat's Revenge",
-                  "text": "A Wildcat's Revenge egy attrakció a hershey-i Hersheyparkban.",
+                  "text": "Egy hibrid fa-acél hullámvasút a Hersheyparkban, inverziókkal.",
                   "category": "landmark",
                   "coords": [
                         -76.655569,
@@ -9171,7 +9171,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laff Trakk",
-                  "text": "A Laff Trakk egy attrakció a hershey-i Hersheyparkban.",
+                  "text": "Egy beltéri pörgő hullámvasút a Hersheyparkban, sötétben világító effektekkel.",
                   "category": "landmark",
                   "coords": [
                         -76.655237,
@@ -9180,7 +9180,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey's Chocolate World",
-                  "text": "A Hershey's Chocolate World egy csokoládénak szentelt attrakció Hersheyben.",
+                  "text": "Egy látogatóközpont csokoládékészítő túrával és üzletekkel Hersheyben.",
                   "category": "landmark",
                   "coords": [
                         -76.660985,
@@ -9189,7 +9189,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "A Round Top egy csúcs a hershey-i térségben.",
+                  "text": "Egy természetes domb a Hersheyparkban, kilátással a parkra és a kertekre.",
                   "category": "natural",
                   "coords": [
                         -76.677191,
@@ -9198,7 +9198,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Gardens",
-                  "text": "Egy park Hersheyben, Pennsylvaniában.",
+                  "text": "Egy botanikus kert tematikus virágkiállításokkal és egy pillangóházzal.",
                   "category": "park",
                   "coords": [
                         -76.656854,
@@ -9207,7 +9207,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kinderhaus",
-                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "text": "Egy gyerekmúzeum interaktív kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -76.626733,
@@ -9216,7 +9216,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
-                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "text": "Múzeum, amely a Pennsylvaniai Állami Rendőrség történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -76.641529,
@@ -9225,7 +9225,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Hershey Story",
-                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "text": "Múzeum Milton Hershey-ről és a csokoládégyártó cégről.",
                   "category": "museum",
                   "coords": [
                         -76.652148,
@@ -9234,7 +9234,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hummelstown Area Historical Society Library & Office",
-                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "text": "Könyvtár és iroda a helyi történelem megőrzésére.",
                   "category": "museum",
                   "coords": [
                         -76.709478,
@@ -9243,7 +9243,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stacks Visual Arts Center",
-                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "text": "Képzőművészeti központ változó kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         -76.625428,
@@ -9252,7 +9252,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Amphitheatre",
-                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "text": "Egy szabadtéri amfiteátrum koncertekkel és előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -76.655615,
@@ -9261,7 +9261,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Theatre",
-                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "text": "Milton Hershey által épített történelmi színház, díszes építészettel.",
                   "category": "cultural",
                   "coords": [
                         -76.648809,
@@ -9270,7 +9270,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Music Box Theatre",
-                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "text": "Egy színház, amely zenei előadásokra specializálódott.",
                   "category": "cultural",
                   "coords": [
                         -76.655185,
@@ -9279,7 +9279,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pony Parade",
-                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "text": "Egy vintage körhinta festett pónikkal.",
                   "category": "landmark",
                   "coords": [
                         -76.654331,
@@ -9288,7 +9288,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Southern Painted Turtle",
-                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "text": "A déli festett teknős fajának bemutatója.",
                   "category": "landmark",
                   "coords": [
                         -76.651884,
@@ -9297,7 +9297,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breakers Edge",
-                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "text": "Egy vízi csúszda gyors kanyarokkal.",
                   "category": "landmark",
                   "coords": [
                         -76.652872,
@@ -9306,7 +9306,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mountain Lion",
-                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "text": "Egy nagy hegyi oroszlán szobor a Hersheypark bejáratánál.",
                   "category": "landmark",
                   "coords": [
                         -76.650325,
@@ -9315,7 +9315,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Old Hershey Chocolate Factory",
-                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "text": "A történelmi csokoládégyár épülete, ahol egykor a Hershey csokoládét gyártották.",
                   "category": "landmark",
                   "coords": [
                         -76.646614,
@@ -9324,7 +9324,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Eagle",
-                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "text": "Egy kopasz sas szimbólum a Hersheypark nevezetessége.",
                   "category": "landmark",
                   "coords": [
                         -76.650762,
@@ -9344,7 +9344,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Bear",
-                  "text": "Great Bear este un montagne russe din oțel la Hersheypark din Hershey.",
+                  "text": "Great Bear este un roller coaster din oțel în Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.653038,
@@ -9380,7 +9380,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trailblazer",
-                  "text": "Trailblazer este o atracție la Hersheypark din Hershey.",
+                  "text": "Un roller coaster tip tren de mină în Hersheypark, cu tuneluri și căderi.",
                   "category": "landmark",
                   "coords": [
                         -76.653152,
@@ -9389,7 +9389,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jolly Rancher Remix",
-                  "text": "Jolly Rancher Remix este o atracție la Hersheypark din Hershey.",
+                  "text": "Un roller coaster rotitor cu tematică de bomboane în Hersheypark, numit după marcă.",
                   "category": "landmark",
                   "coords": [
                         -76.653842,
@@ -9398,7 +9398,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fahrenheit",
-                  "text": "Fahrenheit este o atracție la Hersheypark din Hershey.",
+                  "text": "Un roller coaster de oțel cu o cădere de 97 de grade în Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.655217,
@@ -9407,7 +9407,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildcat's Revenge",
-                  "text": "Wildcat's Revenge este o atracție la Hersheypark din Hershey.",
+                  "text": "Un roller coaster hibrid lemn-oțel în Hersheypark, cu inversiuni.",
                   "category": "landmark",
                   "coords": [
                         -76.655569,
@@ -9416,7 +9416,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laff Trakk",
-                  "text": "Laff Trakk este o atracție la Hersheypark din Hershey.",
+                  "text": "Un roller coaster rotitor interior în Hersheypark, cu efecte luminoase.",
                   "category": "landmark",
                   "coords": [
                         -76.655237,
@@ -9425,7 +9425,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey's Chocolate World",
-                  "text": "Hershey's Chocolate World este o atracție din Hershey dedicată ciocolatei.",
+                  "text": "Un centru de vizitare cu tur de fabricare a ciocolatei și magazine în Hershey.",
                   "category": "landmark",
                   "coords": [
                         -76.660985,
@@ -9434,7 +9434,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "Round Top este un vârf în zona Hershey.",
+                  "text": "Un deal natural în Hersheypark, cu vedere asupra parcului și grădinilor.",
                   "category": "natural",
                   "coords": [
                         -76.677191,
@@ -9443,7 +9443,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Gardens",
-                  "text": "Un parc în Hershey, Pennsylvania.",
+                  "text": "O grădină botanică cu expoziții tematice de flori și o casă a fluturilor.",
                   "category": "park",
                   "coords": [
                         -76.656854,
@@ -9452,7 +9452,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kinderhaus",
-                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "text": "Un muzeu pentru copii cu exponate interactive.",
                   "category": "museum",
                   "coords": [
                         -76.626733,
@@ -9461,7 +9461,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
-                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "text": "Muzeu dedicat istoriei Poliției de Stat din Pennsylvania.",
                   "category": "museum",
                   "coords": [
                         -76.641529,
@@ -9470,7 +9470,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Hershey Story",
-                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "text": "Muzeu despre Milton Hershey și compania de ciocolată.",
                   "category": "museum",
                   "coords": [
                         -76.652148,
@@ -9479,7 +9479,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hummelstown Area Historical Society Library & Office",
-                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "text": "Bibliotecă și birou pentru păstrarea istoriei locale.",
                   "category": "museum",
                   "coords": [
                         -76.709478,
@@ -9488,7 +9488,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stacks Visual Arts Center",
-                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "text": "Un centru pentru arte vizuale cu expoziții rotative.",
                   "category": "cultural",
                   "coords": [
                         -76.625428,
@@ -9497,7 +9497,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Amphitheatre",
-                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "text": "Un amfiteatru în aer liber care găzduiește concerte și spectacole.",
                   "category": "cultural",
                   "coords": [
                         -76.655615,
@@ -9506,7 +9506,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Theatre",
-                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "text": "Teatru istoric construit de Milton Hershey, cu arhitectură ornamentată.",
                   "category": "cultural",
                   "coords": [
                         -76.648809,
@@ -9515,7 +9515,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Music Box Theatre",
-                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "text": "Un teatru specializat în spectacole muzicale.",
                   "category": "cultural",
                   "coords": [
                         -76.655185,
@@ -9524,7 +9524,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pony Parade",
-                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "text": "Un carusel vechi cu ponei pictați.",
                   "category": "landmark",
                   "coords": [
                         -76.654331,
@@ -9533,7 +9533,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Southern Painted Turtle",
-                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "text": "O expoziție a speciei de broască țestoasă sudică pictată.",
                   "category": "landmark",
                   "coords": [
                         -76.651884,
@@ -9542,7 +9542,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breakers Edge",
-                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "text": "Un tobogan acvatic cu viraje rapide.",
                   "category": "landmark",
                   "coords": [
                         -76.652872,
@@ -9551,7 +9551,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mountain Lion",
-                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "text": "O sculptură mare de leu de munte la intrarea în Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.650325,
@@ -9560,7 +9560,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Old Hershey Chocolate Factory",
-                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "text": "Clădirea istorică a fabricii de ciocolată unde se producea cândva ciocolata Hershey.",
                   "category": "landmark",
                   "coords": [
                         -76.646614,
@@ -9569,7 +9569,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Eagle",
-                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "text": "Un simbol de vultur cu cap alb ca reper în Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.650762,
@@ -9589,7 +9589,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Great Bear",
-                  "text": "Great Bear is a steel roller coaster at Hersheypark in Hershey.",
+                  "text": "Great Bear is a steel roller coaster at Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.653038,
@@ -9625,7 +9625,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Trailblazer",
-                  "text": "Trailblazer is an attraction at Hersheypark in Hershey.",
+                  "text": "A mine train roller coaster in Hersheypark, with tunnels and drops.",
                   "category": "landmark",
                   "coords": [
                         -76.653152,
@@ -9634,7 +9634,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jolly Rancher Remix",
-                  "text": "Jolly Rancher Remix is an attraction at Hersheypark in Hershey.",
+                  "text": "A candy-themed spinning roller coaster in Hersheypark, named after the brand.",
                   "category": "landmark",
                   "coords": [
                         -76.653842,
@@ -9643,7 +9643,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fahrenheit",
-                  "text": "Fahrenheit is an attraction at Hersheypark in Hershey.",
+                  "text": "A steel roller coaster with a 97-degree drop in Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.655217,
@@ -9652,7 +9652,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildcat's Revenge",
-                  "text": "Wildcat's Revenge is an attraction at Hersheypark in Hershey.",
+                  "text": "A hybrid wooden-steel roller coaster in Hersheypark, featuring inversions.",
                   "category": "landmark",
                   "coords": [
                         -76.655569,
@@ -9661,7 +9661,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laff Trakk",
-                  "text": "Laff Trakk is an attraction at Hersheypark in Hershey.",
+                  "text": "An indoor spinning roller coaster in Hersheypark with glow-in-the-dark effects.",
                   "category": "landmark",
                   "coords": [
                         -76.655237,
@@ -9670,7 +9670,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey's Chocolate World",
-                  "text": "Hershey's Chocolate World is an attraction in Hershey dedicated to chocolate.",
+                  "text": "A visitor center with a chocolate-making tour and shops in Hershey.",
                   "category": "landmark",
                   "coords": [
                         -76.660985,
@@ -9679,7 +9679,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "Round Top is a peak in the Hershey area.",
+                  "text": "A natural hill in Hersheypark, offering views of the park and gardens.",
                   "category": "natural",
                   "coords": [
                         -76.677191,
@@ -9688,7 +9688,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Gardens",
-                  "text": "A park in Hershey, Pennsylvania.",
+                  "text": "A botanical garden with themed flower displays and a butterfly house.",
                   "category": "park",
                   "coords": [
                         -76.656854,
@@ -9697,7 +9697,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kinderhaus",
-                  "text": "A museum in Hershey, Pennsylvania.",
+                  "text": "A children's museum with hands-on exhibits, in Hersheypark.",
                   "category": "museum",
                   "coords": [
                         -76.626733,
@@ -9706,7 +9706,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
-                  "text": "A museum in Hershey, Pennsylvania.",
+                  "text": "A museum dedicated to the history of the Pennsylvania State Police, in Hersheypark.",
                   "category": "museum",
                   "coords": [
                         -76.641529,
@@ -9715,7 +9715,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Hershey Story",
-                  "text": "A museum in Hershey, Pennsylvania.",
+                  "text": "Museum about Milton Hershey and his chocolate company, in Hersheypark.",
                   "category": "museum",
                   "coords": [
                         -76.652148,
@@ -9724,7 +9724,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hummelstown Area Historical Society Library & Office",
-                  "text": "A museum in Hershey, Pennsylvania.",
+                  "text": "Library and office preserving the local history of Hummelstown, near Hersheypark.",
                   "category": "museum",
                   "coords": [
                         -76.709478,
@@ -9733,7 +9733,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stacks Visual Arts Center",
-                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "text": "A visual arts center with rotating exhibitions, in Hersheypark.",
                   "category": "cultural",
                   "coords": [
                         -76.625428,
@@ -9742,7 +9742,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Amphitheatre",
-                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "text": "An outdoor amphitheater hosting concerts and shows, in Hersheypark.",
                   "category": "cultural",
                   "coords": [
                         -76.655615,
@@ -9751,7 +9751,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hershey Theatre",
-                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "text": "Historic theatre built by Milton Hershey, featuring ornate architecture, in Hersheypark.",
                   "category": "cultural",
                   "coords": [
                         -76.648809,
@@ -9760,7 +9760,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Music Box Theatre",
-                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "text": "A theatre specializing in musical performances, in Hersheypark.",
                   "category": "cultural",
                   "coords": [
                         -76.655185,
@@ -9769,7 +9769,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pony Parade",
-                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "text": "A vintage carousel with painted ponies, in Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.654331,
@@ -9778,7 +9778,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Southern Painted Turtle",
-                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "text": "A display of the Southern painted turtle species, in Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.651884,
@@ -9787,7 +9787,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breakers Edge",
-                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "text": "A water slide ride with high-speed twists, in Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.652872,
@@ -9796,7 +9796,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mountain Lion",
-                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "text": "A large mountain lion sculpture at the entrance of Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.650325,
@@ -9805,7 +9805,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Old Hershey Chocolate Factory",
-                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "text": "The historic chocolate factory building where Hershey's chocolate was once made.",
                   "category": "landmark",
                   "coords": [
                         -76.646614,
@@ -9814,7 +9814,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bald Eagle",
-                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "text": "A bald eagle landmark symbol at Hersheypark.",
                   "category": "landmark",
                   "coords": [
                         -76.650762,
@@ -9997,7 +9997,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Encanto Park",
-                  "text": "Der Encanto Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park im Bay Aquarium Gebiet mit Spielplatz und Picknickbereichen.",
                   "category": "park",
                   "coords": [
                         -121.828563,
@@ -10015,7 +10015,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Loma Alta",
-                  "text": "Loma Alta ist ein Gipfel in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Hügel im Bay Aquarium Gebiet mit Blick auf die Bucht und die Stadt.",
                   "category": "natural",
                   "coords": [
                         -121.876778,
@@ -10024,7 +10024,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "Huckleberry Hill ist ein Gipfel in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein nach wilden Heidelbeeren benannter Hügel mit Wanderwegen im Bay Aquarium Gebiet.",
                   "category": "natural",
                   "coords": [
                         -121.921246,
@@ -10060,7 +10060,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roach Canyon Park",
-                  "text": "Der Roach Canyon Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park mit einer kleinen Schlucht und Wegen im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.863516,
@@ -10069,7 +10069,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Del Rey Park",
-                  "text": "Der Del Rey Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Gemeindepark mit Sportplätzen und einem Spielplatz im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.838163,
@@ -10078,7 +10078,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Work Memorial Park",
-                  "text": "Der Work Memorial Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Gedenkpark mit einem Veteranen-Denkmal und Spazierwegen im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.846651,
@@ -10087,7 +10087,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Grande Regional Park",
-                  "text": "Der Laguna Grande Regional Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Regionalpark um eine große Lagune mit Wassersportmöglichkeiten im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.855072,
@@ -10096,7 +10096,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Metz Park",
-                  "text": "Der Metz Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein kleiner Nachbarschaftspark mit Spielplatz und Bänken im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.830736,
@@ -10105,7 +10105,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "David Cutino Park",
-                  "text": "Der David Cutino Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park mit einem Hundeauslauf und Spazierwegen im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.836738,
@@ -10114,7 +10114,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Beta Park",
-                  "text": "Der Beta Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein kleiner Park mit einem Kinderspielbereich im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.831584,
@@ -10123,7 +10123,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Farallones Park",
-                  "text": "Der Farallones Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein nach den Farallon-Inseln benannter Park mit einem Naturlehrpfad im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.833791,
@@ -10132,7 +10132,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mescal Neil Park",
-                  "text": "Der Mescal Neil Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park mit einem Gemeinschaftsgarten und Picknickunterständen im Bay Aquarium Gebiet.",
                   "category": "park",
                   "coords": [
                         -121.825916,
@@ -10141,7 +10141,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Portola Leslie Park",
-                  "text": "Der Portola Leslie Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park in Bay Aquarium, benannt nach Portola Leslie.",
                   "category": "park",
                   "coords": [
                         -121.82543,
@@ -10150,7 +10150,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manzanita Stuart Park",
-                  "text": "Der Manzanita Stuart Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park, benannt nach Manzanita und Stuart, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.826713,
@@ -10159,7 +10159,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Havana Soliz Park",
-                  "text": "Der Havana Soliz Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park, benannt nach Havana und Soliz, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.823735,
@@ -10168,7 +10168,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lincoln Cunningham Park",
-                  "text": "Der Lincoln Cunningham Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park, benannt nach Lincoln und Cunningham, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.826148,
@@ -10177,7 +10177,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stillwell Park",
-                  "text": "Der Stillwell Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park, benannt nach Stillwell, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.81246,
@@ -10186,7 +10186,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Esplanade Park",
-                  "text": "Der Esplanade Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park entlang einer Uferpromenade in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.925256,
@@ -10204,7 +10204,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pacific Grove Ball Park",
-                  "text": "Der Pacific Grove Ball Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Baseball-Park, benannt nach Pacific Grove, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.929114,
@@ -10222,7 +10222,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chase Park",
-                  "text": "Der Chase Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park, benannt nach Chase, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.917822,
@@ -10231,7 +10231,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shoreline Park",
-                  "text": "Der Shoreline Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park entlang der Küste in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.910905,
@@ -10240,7 +10240,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Andy Jacobsen Park",
-                  "text": "Der Andy Jacobsen Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "text": "Ein Park, benannt nach Andy Jacobsen, in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.90998,
@@ -10350,7 +10350,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Encanto Park",
-                  "text": "Az Encanto Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park a Bay Aquarium területén, játszótérrel és piknikhelyekkel.",
                   "category": "park",
                   "coords": [
                         -121.828563,
@@ -10368,7 +10368,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Loma Alta",
-                  "text": "A Loma Alta egy csúcs a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy domb a Bay Aquarium területén, kilátással az öbölre és a városra.",
                   "category": "natural",
                   "coords": [
                         -121.876778,
@@ -10377,7 +10377,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "A Huckleberry Hill egy csúcs a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy vadbogyókról elnevezett domb túraösvényekkel a Bay Aquarium területén.",
                   "category": "natural",
                   "coords": [
                         -121.921246,
@@ -10413,7 +10413,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roach Canyon Park",
-                  "text": "A Roach Canyon Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park egy kis kanyonnal és ösvényekkel a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.863516,
@@ -10422,7 +10422,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Del Rey Park",
-                  "text": "A Del Rey Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy közösségi park sportpályákkal és játszótérrel a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.838163,
@@ -10431,7 +10431,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Work Memorial Park",
-                  "text": "A Work Memorial Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy emlékpark veterán emlékművel és sétányokkal a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.846651,
@@ -10440,7 +10440,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Grande Regional Park",
-                  "text": "A Laguna Grande Regional Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy regionális park egy nagy lagúna körül, vízi tevékenységekkel a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.855072,
@@ -10449,7 +10449,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Metz Park",
-                  "text": "A Metz Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy kis környéki park játszótérrel és padokkal a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.830736,
@@ -10458,7 +10458,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "David Cutino Park",
-                  "text": "A David Cutino Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park kutyafuttatóval és sétányokkal a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.836738,
@@ -10467,7 +10467,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Beta Park",
-                  "text": "A Beta Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy kis park gyermekjátszótérrel a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.831584,
@@ -10476,7 +10476,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Farallones Park",
-                  "text": "A Farallones Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy a Farallon-szigetekről elnevezett park természetösvénnyel a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.833791,
@@ -10485,7 +10485,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mescal Neil Park",
-                  "text": "A Mescal Neil Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park közösségi kerttel és piknik menedékhelyekkel a Bay Aquarium területén.",
                   "category": "park",
                   "coords": [
                         -121.825916,
@@ -10494,7 +10494,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Portola Leslie Park",
-                  "text": "A Portola Leslie Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park Bay Aquariumban, Portola Leslie-ről elnevezve.",
                   "category": "park",
                   "coords": [
                         -121.82543,
@@ -10503,7 +10503,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manzanita Stuart Park",
-                  "text": "A Manzanita Stuart Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park, Manzanita és Stuart után elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.826713,
@@ -10512,7 +10512,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Havana Soliz Park",
-                  "text": "A Havana Soliz Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park, Havana és Soliz után elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.823735,
@@ -10521,7 +10521,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lincoln Cunningham Park",
-                  "text": "A Lincoln Cunningham Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park, Lincoln és Cunningham után elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.826148,
@@ -10530,7 +10530,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stillwell Park",
-                  "text": "A Stillwell Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park, Stillwell után elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.81246,
@@ -10539,7 +10539,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Esplanade Park",
-                  "text": "A Esplanade Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park egy tengerparti sétány mentén Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.925256,
@@ -10557,7 +10557,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pacific Grove Ball Park",
-                  "text": "A Pacific Grove Ball Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy baseballpark, Pacific Grove-ról elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.929114,
@@ -10575,7 +10575,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chase Park",
-                  "text": "A Chase Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park, Chase után elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.917822,
@@ -10584,7 +10584,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shoreline Park",
-                  "text": "A Shoreline Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park a part mentén Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.910905,
@@ -10593,7 +10593,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Andy Jacobsen Park",
-                  "text": "A Andy Jacobsen Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "text": "Egy park, Andy Jacobsen után elnevezve, Bay Aquariumban.",
                   "category": "park",
                   "coords": [
                         -121.90998,
@@ -10703,7 +10703,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Encanto Park",
-                  "text": "Encanto Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc în zona Bay Aquarium, cu loc de joacă și zone de picnic.",
                   "category": "park",
                   "coords": [
                         -121.828563,
@@ -10721,7 +10721,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Loma Alta",
-                  "text": "Loma Alta este un vârf în monterey-bay-aquarium-life-v2.",
+                  "text": "Un deal în zona Bay Aquarium, cu vedere spre golf și oraș.",
                   "category": "natural",
                   "coords": [
                         -121.876778,
@@ -10730,7 +10730,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "Huckleberry Hill este un vârf în monterey-bay-aquarium-life-v2.",
+                  "text": "Un deal numit după afinii sălbatici, cu trasee de drumeții în zona Bay Aquarium.",
                   "category": "natural",
                   "coords": [
                         -121.921246,
@@ -10766,7 +10766,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roach Canyon Park",
-                  "text": "Roach Canyon Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc cu un canion mic și trasee în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.863516,
@@ -10775,7 +10775,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Del Rey Park",
-                  "text": "Del Rey Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc comunitar cu terenuri sportive și loc de joacă în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.838163,
@@ -10784,7 +10784,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Work Memorial Park",
-                  "text": "Work Memorial Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc memorial cu un monument al veteranilor și alei pietonale în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.846651,
@@ -10793,7 +10793,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Grande Regional Park",
-                  "text": "Laguna Grande Regional Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc regional în jurul unei lagune mari, cu activități acvatice în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.855072,
@@ -10802,7 +10802,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Metz Park",
-                  "text": "Metz Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un mic parc de cartier cu loc de joacă și bănci în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.830736,
@@ -10811,7 +10811,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "David Cutino Park",
-                  "text": "David Cutino Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc cu zonă pentru câini și trasee de plimbare în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.836738,
@@ -10820,7 +10820,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Beta Park",
-                  "text": "Beta Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc mic cu zonă de joacă pentru copii în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.831584,
@@ -10829,7 +10829,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Farallones Park",
-                  "text": "Farallones Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Insulele Farallon, cu un traseu natural în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.833791,
@@ -10838,7 +10838,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mescal Neil Park",
-                  "text": "Mescal Neil Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc cu grădină comunitară și adăposturi de picnic în zona Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.825916,
@@ -10847,7 +10847,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Portola Leslie Park",
-                  "text": "Portola Leslie Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc în Bay Aquarium, numit după Portola Leslie.",
                   "category": "park",
                   "coords": [
                         -121.82543,
@@ -10856,7 +10856,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manzanita Stuart Park",
-                  "text": "Manzanita Stuart Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Manzanita și Stuart în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.826713,
@@ -10865,7 +10865,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Havana Soliz Park",
-                  "text": "Havana Soliz Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Havana și Soliz în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.823735,
@@ -10874,7 +10874,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lincoln Cunningham Park",
-                  "text": "Lincoln Cunningham Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Lincoln și Cunningham în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.826148,
@@ -10883,7 +10883,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stillwell Park",
-                  "text": "Stillwell Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Stillwell în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.81246,
@@ -10892,7 +10892,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Esplanade Park",
-                  "text": "Esplanade Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc de-a lungul unei esplanade pe malul apei în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.925256,
@@ -10910,7 +10910,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pacific Grove Ball Park",
-                  "text": "Pacific Grove Ball Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc de baseball numit după Pacific Grove în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.929114,
@@ -10928,7 +10928,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chase Park",
-                  "text": "Chase Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Chase în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.917822,
@@ -10937,7 +10937,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shoreline Park",
-                  "text": "Shoreline Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc de-a lungul țărmului în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.910905,
@@ -10946,7 +10946,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Andy Jacobsen Park",
-                  "text": "Andy Jacobsen Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "text": "Un parc numit după Andy Jacobsen în Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.90998,
@@ -11056,7 +11056,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Encanto Park",
-                  "text": "Encanto Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park in the Bay Aquarium area with a playground and picnic areas.",
                   "category": "park",
                   "coords": [
                         -121.828563,
@@ -11074,7 +11074,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Loma Alta",
-                  "text": "Loma Alta is a peak in monterey-bay-aquarium-life-v2.",
+                  "text": "A hill in the Bay Aquarium area, offering views of the bay and city.",
                   "category": "natural",
                   "coords": [
                         -121.876778,
@@ -11083,7 +11083,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "Huckleberry Hill is a peak in monterey-bay-aquarium-life-v2.",
+                  "text": "A hill named after wild huckleberries, with hiking trails in the Bay Aquarium area.",
                   "category": "natural",
                   "coords": [
                         -121.921246,
@@ -11119,7 +11119,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Roach Canyon Park",
-                  "text": "Roach Canyon Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park featuring a small canyon and trails in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.863516,
@@ -11128,7 +11128,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Del Rey Park",
-                  "text": "Del Rey Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A community park with sports fields and a playground in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.838163,
@@ -11137,7 +11137,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Work Memorial Park",
-                  "text": "Work Memorial Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A memorial park with a veterans memorial and walking paths in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.846651,
@@ -11146,7 +11146,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Grande Regional Park",
-                  "text": "Laguna Grande Regional Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A regional park around a large lagoon, with water activities in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.855072,
@@ -11155,7 +11155,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Metz Park",
-                  "text": "Metz Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A small neighborhood park with a playground and benches in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.830736,
@@ -11164,7 +11164,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "David Cutino Park",
-                  "text": "David Cutino Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park with a dog park and walking trails in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.836738,
@@ -11173,7 +11173,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Beta Park",
-                  "text": "Beta Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A small park with a children's play area in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.831584,
@@ -11182,7 +11182,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Farallones Park",
-                  "text": "Farallones Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after the Farallon Islands, with a nature trail in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.833791,
@@ -11191,7 +11191,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mescal Neil Park",
-                  "text": "Mescal Neil Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park with a community garden and picnic shelters in the Bay Aquarium area.",
                   "category": "park",
                   "coords": [
                         -121.825916,
@@ -11200,7 +11200,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Portola Leslie Park",
-                  "text": "Portola Leslie Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park in Bay Aquarium named after Portola Leslie.",
                   "category": "park",
                   "coords": [
                         -121.82543,
@@ -11209,7 +11209,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manzanita Stuart Park",
-                  "text": "Manzanita Stuart Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after Manzanita and Stuart in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.826713,
@@ -11218,7 +11218,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Havana Soliz Park",
-                  "text": "Havana Soliz Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after Havana and Soliz in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.823735,
@@ -11227,7 +11227,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lincoln Cunningham Park",
-                  "text": "Lincoln Cunningham Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after Lincoln and Cunningham in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.826148,
@@ -11236,7 +11236,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stillwell Park",
-                  "text": "Stillwell Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after Stillwell in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.81246,
@@ -11245,7 +11245,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Esplanade Park",
-                  "text": "Esplanade Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park along a waterfront esplanade in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.925256,
@@ -11263,7 +11263,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pacific Grove Ball Park",
-                  "text": "Pacific Grove Ball Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A ball park named after Pacific Grove in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.929114,
@@ -11281,7 +11281,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chase Park",
-                  "text": "Chase Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after Chase in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.917822,
@@ -11290,7 +11290,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shoreline Park",
-                  "text": "Shoreline Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park along the shoreline in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.910905,
@@ -11299,7 +11299,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Andy Jacobsen Park",
-                  "text": "Andy Jacobsen Park is a park in monterey-bay-aquarium-life-v2.",
+                  "text": "A park named after Andy Jacobsen in Bay Aquarium.",
                   "category": "park",
                   "coords": [
                         -121.90998,
@@ -11347,7 +11347,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Mount Meany",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Der Mount Meany ist ein 6.695 Fuß hoher Gipfel im Olympic-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -123.598239,
@@ -11356,7 +11356,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Noyes",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Der Mount Noyes ist ein Berg im Olympic-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -123.594905,
@@ -11365,7 +11365,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Seattle",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Ein Berg, benannt nach Seattle, im National Park.",
                   "category": "natural",
                   "coords": [
                         -123.577681,
@@ -11374,7 +11374,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Queets",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Der Mount Queets ist ein Gipfel im Olympic-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -123.595183,
@@ -11383,7 +11383,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Barnes",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Ein Berg, benannt nach Barnes, im National Park.",
                   "category": "natural",
                   "coords": [
                         -123.576016,
@@ -11392,7 +11392,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ferry",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Der Mount Ferry ist ein Berg im Olympic-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -123.568259,
@@ -11410,7 +11410,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mathias",
-                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "text": "Der Mount Mathias ist ein Gipfel im Olympic-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -123.677688,
@@ -11439,7 +11439,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Mount Meany",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "A Mount Meany egy 6695 láb magas csúcs az Olympic Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.598239,
@@ -11448,7 +11448,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Noyes",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "A Mount Noyes egy hegy az Olympic Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.594905,
@@ -11457,7 +11457,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Seattle",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "Egy hegy, Seattle-ről elnevezve, a National Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.577681,
@@ -11466,7 +11466,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Queets",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "A Mount Queets egy csúcs az Olympic Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.595183,
@@ -11475,7 +11475,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Barnes",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "Egy hegy, Barnes után elnevezve, a National Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.576016,
@@ -11484,7 +11484,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ferry",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "A Mount Ferry egy hegy az Olympic Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.568259,
@@ -11502,7 +11502,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mathias",
-                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "text": "A Mount Mathias egy csúcs az Olympic Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -123.677688,
@@ -11531,7 +11531,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Mount Meany",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Mount Meany este un vârf de 6.695 de picioare în Parcul Național Olympic.",
                   "category": "natural",
                   "coords": [
                         -123.598239,
@@ -11540,7 +11540,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Noyes",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Mount Noyes este un munte în Parcul Național Olympic.",
                   "category": "natural",
                   "coords": [
                         -123.594905,
@@ -11549,7 +11549,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Seattle",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Un munte numit după Seattle în National Park.",
                   "category": "natural",
                   "coords": [
                         -123.577681,
@@ -11558,7 +11558,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Queets",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Mount Queets este un vârf în Parcul Național Olympic.",
                   "category": "natural",
                   "coords": [
                         -123.595183,
@@ -11567,7 +11567,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Barnes",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Un munte numit după Barnes în National Park.",
                   "category": "natural",
                   "coords": [
                         -123.576016,
@@ -11576,7 +11576,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ferry",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Mount Ferry este un munte în Parcul Național Olympic.",
                   "category": "natural",
                   "coords": [
                         -123.568259,
@@ -11594,7 +11594,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mathias",
-                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "text": "Mount Mathias este un vârf în Parcul Național Olympic.",
                   "category": "natural",
                   "coords": [
                         -123.677688,
@@ -11623,7 +11623,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Mount Meany",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "Mount Meany is a 6,695-foot peak in Olympic National Park.",
                   "category": "natural",
                   "coords": [
                         -123.598239,
@@ -11632,7 +11632,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Noyes",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "Mount Noyes is a mountain in Olympic National Park.",
                   "category": "natural",
                   "coords": [
                         -123.594905,
@@ -11641,7 +11641,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Seattle",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "A mountain named after Seattle in National Park.",
                   "category": "natural",
                   "coords": [
                         -123.577681,
@@ -11650,7 +11650,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Queets",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "Mount Queets is a peak in Olympic National Park.",
                   "category": "natural",
                   "coords": [
                         -123.595183,
@@ -11659,7 +11659,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Barnes",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "A mountain named after Barnes in National Park.",
                   "category": "natural",
                   "coords": [
                         -123.576016,
@@ -11668,7 +11668,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ferry",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "Mount Ferry is a mountain in Olympic National Park.",
                   "category": "natural",
                   "coords": [
                         -123.568259,
@@ -11686,7 +11686,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mathias",
-                  "text": "A mountain peak in Olympic National Park.",
+                  "text": "Mount Mathias is a peak in Olympic National Park.",
                   "category": "natural",
                   "coords": [
                         -123.677688,
@@ -11761,7 +11761,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orlando Florida Temple",
-                  "text": "Der Orlando Florida Temple ist ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Orlando, Florida.",
+                  "text": "Der Orlando Florida Temple ist ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage mit einer Turmspitze.",
                   "category": "religious",
                   "coords": [
                         -81.509479,
@@ -11869,7 +11869,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Race Through New York Starring Jimmy Fallon",
-                  "text": "Race Through New York Starring Jimmy Fallon ist ein simuliertes Rennen durch New York in den Universal Studios Florida in Orlando, Florida.",
+                  "text": "Eine 3D-Bewegungssimulatorfahrt mit Jimmy Fallon in Citrus Groves.",
                   "category": "landmark",
                   "coords": [
                         -81.469482,
@@ -11905,7 +11905,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wauseon Bay",
-                  "text": "Eine Bucht in Florida Citrus Groves Life v2.",
+                  "text": "Eine Bucht namens Wauseon in Citrus Groves.",
                   "category": "landmark",
                   "coords": [
                         -81.544348,
@@ -11914,7 +11914,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ravenall Park",
-                  "text": "Ein öffentlicher Park in Florida Citrus Groves Life v2.",
+                  "text": "Ein Park namens Ravenall in Citrus Groves.",
                   "category": "park",
                   "coords": [
                         -81.440817,
@@ -11923,7 +11923,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clear Lake Park",
-                  "text": "Ein Park am Clear Lake in Florida Citrus Groves Life v2.",
+                  "text": "Ein Park am Clear Lake in Citrus Groves.",
                   "category": "park",
                   "coords": [
                         -81.408279,
@@ -12051,7 +12051,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orlando Florida Temple",
-                  "text": "Az Orlando Florida Temple az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza temploma Orlando-ban, Florida.",
+                  "text": "Az Orlando Florida Temple Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza temploma toronnyal.",
                   "category": "religious",
                   "coords": [
                         -81.509479,
@@ -12159,7 +12159,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Race Through New York Starring Jimmy Fallon",
-                  "text": "A Race Through New York Starring Jimmy Fallon egy szimulált verseny New Yorkon keresztül a Universal Studios Florida-ban, Orlando, Florida.",
+                  "text": "Egy 3D mozgásszimulátor-utazás Jimmy Fallonnal a Citrus Grovesban.",
                   "category": "landmark",
                   "coords": [
                         -81.469482,
@@ -12195,7 +12195,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wauseon Bay",
-                  "text": "Egy öböl a Florida Citrus Groves Life v2-ben.",
+                  "text": "Egy Wauseon nevű öböl a Citrus Grovesban.",
                   "category": "landmark",
                   "coords": [
                         -81.544348,
@@ -12204,7 +12204,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ravenall Park",
-                  "text": "Egy nyilvános park a Florida Citrus Groves Life v2-ben.",
+                  "text": "Egy Ravenall nevű park a Citrus Grovesban.",
                   "category": "park",
                   "coords": [
                         -81.440817,
@@ -12213,7 +12213,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clear Lake Park",
-                  "text": "Egy park a Clear Lake mellett a Florida Citrus Groves Life v2-ben.",
+                  "text": "Egy park a Clear Lake-nél a Citrus Grovesban.",
                   "category": "park",
                   "coords": [
                         -81.408279,
@@ -12341,7 +12341,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orlando Florida Temple",
-                  "text": "Orlando Florida Temple este un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Orlando, Florida.",
+                  "text": "Orlando Florida Temple este un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă, cu un turn.",
                   "category": "religious",
                   "coords": [
                         -81.509479,
@@ -12449,7 +12449,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Race Through New York Starring Jimmy Fallon",
-                  "text": "Race Through New York Starring Jimmy Fallon este o cursă simulată prin New York la Universal Studios Florida din Orlando, Florida.",
+                  "text": "O plimbare cu simulator de mișcare 3D cu Jimmy Fallon în Citrus Groves.",
                   "category": "landmark",
                   "coords": [
                         -81.469482,
@@ -12485,7 +12485,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wauseon Bay",
-                  "text": "Un golf din Florida Citrus Groves Life v2.",
+                  "text": "Un golf numit Wauseon în Citrus Groves.",
                   "category": "landmark",
                   "coords": [
                         -81.544348,
@@ -12494,7 +12494,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ravenall Park",
-                  "text": "Un parc public din Florida Citrus Groves Life v2.",
+                  "text": "Un parc numit Ravenall în Citrus Groves.",
                   "category": "park",
                   "coords": [
                         -81.440817,
@@ -12503,7 +12503,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clear Lake Park",
-                  "text": "Un parc lângă Clear Lake în Florida Citrus Groves Life v2.",
+                  "text": "Un parc pe lacul Clear în Citrus Groves.",
                   "category": "park",
                   "coords": [
                         -81.408279,
@@ -12631,7 +12631,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orlando Florida Temple",
-                  "text": "Orlando Florida Temple is a temple of the Church of Jesus Christ of Latter-day Saints in Orlando, Florida.",
+                  "text": "Orlando Florida Temple is a Latter-day Saint temple with a spire.",
                   "category": "religious",
                   "coords": [
                         -81.509479,
@@ -12739,7 +12739,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Race Through New York Starring Jimmy Fallon",
-                  "text": "Race Through New York Starring Jimmy Fallon is a simulated race through New York at Universal Studios Florida in Orlando, Florida.",
+                  "text": "A 3D motion simulator ride with Jimmy Fallon in Citrus Groves.",
                   "category": "landmark",
                   "coords": [
                         -81.469482,
@@ -12775,7 +12775,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wauseon Bay",
-                  "text": "A bay in Florida Citrus Groves Life v2.",
+                  "text": "A bay named Wauseon in Citrus Groves.",
                   "category": "landmark",
                   "coords": [
                         -81.544348,
@@ -12784,7 +12784,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ravenall Park",
-                  "text": "A public park in Florida Citrus Groves Life v2.",
+                  "text": "A park named Ravenall in Citrus Groves.",
                   "category": "park",
                   "coords": [
                         -81.440817,
@@ -12793,7 +12793,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Clear Lake Park",
-                  "text": "A park by Clear Lake in Florida Citrus Groves Life v2.",
+                  "text": "A park on Clear Lake in Citrus Groves.",
                   "category": "park",
                   "coords": [
                         -81.408279,
@@ -12958,7 +12958,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chess Studio",
-                  "text": "Das Chess Studio war das Aufnahmestudio von Chess Records.",
+                  "text": "Das Chess Studio ist das historische Aufnahmestudio in Chicago, in dem Blues- und Rocklegenden aufnahmen.",
                   "category": "museum",
                   "coords": [
                         -87.62422,
@@ -12967,7 +12967,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry B. Clarke House",
-                  "text": "Das Henry B. Clarke House ist das älteste erhaltene Haus in Chicago.",
+                  "text": "Das Henry B. Clarke House ist das älteste erhaltene Gebäude in Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.621876,
@@ -12976,7 +12976,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chinese American Museum of Chicago",
-                  "text": "Das Chinese American Museum of Chicago befindet sich im Chinatown Viertel.",
+                  "text": "Das Chinese American Museum of Chicago zeigt Ausstellungen zur Geschichte und Kultur der chinesisch-amerikanischen Gemeinschaft.",
                   "category": "museum",
                   "coords": [
                         -87.633525,
@@ -13021,7 +13021,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Jerome's Croatian Catholic Church",
-                  "text": "Eine kroatisch-katholische Kirche im Bridgeport-Viertel von Chicago.",
+                  "text": "Die Saint Jerome's Croatian Catholic Church ist eine kroatisch-katholische Kirche in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.63394,
@@ -13039,7 +13039,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huntington Bank Pavilion at Northerly Island",
-                  "text": "Ein Freiluft-Amphitheater auf Northerly Island in Chicago.",
+                  "text": "Der Huntington Bank Pavilion at Northerly Island ist eine Open-Air-Konzertarena auf einer Halbinsel im Michigansee.",
                   "category": "cultural",
                   "coords": [
                         -87.608608,
@@ -13057,7 +13057,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Soka Gakkai International Buddhist Center",
-                  "text": "Ein buddhistisches Zentrum in Chicago, das der Soka Gakkai International angegliedert ist.",
+                  "text": "Das Soka Gakkai International Buddhist Center ist ein buddhistisches Zentrum in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.625293,
@@ -13093,7 +13093,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Mary of Perpetual Help Roman Catholic Church",
-                  "text": "Eine römisch-katholische Kirche im Bridgeport-Viertel von Chicago.",
+                  "text": "Die Saint Mary of Perpetual Help Roman Catholic Church ist eine historische römisch-katholische Kirche in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.652415,
@@ -13102,7 +13102,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Barbara Roman Catholic Church",
-                  "text": "Eine römisch-katholische Kirche im Bridgeport-Viertel von Chicago.",
+                  "text": "Die Saint Barbara Roman Catholic Church ist eine römisch-katholische Kirche in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.65276,
@@ -13165,7 +13165,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dunbar Park",
-                  "text": "Ein Park im Bronzeville-Viertel von Chicago.",
+                  "text": "Der Dunbar Park in Chicago bietet einen Spielplatz und Sportplätze.",
                   "category": "park",
                   "coords": [
                         -87.620443,
@@ -13183,7 +13183,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Armour Square Park",
-                  "text": "Ein Park im Armour-Square-Viertel von Chicago, nahe Chinatown.",
+                  "text": "Der Armour Square Park liegt im Viertel Chinatown in Chicago.",
                   "category": "park",
                   "coords": [
                         -87.634002,
@@ -13201,7 +13201,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Getz Theater",
-                  "text": "Ein Theater in Chicago.",
+                  "text": "Ein Theater namens Getz in Aquarium Chicago.",
                   "category": "cultural",
                   "coords": [
                         -87.625081,
@@ -13210,7 +13210,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Monastery of the Holy Cross",
-                  "text": "Ein Kloster in Chicago.",
+                  "text": "Ein dem Heiligen Kreuz gewidmetes Kloster in Aquarium Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.65317,
@@ -13219,7 +13219,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lake Meadows Park",
-                  "text": "Ein Park in Chicago.",
+                  "text": "Ein Park mit Wiesen an einem See in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.611898,
@@ -13228,7 +13228,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Groveland Park",
-                  "text": "Ein Park in Chicago.",
+                  "text": "Ein Park namens Groveland in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.610251,
@@ -13237,7 +13237,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "John Wilson Park",
-                  "text": "Ein Park in Chicago.",
+                  "text": "Ein Park, benannt nach John Wilson, in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.654571,
@@ -13246,7 +13246,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McGuane Park",
-                  "text": "Ein Park in Chicago.",
+                  "text": "Ein Park, benannt nach McGuane, in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.64776,
@@ -13255,7 +13255,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bosley Park",
-                  "text": "Ein Park in Chicago.",
+                  "text": "Ein Park, benannt nach Bosley, in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.653708,
@@ -13264,7 +13264,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Margaret Burroughs Beach",
-                  "text": "Ein Strand in Chicago.",
+                  "text": "Ein Strand, benannt nach Margaret Burroughs, in Aquarium Chicago.",
                   "category": "recreational",
                   "coords": [
                         -87.606454,
@@ -13273,7 +13273,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Glass Curtain Gallery",
-                  "text": "Eine Kunstgalerie in Chicago.",
+                  "text": "Eine Galerie mit Glasvorhängen mit Blick auf das Hauptaquarium des Aquarium Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.626115,
@@ -13293,7 +13293,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chess Studio",
-                  "text": "A Chess Studio a Chess Records felvételi stúdiója volt.",
+                  "text": "A Chess Studio a történelmi chicagói hangstúdió, ahol blues- és rocklegendák vettek fel.",
                   "category": "museum",
                   "coords": [
                         -87.62422,
@@ -13302,7 +13302,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry B. Clarke House",
-                  "text": "A Henry B. Clarke House a legrégebbi fennmaradt ház Chicagóban.",
+                  "text": "A Henry B. Clarke House a legrégebbi fennmaradt épület Chicagóban.",
                   "category": "museum",
                   "coords": [
                         -87.621876,
@@ -13311,7 +13311,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chinese American Museum of Chicago",
-                  "text": "A Chinese American Museum of Chicago a Chinatown negyedben található.",
+                  "text": "A Chinese American Museum of Chicago a kínai-amerikai közösség történelmét és kultúráját bemutató kiállításokkal rendelkezik.",
                   "category": "museum",
                   "coords": [
                         -87.633525,
@@ -13356,7 +13356,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Jerome's Croatian Catholic Church",
-                  "text": "Horvát katolikus templom Chicago Bridgeport negyedében.",
+                  "text": "A Saint Jerome's Croatian Catholic Church egy horvát katolikus templom Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.63394,
@@ -13374,7 +13374,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huntington Bank Pavilion at Northerly Island",
-                  "text": "Egy szabadtéri amfiteátrum a chicagói Northerly Islanden.",
+                  "text": "A Huntington Bank Pavilion at Northerly Island egy szabadtéri koncerthelyszín egy félszigeten a Michigan-tóban.",
                   "category": "cultural",
                   "coords": [
                         -87.608608,
@@ -13392,7 +13392,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Soka Gakkai International Buddhist Center",
-                  "text": "Egy buddhista központ Chicagóban, a Soka Gakkai Internationalhoz kapcsolódva.",
+                  "text": "A Soka Gakkai International Buddhist Center egy buddhista központ Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.625293,
@@ -13428,7 +13428,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Mary of Perpetual Help Roman Catholic Church",
-                  "text": "Római katolikus templom Chicago Bridgeport negyedében.",
+                  "text": "A Saint Mary of Perpetual Help Roman Catholic Church egy történelmi római katolikus templom Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.652415,
@@ -13437,7 +13437,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Barbara Roman Catholic Church",
-                  "text": "Római katolikus templom Chicago Bridgeport negyedében.",
+                  "text": "A Saint Barbara Roman Catholic Church egy római katolikus templom Chicagóban.",
                   "category": "religious",
                   "coords": [
                         -87.65276,
@@ -13500,7 +13500,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dunbar Park",
-                  "text": "Egy park Chicago Bronzeville negyedében.",
+                  "text": "A chicagói Dunbar Park játszótérrel és sportpályákkal vár.",
                   "category": "park",
                   "coords": [
                         -87.620443,
@@ -13518,7 +13518,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Armour Square Park",
-                  "text": "Egy park Chicago Armour Square negyedében, Chinatown közelében.",
+                  "text": "Az Armour Square Park Chicago kínai negyedében található.",
                   "category": "park",
                   "coords": [
                         -87.634002,
@@ -13536,7 +13536,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Getz Theater",
-                  "text": "Egy színház Chicagóban.",
+                  "text": "Egy Getz nevű színház az Aquarium Chicagoban.",
                   "category": "cultural",
                   "coords": [
                         -87.625081,
@@ -13545,7 +13545,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Monastery of the Holy Cross",
-                  "text": "Egy kolostor Chicagóban.",
+                  "text": "A Szent Keresztnek szentelt kolostor az Aquarium Chicagoban.",
                   "category": "religious",
                   "coords": [
                         -87.65317,
@@ -13554,7 +13554,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lake Meadows Park",
-                  "text": "Egy park Chicagóban.",
+                  "text": "Egy park rétekkel egy tó mellett az Aquarium Chicagoban.",
                   "category": "park",
                   "coords": [
                         -87.611898,
@@ -13563,7 +13563,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Groveland Park",
-                  "text": "Egy park Chicagóban.",
+                  "text": "Egy Groveland nevű park az Aquarium Chicagoban.",
                   "category": "park",
                   "coords": [
                         -87.610251,
@@ -13572,7 +13572,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "John Wilson Park",
-                  "text": "Egy park Chicagóban.",
+                  "text": "Egy park, John Wilson után elnevezve, az Aquarium Chicagoban.",
                   "category": "park",
                   "coords": [
                         -87.654571,
@@ -13581,7 +13581,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McGuane Park",
-                  "text": "Egy park Chicagóban.",
+                  "text": "Egy park, McGuane után elnevezve, az Aquarium Chicagoban.",
                   "category": "park",
                   "coords": [
                         -87.64776,
@@ -13590,7 +13590,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bosley Park",
-                  "text": "Egy park Chicagóban.",
+                  "text": "Egy park, Bosley után elnevezve, az Aquarium Chicagoban.",
                   "category": "park",
                   "coords": [
                         -87.653708,
@@ -13599,7 +13599,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Margaret Burroughs Beach",
-                  "text": "Egy strand Chicagóban.",
+                  "text": "Egy strand, Margaret Burroughs után elnevezve, az Aquarium Chicagoban.",
                   "category": "recreational",
                   "coords": [
                         -87.606454,
@@ -13608,7 +13608,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Glass Curtain Gallery",
-                  "text": "Egy művészeti galéria Chicagóban.",
+                  "text": "Üvegfüggönyös galéria, amely az Aquarium Chicago fő akváriumára néz.",
                   "category": "museum",
                   "coords": [
                         -87.626115,
@@ -13628,7 +13628,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chess Studio",
-                  "text": "Chess Studio a fost studioul de înregistrări al casei de discuri Chess Records.",
+                  "text": "Chess Studio este studioul istoric de înregistrări din Chicago unde au înregistrat legende ale blues-ului și rock-ului.",
                   "category": "museum",
                   "coords": [
                         -87.62422,
@@ -13637,7 +13637,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry B. Clarke House",
-                  "text": "Casa Henry B. Clarke este cea mai veche casă supraviețuitoare din Chicago.",
+                  "text": "Henry B. Clarke House este cea mai veche clădire supraviețuitoare din Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.621876,
@@ -13646,7 +13646,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chinese American Museum of Chicago",
-                  "text": "Muzeul Chinezesc-American din Chicago se află în cartierul Chinatown.",
+                  "text": "Muzeul Chinezesc American din Chicago prezintă exponate despre istoria și cultura comunității chinezo-americane.",
                   "category": "museum",
                   "coords": [
                         -87.633525,
@@ -13691,7 +13691,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Jerome's Croatian Catholic Church",
-                  "text": "O biserică catolică croată în cartierul Bridgeport din Chicago.",
+                  "text": "Saint Jerome's Croatian Catholic Church este o biserică catolică croată în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.63394,
@@ -13709,7 +13709,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huntington Bank Pavilion at Northerly Island",
-                  "text": "Un amfiteatru în aer liber pe Insula Northerly din Chicago.",
+                  "text": "Huntington Bank Pavilion at Northerly Island este o arenă de concerte în aer liber pe o peninsulă în Lacul Michigan.",
                   "category": "cultural",
                   "coords": [
                         -87.608608,
@@ -13727,7 +13727,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Soka Gakkai International Buddhist Center",
-                  "text": "Un centru budist din Chicago afiliat cu Soka Gakkai International.",
+                  "text": "Soka Gakkai International Buddhist Center este un centru budist în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.625293,
@@ -13763,7 +13763,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Mary of Perpetual Help Roman Catholic Church",
-                  "text": "O biserică romano-catolică în cartierul Bridgeport din Chicago.",
+                  "text": "Saint Mary of Perpetual Help Roman Catholic Church este o biserică romano-catolică istorică în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.652415,
@@ -13772,7 +13772,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Barbara Roman Catholic Church",
-                  "text": "O biserică romano-catolică în cartierul Bridgeport din Chicago.",
+                  "text": "Saint Barbara Roman Catholic Church este o biserică romano-catolică în Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.65276,
@@ -13835,7 +13835,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dunbar Park",
-                  "text": "Un parc în cartierul Bronzeville din Chicago.",
+                  "text": "Parcul Dunbar din Chicago are un loc de joacă și terenuri sportive.",
                   "category": "park",
                   "coords": [
                         -87.620443,
@@ -13853,7 +13853,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Armour Square Park",
-                  "text": "Un parc în cartierul Armour Square din Chicago, aproape de Chinatown.",
+                  "text": "Armour Square Park este situat în cartierul Chinatown din Chicago.",
                   "category": "park",
                   "coords": [
                         -87.634002,
@@ -13871,7 +13871,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Getz Theater",
-                  "text": "Un teatru din Chicago.",
+                  "text": "Un teatru numit Getz în Aquarium Chicago.",
                   "category": "cultural",
                   "coords": [
                         -87.625081,
@@ -13880,7 +13880,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Monastery of the Holy Cross",
-                  "text": "O mănăstire din Chicago.",
+                  "text": "O mănăstire dedicată Sfintei Cruci în Aquarium Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.65317,
@@ -13889,7 +13889,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lake Meadows Park",
-                  "text": "Un parc din Chicago.",
+                  "text": "Un parc cu pajiști lângă un lac în Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.611898,
@@ -13898,7 +13898,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Groveland Park",
-                  "text": "Un parc din Chicago.",
+                  "text": "Un parc numit Groveland în Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.610251,
@@ -13907,7 +13907,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "John Wilson Park",
-                  "text": "Un parc din Chicago.",
+                  "text": "Un parc numit după John Wilson în Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.654571,
@@ -13916,7 +13916,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McGuane Park",
-                  "text": "Un parc din Chicago.",
+                  "text": "Un parc numit după McGuane în Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.64776,
@@ -13925,7 +13925,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bosley Park",
-                  "text": "Un parc din Chicago.",
+                  "text": "Un parc numit după Bosley în Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.653708,
@@ -13934,7 +13934,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Margaret Burroughs Beach",
-                  "text": "O plajă din Chicago.",
+                  "text": "O plajă numită după Margaret Burroughs în Aquarium Chicago.",
                   "category": "recreational",
                   "coords": [
                         -87.606454,
@@ -13943,7 +13943,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Glass Curtain Gallery",
-                  "text": "O galerie de artă din Chicago.",
+                  "text": "O galerie cu perdele de sticlă care dă spre acvariul principal al Acvariului Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.626115,
@@ -13963,7 +13963,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chess Studio",
-                  "text": "Chess Studio was the recording studio of Chess Records.",
+                  "text": "Chess Studio is the historic Chicago recording studio where blues and rock legends recorded.",
                   "category": "museum",
                   "coords": [
                         -87.62422,
@@ -13972,7 +13972,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Henry B. Clarke House",
-                  "text": "The Henry B. Clarke House is the oldest surviving house in Chicago.",
+                  "text": "Henry B. Clarke House is the oldest surviving building in Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.621876,
@@ -13981,7 +13981,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chinese American Museum of Chicago",
-                  "text": "The Chinese American Museum of Chicago is located in Chinatown.",
+                  "text": "Chinese American Museum of Chicago exhibits on Chinese American history and culture.",
                   "category": "museum",
                   "coords": [
                         -87.633525,
@@ -14026,7 +14026,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Jerome's Croatian Catholic Church",
-                  "text": "A Croatian Catholic church in the Bridgeport neighborhood of Chicago.",
+                  "text": "Saint Jerome's Croatian Catholic Church is a Croatian Catholic parish in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.63394,
@@ -14044,7 +14044,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Huntington Bank Pavilion at Northerly Island",
-                  "text": "An outdoor amphitheater on Northerly Island in Chicago.",
+                  "text": "Huntington Bank Pavilion at Northerly Island is an outdoor concert venue on a peninsula in Lake Michigan.",
                   "category": "cultural",
                   "coords": [
                         -87.608608,
@@ -14062,7 +14062,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Soka Gakkai International Buddhist Center",
-                  "text": "A Buddhist center in Chicago affiliated with Soka Gakkai International.",
+                  "text": "Soka Gakkai International Buddhist Center is a Buddhist center in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.625293,
@@ -14098,7 +14098,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Mary of Perpetual Help Roman Catholic Church",
-                  "text": "A Roman Catholic church in the Bridgeport neighborhood of Chicago.",
+                  "text": "Saint Mary of Perpetual Help Roman Catholic Church is a historic Roman Catholic church in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.652415,
@@ -14107,7 +14107,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Saint Barbara Roman Catholic Church",
-                  "text": "A Roman Catholic church in the Bridgeport neighborhood of Chicago.",
+                  "text": "Saint Barbara Roman Catholic Church is a Roman Catholic church in Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.65276,
@@ -14170,7 +14170,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dunbar Park",
-                  "text": "A park in Chicago's Bronzeville neighborhood.",
+                  "text": "Dunbar Park in Chicago features a playground and sports fields.",
                   "category": "park",
                   "coords": [
                         -87.620443,
@@ -14188,7 +14188,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Armour Square Park",
-                  "text": "A park in Chicago's Armour Square neighborhood, near Chinatown.",
+                  "text": "Armour Square Park is located in Chicago's Chinatown neighborhood.",
                   "category": "park",
                   "coords": [
                         -87.634002,
@@ -14206,7 +14206,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Getz Theater",
-                  "text": "A theater in Chicago.",
+                  "text": "A theater named Getz in Aquarium Chicago.",
                   "category": "cultural",
                   "coords": [
                         -87.625081,
@@ -14215,7 +14215,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Monastery of the Holy Cross",
-                  "text": "A monastery in Chicago.",
+                  "text": "A monastery dedicated to the Holy Cross in Aquarium Chicago.",
                   "category": "religious",
                   "coords": [
                         -87.65317,
@@ -14224,7 +14224,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Lake Meadows Park",
-                  "text": "A park in Chicago.",
+                  "text": "A park with meadows near a lake in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.611898,
@@ -14233,7 +14233,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Groveland Park",
-                  "text": "A park in Chicago.",
+                  "text": "A park named Groveland in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.610251,
@@ -14242,7 +14242,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "John Wilson Park",
-                  "text": "A park in Chicago.",
+                  "text": "A park named after John Wilson in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.654571,
@@ -14251,7 +14251,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McGuane Park",
-                  "text": "A park in Chicago.",
+                  "text": "A park named after McGuane in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.64776,
@@ -14260,7 +14260,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bosley Park",
-                  "text": "A park in Chicago.",
+                  "text": "A park named after Bosley in Aquarium Chicago.",
                   "category": "park",
                   "coords": [
                         -87.653708,
@@ -14269,7 +14269,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Margaret Burroughs Beach",
-                  "text": "A beach in Chicago.",
+                  "text": "A beach named after Margaret Burroughs in Aquarium Chicago.",
                   "category": "recreational",
                   "coords": [
                         -87.606454,
@@ -14278,7 +14278,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Glass Curtain Gallery",
-                  "text": "An art gallery in Chicago.",
+                  "text": "A glass-curtained gallery overlooking the main tank of Aquarium Chicago.",
                   "category": "museum",
                   "coords": [
                         -87.626115,
@@ -14326,7 +14326,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Rocky Mountain National Park",
-                  "text": "Der Rocky Mountain National Park ist ein Nationalpark in Colorado, bekannt für seine Berglandschaften und vielfältige Tierwelt.",
+                  "text": "Der Rocky Mountain Nationalpark in Colorado schützt eine alpine Gebirgslandschaft.",
                   "category": "park",
                   "coords": [
                         -105.708895,
@@ -14344,7 +14344,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Taylor Peak",
-                  "text": "Der Taylor Peak ist ein Berggipfel im Rocky Mountain National Park.",
+                  "text": "Ein Gipfel namens Taylor im Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.680853,
@@ -14416,7 +14416,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ida",
-                  "text": "Der Mount Ida ist ein Gipfel im Rocky Mountain National Park.",
+                  "text": "Ein Berg namens Ida im Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.778849,
@@ -14425,7 +14425,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chief Cheley Peak",
-                  "text": "Der Chief Cheley Peak ist ein Berggipfel im Rocky Mountain National Park.",
+                  "text": "Ein Gipfel, benannt nach Chief Cheley, im Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.774184,
@@ -14434,7 +14434,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Julian",
-                  "text": "Der Mount Julian ist ein Gipfel im Rocky Mountain National Park.",
+                  "text": "Ein Berg namens Julian im Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.757508,
@@ -14452,7 +14452,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rocky Mountain Wilderness",
-                  "text": "Die Rocky Mountain Wilderness ist ein Wildnisgebiet im Rocky Mountain National Park.",
+                  "text": "Eine ausgedehnte alpine Wildnis mit hohen Gipfeln und Kiefernwäldern im Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.699595,
@@ -14463,7 +14463,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Rocky Mountain National Park",
-                  "text": "A Rocky Mountain Nemzeti Park egy nemzeti park Coloradóban, amely hegyi tájairól és változatos vadvilágáról ismert.",
+                  "text": "A coloradói Rocky Mountain Nemzeti Park egy alpesi hegyvidéki tájat véd.",
                   "category": "park",
                   "coords": [
                         -105.708895,
@@ -14481,7 +14481,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Taylor Peak",
-                  "text": "A Taylor Peak egy hegycsúcs a Rocky Mountain Nemzeti Parkban.",
+                  "text": "Egy Taylor nevű csúcs a Mountain Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -105.680853,
@@ -14553,7 +14553,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ida",
-                  "text": "A Mount Ida egy csúcs a Rocky Mountain Nemzeti Parkban.",
+                  "text": "Egy Ida nevű hegy a Mountain Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -105.778849,
@@ -14562,7 +14562,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chief Cheley Peak",
-                  "text": "A Chief Cheley Peak egy hegycsúcs a Rocky Mountain Nemzeti Parkban.",
+                  "text": "Egy Chief Cheley-ről elnevezett csúcs a Mountain Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -105.774184,
@@ -14571,7 +14571,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Julian",
-                  "text": "A Mount Julian egy csúcs a Rocky Mountain Nemzeti Parkban.",
+                  "text": "Egy Julian nevű hegy a Mountain Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -105.757508,
@@ -14589,7 +14589,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rocky Mountain Wilderness",
-                  "text": "A Rocky Mountain Wilderness egy vadon a Rocky Mountain Nemzeti Park területén.",
+                  "text": "Hatalmas alpesi vadon magas csúcsokkal és fenyvesekkel a Mountain Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -105.699595,
@@ -14600,7 +14600,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Rocky Mountain National Park",
-                  "text": "Parcul Național Rocky Mountain este un parc național din Colorado, cunoscut pentru peisajele montane și fauna diversă.",
+                  "text": "Parcul Național Rocky Mountain din Colorado protejează un peisaj montan alpin.",
                   "category": "park",
                   "coords": [
                         -105.708895,
@@ -14618,7 +14618,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Taylor Peak",
-                  "text": "Vârful Taylor este un vârf montan în Parcul Național Rocky Mountain.",
+                  "text": "Un vârf numit Taylor în Parcul Național Mountain.",
                   "category": "natural",
                   "coords": [
                         -105.680853,
@@ -14690,7 +14690,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ida",
-                  "text": "Vârful Mount Ida este un vârf în Parcul Național Rocky Mountain.",
+                  "text": "Un munte numit Ida în Parcul Național Mountain.",
                   "category": "natural",
                   "coords": [
                         -105.778849,
@@ -14699,7 +14699,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chief Cheley Peak",
-                  "text": "Vârful Chief Cheley este un vârf montan în Parcul Național Rocky Mountain.",
+                  "text": "Un vârf numit după Chief Cheley în Parcul Național Mountain.",
                   "category": "natural",
                   "coords": [
                         -105.774184,
@@ -14708,7 +14708,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Julian",
-                  "text": "Vârful Mount Julian este un vârf în Parcul Național Rocky Mountain.",
+                  "text": "Un munte numit Julian în Parcul Național Mountain.",
                   "category": "natural",
                   "coords": [
                         -105.757508,
@@ -14726,7 +14726,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rocky Mountain Wilderness",
-                  "text": "Rocky Mountain Wilderness este o zonă sălbatică din Parcul Național Rocky Mountain.",
+                  "text": "O vastă zonă sălbatică alpină cu vârfuri înalte și păduri de pini în Parcul Național Mountain.",
                   "category": "natural",
                   "coords": [
                         -105.699595,
@@ -14737,7 +14737,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Rocky Mountain National Park",
-                  "text": "Rocky Mountain National Park is a national park in Colorado known for its mountain landscapes and diverse wildlife.",
+                  "text": "Rocky Mountain National Park in Colorado protects an alpine mountain landscape.",
                   "category": "park",
                   "coords": [
                         -105.708895,
@@ -14755,7 +14755,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Taylor Peak",
-                  "text": "Taylor Peak is a mountain peak in Rocky Mountain National Park.",
+                  "text": "A peak named after Taylor in Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.680853,
@@ -14827,7 +14827,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Ida",
-                  "text": "Mount Ida is a peak in Rocky Mountain National Park.",
+                  "text": "A mountain named Ida in Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.778849,
@@ -14836,7 +14836,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chief Cheley Peak",
-                  "text": "Chief Cheley Peak is a mountain peak in Rocky Mountain National Park.",
+                  "text": "A peak named after Chief Cheley in Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.774184,
@@ -14845,7 +14845,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Julian",
-                  "text": "Mount Julian is a peak in Rocky Mountain National Park.",
+                  "text": "A mountain named Julian in Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.757508,
@@ -14863,7 +14863,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rocky Mountain Wilderness",
-                  "text": "Rocky Mountain Wilderness is a wilderness area within Rocky Mountain National Park.",
+                  "text": "A vast alpine wilderness with high peaks and pine forests in Mountain National Park.",
                   "category": "natural",
                   "coords": [
                         -105.699595,
@@ -14911,7 +14911,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Gallery 164",
-                  "text": "Kunstgalerie im Gebiet Wisconsin Dairy Farms Life.",
+                  "text": "Eine kleine Kunstgalerie, die in einer ehemaligen Molkereischeune untergebracht ist.",
                   "category": "museum",
                   "coords": [
                         -89.672529,
@@ -14920,7 +14920,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mosinee School Forest",
-                  "text": "Naturschutzgebiet mit Wald in der Nähe von Mosinee.",
+                  "text": "Ein bewaldetes Bildungsgebiet, das von örtlichen Schulen für Outdoor-Lernen genutzt wird.",
                   "category": "natural",
                   "coords": [
                         -89.694303,
@@ -14938,7 +14938,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wausau School Forest",
-                  "text": "Schulwald bei Wausau, der als Naturschutzgebiet dient.",
+                  "text": "Ein bewaldetes Schulgelände für Umweltbildung und Wanderwege.",
                   "category": "natural",
                   "coords": [
                         -89.679922,
@@ -14947,7 +14947,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riedel-Redmond Nature Preserve",
-                  "text": "Naturschutzgebiet mit dem Namen Riedel-Redmond.",
+                  "text": "Ein Naturschutzgebiet mit Wanderwegen durch Feuchtgebiete und Wälder.",
                   "category": "natural",
                   "coords": [
                         -89.681561,
@@ -14958,7 +14958,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Gallery 164",
-                  "text": "Művészeti galéria a Wisconsin Dairy Farms Life területén.",
+                  "text": "Egy kis művészeti galéria, amely egy egykori tejgazdasági istállóban kapott helyet.",
                   "category": "museum",
                   "coords": [
                         -89.672529,
@@ -14967,7 +14967,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mosinee School Forest",
-                  "text": "Természetvédelmi terület erdővel Mosinee közelében.",
+                  "text": "Egy erdős oktatási terület, amelyet a helyi iskolák használnak a szabadtéri tanuláshoz.",
                   "category": "natural",
                   "coords": [
                         -89.694303,
@@ -14985,7 +14985,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wausau School Forest",
-                  "text": "Iskolai erdő Wausau mellett, természetvédelmi terület.",
+                  "text": "Egy erdős iskolai terület környezeti nevelésre és túraútvonalakra.",
                   "category": "natural",
                   "coords": [
                         -89.679922,
@@ -14994,7 +14994,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riedel-Redmond Nature Preserve",
-                  "text": "Riedel-Redmond természetvédelmi terület.",
+                  "text": "Egy természetvédelmi terület gyalogösvényekkel, amelyek vizes élőhelyeken és erdőkön haladnak át.",
                   "category": "natural",
                   "coords": [
                         -89.681561,
@@ -15005,7 +15005,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Gallery 164",
-                  "text": "Galerie de artă în zona Wisconsin Dairy Farms Life.",
+                  "text": "O mică galerie de artă găzduită într-un fost hambar de lactate.",
                   "category": "museum",
                   "coords": [
                         -89.672529,
@@ -15014,7 +15014,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mosinee School Forest",
-                  "text": "Rezervație naturală cu pădure lângă Mosinee.",
+                  "text": "O zonă forestieră educațională folosită de școlile locale pentru învățarea în aer liber.",
                   "category": "natural",
                   "coords": [
                         -89.694303,
@@ -15032,7 +15032,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wausau School Forest",
-                  "text": "Pădure școlară lângă Wausau, rezervație naturală.",
+                  "text": "O pădure școlară pentru educație ecologică și trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -89.679922,
@@ -15041,7 +15041,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riedel-Redmond Nature Preserve",
-                  "text": "Rezervația naturală Riedel-Redmond.",
+                  "text": "O rezervație naturală cu trasee de drumeție prin zone umede și păduri.",
                   "category": "natural",
                   "coords": [
                         -89.681561,
@@ -15052,7 +15052,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Gallery 164",
-                  "text": "Art gallery in the Wisconsin Dairy Farms Life area.",
+                  "text": "A small art gallery housed in a former dairy barn.",
                   "category": "museum",
                   "coords": [
                         -89.672529,
@@ -15061,7 +15061,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mosinee School Forest",
-                  "text": "Nature reserve with forest near Mosinee.",
+                  "text": "A forested educational area used by local schools for outdoor learning.",
                   "category": "natural",
                   "coords": [
                         -89.694303,
@@ -15079,7 +15079,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wausau School Forest",
-                  "text": "School forest near Wausau, used as a nature reserve.",
+                  "text": "A school forest for environmental education and hiking trails.",
                   "category": "natural",
                   "coords": [
                         -89.679922,
@@ -15088,7 +15088,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Riedel-Redmond Nature Preserve",
-                  "text": "Nature preserve named Riedel-Redmond.",
+                  "text": "A nature preserve with hiking trails through wetlands and forests.",
                   "category": "natural",
                   "coords": [
                         -89.681561,
@@ -15145,7 +15145,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "Das San Dieguito Heritage Museum at the Heritage Ranch ist ein Museum in legoland-california-life-v2, das sich auf lokales Erbe konzentriert.",
+                  "text": "Ein Museum der San Dieguito Geschichte auf der Heritage Ranch in Kalifornien.",
                   "category": "museum",
                   "coords": [
                         -117.279806,
@@ -15154,7 +15154,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Making Music",
-                  "text": "Das Museum of Making Music ist ein Museum in legoland-california-life-v2, das der Geschichte der Musikinstrumente gewidmet ist.",
+                  "text": "Ein Museum, das der Geschichte des Musikmachens gewidmet ist, in Kalifornien.",
                   "category": "museum",
                   "coords": [
                         -117.317028,
@@ -15163,7 +15163,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Avo Playhouse",
-                  "text": "Das Avo Playhouse ist ein Theater in legoland-california-life-v2.",
+                  "text": "Ein Spielhaus namens Avo in Kalifornien.",
                   "category": "cultural",
                   "coords": [
                         -117.241132,
@@ -15172,7 +15172,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Waterpark",
-                  "text": "Der Wave Waterpark ist ein Wasserpark-Attraktion in legoland-california-life-v2.",
+                  "text": "Ein Wasserpark mit Wellenbädern in Kalifornien.",
                   "category": "landmark",
                   "coords": [
                         -117.246489,
@@ -15190,7 +15190,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill",
-                  "text": "Der Breeze Hill ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Hügel namens Breeze in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.259492,
@@ -15199,7 +15199,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Mountain",
-                  "text": "Der Calavera Mountain ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Berg namens Calavera (Schädel) in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.281703,
@@ -15208,7 +15208,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coxey Hill",
-                  "text": "Der Coxey Hill ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Hügel namens Coxey in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.255591,
@@ -15217,7 +15217,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Francisco Peak",
-                  "text": "Der San Francisco Peak ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Gipfel namens San Francisco in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.264912,
@@ -15226,7 +15226,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Alta Vista Gardens",
-                  "text": "Die Alta Vista Gardens sind ein Garten in legoland-california-life-v2.",
+                  "text": "Ein Garten mit hohen Aussichten (Alta Vista) in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.219371,
@@ -15235,7 +15235,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cerro de las Posas",
-                  "text": "Der Cerro de las Posas ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Hügel der Brunnen (Cerro de las Posas) in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.192569,
@@ -15244,7 +15244,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Double Peak",
-                  "text": "Der Double Peak ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Gipfel mit zwei Gipfeln in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.177594,
@@ -15253,7 +15253,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Franks Peak",
-                  "text": "Der Franks Peak ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Ein Gipfel, benannt nach Frank, in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.157175,
@@ -15262,7 +15262,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "La Costa Canyon Park",
-                  "text": "Der La Costa Canyon Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Der La Costa Canyon Park liegt in einem felsigen Canyon in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.242258,
@@ -15271,7 +15271,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Hinton",
-                  "text": "Der Mount Hinton ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Der Mount Hinton ist ein markanter Gipfel in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.25602,
@@ -15280,7 +15280,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Marron",
-                  "text": "Der Mount Marron ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Der Mount Marron ist ein Berggipfel in Kalifornien.",
                   "category": "natural",
                   "coords": [
                         -117.250591,
@@ -15289,7 +15289,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Evans Point",
-                  "text": "Der Evans Point ist ein Gipfel in legoland-california-life-v2.",
+                  "text": "Evans Point ist eine Landspitze an der kalifornischen Küste.",
                   "category": "natural",
                   "coords": [
                         -117.298585,
@@ -15298,7 +15298,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jacks Pond Park",
-                  "text": "Der Jacks Pond Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Der Jacks Pond Park umgibt einen kleinen Teich in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.141399,
@@ -15307,7 +15307,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Woodland Park",
-                  "text": "Der Woodland Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Woodland Park ist ein bewaldeter Park in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.131985,
@@ -15316,7 +15316,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Knob Hill Park",
-                  "text": "Der Knob Hill Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Knob Hill Park liegt auf einem Hügel in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.120003,
@@ -15325,7 +15325,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walnut Grove Park",
-                  "text": "Der Walnut Grove Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Walnut Grove Park ist nach einem Walnusshain benannt in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.152644,
@@ -15334,7 +15334,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Raintree Park",
-                  "text": "Der Raintree Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Raintree Park ist nach den Regenbäumen benannt in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.238105,
@@ -15343,7 +15343,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Civic Center Park",
-                  "text": "Der Civic Center Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Civic Center Park liegt am Rathaus in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.234259,
@@ -15352,7 +15352,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildwood Park",
-                  "text": "Der Wildwood Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Wildwood Park ist ein wildbewachsener Park in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.236162,
@@ -15361,7 +15361,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill Park",
-                  "text": "Der Breeze Hill Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Breeze Hill Park liegt auf einem windigen Hügel in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.254604,
@@ -15370,7 +15370,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Park",
-                  "text": "Der Calavera Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Calavera Park ist nach dem Kalifornischen Totenkopf benannt (Calavera).",
                   "category": "park",
                   "coords": [
                         -117.299106,
@@ -15379,7 +15379,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thibodo Park",
-                  "text": "Der Thibodo Park ist ein Park in legoland-california-life-v2.",
+                  "text": "Thibodo Park ist ein nach einer Person benannter Park in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.228874,
@@ -15388,7 +15388,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buena Vista Park Pond and Open Space",
-                  "text": "Ein Park mit einem Teich und Freiflächen.",
+                  "text": "Buena Vista Park Pond and Open Space hat einen Teich und bietet freie Flächen in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.245361,
@@ -15397,7 +15397,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brengle Terrace Park",
-                  "text": "Ein Park in der Gegend von Legoland California.",
+                  "text": "Brengle Terrace Park ist ein terrassierter Park in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.220841,
@@ -15406,7 +15406,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Discovery Community Park",
-                  "text": "Ein Gemeinschaftspark in der Nähe von Legoland.",
+                  "text": "Discovery Community Park ist ein Gemeinschaftspark mit einem Entdeckungsthema in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.178649,
@@ -15415,7 +15415,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "William R Bradley Park",
-                  "text": "Ein Park benannt nach William R. Bradley.",
+                  "text": "William R Bradley Park ist nach dem Politiker William R. Bradley benannt in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.201828,
@@ -15424,7 +15424,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cadencia Park",
-                  "text": "Ein Park in der Cadencia-Gegend.",
+                  "text": "Cadencia Park ist ein Park, der nach dem Rhythmus benannt ist, in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.232366,
@@ -15433,7 +15433,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Levante School Park",
-                  "text": "Ein Park, der zur Levante-Schule gehört.",
+                  "text": "Levante School Park liegt neben einer Schule in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.242425,
@@ -15442,7 +15442,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stagecoach Park",
-                  "text": "Ein Park mit dem Thema Postkutsche.",
+                  "text": "Stagecoach Park ist ein Park mit einem Postkutschen-Thema in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.233823,
@@ -15451,7 +15451,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carrillo Ranch Park",
-                  "text": "Ein Park auf der Carrillo Ranch.",
+                  "text": "Carrillo Ranch Park liegt auf dem Gelände einer ehemaligen Ranch in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.237102,
@@ -15460,7 +15460,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Riviera City Park",
-                  "text": "Ein Stadtpark in Laguna Riviera.",
+                  "text": "Laguna Riviera City Park liegt in der Nähe einer Lagune in Kalifornien.",
                   "category": "park",
                   "coords": [
                         -117.31183,
@@ -15469,7 +15469,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vista Historical Society",
-                  "text": "Ein Museum zur lokalen Geschichte in Vista.",
+                  "text": "Ein historisches Gesellschaftsmuseum mit Exponaten zur lokalen kalifornischen Geschichte.",
                   "category": "museum",
                   "coords": [
                         -117.204425,
@@ -15478,7 +15478,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cannon Art Gallery",
-                  "text": "Eine Kunstgalerie in der Gegend.",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Werke lokaler und nationaler Künstler zeigt.",
                   "category": "museum",
                   "coords": [
                         -117.269424,
@@ -15487,7 +15487,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Model Shop",
-                  "text": "Ein Museum, das Modelle ausstellt.",
+                  "text": "Ein Museum, das detaillierte maßstabsgetreue Modelle von Fahrzeugen und Gebäuden ausstellt.",
                   "category": "museum",
                   "coords": [
                         -117.310744,
@@ -15507,7 +15507,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "A San Dieguito Örökség Múzeum a Heritage Ranch-on egy múzeum legoland-california-life-v2-ben, amely a helyi örökségre összpontosít.",
+                  "text": "A San Dieguito örökség múzeuma a Heritage Ranchon Kaliforniában.",
                   "category": "museum",
                   "coords": [
                         -117.279806,
@@ -15516,7 +15516,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Making Music",
-                  "text": "A Zenealkotás Múzeuma egy múzeum legoland-california-life-v2-ben, amely a hangszerek történetének szentelt.",
+                  "text": "Egy múzeum, amely a zenekészítés történetének szentelt, Kaliforniában.",
                   "category": "museum",
                   "coords": [
                         -117.317028,
@@ -15525,7 +15525,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Avo Playhouse",
-                  "text": "Az Avo Playhouse egy színház legoland-california-life-v2-ben.",
+                  "text": "Egy Avo nevű játszóház Kaliforniában.",
                   "category": "cultural",
                   "coords": [
                         -117.241132,
@@ -15534,7 +15534,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Waterpark",
-                  "text": "A Wave Waterpark egy vízipark-attrakció legoland-california-life-v2-ben.",
+                  "text": "Egy vízipark hullámmedencékkel Kaliforniában.",
                   "category": "landmark",
                   "coords": [
                         -117.246489,
@@ -15552,7 +15552,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill",
-                  "text": "A Breeze Hill egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Egy Breeze nevű domb Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.259492,
@@ -15561,7 +15561,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Mountain",
-                  "text": "A Calavera Mountain egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Egy Calavera (koponya) nevű hegy Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.281703,
@@ -15570,7 +15570,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coxey Hill",
-                  "text": "A Coxey Hill egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Egy Coxey nevű domb Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.255591,
@@ -15579,7 +15579,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Francisco Peak",
-                  "text": "A San Francisco Peak egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Egy San Francisco nevű csúcs Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.264912,
@@ -15588,7 +15588,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Alta Vista Gardens",
-                  "text": "Az Alta Vista Gardens egy kert legoland-california-life-v2-ben.",
+                  "text": "Egy kert magas kilátással (Alta Vista) Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.219371,
@@ -15597,7 +15597,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cerro de las Posas",
-                  "text": "A Cerro de las Posas egy csúcs legoland-california-life-v2-ben.",
+                  "text": "A kutak dombja (Cerro de las Posas) Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.192569,
@@ -15606,7 +15606,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Double Peak",
-                  "text": "A Double Peak egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Egy csúcs két csúccsal Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.177594,
@@ -15615,7 +15615,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Franks Peak",
-                  "text": "A Franks Peak egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Egy Frankről elnevezett csúcs Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.157175,
@@ -15624,7 +15624,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "La Costa Canyon Park",
-                  "text": "A La Costa Canyon Park egy park legoland-california-life-v2-ben.",
+                  "text": "A La Costa Canyon Park egy sziklás kanyonban található Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.242258,
@@ -15633,7 +15633,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Hinton",
-                  "text": "A Mount Hinton egy csúcs legoland-california-life-v2-ben.",
+                  "text": "A Mount Hinton egy jellegzetes csúcs Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.25602,
@@ -15642,7 +15642,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Marron",
-                  "text": "A Mount Marron egy csúcs legoland-california-life-v2-ben.",
+                  "text": "A Mount Marron egy hegycsúcs Kaliforniában.",
                   "category": "natural",
                   "coords": [
                         -117.250591,
@@ -15651,7 +15651,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Evans Point",
-                  "text": "A Evans Point egy csúcs legoland-california-life-v2-ben.",
+                  "text": "Az Evans Point egy földnyelv a kaliforniai parton.",
                   "category": "natural",
                   "coords": [
                         -117.298585,
@@ -15660,7 +15660,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jacks Pond Park",
-                  "text": "A Jacks Pond Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Jacks Pond Park egy kis tavat vesz körül Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.141399,
@@ -15669,7 +15669,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Woodland Park",
-                  "text": "A Woodland Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Woodland Park egy erdős park Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.131985,
@@ -15678,7 +15678,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Knob Hill Park",
-                  "text": "A Knob Hill Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Knob Hill Park egy dombon fekszik Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.120003,
@@ -15687,7 +15687,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walnut Grove Park",
-                  "text": "A Walnut Grove Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Walnut Grove Park egy diófásról kapta a nevét Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.152644,
@@ -15696,7 +15696,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Raintree Park",
-                  "text": "A Raintree Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Raintree Park az esőfákról kapta a nevét Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.238105,
@@ -15705,7 +15705,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Civic Center Park",
-                  "text": "A Civic Center Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Civic Center Park a városháza mellett található Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.234259,
@@ -15714,7 +15714,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildwood Park",
-                  "text": "A Wildwood Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Wildwood Park egy vadregényes park Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.236162,
@@ -15723,7 +15723,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill Park",
-                  "text": "A Breeze Hill Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Breeze Hill Park egy szeles dombon fekszik Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.254604,
@@ -15732,7 +15732,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Park",
-                  "text": "A Calavera Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Calavera Park a kaliforniai koponyáról kapta a nevét.",
                   "category": "park",
                   "coords": [
                         -117.299106,
@@ -15741,7 +15741,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thibodo Park",
-                  "text": "A Thibodo Park egy park legoland-california-life-v2-ben.",
+                  "text": "A Thibodo Park egy személyről elnevezett park Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.228874,
@@ -15750,7 +15750,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buena Vista Park Pond and Open Space",
-                  "text": "Egy park tóval és nyílt területtel.",
+                  "text": "A Buena Vista Park Pond and Open Space egy tóval és nyílt terekkel rendelkezik Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.245361,
@@ -15759,7 +15759,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brengle Terrace Park",
-                  "text": "Egy park a legolandi kaliforniai területen.",
+                  "text": "A Brengle Terrace Park egy teraszos park Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.220841,
@@ -15768,7 +15768,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Discovery Community Park",
-                  "text": "Egy közösségi park Legoland közelében.",
+                  "text": "A Discovery Community Park egy felfedezés tematikájú közösségi park Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.178649,
@@ -15777,7 +15777,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "William R Bradley Park",
-                  "text": "Egy park, amely William R. Bradley nevét viseli.",
+                  "text": "A William R Bradley Park William R. Bradley politikusról kapta a nevét Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.201828,
@@ -15786,7 +15786,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cadencia Park",
-                  "text": "Egy park a Cadencia környékén.",
+                  "text": "A Cadencia Park a ritmusról kapta a nevét Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.232366,
@@ -15795,7 +15795,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Levante School Park",
-                  "text": "Egy park, amely a Levante Iskolához tartozik.",
+                  "text": "A Levante School Park egy iskola mellett található Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.242425,
@@ -15804,7 +15804,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stagecoach Park",
-                  "text": "Egy park postakocsi témában.",
+                  "text": "A Stagecoach Park egy postakocsi tematikájú park Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.233823,
@@ -15813,7 +15813,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carrillo Ranch Park",
-                  "text": "Egy park a Carrillo Ranch területén.",
+                  "text": "A Carrillo Ranch Park egy egykori ranch területén fekszik Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.237102,
@@ -15822,7 +15822,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Riviera City Park",
-                  "text": "Egy városi park Laguna Rivierában.",
+                  "text": "A Laguna Riviera City Park egy lagúna közelében található Kaliforniában.",
                   "category": "park",
                   "coords": [
                         -117.31183,
@@ -15831,7 +15831,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vista Historical Society",
-                  "text": "Egy helytörténeti múzeum Vistában.",
+                  "text": "Egy történelmi társasági múzeum, amely a helyi kaliforniai történelem kiállításait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -117.204425,
@@ -15840,7 +15840,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cannon Art Gallery",
-                  "text": "Egy művészeti galéria a környéken.",
+                  "text": "Egy művészeti galéria, amely kortárs alkotásokat mutat be helyi és országos művészektől.",
                   "category": "museum",
                   "coords": [
                         -117.269424,
@@ -15849,7 +15849,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Model Shop",
-                  "text": "Egy múzeum, amely modelleket mutat be.",
+                  "text": "Egy múzeum, amely részletes méretarányos modelleket állít ki járművekről és épületekről.",
                   "category": "museum",
                   "coords": [
                         -117.310744,
@@ -15869,7 +15869,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "Muzeul Patrimoniului San Dieguito de la Heritage Ranch este un muzeu în legoland-california-life-v2 care se concentrează pe patrimoniul local.",
+                  "text": "Un muzeu al patrimoniului San Dieguito la Heritage Ranch în California.",
                   "category": "museum",
                   "coords": [
                         -117.279806,
@@ -15878,7 +15878,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Making Music",
-                  "text": "Muzeul Realizării Muzicii este un muzeu în legoland-california-life-v2 dedicat istoriei instrumentelor muzicale.",
+                  "text": "Un muzeu dedicat istoriei creării muzicii în California.",
                   "category": "museum",
                   "coords": [
                         -117.317028,
@@ -15887,7 +15887,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Avo Playhouse",
-                  "text": "Teatrul Avo este un teatru în legoland-california-life-v2.",
+                  "text": "Un teatru pentru copii numit Avo în California.",
                   "category": "cultural",
                   "coords": [
                         -117.241132,
@@ -15896,7 +15896,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Waterpark",
-                  "text": "Parcul Acvatic Wave este o atracție de parc acvatic în legoland-california-life-v2.",
+                  "text": "Un parc acvatic cu piscine cu valuri în California.",
                   "category": "landmark",
                   "coords": [
                         -117.246489,
@@ -15914,7 +15914,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill",
-                  "text": "Dealul Breeze este un vârf în legoland-california-life-v2.",
+                  "text": "Un deal numit Breeze în California.",
                   "category": "natural",
                   "coords": [
                         -117.259492,
@@ -15923,7 +15923,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Mountain",
-                  "text": "Muntele Calavera este un vârf în legoland-california-life-v2.",
+                  "text": "Un munte numit Calavera (craniu) în California.",
                   "category": "natural",
                   "coords": [
                         -117.281703,
@@ -15932,7 +15932,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coxey Hill",
-                  "text": "Dealul Coxey este un vârf în legoland-california-life-v2.",
+                  "text": "Un deal numit Coxey în California.",
                   "category": "natural",
                   "coords": [
                         -117.255591,
@@ -15941,7 +15941,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Francisco Peak",
-                  "text": "Vârful San Francisco este un vârf în legoland-california-life-v2.",
+                  "text": "Un vârf numit San Francisco în California.",
                   "category": "natural",
                   "coords": [
                         -117.264912,
@@ -15950,7 +15950,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Alta Vista Gardens",
-                  "text": "Grădinile Alta Vista sunt o grădină în legoland-california-life-v2.",
+                  "text": "O grădină cu vederi înalte (Alta Vista) în California.",
                   "category": "park",
                   "coords": [
                         -117.219371,
@@ -15959,7 +15959,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cerro de las Posas",
-                  "text": "Cerro de las Posas este un vârf în legoland-california-life-v2.",
+                  "text": "Un deal al fântânilor (Cerro de las Posas) în California.",
                   "category": "natural",
                   "coords": [
                         -117.192569,
@@ -15968,7 +15968,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Double Peak",
-                  "text": "Vârful Dublu este un vârf în legoland-california-life-v2.",
+                  "text": "Un vârf cu două vârfuri în California.",
                   "category": "natural",
                   "coords": [
                         -117.177594,
@@ -15977,7 +15977,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Franks Peak",
-                  "text": "Vârful Franks este un vârf în legoland-california-life-v2.",
+                  "text": "Un vârf numit după Frank în California.",
                   "category": "natural",
                   "coords": [
                         -117.157175,
@@ -15986,7 +15986,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "La Costa Canyon Park",
-                  "text": "Parcul La Costa Canyon este un parc în legoland-california-life-v2.",
+                  "text": "Parcul La Costa Canyon este situat într-un canion stâncos din California.",
                   "category": "park",
                   "coords": [
                         -117.242258,
@@ -15995,7 +15995,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Hinton",
-                  "text": "Muntele Hinton este un vârf în legoland-california-life-v2.",
+                  "text": "Mount Hinton este un vârf proeminent din California.",
                   "category": "natural",
                   "coords": [
                         -117.25602,
@@ -16004,7 +16004,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Marron",
-                  "text": "Muntele Marron este un vârf în legoland-california-life-v2.",
+                  "text": "Mount Marron este un vârf muntos din California.",
                   "category": "natural",
                   "coords": [
                         -117.250591,
@@ -16013,7 +16013,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Evans Point",
-                  "text": "Punctul Evans este un vârf în legoland-california-life-v2.",
+                  "text": "Evans Point este un promontoriu pe coasta Californiei.",
                   "category": "natural",
                   "coords": [
                         -117.298585,
@@ -16022,7 +16022,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jacks Pond Park",
-                  "text": "Parcul iazului Jacks este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Jacks Pond înconjoară un mic iaz în California.",
                   "category": "park",
                   "coords": [
                         -117.141399,
@@ -16031,7 +16031,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Woodland Park",
-                  "text": "Parcul Woodland este un parc în legoland-california-life-v2.",
+                  "text": "Woodland Park este un parc împădurit din California.",
                   "category": "park",
                   "coords": [
                         -117.131985,
@@ -16040,7 +16040,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Knob Hill Park",
-                  "text": "Parcul Knob Hill este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Knob Hill este situat pe o colină în California.",
                   "category": "park",
                   "coords": [
                         -117.120003,
@@ -16049,7 +16049,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walnut Grove Park",
-                  "text": "Parcul Walnut Grove este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Walnut Grove poartă numele unei livezi de nuci din California.",
                   "category": "park",
                   "coords": [
                         -117.152644,
@@ -16058,7 +16058,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Raintree Park",
-                  "text": "Parcul Raintree este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Raintree poartă numele copacilor de ploaie din California.",
                   "category": "park",
                   "coords": [
                         -117.238105,
@@ -16067,7 +16067,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Civic Center Park",
-                  "text": "Parcul Centrului Civic este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Civic Center este situat lângă primărie în California.",
                   "category": "park",
                   "coords": [
                         -117.234259,
@@ -16076,7 +16076,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildwood Park",
-                  "text": "Parcul Wildwood este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Wildwood este un parc sălbatic din California.",
                   "category": "park",
                   "coords": [
                         -117.236162,
@@ -16085,7 +16085,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill Park",
-                  "text": "Parcul Breeze Hill este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Breeze Hill este situat pe o colină vântoasă în California.",
                   "category": "park",
                   "coords": [
                         -117.254604,
@@ -16094,7 +16094,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Park",
-                  "text": "Parcul Calavera este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Calavera poartă numele craniului californian.",
                   "category": "park",
                   "coords": [
                         -117.299106,
@@ -16103,7 +16103,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thibodo Park",
-                  "text": "Parcul Thibodo este un parc în legoland-california-life-v2.",
+                  "text": "Parcul Thibodo este un parc numit după o persoană în California.",
                   "category": "park",
                   "coords": [
                         -117.228874,
@@ -16112,7 +16112,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buena Vista Park Pond and Open Space",
-                  "text": "Un parc cu iaz și spațiu deschis.",
+                  "text": "Parcul Buena Vista cu iaz și spațiu deschis are un iaz și zone libere în California.",
                   "category": "park",
                   "coords": [
                         -117.245361,
@@ -16121,7 +16121,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brengle Terrace Park",
-                  "text": "Un parc în zona Legoland California.",
+                  "text": "Parcul Brengle Terrace este un park în terase în California.",
                   "category": "park",
                   "coords": [
                         -117.220841,
@@ -16130,7 +16130,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Discovery Community Park",
-                  "text": "Un parc comunitar lângă Legoland.",
+                  "text": "Parcul Comunitar Discovery este un parc tematic al descoperirii în California.",
                   "category": "park",
                   "coords": [
                         -117.178649,
@@ -16139,7 +16139,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "William R Bradley Park",
-                  "text": "Un parc numit după William R. Bradley.",
+                  "text": "Parcul William R Bradley poartă numele politicianului William R. Bradley în California.",
                   "category": "park",
                   "coords": [
                         -117.201828,
@@ -16148,7 +16148,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cadencia Park",
-                  "text": "Un parc în zona Cadencia.",
+                  "text": "Parcul Cadencia poartă numele ritmului în California.",
                   "category": "park",
                   "coords": [
                         -117.232366,
@@ -16157,7 +16157,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Levante School Park",
-                  "text": "Un parc asociat Școlii Levante.",
+                  "text": "Parcul Școlii Levante este situat lângă o școală în California.",
                   "category": "park",
                   "coords": [
                         -117.242425,
@@ -16166,7 +16166,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stagecoach Park",
-                  "text": "Un parc cu tematică diligență.",
+                  "text": "Parcul Stagecoach este un parc cu tematică de diligență în California.",
                   "category": "park",
                   "coords": [
                         -117.233823,
@@ -16175,7 +16175,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carrillo Ranch Park",
-                  "text": "Un parc la Carrillo Ranch.",
+                  "text": "Parcul Carrillo Ranch este situat pe un fost teren de ranch în California.",
                   "category": "park",
                   "coords": [
                         -117.237102,
@@ -16184,7 +16184,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Riviera City Park",
-                  "text": "Un parc orășenesc în Laguna Riviera.",
+                  "text": "Parcul Orășenesc Laguna Riviera este situat lângă o lagună în California.",
                   "category": "park",
                   "coords": [
                         -117.31183,
@@ -16193,7 +16193,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vista Historical Society",
-                  "text": "Un muzeu de istorie locală în Vista.",
+                  "text": "Un muzeu al societății istorice cu exponate despre istoria locală a Californiei.",
                   "category": "museum",
                   "coords": [
                         -117.204425,
@@ -16202,7 +16202,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cannon Art Gallery",
-                  "text": "O galerie de artă în zonă.",
+                  "text": "O galerie de artă care expune lucrări contemporane ale artiștilor locali și naționali.",
                   "category": "museum",
                   "coords": [
                         -117.269424,
@@ -16211,7 +16211,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Model Shop",
-                  "text": "Un muzeu care prezintă modele.",
+                  "text": "Un muzeu care expune modele la scară detaliate ale vehiculelor și clădirilor.",
                   "category": "museum",
                   "coords": [
                         -117.310744,
@@ -16231,7 +16231,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "San Dieguito Heritage Museum at the Heritage Ranch is a museum in legoland-california-life-v2 focusing on local heritage.",
+                  "text": "A museum of San Dieguito heritage at Heritage Ranch in California.",
                   "category": "museum",
                   "coords": [
                         -117.279806,
@@ -16240,7 +16240,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Making Music",
-                  "text": "Museum of Making Music is a museum in legoland-california-life-v2 dedicated to the history of musical instruments.",
+                  "text": "A museum dedicated to the history of making music in California.",
                   "category": "museum",
                   "coords": [
                         -117.317028,
@@ -16249,7 +16249,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Avo Playhouse",
-                  "text": "Avo Playhouse is a theatre in legoland-california-life-v2.",
+                  "text": "A playhouse named Avo in California.",
                   "category": "cultural",
                   "coords": [
                         -117.241132,
@@ -16258,7 +16258,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wave Waterpark",
-                  "text": "Wave Waterpark is a water park attraction in legoland-california-life-v2.",
+                  "text": "A waterpark with wave pools in California.",
                   "category": "landmark",
                   "coords": [
                         -117.246489,
@@ -16276,7 +16276,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill",
-                  "text": "Breeze Hill is a peak in legoland-california-life-v2.",
+                  "text": "A hill named Breeze in California.",
                   "category": "natural",
                   "coords": [
                         -117.259492,
@@ -16285,7 +16285,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Mountain",
-                  "text": "Calavera Mountain is a peak in legoland-california-life-v2.",
+                  "text": "A mountain named Calavera (skull) in California.",
                   "category": "natural",
                   "coords": [
                         -117.281703,
@@ -16294,7 +16294,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coxey Hill",
-                  "text": "Coxey Hill is a peak in legoland-california-life-v2.",
+                  "text": "A hill named Coxey in California.",
                   "category": "natural",
                   "coords": [
                         -117.255591,
@@ -16303,7 +16303,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "San Francisco Peak",
-                  "text": "San Francisco Peak is a peak in legoland-california-life-v2.",
+                  "text": "A peak named after San Francisco in California.",
                   "category": "natural",
                   "coords": [
                         -117.264912,
@@ -16312,7 +16312,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Alta Vista Gardens",
-                  "text": "Alta Vista Gardens is a garden in legoland-california-life-v2.",
+                  "text": "A garden with high views (Alta Vista) in California.",
                   "category": "park",
                   "coords": [
                         -117.219371,
@@ -16321,7 +16321,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cerro de las Posas",
-                  "text": "Cerro de las Posas is a peak in legoland-california-life-v2.",
+                  "text": "A hill of the wells (Cerro de las Posas) in California.",
                   "category": "natural",
                   "coords": [
                         -117.192569,
@@ -16330,7 +16330,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Double Peak",
-                  "text": "Double Peak is a peak in legoland-california-life-v2.",
+                  "text": "A peak with two summits in California.",
                   "category": "natural",
                   "coords": [
                         -117.177594,
@@ -16339,7 +16339,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Franks Peak",
-                  "text": "Franks Peak is a peak in legoland-california-life-v2.",
+                  "text": "A peak named after Frank in California.",
                   "category": "natural",
                   "coords": [
                         -117.157175,
@@ -16348,7 +16348,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "La Costa Canyon Park",
-                  "text": "La Costa Canyon Park is a park in legoland-california-life-v2.",
+                  "text": "La Costa Canyon Park sits in a rocky canyon in California.",
                   "category": "park",
                   "coords": [
                         -117.242258,
@@ -16357,7 +16357,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Hinton",
-                  "text": "Mount Hinton is a peak in legoland-california-life-v2.",
+                  "text": "Mount Hinton is a prominent peak in California.",
                   "category": "natural",
                   "coords": [
                         -117.25602,
@@ -16366,7 +16366,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Marron",
-                  "text": "Mount Marron is a peak in legoland-california-life-v2.",
+                  "text": "Mount Marron is a mountain summit in California.",
                   "category": "natural",
                   "coords": [
                         -117.250591,
@@ -16375,7 +16375,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Evans Point",
-                  "text": "Evans Point is a peak in legoland-california-life-v2.",
+                  "text": "Evans Point is a headland on the California coast.",
                   "category": "natural",
                   "coords": [
                         -117.298585,
@@ -16384,7 +16384,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jacks Pond Park",
-                  "text": "Jacks Pond Park is a park in legoland-california-life-v2.",
+                  "text": "Jacks Pond Park surrounds a small pond in California.",
                   "category": "park",
                   "coords": [
                         -117.141399,
@@ -16393,7 +16393,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Woodland Park",
-                  "text": "Woodland Park is a park in legoland-california-life-v2.",
+                  "text": "Woodland Park is a wooded park in California.",
                   "category": "park",
                   "coords": [
                         -117.131985,
@@ -16402,7 +16402,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Knob Hill Park",
-                  "text": "Knob Hill Park is a park in legoland-california-life-v2.",
+                  "text": "Knob Hill Park is situated on a hill in California.",
                   "category": "park",
                   "coords": [
                         -117.120003,
@@ -16411,7 +16411,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walnut Grove Park",
-                  "text": "Walnut Grove Park is a park in legoland-california-life-v2.",
+                  "text": "Walnut Grove Park is named after a walnut grove in California.",
                   "category": "park",
                   "coords": [
                         -117.152644,
@@ -16420,7 +16420,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Raintree Park",
-                  "text": "Raintree Park is a park in legoland-california-life-v2.",
+                  "text": "Raintree Park is named after rain trees in California.",
                   "category": "park",
                   "coords": [
                         -117.238105,
@@ -16429,7 +16429,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Civic Center Park",
-                  "text": "Civic Center Park is a park in legoland-california-life-v2.",
+                  "text": "Civic Center Park is located next to city hall in California.",
                   "category": "park",
                   "coords": [
                         -117.234259,
@@ -16438,7 +16438,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildwood Park",
-                  "text": "Wildwood Park is a park in legoland-california-life-v2.",
+                  "text": "Wildwood Park is a wildwood park in California.",
                   "category": "park",
                   "coords": [
                         -117.236162,
@@ -16447,7 +16447,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Breeze Hill Park",
-                  "text": "Breeze Hill Park is a park in legoland-california-life-v2.",
+                  "text": "Breeze Hill Park sits on a breezy hill in California.",
                   "category": "park",
                   "coords": [
                         -117.254604,
@@ -16456,7 +16456,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Calavera Park",
-                  "text": "Calavera Park is a park in legoland-california-life-v2.",
+                  "text": "Calavera Park is named after the California skull (Calavera).",
                   "category": "park",
                   "coords": [
                         -117.299106,
@@ -16465,7 +16465,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Thibodo Park",
-                  "text": "Thibodo Park is a park in legoland-california-life-v2.",
+                  "text": "Thibodo Park is a park named after an individual in California.",
                   "category": "park",
                   "coords": [
                         -117.228874,
@@ -16474,7 +16474,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buena Vista Park Pond and Open Space",
-                  "text": "A park with a pond and open space.",
+                  "text": "Buena Vista Park Pond and Open Space features a pond and open fields in California.",
                   "category": "park",
                   "coords": [
                         -117.245361,
@@ -16483,7 +16483,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Brengle Terrace Park",
-                  "text": "A park in the Legoland California area.",
+                  "text": "Brengle Terrace Park is a terraced park in California.",
                   "category": "park",
                   "coords": [
                         -117.220841,
@@ -16492,7 +16492,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Discovery Community Park",
-                  "text": "A community park near Legoland.",
+                  "text": "Discovery Community Park is a community park with a discovery theme in California.",
                   "category": "park",
                   "coords": [
                         -117.178649,
@@ -16501,7 +16501,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "William R Bradley Park",
-                  "text": "A park named after William R. Bradley.",
+                  "text": "William R Bradley Park is named after politician William R. Bradley in California.",
                   "category": "park",
                   "coords": [
                         -117.201828,
@@ -16510,7 +16510,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cadencia Park",
-                  "text": "A park in the Cadencia area.",
+                  "text": "Cadencia Park is named after rhythm in California.",
                   "category": "park",
                   "coords": [
                         -117.232366,
@@ -16519,7 +16519,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Levante School Park",
-                  "text": "A park associated with Levante School.",
+                  "text": "Levante School Park is adjacent to a school in California.",
                   "category": "park",
                   "coords": [
                         -117.242425,
@@ -16528,7 +16528,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stagecoach Park",
-                  "text": "A park with a stagecoach theme.",
+                  "text": "Stagecoach Park is a stagecoach-themed park in California.",
                   "category": "park",
                   "coords": [
                         -117.233823,
@@ -16537,7 +16537,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Carrillo Ranch Park",
-                  "text": "A park at Carrillo Ranch.",
+                  "text": "Carrillo Ranch Park occupies a former ranch site in California.",
                   "category": "park",
                   "coords": [
                         -117.237102,
@@ -16546,7 +16546,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Laguna Riviera City Park",
-                  "text": "A city park in Laguna Riviera.",
+                  "text": "Laguna Riviera City Park is located near a lagoon in California.",
                   "category": "park",
                   "coords": [
                         -117.31183,
@@ -16555,7 +16555,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Vista Historical Society",
-                  "text": "A museum of local history in Vista.",
+                  "text": "A historical society museum featuring exhibits on local California history.",
                   "category": "museum",
                   "coords": [
                         -117.204425,
@@ -16564,7 +16564,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cannon Art Gallery",
-                  "text": "An art gallery in the area.",
+                  "text": "An art gallery showcasing contemporary works by local and national artists.",
                   "category": "museum",
                   "coords": [
                         -117.269424,
@@ -16573,7 +16573,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Model Shop",
-                  "text": "A museum showcasing models.",
+                  "text": "A museum displaying detailed scale models of vehicles and buildings.",
                   "category": "museum",
                   "coords": [
                         -117.310744,
@@ -16630,7 +16630,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "East Horn",
-                  "text": "East Horn ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "text": "East Horn ist ein markanter Berggipfel im Teton-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -110.766324,
@@ -16639,7 +16639,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bearpaw Bay",
-                  "text": "Bearpaw Bay ist eine Bucht im Grand-Teton-Nationalpark.",
+                  "text": "Bearpaw Bay ist eine Bucht am Jackson Lake im Teton-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -110.724657,
@@ -16648,7 +16648,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moran Bay",
-                  "text": "Moran Bay ist eine Bucht im Grand-Teton-Nationalpark.",
+                  "text": "Moran Bay ist eine Bucht am Jackson Lake im Teton-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -110.717434,
@@ -16657,7 +16657,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "North Bar Bay",
-                  "text": "North Bar Bay ist eine Bucht im Grand-Teton-Nationalpark.",
+                  "text": "North Bar Bay ist eine Bucht am Jackson Lake im Teton-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -110.680767,
@@ -16684,7 +16684,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rockchuck Peak",
-                  "text": "Rockchuck Peak ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "text": "Der Rockchuck Peak ist ein Gipfel im Grand-Teton-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -110.767713,
@@ -16693,7 +16693,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Horn",
-                  "text": "West Horn ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "text": "West Horn ist ein markanter Berggipfel im Teton-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -110.769936,
@@ -16738,7 +16738,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Falls (and ground squirrels dining room)",
-                  "text": "Hidden Falls ist ein Aussichtspunkt mit einem Wasserfall und Erdhörnchen im Grand-Teton-Nationalpark.",
+                  "text": "Ein malerischer Wasserfall mit einem beliebten Aussichtspunkt für Zieselbeobachtungen.",
                   "category": "natural",
                   "coords": [
                         -110.750809,
@@ -16774,7 +16774,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rock Of Ages",
-                  "text": "Rock Of Ages ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "text": "Rock Of Ages ist eine markante Felsformation im Teton-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -110.778191,
@@ -16783,7 +16783,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Jaw",
-                  "text": "The Jaw ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "text": "The Jaw ist eine felsige Formation im Teton-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -110.787158,
@@ -16830,7 +16830,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "East Horn",
-                  "text": "Az East Horn egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "text": "Az East Horn egy jellegzetes hegycsúcs a Teton Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -110.766324,
@@ -16839,7 +16839,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bearpaw Bay",
-                  "text": "A Bearpaw Bay egy öböl a Grand Teton Nemzeti Parkban.",
+                  "text": "A Bearpaw Bay egy öböl a Jackson-tónál a Teton Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         -110.724657,
@@ -16848,7 +16848,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moran Bay",
-                  "text": "A Moran Bay egy öböl a Grand Teton Nemzeti Parkban.",
+                  "text": "A Moran Bay egy öböl a Jackson-tónál a Teton Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         -110.717434,
@@ -16857,7 +16857,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "North Bar Bay",
-                  "text": "A North Bar Bay egy öböl a Grand Teton Nemzeti Parkban.",
+                  "text": "A North Bar Bay egy öböl a Jackson-tónál a Teton Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         -110.680767,
@@ -16893,7 +16893,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Horn",
-                  "text": "A West Horn egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "text": "A West Horn egy jellegzetes hegycsúcs a Teton Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -110.769936,
@@ -16938,7 +16938,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Falls (and ground squirrels dining room)",
-                  "text": "A Hidden Falls egy kilátópont vízeséssel és ürgékkel a Grand Teton Nemzeti Parkban.",
+                  "text": "Egy festői vízesés, népszerű ürgefigyelő ponttal.",
                   "category": "natural",
                   "coords": [
                         -110.750809,
@@ -16974,7 +16974,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rock Of Ages",
-                  "text": "A Rock Of Ages egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "text": "A Rock Of Ages egy jellegzetes sziklaalakzat a Teton Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -110.778191,
@@ -16983,7 +16983,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Jaw",
-                  "text": "A The Jaw egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "text": "A The Jaw egy sziklás képződmény a Teton Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -110.787158,
@@ -17030,7 +17030,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "East Horn",
-                  "text": "East Horn este un vârf în Parcul Național Grand Teton.",
+                  "text": "East Horn este un vârf muntos proeminent în Parcul Național Teton.",
                   "category": "natural",
                   "coords": [
                         -110.766324,
@@ -17039,7 +17039,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bearpaw Bay",
-                  "text": "Bearpaw Bay este un golf în Parcul Național Grand Teton.",
+                  "text": "Bearpaw Bay este un golf pe lacul Jackson din Parcul Național Teton.",
                   "category": "landmark",
                   "coords": [
                         -110.724657,
@@ -17048,7 +17048,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moran Bay",
-                  "text": "Moran Bay este un golf în Parcul Național Grand Teton.",
+                  "text": "Moran Bay este un golf pe lacul Jackson din Parcul Național Teton.",
                   "category": "landmark",
                   "coords": [
                         -110.717434,
@@ -17057,7 +17057,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "North Bar Bay",
-                  "text": "North Bar Bay este un golf în Parcul Național Grand Teton.",
+                  "text": "North Bar Bay este un golf pe lacul Jackson din Parcul Național Teton.",
                   "category": "landmark",
                   "coords": [
                         -110.680767,
@@ -17093,7 +17093,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Horn",
-                  "text": "West Horn este un vârf în Parcul Național Grand Teton.",
+                  "text": "West Horn este un vârf muntos proeminent în Parcul Național Teton.",
                   "category": "natural",
                   "coords": [
                         -110.769936,
@@ -17138,7 +17138,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Falls (and ground squirrels dining room)",
-                  "text": "Hidden Falls este un punct de belvedere cu o cascadă și veverițe de pământ în Parcul Național Grand Teton.",
+                  "text": "O cascadă pitorească cu un punct popular de observare a veverițelor de pământ.",
                   "category": "natural",
                   "coords": [
                         -110.750809,
@@ -17174,7 +17174,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rock Of Ages",
-                  "text": "Rock Of Ages este un vârf în Parcul Național Grand Teton.",
+                  "text": "Rock Of Ages este o formațiune stâncoasă proeminentă în Parcul Național Teton.",
                   "category": "natural",
                   "coords": [
                         -110.778191,
@@ -17183,7 +17183,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Jaw",
-                  "text": "The Jaw este un vârf în Parcul Național Grand Teton.",
+                  "text": "The Jaw este o formațiune stâncoasă în Parcul Național Teton.",
                   "category": "natural",
                   "coords": [
                         -110.787158,
@@ -17230,7 +17230,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "East Horn",
-                  "text": "East Horn is a peak in Grand Teton National Park.",
+                  "text": "East Horn is a prominent mountain peak in Teton National Park.",
                   "category": "natural",
                   "coords": [
                         -110.766324,
@@ -17239,7 +17239,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bearpaw Bay",
-                  "text": "Bearpaw Bay is a bay in Grand Teton National Park.",
+                  "text": "Bearpaw Bay is a bay on Jackson Lake in Teton National Park.",
                   "category": "landmark",
                   "coords": [
                         -110.724657,
@@ -17248,7 +17248,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moran Bay",
-                  "text": "Moran Bay is a bay in Grand Teton National Park.",
+                  "text": "Moran Bay is a bay on Jackson Lake in Teton National Park.",
                   "category": "landmark",
                   "coords": [
                         -110.717434,
@@ -17257,7 +17257,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "North Bar Bay",
-                  "text": "North Bar Bay is a bay in Grand Teton National Park.",
+                  "text": "North Bar Bay is a bay on Jackson Lake in Teton National Park.",
                   "category": "landmark",
                   "coords": [
                         -110.680767,
@@ -17293,7 +17293,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Horn",
-                  "text": "West Horn is a peak in Grand Teton National Park.",
+                  "text": "West Horn is a prominent mountain peak in Teton National Park.",
                   "category": "natural",
                   "coords": [
                         -110.769936,
@@ -17338,7 +17338,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Falls (and ground squirrels dining room)",
-                  "text": "Hidden Falls is a viewpoint with a waterfall and ground squirrels in Grand Teton National Park.",
+                  "text": "A scenic waterfall with a popular spot for watching ground squirrels.",
                   "category": "natural",
                   "coords": [
                         -110.750809,
@@ -17374,7 +17374,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Rock Of Ages",
-                  "text": "Rock Of Ages is a peak in Grand Teton National Park.",
+                  "text": "Rock Of Ages is a prominent rock formation in Teton National Park.",
                   "category": "natural",
                   "coords": [
                         -110.778191,
@@ -17383,7 +17383,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Jaw",
-                  "text": "The Jaw is a peak in Grand Teton National Park.",
+                  "text": "The Jaw is a rocky formation in Teton National Park.",
                   "category": "natural",
                   "coords": [
                         -110.787158,
@@ -17458,7 +17458,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Rutland Performing Arts Center",
-                  "text": "Rutland Performing Arts Center ist ein Theater in georgia-peach-orchards-life-v2.",
+                  "text": "Ein modernes Theater, das Theaterstücke und Konzerte inmitten von Pfirsichplantagen veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -83.712977,
@@ -17469,7 +17469,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Rutland Performing Arts Center",
-                  "text": "Rutland Performing Arts Center egy színház georgia-peach-orchards-life-v2-ben.",
+                  "text": "Egy modern színház, amely színdarabokat és koncerteket rendez őszibarack-ültetvények közepette.",
                   "category": "cultural",
                   "coords": [
                         -83.712977,
@@ -17480,7 +17480,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Rutland Performing Arts Center",
-                  "text": "Rutland Performing Arts Center este un teatru în georgia-peach-orchards-life-v2.",
+                  "text": "Un teatru modern care găzduiește piese de teatru și concerte în mijlocul livezilor de piersici.",
                   "category": "cultural",
                   "coords": [
                         -83.712977,
@@ -17491,7 +17491,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Rutland Performing Arts Center",
-                  "text": "Rutland Performing Arts Center is a theatre in georgia-peach-orchards-life-v2.",
+                  "text": "A modern theater hosting plays and concerts in the heart of peach orchards.",
                   "category": "cultural",
                   "coords": [
                         -83.712977,
@@ -17584,7 +17584,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stardust Racers",
-                  "text": "Stardust Racers ist eine Achterbahn im Universal Epic Universe.",
+                  "text": "Stardust Racers ist eine Achterbahn in Universal's Islands of Adventure in Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.446559,
@@ -17593,7 +17593,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Basilica of Mary, Queen of the Universe",
-                  "text": "Die Basilica of Mary, Queen of the Universe ist eine katholische Basilika in Orlando.",
+                  "text": "Die Basilika Mariä, Königin des Universums ist eine katholische Kirche in Orlando.",
                   "category": "religious",
                   "coords": [
                         -81.496141,
@@ -17602,7 +17602,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kraken",
-                  "text": "Kraken ist eine bodenlose Achterbahn im SeaWorld Orlando.",
+                  "text": "Kraken ist eine Achterbahn im SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.458751,
@@ -17611,7 +17611,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Journey to Atlantis",
-                  "text": "Journey to Atlantis ist eine Wasser-Achterbahn im SeaWorld Orlando.",
+                  "text": "Journey to Atlantis ist eine Wasserachterbahn im SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.459222,
@@ -17620,7 +17620,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manta",
-                  "text": "Manta ist eine fliegende Achterbahn im SeaWorld Orlando.",
+                  "text": "Manta ist eine Achterbahn im SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.46167,
@@ -17629,7 +17629,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Skeletons: Museum of Osteology",
-                  "text": "Skeletons: Museum of Osteology ist ein Museum in Orlando mit echten Tierskeletten.",
+                  "text": "Skeletons: Museum of Osteology zeigt eine Sammlung von Skeletten in Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.469137,
@@ -17647,7 +17647,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Kingdom - Factory Adventure Tour",
-                  "text": "Chocolate Kingdom – Factory Adventure Tour ist ein Museum in Orlando mit einer Schokoladenfabrik-Tour.",
+                  "text": "Eine interaktive Schokoladenfabrik-Tour mit Verkostungen und Einblicken in die Schokoladenherstellung.",
                   "category": "museum",
                   "coords": [
                         -81.462319,
@@ -17656,7 +17656,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Museum & Cafe",
-                  "text": "Das Chocolate Museum & Cafe ist ein Museum und Café in Orlando, das sich auf Schokolade konzentriert.",
+                  "text": "Ein Museum, das der Geschichte der Schokolade gewidmet ist, mit einem Café, das Süßspeisen anbietet.",
                   "category": "museum",
                   "coords": [
                         -81.464877,
@@ -17665,7 +17665,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "WonderWorks Family Attractions",
-                  "text": "WonderWorks Family Attractions ist ein interaktives Museum in Orlando mit praktischen Ausstellungen.",
+                  "text": "Eine Mitmach-Attraktion mit über 100 interaktiven Exponaten, darunter ein simuliertes Erdbeben.",
                   "category": "museum",
                   "coords": [
                         -81.471493,
@@ -17674,7 +17674,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Osceola Performing Arts Center",
-                  "text": "Das Osceola Performing Arts Center ist ein Zentrum für darstellende Künste in Orlando.",
+                  "text": "Ein Zentrum für darstellende Künste, das Gemeinschaftstheater und Konzerte veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -81.40199,
@@ -17683,7 +17683,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Untrainable Dragon",
-                  "text": "The Untrainable Dragon ist eine Theateraufführung in Orlando.",
+                  "text": "Eine Live-Drachenzähmungsshow mit spektakulären Spezialeffekten.",
                   "category": "cultural",
                   "coords": [
                         -81.444606,
@@ -17692,7 +17692,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nautilus Theater",
-                  "text": "Das Nautilus Theater ist ein Theater im SeaWorld Orlando.",
+                  "text": "Ein Theater mit Unterwasserthema, das maritime Performances zeigt.",
                   "category": "cultural",
                   "coords": [
                         -81.4596,
@@ -17701,7 +17701,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pirate's Dinner Adventure",
-                  "text": "Pirate's Dinner Adventure ist ein Theater im SeaWorld Orlando.",
+                  "text": "Eine interaktive Piraten-Dinnershow mit Akrobatik und Schwertkämpfen.",
                   "category": "cultural",
                   "coords": [
                         -81.468007,
@@ -17710,7 +17710,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dare 2 Escape",
-                  "text": "Dare 2 Escape ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein thematisches Escape-Room-Erlebnis mit mehreren Rätselszenarien.",
                   "category": "landmark",
                   "coords": [
                         -81.486507,
@@ -17719,7 +17719,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dragon Racer's Rally",
-                  "text": "Dragon Racer's Rally ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein Hochgeschwindigkeits-Drachenrennensimulator mit Loopings und Stürzen.",
                   "category": "landmark",
                   "coords": [
                         -81.445343,
@@ -17728,7 +17728,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "K1 Speed Indoor Go Karts",
-                  "text": "K1 Speed Indoor Go Karts ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Eine Indoor-Elektro-Gokart-Strecke mit anspruchsvollem Layout.",
                   "category": "landmark",
                   "coords": [
                         -81.411933,
@@ -17737,7 +17737,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gator Jumparoo Show",
-                  "text": "Gator Jumparoo Show ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Eine Live-Alligatorshow mit trainierten Tieren, die aus dem Wasser springen.",
                   "category": "landmark",
                   "coords": [
                         -81.403376,
@@ -17746,7 +17746,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Explorer's Aviary",
-                  "text": "Explorer's Aviary ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein begehbares Vogelhaus mit exotischen Vögeln aus aller Welt.",
                   "category": "landmark",
                   "coords": [
                         -81.461988,
@@ -17755,7 +17755,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wind-Away River",
-                  "text": "Wind-Away River ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein entspannender Lazy River durch tropische Landschaftsgärten.",
                   "category": "landmark",
                   "coords": [
                         -81.462069,
@@ -17764,7 +17764,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walruses",
-                  "text": "Walruses ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein Walross-Lebensraum mit Unterwasser-Beobachtungsfenstern.",
                   "category": "landmark",
                   "coords": [
                         -81.463825,
@@ -17773,7 +17773,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ice Breaker",
-                  "text": "Ice Breaker ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Eine Hochgeschwindigkeits-Achterbahn mit Katapultstart und steilen Abfahrten.",
                   "category": "landmark",
                   "coords": [
                         -81.462959,
@@ -17782,7 +17782,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orcas",
-                  "text": "Orcas ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein natürlicher Lebensraum für Killerwale mit täglichen Shows.",
                   "category": "landmark",
                   "coords": [
                         -81.461572,
@@ -17791,7 +17791,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shark Encounter",
-                  "text": "Shark Encounter ist eine Attraktion im SeaWorld Orlando.",
+                  "text": "Ein begehbarer Tunnel, der von Haien und Rochen umgeben ist.",
                   "category": "landmark",
                   "coords": [
                         -81.459629,
@@ -17847,7 +17847,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stardust Racers",
-                  "text": "A Stardust Racers egy hullámvasút a Universal Epic Universe-ben.",
+                  "text": "A Stardust Racers egy hullámvasút a Universal's Islands of Adventure-ben, Orlando-ban.",
                   "category": "landmark",
                   "coords": [
                         -81.446559,
@@ -17856,7 +17856,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Basilica of Mary, Queen of the Universe",
-                  "text": "A Basilica of Mary, Queen of the Universe egy katolikus bazilika Orlandóban.",
+                  "text": "A Mary, Queen of the Universe Bazilika egy katolikus templom Orlando-ban.",
                   "category": "religious",
                   "coords": [
                         -81.496141,
@@ -17865,7 +17865,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kraken",
-                  "text": "A Kraken egy padló nélküli hullámvasút a SeaWorld Orlandóban.",
+                  "text": "A Kraken egy hullámvasút a SeaWorld Orlando-ban.",
                   "category": "landmark",
                   "coords": [
                         -81.458751,
@@ -17874,7 +17874,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Journey to Atlantis",
-                  "text": "A Journey to Atlantis egy vízi hullámvasút a SeaWorld Orlandóban.",
+                  "text": "A Journey to Atlantis egy vízi hullámvasút a SeaWorld Orlando-ban.",
                   "category": "landmark",
                   "coords": [
                         -81.459222,
@@ -17883,7 +17883,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manta",
-                  "text": "A Manta egy repülő hullámvasút a SeaWorld Orlandóban.",
+                  "text": "A Manta egy hullámvasút a SeaWorld Orlando-ban.",
                   "category": "landmark",
                   "coords": [
                         -81.46167,
@@ -17892,7 +17892,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Skeletons: Museum of Osteology",
-                  "text": "A Skeletons: Museum of Osteology egy múzeum Orlandóban, valódi állati csontvázakkal.",
+                  "text": "A Skeletons: Museum of Osteology csontvázgyűjteményt mutat be Orlando-ban.",
                   "category": "landmark",
                   "coords": [
                         -81.469137,
@@ -17901,7 +17901,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Aquatica",
-                  "text": "Az Aquatica egy vízipark Orlandóban.",
+                  "text": "Az Aquatica egy vízipark Orlando-ban.",
                   "category": "recreational",
                   "coords": [
                         -81.456851,
@@ -17910,7 +17910,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Kingdom - Factory Adventure Tour",
-                  "text": "A Chocolate Kingdom – Factory Adventure Tour egy múzeum Orlandóban csokoládégyár túrával.",
+                  "text": "Interaktív csokoládégyár túra kóstolókkal és betekintéssel a csokoládékészítésbe.",
                   "category": "museum",
                   "coords": [
                         -81.462319,
@@ -17919,7 +17919,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Museum & Cafe",
-                  "text": "A Chocolate Museum & Cafe egy múzeum és kávézó Orlandóban, amely a csokoládéra összpontosít.",
+                  "text": "Egy csokoládétörténeti múzeum, kávézóval, ahol édességeket szolgálnak fel.",
                   "category": "museum",
                   "coords": [
                         -81.464877,
@@ -17928,7 +17928,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "WonderWorks Family Attractions",
-                  "text": "A WonderWorks Family Attractions egy interaktív múzeum Orlandóban, tapintható kiállításokkal.",
+                  "text": "Egy gyakorlati attrakció több mint 100 interaktív kiállítással, köztük egy szimulált földrengéssel.",
                   "category": "museum",
                   "coords": [
                         -81.471493,
@@ -17937,7 +17937,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Osceola Performing Arts Center",
-                  "text": "Az Osceola Performing Arts Center egy előadóművészeti központ Orlandóban.",
+                  "text": "Egy előadóművészeti központ, amely közösségi színházat és koncerteket szervez.",
                   "category": "cultural",
                   "coords": [
                         -81.40199,
@@ -17946,7 +17946,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Untrainable Dragon",
-                  "text": "A The Untrainable Dragon egy színházi előadás Orlandóban.",
+                  "text": "Élő sárkányszelídítő show lenyűgöző speciális effektusokkal.",
                   "category": "cultural",
                   "coords": [
                         -81.444606,
@@ -17955,7 +17955,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nautilus Theater",
-                  "text": "A Nautilus Színház egy színház a SeaWorld Orlandóban.",
+                  "text": "Egy víz alatti tematikájú színház, amely tengeri előadásokat mutat be.",
                   "category": "cultural",
                   "coords": [
                         -81.4596,
@@ -17964,7 +17964,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pirate's Dinner Adventure",
-                  "text": "Pirate's Dinner Adventure egy színház a SeaWorld Orlandóban.",
+                  "text": "Interaktív kalózvacsora-show akrobatikával és kardvívással.",
                   "category": "cultural",
                   "coords": [
                         -81.468007,
@@ -17973,7 +17973,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dare 2 Escape",
-                  "text": "A Dare 2 Escape egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy tematikus szabadulószoba élmény több rejtvényforgatókönyvvel.",
                   "category": "landmark",
                   "coords": [
                         -81.486507,
@@ -17982,7 +17982,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dragon Racer's Rally",
-                  "text": "Dragon Racer's Rally egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy nagy sebességű sárkányverseny-szimulátor hurkokkal és zuhanásokkal.",
                   "category": "landmark",
                   "coords": [
                         -81.445343,
@@ -17991,7 +17991,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "K1 Speed Indoor Go Karts",
-                  "text": "K1 Speed Indoor Go Karts egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Fedett elektromos gokartpálya kihívást jelentő elrendezéssel.",
                   "category": "landmark",
                   "coords": [
                         -81.411933,
@@ -18000,7 +18000,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gator Jumparoo Show",
-                  "text": "Gator Jumparoo Show egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Élő aligátorshow kiképzett állatokkal, amelyek kiugranak a vízből.",
                   "category": "landmark",
                   "coords": [
                         -81.403376,
@@ -18009,7 +18009,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Explorer's Aviary",
-                  "text": "Explorer's Aviary egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy bejárható madárház egzotikus madarakkal a világ minden tájáról.",
                   "category": "landmark",
                   "coords": [
                         -81.461988,
@@ -18018,7 +18018,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wind-Away River",
-                  "text": "Wind-Away River egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy pihentető lusta folyó trópusi tájkerteken keresztül.",
                   "category": "landmark",
                   "coords": [
                         -81.462069,
@@ -18027,7 +18027,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walruses",
-                  "text": "Walruses egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy rozmár élőhely víz alatti megfigyelőablakokkal.",
                   "category": "landmark",
                   "coords": [
                         -81.463825,
@@ -18036,7 +18036,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ice Breaker",
-                  "text": "Ice Breaker egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy nagy sebességű hullámvasút katapultindítással és meredek lejtőkkel.",
                   "category": "landmark",
                   "coords": [
                         -81.462959,
@@ -18045,7 +18045,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orcas",
-                  "text": "Orcas egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy természetes kardszárnyú delfin élőhely napi bemutatókkal.",
                   "category": "landmark",
                   "coords": [
                         -81.461572,
@@ -18054,7 +18054,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shark Encounter",
-                  "text": "Shark Encounter egy attrakció a SeaWorld Orlandóban.",
+                  "text": "Egy bejárható alagút, amelyet cápák és ráják vesznek körül.",
                   "category": "landmark",
                   "coords": [
                         -81.459629,
@@ -18110,7 +18110,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stardust Racers",
-                  "text": "Stardust Racers este o montagne russe la Universal Epic Universe.",
+                  "text": "Stardust Racers este un roller coaster la Universal's Islands of Adventure din Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.446559,
@@ -18119,7 +18119,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Basilica of Mary, Queen of the Universe",
-                  "text": "Basilica of Mary, Queen of the Universe este o bazilică catolică din Orlando.",
+                  "text": "Basilica Maria, Regina Universului este o biserică catolică în Orlando.",
                   "category": "religious",
                   "coords": [
                         -81.496141,
@@ -18128,7 +18128,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kraken",
-                  "text": "Kraken este o montagne russe fără podea la SeaWorld Orlando.",
+                  "text": "Kraken este un roller coaster la SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.458751,
@@ -18137,7 +18137,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Journey to Atlantis",
-                  "text": "Journey to Atlantis este o montagne russe acvatică la SeaWorld Orlando.",
+                  "text": "Journey to Atlantis este un roller coaster acvatic la SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.459222,
@@ -18146,7 +18146,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manta",
-                  "text": "Manta este o montagne russe zburătoare la SeaWorld Orlando.",
+                  "text": "Manta este un roller coaster la SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.46167,
@@ -18155,7 +18155,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Skeletons: Museum of Osteology",
-                  "text": "Skeletons: Museum of Osteology este un muzeu din Orlando cu schelete reale de animale.",
+                  "text": "Skeletons: Museum of Osteology prezintă o colecție de schelete în Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.469137,
@@ -18164,7 +18164,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Aquatica",
-                  "text": "Aquatica este un parc acvatic din Orlando.",
+                  "text": "Aquatica este un parc acvatic în Orlando.",
                   "category": "recreational",
                   "coords": [
                         -81.456851,
@@ -18173,7 +18173,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Kingdom - Factory Adventure Tour",
-                  "text": "Chocolate Kingdom – Factory Adventure Tour este un muzeu din Orlando cu un tur al fabricii de ciocolată.",
+                  "text": "Un tur interactiv al fabricii de ciocolată cu degustări și informații despre fabricarea ciocolatei.",
                   "category": "museum",
                   "coords": [
                         -81.462319,
@@ -18182,7 +18182,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Museum & Cafe",
-                  "text": "Chocolate Museum & Cafe este un muzeu și o cafenea din Orlando, axată pe ciocolată.",
+                  "text": "Un muzeu dedicat istoriei ciocolatei, cu o cafenea care servește dulciuri.",
                   "category": "museum",
                   "coords": [
                         -81.464877,
@@ -18191,7 +18191,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "WonderWorks Family Attractions",
-                  "text": "WonderWorks Family Attractions este un muzeu interactiv din Orlando cu exponate practice.",
+                  "text": "O atracție interactivă cu peste 100 de exponate interactive, inclusiv un cutremur simulat.",
                   "category": "museum",
                   "coords": [
                         -81.471493,
@@ -18200,7 +18200,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Osceola Performing Arts Center",
-                  "text": "Osceola Performing Arts Center este un centru de arte performative din Orlando.",
+                  "text": "Un centru de arte spectacolului care găzduiește teatru comunitar și concerte.",
                   "category": "cultural",
                   "coords": [
                         -81.40199,
@@ -18209,7 +18209,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Untrainable Dragon",
-                  "text": "The Untrainable Dragon este un spectacol de teatru în Orlando.",
+                  "text": "Un spectacol viu de dresaj de dragoni cu efecte speciale spectaculoase.",
                   "category": "cultural",
                   "coords": [
                         -81.444606,
@@ -18218,7 +18218,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nautilus Theater",
-                  "text": "Teatrul Nautilus este un teatru în SeaWorld Orlando.",
+                  "text": "Un teatru cu tematică subacvatică, care prezintă spectacole maritime.",
                   "category": "cultural",
                   "coords": [
                         -81.4596,
@@ -18227,7 +18227,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pirate's Dinner Adventure",
-                  "text": "Pirate's Dinner Adventure este un teatru în SeaWorld Orlando.",
+                  "text": "Un spectacol interactiv de cină cu pirați, cu acrobații și lupte cu săbii.",
                   "category": "cultural",
                   "coords": [
                         -81.468007,
@@ -18236,7 +18236,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dare 2 Escape",
-                  "text": "Dare 2 Escape este o atracție în SeaWorld Orlando.",
+                  "text": "O experiență tematică de cameră de evadare cu mai multe scenarii de puzzle.",
                   "category": "landmark",
                   "coords": [
                         -81.486507,
@@ -18245,7 +18245,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dragon Racer's Rally",
-                  "text": "Dragon Racer's Rally este o atracție în SeaWorld Orlando.",
+                  "text": "Un simulator de curse de dragoni de mare viteză cu bucle și căderi.",
                   "category": "landmark",
                   "coords": [
                         -81.445343,
@@ -18254,7 +18254,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "K1 Speed Indoor Go Karts",
-                  "text": "K1 Speed Indoor Go Karts este o atracție în SeaWorld Orlando.",
+                  "text": "Un circuit interior de karturi electrice cu un traseu provocator.",
                   "category": "landmark",
                   "coords": [
                         -81.411933,
@@ -18263,7 +18263,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gator Jumparoo Show",
-                  "text": "Gator Jumparoo Show este o atracție în SeaWorld Orlando.",
+                  "text": "Un spectacol viu de aligatori cu animale dresate care sar din apă.",
                   "category": "landmark",
                   "coords": [
                         -81.403376,
@@ -18272,7 +18272,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Explorer's Aviary",
-                  "text": "Explorer's Aviary este o atracție în SeaWorld Orlando.",
+                  "text": "O volieră accesibilă cu păsări exotice din întreaga lume.",
                   "category": "landmark",
                   "coords": [
                         -81.461988,
@@ -18281,7 +18281,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wind-Away River",
-                  "text": "Wind-Away River este o atracție în SeaWorld Orlando.",
+                  "text": "Un râu leneș relaxant prin grădini peisagistice tropicale.",
                   "category": "landmark",
                   "coords": [
                         -81.462069,
@@ -18290,7 +18290,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walruses",
-                  "text": "Walruses este o atracție în SeaWorld Orlando.",
+                  "text": "Un habitat pentru morse cu ferestre de observare subacvatice.",
                   "category": "landmark",
                   "coords": [
                         -81.463825,
@@ -18299,7 +18299,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ice Breaker",
-                  "text": "Ice Breaker este o atracție în SeaWorld Orlando.",
+                  "text": "Un roller coaster de mare viteză cu lansare catapultă și coborâri abrupte.",
                   "category": "landmark",
                   "coords": [
                         -81.462959,
@@ -18308,7 +18308,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orcas",
-                  "text": "Orcas este o atracție în SeaWorld Orlando.",
+                  "text": "Un habitat natural pentru orci cu spectacole zilnice.",
                   "category": "landmark",
                   "coords": [
                         -81.461572,
@@ -18317,7 +18317,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shark Encounter",
-                  "text": "Shark Encounter este o atracție în SeaWorld Orlando.",
+                  "text": "Un tunel accesibil înconjurat de rechini și raze.",
                   "category": "landmark",
                   "coords": [
                         -81.459629,
@@ -18373,7 +18373,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stardust Racers",
-                  "text": "Stardust Racers is a roller coaster at Universal Epic Universe.",
+                  "text": "Stardust Racers is a roller coaster at Universal's Islands of Adventure in Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.446559,
@@ -18382,7 +18382,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Basilica of Mary, Queen of the Universe",
-                  "text": "The Basilica of Mary, Queen of the Universe is a Catholic basilica in Orlando.",
+                  "text": "The Basilica of Mary, Queen of the Universe is a Catholic church in Orlando.",
                   "category": "religious",
                   "coords": [
                         -81.496141,
@@ -18391,7 +18391,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Kraken",
-                  "text": "Kraken is a floorless roller coaster at SeaWorld Orlando.",
+                  "text": "Kraken is a roller coaster at SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.458751,
@@ -18400,7 +18400,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Journey to Atlantis",
-                  "text": "Journey to Atlantis is a water roller coaster at SeaWorld Orlando.",
+                  "text": "Journey to Atlantis is a water coaster at SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.459222,
@@ -18409,7 +18409,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Manta",
-                  "text": "Manta is a flying roller coaster at SeaWorld Orlando.",
+                  "text": "Manta is a roller coaster at SeaWorld Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.46167,
@@ -18418,7 +18418,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Skeletons: Museum of Osteology",
-                  "text": "Skeletons: Museum of Osteology is a museum in Orlando displaying real animal skeletons.",
+                  "text": "Skeletons: Museum of Osteology displays a collection of skeletons in Orlando.",
                   "category": "landmark",
                   "coords": [
                         -81.469137,
@@ -18436,7 +18436,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Kingdom - Factory Adventure Tour",
-                  "text": "Chocolate Kingdom – Factory Adventure Tour is a museum in Orlando offering a chocolate factory tour.",
+                  "text": "An interactive chocolate factory tour with tastings and chocolate-making insights.",
                   "category": "museum",
                   "coords": [
                         -81.462319,
@@ -18445,7 +18445,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Chocolate Museum & Cafe",
-                  "text": "Chocolate Museum & Cafe is a museum and cafe in Orlando focused on chocolate.",
+                  "text": "A museum dedicated to chocolate history with a cafe serving chocolate treats.",
                   "category": "museum",
                   "coords": [
                         -81.464877,
@@ -18454,7 +18454,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "WonderWorks Family Attractions",
-                  "text": "WonderWorks Family Attractions is an interactive museum in Orlando with hands-on exhibits.",
+                  "text": "A hands-on attraction with over 100 interactive exhibits, including a simulated earthquake.",
                   "category": "museum",
                   "coords": [
                         -81.471493,
@@ -18463,7 +18463,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Osceola Performing Arts Center",
-                  "text": "Osceola Performing Arts Center is a performing arts center in Orlando.",
+                  "text": "A performing arts center hosting community theater and concerts.",
                   "category": "cultural",
                   "coords": [
                         -81.40199,
@@ -18472,7 +18472,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Untrainable Dragon",
-                  "text": "The Untrainable Dragon is a theatrical show in Orlando.",
+                  "text": "A live dragon-training show with spectacular special effects.",
                   "category": "cultural",
                   "coords": [
                         -81.444606,
@@ -18481,7 +18481,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Nautilus Theater",
-                  "text": "The Nautilus Theater is a theatre at SeaWorld Orlando.",
+                  "text": "A theater with an underwater theme featuring maritime performances.",
                   "category": "cultural",
                   "coords": [
                         -81.4596,
@@ -18490,7 +18490,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pirate's Dinner Adventure",
-                  "text": "Pirate's Dinner Adventure is a theatre at SeaWorld Orlando.",
+                  "text": "An interactive pirate dinner show with acrobatics and sword fights.",
                   "category": "cultural",
                   "coords": [
                         -81.468007,
@@ -18499,7 +18499,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dare 2 Escape",
-                  "text": "Dare 2 Escape is an attraction at SeaWorld Orlando.",
+                  "text": "A themed escape room experience with multiple puzzle scenarios.",
                   "category": "landmark",
                   "coords": [
                         -81.486507,
@@ -18508,7 +18508,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dragon Racer's Rally",
-                  "text": "Dragon Racer's Rally is an attraction at SeaWorld Orlando.",
+                  "text": "A high-speed dragon racing simulator with loops and drops.",
                   "category": "landmark",
                   "coords": [
                         -81.445343,
@@ -18517,7 +18517,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "K1 Speed Indoor Go Karts",
-                  "text": "K1 Speed Indoor Go Karts is an attraction at SeaWorld Orlando.",
+                  "text": "An indoor electric go-kart track with a challenging layout.",
                   "category": "landmark",
                   "coords": [
                         -81.411933,
@@ -18526,7 +18526,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gator Jumparoo Show",
-                  "text": "Gator Jumparoo Show is an attraction at SeaWorld Orlando.",
+                  "text": "A live alligator show with trained animals jumping out of the water.",
                   "category": "landmark",
                   "coords": [
                         -81.403376,
@@ -18535,7 +18535,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Explorer's Aviary",
-                  "text": "Explorer's Aviary is an attraction at SeaWorld Orlando.",
+                  "text": "A walk-through aviary with exotic birds from around the world.",
                   "category": "landmark",
                   "coords": [
                         -81.461988,
@@ -18544,7 +18544,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wind-Away River",
-                  "text": "Wind-Away River is an attraction at SeaWorld Orlando.",
+                  "text": "A relaxing lazy river winding through tropical landscaping.",
                   "category": "landmark",
                   "coords": [
                         -81.462069,
@@ -18553,7 +18553,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Walruses",
-                  "text": "Walruses is an attraction at SeaWorld Orlando.",
+                  "text": "A walrus habitat with underwater viewing windows.",
                   "category": "landmark",
                   "coords": [
                         -81.463825,
@@ -18562,7 +18562,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ice Breaker",
-                  "text": "Ice Breaker is an attraction at SeaWorld Orlando.",
+                  "text": "A high-speed launched roller coaster with steep drops.",
                   "category": "landmark",
                   "coords": [
                         -81.462959,
@@ -18571,7 +18571,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Orcas",
-                  "text": "Orcas is an attraction at SeaWorld Orlando.",
+                  "text": "A naturalistic orca habitat with daily shows.",
                   "category": "landmark",
                   "coords": [
                         -81.461572,
@@ -18580,7 +18580,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shark Encounter",
-                  "text": "Shark Encounter is an attraction at SeaWorld Orlando.",
+                  "text": "A walk-through tunnel surrounded by sharks and rays.",
                   "category": "landmark",
                   "coords": [
                         -81.459629,
@@ -18781,7 +18781,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cave Knoll",
-                  "text": "Ein Gipfel im Zion-Nationalpark mit Höhlen.",
+                  "text": "Der Cave Knoll ist ein Hügel in einem Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -113.104112,
@@ -18844,7 +18844,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "House Rock",
-                  "text": "House Rock ist eine Felsformation im Zion-Nationalpark.",
+                  "text": "Eine markante hausförmige Sandsteinformation im Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -112.946652,
@@ -18853,7 +18853,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "200' Waterfall",
-                  "text": "Der 200-Fuß-Wasserfall ist ein Wasserfall im Zion-Nationalpark.",
+                  "text": "Ein 200 Fuß hoher Wasserfall, der in eine enge Schlucht stürzt.",
                   "category": "landmark",
                   "coords": [
                         -112.949087,
@@ -18862,7 +18862,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Springs",
-                  "text": "Big Springs ist eine Quelle im Zion-Nationalpark.",
+                  "text": "Eine starke natürliche Quelle, die in den nahegelegenen Fluss fließt.",
                   "category": "landmark",
                   "coords": [
                         -112.957098,
@@ -18871,7 +18871,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Upper Emerald Pool",
-                  "text": "Der Obere Smaragdteich ist ein Teich im Zion-Nationalpark.",
+                  "text": "Ein türkisfarbener Pool, der von einem Wasserfall gespeist wird und von Klippen umgeben ist.",
                   "category": "landmark",
                   "coords": [
                         -112.966577,
@@ -18880,7 +18880,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Middle Emerald Pool",
-                  "text": "Der Mittlere Smaragdteich ist ein Teich im Zion-Nationalpark.",
+                  "text": "Ein mittelgroßer smaragdgrüner Pool mit einem kleinen Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         -112.962993,
@@ -18889,7 +18889,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Canyon",
-                  "text": "Hidden Canyon ist eine Schlucht im Zion-Nationalpark.",
+                  "text": "Eine enge Slot-Canyon-Wanderung mit hängenden Gärten an den Wänden.",
                   "category": "landmark",
                   "coords": [
                         -112.938036,
@@ -18898,7 +18898,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free Standing Arch",
-                  "text": "Free Standing Arch ist ein natürlicher Bogen im Zion-Nationalpark.",
+                  "text": "Ein freistehender Steinbogen, der durch Erosion geformt wurde.",
                   "category": "landmark",
                   "coords": [
                         -112.93777,
@@ -18907,7 +18907,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Canyon Scenic Drive",
-                  "text": "Der Zion-Canyon-Scenic-Drive ist eine berühmte Panoramastraße durch die Zion-Schlucht.",
+                  "text": "Eine 6 Meilen lange Panoramastraße entlang des Virgin River durch hoch aufragende Canyonwände.",
                   "category": "landmark",
                   "coords": [
                         -112.97342,
@@ -18952,7 +18952,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "R2 - Bolted Rappel Anchor: 6 ft.",
-                  "text": "R2 – Bolted Rappel Anchor: 6 ft. ist ein Abseilanker im Zion-Nationalpark.",
+                  "text": "Ein Bohrankersprengpunkt für Abseilen, 6 Fuß über dem Boden auf einer Klippe.",
                   "category": "landmark",
                   "coords": [
                         -113.048427,
@@ -19116,7 +19116,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cave Knoll",
-                  "text": "Csúcs a Zion Nemzeti Parkban barlangokkal.",
+                  "text": "A Cave Knoll egy domb egy nemzeti parkban.",
                   "category": "natural",
                   "coords": [
                         -113.104112,
@@ -19179,7 +19179,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "House Rock",
-                  "text": "House Rock egy sziklaformáció a Zion Nemzeti Parkban.",
+                  "text": "Egy jellegzetes ház alakú homokkőképződmény a Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         -112.946652,
@@ -19188,7 +19188,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "200' Waterfall",
-                  "text": "A 200 láb magas vízesés a Zion Nemzeti Parkban található.",
+                  "text": "Egy 200 láb magas vízesés egy szűk szurdokba zuhan.",
                   "category": "landmark",
                   "coords": [
                         -112.949087,
@@ -19197,7 +19197,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Springs",
-                  "text": "Big Springs egy forrás a Zion Nemzeti Parkban.",
+                  "text": "Egy erős természetes forrás, amely a közeli folyóba ömlik.",
                   "category": "landmark",
                   "coords": [
                         -112.957098,
@@ -19206,7 +19206,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Upper Emerald Pool",
-                  "text": "A Felső Smaragd-tó egy tó a Zion Nemzeti Parkban.",
+                  "text": "Egy türkiz színű medence, amelyet egy vízesés táplál, sziklákkal körülvéve.",
                   "category": "landmark",
                   "coords": [
                         -112.966577,
@@ -19215,7 +19215,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Middle Emerald Pool",
-                  "text": "A Középső Smaragd-tó egy tó a Zion Nemzeti Parkban.",
+                  "text": "Egy közepes méretű smaragdzöld medence kis vízeséssel.",
                   "category": "landmark",
                   "coords": [
                         -112.962993,
@@ -19224,7 +19224,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Canyon",
-                  "text": "Hidden Canyon egy kanyon a Zion Nemzeti Parkban.",
+                  "text": "Egy keskeny slot-kanyon túra függőkertekkel a falakon.",
                   "category": "landmark",
                   "coords": [
                         -112.938036,
@@ -19233,7 +19233,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free Standing Arch",
-                  "text": "Free Standing Arch egy természetes ív a Zion Nemzeti Parkban.",
+                  "text": "Egy szabadon álló kőív, amelyet erózió alakított ki.",
                   "category": "landmark",
                   "coords": [
                         -112.93777,
@@ -19242,7 +19242,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Canyon Scenic Drive",
-                  "text": "A Zion Canyon Scenic Drive egy híres panorámaút a Zion-kanyonon keresztül.",
+                  "text": "Egy 6 mérföld hosszú festői út a Virgin River mentén, magas szurdokfalak között.",
                   "category": "landmark",
                   "coords": [
                         -112.97342,
@@ -19287,7 +19287,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "R2 - Bolted Rappel Anchor: 6 ft.",
-                  "text": "R2 – Bolted Rappel Anchor: 6 ft. egy ereszkedő horgony a Zion Nemzeti Parkban.",
+                  "text": "Egy csavaros rögzítési pont ereszkedéshez, 6 lábbal a szikla fölött.",
                   "category": "landmark",
                   "coords": [
                         -113.048427,
@@ -19451,7 +19451,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cave Knoll",
-                  "text": "Un vârf în Parcul Național Zion cu peșteri.",
+                  "text": "Cave Knoll este o colină într-un parc național.",
                   "category": "natural",
                   "coords": [
                         -113.104112,
@@ -19514,7 +19514,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "House Rock",
-                  "text": "House Rock este o formațiune stâncoasă în Parcul Național Zion.",
+                  "text": "O formațiune distinctă de gresie în formă de casă în Parcul Național.",
                   "category": "landmark",
                   "coords": [
                         -112.946652,
@@ -19523,7 +19523,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "200' Waterfall",
-                  "text": "Cascada de 200 de picioare este o cascadă în Parcul Național Zion.",
+                  "text": "O cascadă de 200 de picioare care se prăbușește într-un canion îngust.",
                   "category": "landmark",
                   "coords": [
                         -112.949087,
@@ -19532,7 +19532,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Springs",
-                  "text": "Big Springs este un izvor în Parcul Național Zion.",
+                  "text": "Un izvor natural puternic care se varsă în râul din apropiere.",
                   "category": "landmark",
                   "coords": [
                         -112.957098,
@@ -19541,7 +19541,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Upper Emerald Pool",
-                  "text": "Piscina Superioară de Smarald este un iaz în Parcul Național Zion.",
+                  "text": "Un bazin turcoaz alimentat de o cascadă, înconjurat de stânci.",
                   "category": "landmark",
                   "coords": [
                         -112.966577,
@@ -19550,7 +19550,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Middle Emerald Pool",
-                  "text": "Piscina Mijlocie de Smarald este un iaz în Parcul Național Zion.",
+                  "text": "Un bazin de mărime medie, de culoare smarald, cu o mică cascadă.",
                   "category": "landmark",
                   "coords": [
                         -112.962993,
@@ -19559,7 +19559,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Canyon",
-                  "text": "Hidden Canyon este un canion în Parcul Național Zion.",
+                  "text": "O drumeție îngustă într-un canion tip slot cu grădini suspendate pe pereți.",
                   "category": "landmark",
                   "coords": [
                         -112.938036,
@@ -19568,7 +19568,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free Standing Arch",
-                  "text": "Free Standing Arch este un arc natural în Parcul Național Zion.",
+                  "text": "Un arc de piatră autonom format prin eroziune.",
                   "category": "landmark",
                   "coords": [
                         -112.93777,
@@ -19577,7 +19577,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Canyon Scenic Drive",
-                  "text": "Zion Canyon Scenic Drive este un drum panoramic celebru prin canionul Zion.",
+                  "text": "Un drum pitoresc de 6 mile de-a lungul râului Virgin, printre pereți impunători de canion.",
                   "category": "landmark",
                   "coords": [
                         -112.97342,
@@ -19622,7 +19622,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "R2 - Bolted Rappel Anchor: 6 ft.",
-                  "text": "R2 – Bolted Rappel Anchor: 6 ft. este un punct de rapel în Parcul Național Zion.",
+                  "text": "Un punct de ancorare cu șuruburi pentru rapel, la 6 picioare deasupra solului pe o stâncă.",
                   "category": "landmark",
                   "coords": [
                         -113.048427,
@@ -19786,7 +19786,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cave Knoll",
-                  "text": "A peak in Zion National Park featuring caves.",
+                  "text": "Cave Knoll is a knoll in a national park.",
                   "category": "natural",
                   "coords": [
                         -113.104112,
@@ -19849,7 +19849,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "House Rock",
-                  "text": "House Rock is a rock formation in Zion National Park.",
+                  "text": "A distinctive house-shaped sandstone formation in the National Park.",
                   "category": "landmark",
                   "coords": [
                         -112.946652,
@@ -19858,7 +19858,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "200' Waterfall",
-                  "text": "The 200' Waterfall is a waterfall in Zion National Park.",
+                  "text": "A 200-foot waterfall cascading into a narrow canyon.",
                   "category": "landmark",
                   "coords": [
                         -112.949087,
@@ -19867,7 +19867,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Big Springs",
-                  "text": "Big Springs is a spring in Zion National Park.",
+                  "text": "A powerful natural spring that flows into the nearby river.",
                   "category": "landmark",
                   "coords": [
                         -112.957098,
@@ -19876,7 +19876,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Upper Emerald Pool",
-                  "text": "Upper Emerald Pool is a pool in Zion National Park.",
+                  "text": "A turquoise pool fed by a waterfall, surrounded by cliffs.",
                   "category": "landmark",
                   "coords": [
                         -112.966577,
@@ -19885,7 +19885,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Middle Emerald Pool",
-                  "text": "Middle Emerald Pool is a pool in Zion National Park.",
+                  "text": "A mid-sized emerald pool with a small cascade.",
                   "category": "landmark",
                   "coords": [
                         -112.962993,
@@ -19894,7 +19894,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Hidden Canyon",
-                  "text": "Hidden Canyon is a canyon in Zion National Park.",
+                  "text": "A narrow slot canyon hike with hanging gardens on the walls.",
                   "category": "landmark",
                   "coords": [
                         -112.938036,
@@ -19903,7 +19903,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free Standing Arch",
-                  "text": "Free Standing Arch is a natural arch in Zion National Park.",
+                  "text": "A free-standing stone arch carved by erosion.",
                   "category": "landmark",
                   "coords": [
                         -112.93777,
@@ -19912,7 +19912,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Zion Canyon Scenic Drive",
-                  "text": "Zion Canyon Scenic Drive is a famous scenic road through Zion Canyon.",
+                  "text": "A 6-mile scenic drive along the Virgin River through towering canyon walls.",
                   "category": "landmark",
                   "coords": [
                         -112.97342,
@@ -19957,7 +19957,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "R2 - Bolted Rappel Anchor: 6 ft.",
-                  "text": "R2 – Bolted Rappel Anchor: 6 ft. is a rappel anchor in Zion National Park.",
+                  "text": "A bolted rappel anchor point set 6 feet off the ground on a cliff face.",
                   "category": "landmark",
                   "coords": [
                         -113.048427,
@@ -20005,7 +20005,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Die Wehrmann Prairie",
-                  "text": "Die Wehrmann Prairie ist ein Prärie-Naturschutzgebiet in iowa-corn-fields-life-v2.",
+                  "text": "Eine erhaltene Tallgras-Prärie inmitten der landwirtschaftlich genutzten Corn Fields.",
                   "category": "natural",
                   "coords": [
                         -93.01835,
@@ -20016,7 +20016,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Die Wehrmann Prairie",
-                  "text": "Die Wehrmann Prairie egy préri természetvédelmi terület iowa-corn-fields-life-v2-ben.",
+                  "text": "Egy megőrzött magasfüves préri a Corn Fields mezőgazdasági területén.",
                   "category": "natural",
                   "coords": [
                         -93.01835,
@@ -20027,7 +20027,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Die Wehrmann Prairie",
-                  "text": "Die Wehrmann Prairie este o rezervație naturală de prerie în iowa-corn-fields-life-v2.",
+                  "text": "O prerie de iarbă înaltă conservată în zona agricolă Corn Fields.",
                   "category": "natural",
                   "coords": [
                         -93.01835,
@@ -20038,7 +20038,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Die Wehrmann Prairie",
-                  "text": "Die Wehrmann Prairie is a prairie nature reserve in iowa-corn-fields-life-v2.",
+                  "text": "A preserved tallgrass prairie in the agricultural Corn Fields region.",
                   "category": "natural",
                   "coords": [
                         -93.01835,
@@ -20086,7 +20086,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Robles Park",
-                  "text": "Ein historischer Park in Tampa.",
+                  "text": "Der Robles Park ist eine Grünanlage in Tampa, Florida.",
                   "category": "park",
                   "coords": [
                         -82.455013,
@@ -20104,7 +20104,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Science & Industry",
-                  "text": "Ein Museum in Tampa, das sich auf Wissenschaft und Technik konzentriert.",
+                  "text": "Das Museum of Science & Industry (MOSI) in Tampa bietet interaktive Wissenschaftsausstellungen.",
                   "category": "museum",
                   "coords": [
                         -82.404626,
@@ -20113,7 +20113,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tampa Covenant Church",
-                  "text": "Eine Kirche in Tampa.",
+                  "text": "Die Tampa Covenant Church ist eine evangelische Kirche in Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.4922,
@@ -20122,7 +20122,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Seminole Heights United Methodist Church",
-                  "text": "Eine Kirche in Tampa.",
+                  "text": "Die Seminole Heights United Methodist Church ist eine methodistische Kirche in Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.454777,
@@ -20131,7 +20131,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "American Legion Playground",
-                  "text": "Ein Spielplatzpark in Tampa.",
+                  "text": "Ein Gemeindepark in Gardens Tampa Bay mit Spielplatz und Sportplätzen.",
                   "category": "park",
                   "coords": [
                         -82.458428,
@@ -20140,7 +20140,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "22nd Street Park",
-                  "text": "Ein Park in Tampa.",
+                  "text": "Ein kleiner Nachbarschaftspark in Gardens Tampa Bay an der 22nd Street.",
                   "category": "park",
                   "coords": [
                         -82.435986,
@@ -20149,7 +20149,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gwazi Field",
-                  "text": "Ein Park in Tampa.",
+                  "text": "Ein Sportfeld in Gardens Tampa Bay, benannt nach der Achterbahn Gwazi.",
                   "category": "park",
                   "coords": [
                         -82.424597,
@@ -20158,7 +20158,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Al Lopez Park",
-                  "text": "Ein Park in Tampa, benannt nach dem Baseball-Manager Al Lopez.",
+                  "text": "Ein Park in Gardens Tampa Bay, benannt nach dem Baseballspieler Al Lopez.",
                   "category": "park",
                   "coords": [
                         -82.503121,
@@ -20167,7 +20167,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventure Island",
-                  "text": "Ein Wasserpark in Tampa.",
+                  "text": "Ein Wasserpark in Tampa mit Wellenbädern und Wasserrutschen.",
                   "category": "recreational",
                   "coords": [
                         -82.413159,
@@ -20185,7 +20185,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Science Discovery Center",
-                  "text": "Ein Wissenschaftsmuseum in Tampa.",
+                  "text": "Ein interaktives Wissenschaftsmuseum mit praktischen Experimenten in Gardens Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.471464,
@@ -20194,7 +20194,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
-                  "text": "Ein Museum für zeitgenössische Kunst an der University of South Florida in Tampa.",
+                  "text": "Das zeitgenössische Kunstmuseum auf dem Campus der University of South Florida in Gardens Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.415549,
@@ -20212,7 +20212,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Teaching Auditorium and Theatre I",
-                  "text": "Ein Theater in Tampa.",
+                  "text": "Ein Lehr auditorium und Theater für Aufführungen und Vorträge in Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.414486,
@@ -20221,7 +20221,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "MSC Amphitheatre",
-                  "text": "Ein Amphitheater in Tampa.",
+                  "text": "Ein Freiluft-Amphitheater für Konzerte und Veranstaltungen in Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.41345,
@@ -20230,7 +20230,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pantopia Theatre",
-                  "text": "Ein Theater in Tampa.",
+                  "text": "Das Pantopia Theater in Gardens Tampa Bay bietet Bühnenproduktionen.",
                   "category": "cultural",
                   "coords": [
                         -82.42286,
@@ -20239,7 +20239,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stanleyville Theatre",
-                  "text": "Ein Theater in Tampa.",
+                  "text": "Das Stanleyville Theater in Gardens Tampa Bay zeigt Theaterstücke.",
                   "category": "cultural",
                   "coords": [
                         -82.425005,
@@ -20248,7 +20248,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marakesh Theater",
-                  "text": "Ein Theater in Tampa.",
+                  "text": "Das Marakesh Theater in Gardens Tampa Bay ist nach der marokkanischen Stadt benannt.",
                   "category": "cultural",
                   "coords": [
                         -82.422388,
@@ -20257,7 +20257,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moroccan Palace Theatre",
-                  "text": "Ein Theater in Tampa.",
+                  "text": "Das Moroccan Palace Theater in Gardens Tampa Bay ist im Stil eines marokkanischen Palastes gestaltet.",
                   "category": "cultural",
                   "coords": [
                         -82.421209,
@@ -20266,7 +20266,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Peninsularium",
-                  "text": "Ein Kunstzentrum in Tampa.",
+                  "text": "Das Peninsularium ist ein kulturelles Zentrum mit einem Planetarium in Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.451716,
@@ -20275,7 +20275,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Where he did it to em",
-                  "text": "Eine Attraktion in Tampa.",
+                  "text": "Ein im September 2014 in den Tampa Bay Gardens aufgestelltes Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -82.465903,
@@ -20284,7 +20284,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shooters World",
-                  "text": "Eine Attraktion in Tampa.",
+                  "text": "Shooters World ist eine Schießsportanlage in Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.462542,
@@ -20347,7 +20347,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free-Flight Aviary",
-                  "text": "Free-Flight Aviary ist eine begehbare Voliere im Busch Gardens Tampa Bay.",
+                  "text": "Eine begehbare Voliere mit frei fliegenden Vögeln in Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.470025,
@@ -20358,7 +20358,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Robles Park",
-                  "text": "Egy történelmi park Tampában.",
+                  "text": "A Robles Park egy városi park Tampában, Floridában.",
                   "category": "park",
                   "coords": [
                         -82.455013,
@@ -20376,7 +20376,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Science & Industry",
-                  "text": "Egy múzeum Tampában, amely a tudományra és az iparra összpontosít.",
+                  "text": "A Museum of Science & Industry (MOSI) interaktív tudományos kiállításokkal vár Tampában.",
                   "category": "museum",
                   "coords": [
                         -82.404626,
@@ -20385,7 +20385,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tampa Covenant Church",
-                  "text": "Egy templom Tampában.",
+                  "text": "A Tampa Covenant Church egy evangélikus templom Tampában.",
                   "category": "religious",
                   "coords": [
                         -82.4922,
@@ -20394,7 +20394,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Seminole Heights United Methodist Church",
-                  "text": "Egy templom Tampában.",
+                  "text": "A Seminole Heights United Methodist Church egy metodista templom Tampában.",
                   "category": "religious",
                   "coords": [
                         -82.454777,
@@ -20403,7 +20403,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "American Legion Playground",
-                  "text": "Egy játszótér park Tampában.",
+                  "text": "Egy közösségi park Gardens Tampa Bay-ben, játszótérrel és sportpályákkal.",
                   "category": "park",
                   "coords": [
                         -82.458428,
@@ -20412,7 +20412,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "22nd Street Park",
-                  "text": "Egy park Tampában.",
+                  "text": "Egy kis szomszédsági park Gardens Tampa Bay-ben a 22nd Street mentén.",
                   "category": "park",
                   "coords": [
                         -82.435986,
@@ -20421,7 +20421,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gwazi Field",
-                  "text": "Egy park Tampában.",
+                  "text": "Egy sportpálya Gardens Tampa Bay-ben, a Gwazi hullámvasútról elnevezve.",
                   "category": "park",
                   "coords": [
                         -82.424597,
@@ -20430,7 +20430,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Al Lopez Park",
-                  "text": "Egy park Tampában, amelyet Al Lopez baseballmenedzserről neveztek el.",
+                  "text": "Egy park Gardens Tampa Bay-ben, Al Lopez baseballjátékosról elnevezve.",
                   "category": "park",
                   "coords": [
                         -82.503121,
@@ -20439,7 +20439,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventure Island",
-                  "text": "Egy vízi témapark Tampában.",
+                  "text": "Egy vízipark Tampában, hullámmedencékkel és csúszdákkal.",
                   "category": "recreational",
                   "coords": [
                         -82.413159,
@@ -20457,7 +20457,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Science Discovery Center",
-                  "text": "Egy tudományos múzeum Tampában.",
+                  "text": "Egy interaktív tudományos múzeum gyakorlati kísérletekkel a Gardens Tampa Bay-ben.",
                   "category": "museum",
                   "coords": [
                         -82.471464,
@@ -20466,7 +20466,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
-                  "text": "Egy kortárs művészeti múzeum a South Florida Egyetemen Tampában.",
+                  "text": "A kortárs művészeti múzeum a Dél-Floridai Egyetem campusán, Gardens Tampa Bay-ben.",
                   "category": "museum",
                   "coords": [
                         -82.415549,
@@ -20484,7 +20484,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Teaching Auditorium and Theatre I",
-                  "text": "Egy színház Tampában.",
+                  "text": "Egy tanterem és színház előadásokhoz és előadásokhoz a Gardens Tampa Bay-ben.",
                   "category": "cultural",
                   "coords": [
                         -82.414486,
@@ -20493,7 +20493,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "MSC Amphitheatre",
-                  "text": "Egy amfiteátrum Tampában.",
+                  "text": "Egy szabadtéri amfiteátrum koncertekhez és rendezvényekhez a Gardens Tampa Bay-ben.",
                   "category": "cultural",
                   "coords": [
                         -82.41345,
@@ -20502,7 +20502,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pantopia Theatre",
-                  "text": "Egy színház Tampában.",
+                  "text": "A Pantopia Színház a Gardens Tampa Bay-ben színpadi produkciókat kínál.",
                   "category": "cultural",
                   "coords": [
                         -82.42286,
@@ -20511,7 +20511,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stanleyville Theatre",
-                  "text": "Egy színház Tampában.",
+                  "text": "A Stanleyville Színház a Gardens Tampa Bay-ben színdarabokat mutat be.",
                   "category": "cultural",
                   "coords": [
                         -82.425005,
@@ -20520,7 +20520,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marakesh Theater",
-                  "text": "Egy színház Tampában.",
+                  "text": "A Marakesh Színház a Gardens Tampa Bay-ben a marokkói városról kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         -82.422388,
@@ -20529,7 +20529,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moroccan Palace Theatre",
-                  "text": "Egy színház Tampában.",
+                  "text": "A Moroccan Palace Színház a Gardens Tampa Bay-ben marokkói palota stílusban épült.",
                   "category": "cultural",
                   "coords": [
                         -82.421209,
@@ -20538,7 +20538,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Peninsularium",
-                  "text": "Egy művészeti központ Tampában.",
+                  "text": "A Peninsularium egy kulturális központ planetáriummal a Gardens Tampa Bay-ben.",
                   "category": "cultural",
                   "coords": [
                         -82.451716,
@@ -20547,7 +20547,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Where he did it to em",
-                  "text": "Egy látványosság Tampában.",
+                  "text": "Egy 2014 szeptemberében a Tampa Bay Gardensben felállított nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -82.465903,
@@ -20556,7 +20556,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shooters World",
-                  "text": "Egy látványosság Tampában.",
+                  "text": "A Shooters World egy lőtér a Gardens Tampa Bay-ben.",
                   "category": "landmark",
                   "coords": [
                         -82.462542,
@@ -20619,7 +20619,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free-Flight Aviary",
-                  "text": "A Free-Flight Aviary egy bejárható madárröpd a Busch Gardens Tampa Bayben.",
+                  "text": "Egy bejárható madárház szabadon repülő madarakkal a Gardens Tampa Bay-ben.",
                   "category": "landmark",
                   "coords": [
                         -82.470025,
@@ -20630,7 +20630,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Robles Park",
-                  "text": "Un parc istoric în Tampa.",
+                  "text": "Robles Park este un parc urban în Tampa, Florida.",
                   "category": "park",
                   "coords": [
                         -82.455013,
@@ -20648,7 +20648,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Science & Industry",
-                  "text": "Un muzeu în Tampa care se concentrează pe știință și industrie.",
+                  "text": "Muzeul de Știință și Industrie (MOSI) din Tampa oferă expoziții științifice interactive.",
                   "category": "museum",
                   "coords": [
                         -82.404626,
@@ -20657,7 +20657,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tampa Covenant Church",
-                  "text": "O biserică în Tampa.",
+                  "text": "Biserica Tampa Covenant este o biserică evanghelică în Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.4922,
@@ -20666,7 +20666,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Seminole Heights United Methodist Church",
-                  "text": "O biserică în Tampa.",
+                  "text": "Biserica Metodistă Unită Seminole Heights este o biserică metodistă în Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.454777,
@@ -20675,7 +20675,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "American Legion Playground",
-                  "text": "Un parc cu loc de joacă în Tampa.",
+                  "text": "Un parc comunitar în Gardens Tampa Bay, cu loc de joacă și terenuri sportive.",
                   "category": "park",
                   "coords": [
                         -82.458428,
@@ -20684,7 +20684,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "22nd Street Park",
-                  "text": "Un parc în Tampa.",
+                  "text": "Un mic parc de cartier în Gardens Tampa Bay, pe 22nd Street.",
                   "category": "park",
                   "coords": [
                         -82.435986,
@@ -20693,7 +20693,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gwazi Field",
-                  "text": "Un parc în Tampa.",
+                  "text": "Un teren sportiv în Gardens Tampa Bay, numit după montagne russe Gwazi.",
                   "category": "park",
                   "coords": [
                         -82.424597,
@@ -20702,7 +20702,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Al Lopez Park",
-                  "text": "Un parc în Tampa numit după managerul de baseball Al Lopez.",
+                  "text": "Un parc în Gardens Tampa Bay, numit după jucătorul de baseball Al Lopez.",
                   "category": "park",
                   "coords": [
                         -82.503121,
@@ -20711,7 +20711,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventure Island",
-                  "text": "Un parc tematic acvatic în Tampa.",
+                  "text": "Un parc acvatic în Tampa, cu piscine cu valuri și tobogane.",
                   "category": "recreational",
                   "coords": [
                         -82.413159,
@@ -20729,7 +20729,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Science Discovery Center",
-                  "text": "Un muzeu de știință în Tampa.",
+                  "text": "Un muzeu interactiv de știință cu experimente practice în Gardens Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.471464,
@@ -20738,7 +20738,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
-                  "text": "Un muzeu de artă contemporană la Universitatea din Florida de Sud din Tampa.",
+                  "text": "Muzeul de Artă Contemporană de pe campusul Universității din Florida de Sud, în Gardens Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.415549,
@@ -20756,7 +20756,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Teaching Auditorium and Theatre I",
-                  "text": "Un teatru în Tampa.",
+                  "text": "Un auditoriu didactic și teatru pentru spectacole și prelegeri în Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.414486,
@@ -20765,7 +20765,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "MSC Amphitheatre",
-                  "text": "Un amfiteatru în Tampa.",
+                  "text": "Un amfiteatru în aer liber pentru concerte și evenimente în Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.41345,
@@ -20774,7 +20774,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pantopia Theatre",
-                  "text": "Un teatru în Tampa.",
+                  "text": "Teatrul Pantopia din Gardens Tampa Bay oferă producții scenice.",
                   "category": "cultural",
                   "coords": [
                         -82.42286,
@@ -20783,7 +20783,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stanleyville Theatre",
-                  "text": "Un teatru în Tampa.",
+                  "text": "Teatrul Stanleyville din Gardens Tampa Bay prezintă piese de teatru.",
                   "category": "cultural",
                   "coords": [
                         -82.425005,
@@ -20792,7 +20792,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marakesh Theater",
-                  "text": "Un teatru în Tampa.",
+                  "text": "Teatrul Marakesh din Gardens Tampa Bay este numit după orașul marocan.",
                   "category": "cultural",
                   "coords": [
                         -82.422388,
@@ -20801,7 +20801,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moroccan Palace Theatre",
-                  "text": "Un teatru în Tampa.",
+                  "text": "Teatrul Moroccan Palace din Gardens Tampa Bay este decorat ca un palat marocan.",
                   "category": "cultural",
                   "coords": [
                         -82.421209,
@@ -20810,7 +20810,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Peninsularium",
-                  "text": "Un centru de artă în Tampa.",
+                  "text": "Peninsularium este un centru cultural cu un planetariu în Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.451716,
@@ -20819,7 +20819,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Where he did it to em",
-                  "text": "O atracție în Tampa.",
+                  "text": "Un reper instalat în septembrie 2014 în Grădinile Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.465903,
@@ -20828,7 +20828,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shooters World",
-                  "text": "O atracție în Tampa.",
+                  "text": "Shooters World este un poligon de tir în Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.462542,
@@ -20891,7 +20891,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free-Flight Aviary",
-                  "text": "Free-Flight Aviary este o volieră pe care o poți traversa la Busch Gardens Tampa Bay.",
+                  "text": "O volieră accesibilă cu păsări care zboară liber în Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.470025,
@@ -20902,7 +20902,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Robles Park",
-                  "text": "A historic park in Tampa.",
+                  "text": "Robles Park is an urban park in Tampa, Florida.",
                   "category": "park",
                   "coords": [
                         -82.455013,
@@ -20920,7 +20920,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Museum of Science & Industry",
-                  "text": "A museum in Tampa focusing on science and industry.",
+                  "text": "The Museum of Science & Industry (MOSI) in Tampa features interactive science exhibits.",
                   "category": "museum",
                   "coords": [
                         -82.404626,
@@ -20929,7 +20929,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tampa Covenant Church",
-                  "text": "A church in Tampa.",
+                  "text": "Tampa Covenant Church is an evangelical church in Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.4922,
@@ -20938,7 +20938,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Seminole Heights United Methodist Church",
-                  "text": "A church in Tampa.",
+                  "text": "Seminole Heights United Methodist Church is a Methodist church in Tampa.",
                   "category": "religious",
                   "coords": [
                         -82.454777,
@@ -20947,7 +20947,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "American Legion Playground",
-                  "text": "A playground park in Tampa.",
+                  "text": "A community park in Gardens Tampa Bay featuring a playground and sports fields.",
                   "category": "park",
                   "coords": [
                         -82.458428,
@@ -20956,7 +20956,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "22nd Street Park",
-                  "text": "A park in Tampa.",
+                  "text": "A small neighborhood park in Gardens Tampa Bay along 22nd Street.",
                   "category": "park",
                   "coords": [
                         -82.435986,
@@ -20965,7 +20965,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Gwazi Field",
-                  "text": "A park in Tampa.",
+                  "text": "A sports field in Gardens Tampa Bay named after the Gwazi roller coaster.",
                   "category": "park",
                   "coords": [
                         -82.424597,
@@ -20974,7 +20974,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Al Lopez Park",
-                  "text": "A park in Tampa named after baseball manager Al Lopez.",
+                  "text": "A park in Gardens Tampa Bay named after baseball player Al Lopez.",
                   "category": "park",
                   "coords": [
                         -82.503121,
@@ -20983,7 +20983,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventure Island",
-                  "text": "A water theme park in Tampa.",
+                  "text": "A water park in Tampa with wave pools and water slides.",
                   "category": "recreational",
                   "coords": [
                         -82.413159,
@@ -21001,7 +21001,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Science Discovery Center",
-                  "text": "A science museum in Tampa.",
+                  "text": "An interactive science museum with hands-on exhibits in Gardens Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.471464,
@@ -21010,7 +21010,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
-                  "text": "A contemporary art museum at the University of South Florida in Tampa.",
+                  "text": "The contemporary art museum on the University of South Florida campus in Gardens Tampa Bay.",
                   "category": "museum",
                   "coords": [
                         -82.415549,
@@ -21028,7 +21028,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Teaching Auditorium and Theatre I",
-                  "text": "A theatre in Tampa.",
+                  "text": "A teaching auditorium and theatre for performances and lectures in Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.414486,
@@ -21037,7 +21037,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "MSC Amphitheatre",
-                  "text": "An amphitheatre in Tampa.",
+                  "text": "An outdoor amphitheater for concerts and events in Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.41345,
@@ -21046,7 +21046,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Pantopia Theatre",
-                  "text": "A theatre in Tampa.",
+                  "text": "The Pantopia Theatre in Gardens Tampa Bay presents stage productions.",
                   "category": "cultural",
                   "coords": [
                         -82.42286,
@@ -21055,7 +21055,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Stanleyville Theatre",
-                  "text": "A theatre in Tampa.",
+                  "text": "The Stanleyville Theatre in Gardens Tampa Bay features theatrical performances.",
                   "category": "cultural",
                   "coords": [
                         -82.425005,
@@ -21064,7 +21064,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Marakesh Theater",
-                  "text": "A theatre in Tampa.",
+                  "text": "The Marakesh Theater in Gardens Tampa Bay is named after the Moroccan city.",
                   "category": "cultural",
                   "coords": [
                         -82.422388,
@@ -21073,7 +21073,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Moroccan Palace Theatre",
-                  "text": "A theatre in Tampa.",
+                  "text": "The Moroccan Palace Theatre in Gardens Tampa Bay is designed like a Moroccan palace.",
                   "category": "cultural",
                   "coords": [
                         -82.421209,
@@ -21082,7 +21082,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "The Peninsularium",
-                  "text": "An arts centre in Tampa.",
+                  "text": "The Peninsularium is a cultural venue with a planetarium in Gardens Tampa Bay.",
                   "category": "cultural",
                   "coords": [
                         -82.451716,
@@ -21091,7 +21091,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Where he did it to em",
-                  "text": "An attraction in Tampa.",
+                  "text": "A landmark installed in September 2014 at the Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.465903,
@@ -21100,7 +21100,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Shooters World",
-                  "text": "An attraction in Tampa.",
+                  "text": "Shooters World is a shooting sports facility in Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.462542,
@@ -21163,7 +21163,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Free-Flight Aviary",
-                  "text": "Free-Flight Aviary is a walk-through aviary at Busch Gardens Tampa Bay.",
+                  "text": "A walk-through aviary with free-flying birds in Gardens Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.470025,
@@ -21247,7 +21247,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fort Harry",
-                  "text": "Fort Harry ist ein historisches Fort in den Great Smoky Mountains.",
+                  "text": "Eine kleine historische Festung in den Smoky Mountains.",
                   "category": "fortress",
                   "coords": [
                         -83.474202,
@@ -21256,7 +21256,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Blanket Mountain",
-                  "text": "Blanket Mountain ist ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein bewaldeter Gipfel in den Smoky Mountains oberhalb von 1.500 m.",
                   "category": "natural",
                   "coords": [
                         -83.611814,
@@ -21265,7 +21265,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dripping Spring Mountain",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, benannt nach einer tropfenden Quelle.",
                   "category": "natural",
                   "coords": [
                         -83.600024,
@@ -21274,7 +21274,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cold Spring Knob",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Felsvorsprung mit einer kalten Quelle in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.608307,
@@ -21283,7 +21283,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cliff Top",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein felsiger Aussichtspunkt mit Klippenblick in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.444302,
@@ -21292,7 +21292,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Myrtle Point",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Aussichtspunkt in den Smoky Mountains, benannt nach Myrtenbäumen.",
                   "category": "natural",
                   "coords": [
                         -83.431809,
@@ -21301,7 +21301,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Anakeesta Knob",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Felsvorsprung auf dem Anakeesta-Kamm in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.413746,
@@ -21310,7 +21310,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peregrine Peak",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Gipfel in den Smoky Mountains, bekannt für Wanderfalken-Nistplätze.",
                   "category": "natural",
                   "coords": [
                         -83.444592,
@@ -21319,7 +21319,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Weaver",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, benannt nach dem frühen Siedler Weaver.",
                   "category": "natural",
                   "coords": [
                         -83.436626,
@@ -21328,7 +21328,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mt. Buckley",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Gipfel in den Smoky Mountains, benannt nach dem Naturforscher Buckley.",
                   "category": "natural",
                   "coords": [
                         -83.506157,
@@ -21337,7 +21337,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Love",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, benannt nach einer lokalen Familie.",
                   "category": "natural",
                   "coords": [
                         -83.493272,
@@ -21355,7 +21355,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buckhorn Bald",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Eine grasbewachsene Kuppe in den Smoky Mountains, benannt nach Bockshornpflanzen.",
                   "category": "natural",
                   "coords": [
                         -83.509793,
@@ -21364,7 +21364,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jerry Bald",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Eine grasbewachsene Kuppe in den Smoky Mountains, benannt nach einer Person.",
                   "category": "natural",
                   "coords": [
                         -83.482956,
@@ -21373,7 +21373,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top Knob",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein abgerundeter Felsvorsprung in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.459888,
@@ -21382,7 +21382,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fern Knob",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein mit Farnen bedeckter Felsvorsprung in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.547411,
@@ -21391,7 +21391,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Suli Knob",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Felsvorsprung in den Smoky Mountains, benannt nach einem indianischen Wort.",
                   "category": "natural",
                   "coords": [
                         -83.550859,
@@ -21400,7 +21400,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jenkins Knob",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Felsvorsprung in den Smoky Mountains, benannt nach einer lokalen Familie.",
                   "category": "natural",
                   "coords": [
                         -83.544733,
@@ -21418,7 +21418,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Parton Lookout",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Aussichtspunkt in den Smoky Mountains, benannt nach Ben Parton.",
                   "category": "natural",
                   "coords": [
                         -83.591929,
@@ -21427,7 +21427,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Little Goshen",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein kleines Tal in den Smoky Mountains, genannt Goshen.",
                   "category": "natural",
                   "coords": [
                         -83.541789,
@@ -21436,7 +21436,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Collins",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, benannt nach einem USGS-Topografen.",
                   "category": "natural",
                   "coords": [
                         -83.472447,
@@ -21445,7 +21445,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarland Mountain",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, benannt nach Zuckerahornbäumen.",
                   "category": "natural",
                   "coords": [
                         -83.477963,
@@ -21454,7 +21454,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mingus",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, benannt nach einer Pionierfamilie.",
                   "category": "natural",
                   "coords": [
                         -83.45903,
@@ -21463,7 +21463,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balsam Point",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein mit Balsamtannen bewachsener Punkt in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.472763,
@@ -21472,7 +21472,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Point",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein westlicher Aussichtspunkt in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.453207,
@@ -21481,7 +21481,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bull Head",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Gipfel in den Smoky Mountains, der einem Stierkopf ähnelt.",
                   "category": "natural",
                   "coords": [
                         -83.487776,
@@ -21490,7 +21490,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein mit Kiefern bewaldeter Berg in den Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.467429,
@@ -21499,7 +21499,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Burnt Mountain",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Berg in den Smoky Mountains, der von einem Brand gezeichnet ist.",
                   "category": "natural",
                   "coords": [
                         -83.566368,
@@ -21508,7 +21508,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maloney Point",
-                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "text": "Ein Aussichtspunkt in den Smoky Mountains, benannt nach Maloney.",
                   "category": "natural",
                   "coords": [
                         -83.573773,
@@ -21544,7 +21544,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Morton Overlook",
-                  "text": "Ein Aussichtspunkt mit Blick auf die Great Smoky Mountains.",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Great Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.422651,
@@ -21600,7 +21600,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fort Harry",
-                  "text": "Fort Harry egy történelmi erőd a Great Smoky Mountainsben.",
+                  "text": "Egy kis történelmi erőd a Smoky-hegységben.",
                   "category": "fortress",
                   "coords": [
                         -83.474202,
@@ -21609,7 +21609,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Blanket Mountain",
-                  "text": "Blanket Mountain egy csúcs a Great Smoky Mountainsben.",
+                  "text": "Egy erdős csúcs a Smoky-hegységben, 1500 m felett.",
                   "category": "natural",
                   "coords": [
                         -83.611814,
@@ -21618,7 +21618,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dripping Spring Mountain",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, egy csöpögő forrásról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.600024,
@@ -21627,7 +21627,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cold Spring Knob",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy sziklás kiemelkedés hideg forrással a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.608307,
@@ -21636,7 +21636,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cliff Top",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy sziklás kilátó sziklás kilátással a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.444302,
@@ -21645,7 +21645,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Myrtle Point",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy kilátópont a Smoky-hegységben, mirtuszfákról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.431809,
@@ -21654,7 +21654,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Anakeesta Knob",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy sziklás kiemelkedés az Anakeesta-gerincen a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.413746,
@@ -21663,7 +21663,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peregrine Peak",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy csúcs a Smoky-hegységben, vándorsólyom-fészkelőhelyeiről ismert.",
                   "category": "natural",
                   "coords": [
                         -83.444592,
@@ -21672,7 +21672,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Weaver",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, a korai telepes Weaverről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.436626,
@@ -21681,7 +21681,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mt. Buckley",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy csúcs a Smoky-hegységben, Buckley természettudósról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.506157,
@@ -21690,7 +21690,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Love",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, egy helyi családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.493272,
@@ -21708,7 +21708,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buckhorn Bald",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy füves kopár a Smoky-hegységben, buckhorn növényekről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.509793,
@@ -21717,7 +21717,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jerry Bald",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy füves kopár a Smoky-hegységben, egy személyről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.482956,
@@ -21726,7 +21726,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top Knob",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy lekerekített sziklás kiemelkedés a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.459888,
@@ -21735,7 +21735,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fern Knob",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy páfránnyal borított sziklás kiemelkedés a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.547411,
@@ -21744,7 +21744,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Suli Knob",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy sziklás kiemelkedés a Smoky-hegységben, egy indián szóról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.550859,
@@ -21753,7 +21753,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jenkins Knob",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy sziklás kiemelkedés a Smoky-hegységben, egy helyi családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.544733,
@@ -21771,7 +21771,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Parton Lookout",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy kilátópont a Smoky-hegységben, Ben Partonról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.591929,
@@ -21780,7 +21780,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Little Goshen",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy kis völgy a Smoky-hegységben, Goshennek hívják.",
                   "category": "natural",
                   "coords": [
                         -83.541789,
@@ -21789,7 +21789,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Collins",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, egy USGS topográfusról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.472447,
@@ -21798,7 +21798,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarland Mountain",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, cukorjuhar fákról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.477963,
@@ -21807,7 +21807,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mingus",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, egy úttörő családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.45903,
@@ -21816,7 +21816,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balsam Point",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy balzsamfenyőkkel borított pont a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.472763,
@@ -21825,7 +21825,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Point",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy nyugati kilátópont a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.453207,
@@ -21834,7 +21834,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bull Head",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy csúcs a Smoky-hegységben, amely egy bikafejre hasonlít.",
                   "category": "natural",
                   "coords": [
                         -83.487776,
@@ -21843,7 +21843,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy fenyőerdővel borított hegy a Smoky-hegységben.",
                   "category": "natural",
                   "coords": [
                         -83.467429,
@@ -21852,7 +21852,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Burnt Mountain",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy hegy a Smoky-hegységben, amelyet tűz sújtott.",
                   "category": "natural",
                   "coords": [
                         -83.566368,
@@ -21861,7 +21861,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maloney Point",
-                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "text": "Egy kilátópont a Smoky-hegységben, Maloneyról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -83.573773,
@@ -21897,7 +21897,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Morton Overlook",
-                  "text": "Egy kilátóhely a Great Smoky Mountains-re néző kilátással.",
+                  "text": "Egy kilátó, panorámás kilátással a Great Smoky Mountains-re.",
                   "category": "natural",
                   "coords": [
                         -83.422651,
@@ -21953,7 +21953,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fort Harry",
-                  "text": "Fort Harry este un fort istoric situat în Munții Great Smoky.",
+                  "text": "O mică fortăreață istorică în Munții Smoky.",
                   "category": "fortress",
                   "coords": [
                         -83.474202,
@@ -21962,7 +21962,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Blanket Mountain",
-                  "text": "Blanket Mountain este un vârf în Munții Great Smoky.",
+                  "text": "Un vârf împădurit în Munții Smoky, peste 1.500 m.",
                   "category": "natural",
                   "coords": [
                         -83.611814,
@@ -21971,7 +21971,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dripping Spring Mountain",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky, numit după un izvor care picură.",
                   "category": "natural",
                   "coords": [
                         -83.600024,
@@ -21980,7 +21980,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cold Spring Knob",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un pinten stâncos cu un izvor rece în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.608307,
@@ -21989,7 +21989,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cliff Top",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un punct de belvedere stâncos cu vedere spre stânci în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.444302,
@@ -21998,7 +21998,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Myrtle Point",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un punct de belvedere în Munții Smoky, numit după arbuști de mirt.",
                   "category": "natural",
                   "coords": [
                         -83.431809,
@@ -22007,7 +22007,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Anakeesta Knob",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un pinten stâncos pe creasta Anakeesta în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.413746,
@@ -22016,7 +22016,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peregrine Peak",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un vârf în Munții Smoky, cunoscut pentru cuiburi de șoimi călători.",
                   "category": "natural",
                   "coords": [
                         -83.444592,
@@ -22025,7 +22025,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Weaver",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky, numit după colonistul timpuriu Weaver.",
                   "category": "natural",
                   "coords": [
                         -83.436626,
@@ -22034,7 +22034,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mt. Buckley",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un vârf în Munții Smoky, numit după naturalistul Buckley.",
                   "category": "natural",
                   "coords": [
                         -83.506157,
@@ -22043,7 +22043,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Love",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky, numit după o familie locală.",
                   "category": "natural",
                   "coords": [
                         -83.493272,
@@ -22061,7 +22061,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buckhorn Bald",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un vârf ierbos în Munții Smoky, numit după plante de buckhorn.",
                   "category": "natural",
                   "coords": [
                         -83.509793,
@@ -22070,7 +22070,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jerry Bald",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un vârf ierbos în Munții Smoky, numit după o persoană.",
                   "category": "natural",
                   "coords": [
                         -83.482956,
@@ -22079,7 +22079,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top Knob",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un pinten stâncos rotunjit în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.459888,
@@ -22088,7 +22088,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fern Knob",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un pinten stâncos acoperit cu ferigi în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.547411,
@@ -22097,7 +22097,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Suli Knob",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un pinten stâncos în Munții Smoky, numit după un cuvânt nativ american.",
                   "category": "natural",
                   "coords": [
                         -83.550859,
@@ -22106,7 +22106,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jenkins Knob",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un pinten stâncos în Munții Smoky, numit după o familie locală.",
                   "category": "natural",
                   "coords": [
                         -83.544733,
@@ -22124,7 +22124,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Parton Lookout",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un punct de belvedere în Munții Smoky, numit după Ben Parton.",
                   "category": "natural",
                   "coords": [
                         -83.591929,
@@ -22133,7 +22133,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Little Goshen",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "O mică vale în Munții Smoky, numită Goshen.",
                   "category": "natural",
                   "coords": [
                         -83.541789,
@@ -22142,7 +22142,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Collins",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky, numit după un topograf USGS.",
                   "category": "natural",
                   "coords": [
                         -83.472447,
@@ -22151,7 +22151,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarland Mountain",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky, numit după arțari de zahăr.",
                   "category": "natural",
                   "coords": [
                         -83.477963,
@@ -22160,7 +22160,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mingus",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky, numit după o familie de pionieri.",
                   "category": "natural",
                   "coords": [
                         -83.45903,
@@ -22169,7 +22169,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balsam Point",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un punct acoperit cu brazi balsamici în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.472763,
@@ -22178,7 +22178,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Point",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un punct de belvedere vestic în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.453207,
@@ -22187,7 +22187,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bull Head",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un vârf în Munții Smoky care seamănă cu un cap de taur.",
                   "category": "natural",
                   "coords": [
                         -83.487776,
@@ -22196,7 +22196,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte împădurit cu pini în Munții Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.467429,
@@ -22205,7 +22205,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Burnt Mountain",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un munte în Munții Smoky marcat de un incendiu.",
                   "category": "natural",
                   "coords": [
                         -83.566368,
@@ -22214,7 +22214,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maloney Point",
-                  "text": "Un vârf în Munții Great Smoky.",
+                  "text": "Un punct de belvedere în Munții Smoky, numit după Maloney.",
                   "category": "natural",
                   "coords": [
                         -83.573773,
@@ -22250,7 +22250,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Morton Overlook",
-                  "text": "Un punct de belvedere cu vedere spre Munții Great Smoky.",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra Munților Great Smoky.",
                   "category": "natural",
                   "coords": [
                         -83.422651,
@@ -22306,7 +22306,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fort Harry",
-                  "text": "Fort Harry is a historic fort located in the Great Smoky Mountains.",
+                  "text": "A small historical fort in the Smoky Mountains.",
                   "category": "fortress",
                   "coords": [
                         -83.474202,
@@ -22315,7 +22315,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Blanket Mountain",
-                  "text": "Blanket Mountain is a peak in the Great Smoky Mountains.",
+                  "text": "A forested peak in the Smoky Mountains above 4,500 ft.",
                   "category": "natural",
                   "coords": [
                         -83.611814,
@@ -22324,7 +22324,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dripping Spring Mountain",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains named for a dripping spring.",
                   "category": "natural",
                   "coords": [
                         -83.600024,
@@ -22333,7 +22333,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cold Spring Knob",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A rocky knob with a cold spring in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.608307,
@@ -22342,7 +22342,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Cliff Top",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A rocky overlook with cliff views in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.444302,
@@ -22351,7 +22351,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Myrtle Point",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A viewpoint in the Smoky Mountains named for myrtle bushes.",
                   "category": "natural",
                   "coords": [
                         -83.431809,
@@ -22360,7 +22360,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Anakeesta Knob",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A knob on the Anakeesta Ridge in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.413746,
@@ -22369,7 +22369,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peregrine Peak",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A peak in the Smoky Mountains known for peregrine falcon nests.",
                   "category": "natural",
                   "coords": [
                         -83.444592,
@@ -22378,7 +22378,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Weaver",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains named after early settler Weaver.",
                   "category": "natural",
                   "coords": [
                         -83.436626,
@@ -22387,7 +22387,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mt. Buckley",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A peak in the Smoky Mountains named for naturalist Buckley.",
                   "category": "natural",
                   "coords": [
                         -83.506157,
@@ -22396,7 +22396,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Love",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains named for a local family.",
                   "category": "natural",
                   "coords": [
                         -83.493272,
@@ -22414,7 +22414,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Buckhorn Bald",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A grassy bald in the Smoky Mountains named for buckhorn plants.",
                   "category": "natural",
                   "coords": [
                         -83.509793,
@@ -22423,7 +22423,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jerry Bald",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A grassy bald in the Smoky Mountains named for a person.",
                   "category": "natural",
                   "coords": [
                         -83.482956,
@@ -22432,7 +22432,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Round Top Knob",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A rounded rocky knob in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.459888,
@@ -22441,7 +22441,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Fern Knob",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A fern-covered knob in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.547411,
@@ -22450,7 +22450,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Suli Knob",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A knob in the Smoky Mountains named for a Native American word.",
                   "category": "natural",
                   "coords": [
                         -83.550859,
@@ -22459,7 +22459,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jenkins Knob",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A knob in the Smoky Mountains named for a local family.",
                   "category": "natural",
                   "coords": [
                         -83.544733,
@@ -22477,7 +22477,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Parton Lookout",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A lookout point in the Smoky Mountains named after Ben Parton.",
                   "category": "natural",
                   "coords": [
                         -83.591929,
@@ -22486,7 +22486,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Little Goshen",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A small valley in the Smoky Mountains called Goshen.",
                   "category": "natural",
                   "coords": [
                         -83.541789,
@@ -22495,7 +22495,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Collins",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains named for a USGS topographer.",
                   "category": "natural",
                   "coords": [
                         -83.472447,
@@ -22504,7 +22504,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sugarland Mountain",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains named for sugar maple trees.",
                   "category": "natural",
                   "coords": [
                         -83.477963,
@@ -22513,7 +22513,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Mount Mingus",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains named for a pioneer family.",
                   "category": "natural",
                   "coords": [
                         -83.45903,
@@ -22522,7 +22522,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Balsam Point",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A point covered in balsam firs in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.472763,
@@ -22531,7 +22531,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "West Point",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A western viewpoint in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.453207,
@@ -22540,7 +22540,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Bull Head",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A peak in the Smoky Mountains resembling a bull's head.",
                   "category": "natural",
                   "coords": [
                         -83.487776,
@@ -22549,7 +22549,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A pine-forested mountain in the Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.467429,
@@ -22558,7 +22558,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Burnt Mountain",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A mountain in the Smoky Mountains scarred by fire.",
                   "category": "natural",
                   "coords": [
                         -83.566368,
@@ -22567,7 +22567,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Maloney Point",
-                  "text": "A peak in the Great Smoky Mountains.",
+                  "text": "A viewpoint in the Smoky Mountains named for Maloney.",
                   "category": "natural",
                   "coords": [
                         -83.573773,
@@ -22603,7 +22603,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Ben Morton Overlook",
-                  "text": "An overlook with views of the Great Smoky Mountains.",
+                  "text": "An overlook offering panoramic views of the Great Smoky Mountains.",
                   "category": "natural",
                   "coords": [
                         -83.422651,
@@ -22660,7 +22660,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Blewett Stamp Mill",
-                  "text": "Ruinen einer historischen Stampfmühle in washington-apple-orchards-life-v2.",
+                  "text": "Historische Golderz-Stampfmühle aus dem 19. Jahrhundert in Apple Orchards.",
                   "category": "historical",
                   "coords": [
                         -120.660217,
@@ -22669,7 +22669,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tiptop",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "text": "Ein hoher Punkt in Apple Orchards mit Aussicht auf die Umgebung.",
                   "category": "natural",
                   "coords": [
                         -120.608532,
@@ -22678,7 +22678,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Deer Park Spring",
-                  "text": "Eine natürliche Quelle in washington-apple-orchards-life-v2.",
+                  "text": "Eine Quelle im Deer Park in Apple Orchards.",
                   "category": "landmark",
                   "coords": [
                         -120.621418,
@@ -22687,7 +22687,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Windmill Point",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "text": "Ein Punkt in Apple Orchards, benannt nach einer Windmühle.",
                   "category": "natural",
                   "coords": [
                         -120.64932,
@@ -22705,7 +22705,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Edward Peak",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, gelegen in der Enchantments-Region.",
+                  "text": "Der Edward Peak ist ein Granitgipfel in der Alpine Lakes Wilderness in Washington.",
                   "category": "natural",
                   "coords": [
                         -120.760853,
@@ -22723,7 +22723,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Colchuck Balanced Rock",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, bekannt für seine Balancierfelsformation.",
+                  "text": "Der Colchuck Balanced Rock ist eine prekär ausbalancierte Felsformation in den Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.818579,
@@ -22732,7 +22732,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jabberwocky Tower",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein Granitturm in den Enchantments.",
+                  "text": "Der Jabberwocky Tower ist ein Granitturm in den Enchantments in Washington.",
                   "category": "natural",
                   "coords": [
                         -120.82599,
@@ -22741,7 +22741,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Enchantment Peak",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein prominenter Gipfel in den Enchantments.",
+                  "text": "Der Enchantment Peak ist ein prominenter Gipfel in der Enchantment-Gebirgskette.",
                   "category": "natural",
                   "coords": [
                         -120.802691,
@@ -22768,7 +22768,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McClellan Peak",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2 in der Stuart Range.",
+                  "text": "Der McClellan Peak ist ein Gipfel in den Enchantments in Washington.",
                   "category": "natural",
                   "coords": [
                         -120.785747,
@@ -22777,7 +22777,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Witches Tower",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein Granitturm in den Enchantments.",
+                  "text": "Der Witches Tower ist eine markante Felsnadel in den Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.825356,
@@ -22795,7 +22795,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Etienne Creek Mining Area",
-                  "text": "Ruinen eines Bergbaugebiets in washington-apple-orchards-life-v2.",
+                  "text": "Historisches Bergbaugebiet entlang des Etienne Creek in Apple Orchards.",
                   "category": "historical",
                   "coords": [
                         -120.695019,
@@ -22804,7 +22804,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "text": "Ein Berg in Apple Orchards mit Eisenerzvorkommen.",
                   "category": "natural",
                   "coords": [
                         -120.715361,
@@ -22813,7 +22813,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildlife Viewing Blind",
-                  "text": "Eine Attraktion zur Tierbeobachtung in washington-apple-orchards-life-v2.",
+                  "text": "Ein Versteck zur Beobachtung von Wildtieren in den Apple Orchards.",
                   "category": "landmark",
                   "coords": [
                         -120.66857,
@@ -22822,7 +22822,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peshastin Lookout",
-                  "text": "Ein Aussichtspunkt in washington-apple-orchards-life-v2.",
+                  "text": "Aussichtspunkt Peshastin Lookout mit Blick über die Obstgärten und Täler.",
                   "category": "natural",
                   "coords": [
                         -120.629075,
@@ -22831,7 +22831,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Boundary Butte",
-                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "text": "Ein Butte an der Grenze in Apple Orchards.",
                   "category": "natural",
                   "coords": [
                         -120.650139,
@@ -22840,7 +22840,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Core Enchantments Permit Area",
-                  "text": "Ein Naturschutzgebiet mit Genehmigungspflicht in den Enchantments in washington-apple-orchards-life-v2.",
+                  "text": "Genehmigungspflichtiges Gebiet für Wanderungen in der alpine Wildnis der Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.776241,
@@ -22849,7 +22849,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Camas Meadows Natural Area Preserve",
-                  "text": "Ein Naturschutzgebiet in washington-apple-orchards-life-v2.",
+                  "text": "Ein Naturschutzgebiet in Apple Orchards, bekannt für seine Kamasschwertlilien.",
                   "category": "natural",
                   "coords": [
                         -120.580737,
@@ -22858,7 +22858,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Snow Permit Area",
-                  "text": "Ein Naturschutzgebiet mit Genehmigungspflicht in washington-apple-orchards-life-v2.",
+                  "text": "Genehmigungspflichtiges Gebiet für Wintersportaktivitäten in Apple Orchards.",
                   "category": "natural",
                   "coords": [
                         -120.730555,
@@ -22903,7 +22903,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dog Beach",
-                  "text": "Der Dog Beach ist ein Strand für Hunde in der Region Washington Apple Orchards.",
+                  "text": "Ein Hundestrand, an dem Hunde frei laufen und schwimmen können.",
                   "category": "recreational",
                   "coords": [
                         -120.70621,
@@ -22941,7 +22941,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Blewett Stamp Mill",
-                  "text": "Egy történelmi bélyegzőmalom romjai washington-apple-orchards-life-v2-ben.",
+                  "text": "19. századi történelmi aranyérce-zúzómalom az Apple Orchards-ban.",
                   "category": "historical",
                   "coords": [
                         -120.660217,
@@ -22950,7 +22950,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tiptop",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy magas pont Apple Orchards-ban, kilátással a környékre.",
                   "category": "natural",
                   "coords": [
                         -120.608532,
@@ -22959,7 +22959,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Deer Park Spring",
-                  "text": "Egy természetes forrás washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy forrás a Deer Park-ban, Apple Orchards-ban.",
                   "category": "landmark",
                   "coords": [
                         -120.621418,
@@ -22968,7 +22968,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Windmill Point",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy pont Apple Orchards-ban, egy szélmalomról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -120.64932,
@@ -22986,7 +22986,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Edward Peak",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, az Enchantments régióban található.",
+                  "text": "Az Edward Peak egy gránitcsúcs a washingtoni Alpine Lakes Wildernessben.",
                   "category": "natural",
                   "coords": [
                         -120.760853,
@@ -23004,7 +23004,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Colchuck Balanced Rock",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, híres kiegyensúlyozott sziklájáról.",
+                  "text": "A Colchuck Balanced Rock egy veszélyesen egyensúlyozó sziklaalakzat az Enchantmentsben.",
                   "category": "natural",
                   "coords": [
                         -120.818579,
@@ -23013,7 +23013,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jabberwocky Tower",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy gránittorony az Enchantments-ben.",
+                  "text": "A Jabberwocky Tower egy gránittorony a washingtoni Enchantmentsben.",
                   "category": "natural",
                   "coords": [
                         -120.82599,
@@ -23022,7 +23022,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Enchantment Peak",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, az Enchantments egyik kiemelkedő csúcsa.",
+                  "text": "Az Enchantment Peak egy kiemelkedő csúcs az Enchantment hegyvonulatban.",
                   "category": "natural",
                   "coords": [
                         -120.802691,
@@ -23049,7 +23049,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McClellan Peak",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben a Stuart-hegységben.",
+                  "text": "A McClellan Peak egy csúcs a washingtoni Enchantmentsben.",
                   "category": "natural",
                   "coords": [
                         -120.785747,
@@ -23058,7 +23058,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Witches Tower",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy gránittorony az Enchantments-ben.",
+                  "text": "A Witches Tower egy jellegzetes sziklatorony az Enchantmentsben.",
                   "category": "natural",
                   "coords": [
                         -120.825356,
@@ -23076,7 +23076,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Etienne Creek Mining Area",
-                  "text": "Egy bányászati terület romjai washington-apple-orchards-life-v2-ben.",
+                  "text": "Történelmi bányászati terület az Etienne Creek mentén az Apple Orchards-ban.",
                   "category": "historical",
                   "coords": [
                         -120.695019,
@@ -23085,7 +23085,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy hegy Apple Orchards-ban, vasérclelőhelyekkel.",
                   "category": "natural",
                   "coords": [
                         -120.715361,
@@ -23094,7 +23094,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildlife Viewing Blind",
-                  "text": "Egy vadmegfigyelési attrakció washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy leshely vadon élő állatok megfigyelésére az Apple Orchards-ban.",
                   "category": "landmark",
                   "coords": [
                         -120.66857,
@@ -23103,7 +23103,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peshastin Lookout",
-                  "text": "Egy kilátópony washington-apple-orchards-life-v2-ben.",
+                  "text": "A Peshastin kilátó, amely a gyümölcsösökre és völgyekre nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         -120.629075,
@@ -23112,7 +23112,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Boundary Butte",
-                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy butte a határ mentén Apple Orchards-ban.",
                   "category": "natural",
                   "coords": [
                         -120.650139,
@@ -23121,7 +23121,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Core Enchantments Permit Area",
-                  "text": "Egy engedélyköteles természetvédelmi terület az Enchantments-ben, washington-apple-orchards-life-v2-ben.",
+                  "text": "Engedélyköteles terület a túrázáshoz az Enchantments alpesi vadonában.",
                   "category": "natural",
                   "coords": [
                         -120.776241,
@@ -23130,7 +23130,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Camas Meadows Natural Area Preserve",
-                  "text": "Egy természetvédelmi terület washington-apple-orchards-life-v2-ben.",
+                  "text": "Egy természetvédelmi terület Apple Orchards-ban, kamassz liliomairól ismert.",
                   "category": "natural",
                   "coords": [
                         -120.580737,
@@ -23139,7 +23139,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Snow Permit Area",
-                  "text": "Egy engedélyköteles természetvédelmi terület washington-apple-orchards-life-v2-ben.",
+                  "text": "Engedélyköteles terület téli sportokhoz az Apple Orchards-ban.",
                   "category": "natural",
                   "coords": [
                         -120.730555,
@@ -23184,7 +23184,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dog Beach",
-                  "text": "A Dog Beach egy kutya strand a washingtoni almaültetvények vidékén.",
+                  "text": "Egy kutyás strand, ahol a kutyák szabadon futhatnak és úszhatnak.",
                   "category": "recreational",
                   "coords": [
                         -120.70621,
@@ -23222,7 +23222,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Blewett Stamp Mill",
-                  "text": "Ruinele unei mori de ștampilă istorice în washington-apple-orchards-life-v2.",
+                  "text": "O moară istorică de zdrobit minereu de aur din secolul al XIX-lea în Apple Orchards.",
                   "category": "historical",
                   "coords": [
                         -120.660217,
@@ -23231,7 +23231,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tiptop",
-                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "text": "Un punct înalt în Apple Orchards, cu vedere spre împrejurimi.",
                   "category": "natural",
                   "coords": [
                         -120.608532,
@@ -23240,7 +23240,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Deer Park Spring",
-                  "text": "Un izvor natural în washington-apple-orchards-life-v2.",
+                  "text": "Un izvor în Deer Park, Apple Orchards.",
                   "category": "landmark",
                   "coords": [
                         -120.621418,
@@ -23249,7 +23249,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Windmill Point",
-                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "text": "Un punct în Apple Orchards, numit după o moară de vânt.",
                   "category": "natural",
                   "coords": [
                         -120.64932,
@@ -23267,7 +23267,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Edward Peak",
-                  "text": "Un vârf în washington-apple-orchards-life-v2, situat în regiunea Enchantments.",
+                  "text": "Edward Peak este un vârf de granit în Alpine Lakes Wilderness din Washington.",
                   "category": "natural",
                   "coords": [
                         -120.760853,
@@ -23285,7 +23285,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Colchuck Balanced Rock",
-                  "text": "Un vârf în washington-apple-orchards-life-v2, cunoscut pentru formațiunea sa de stâncă echilibrată.",
+                  "text": "Colchuck Balanced Rock este o formațiune de stâncă precar echilibrată în Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.818579,
@@ -23294,7 +23294,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jabberwocky Tower",
-                  "text": "Un vârf în washington-apple-orchards-life-v2, un turn de granit în Enchantments.",
+                  "text": "Jabberwocky Tower este un turn de granit în Enchantments din Washington.",
                   "category": "natural",
                   "coords": [
                         -120.82599,
@@ -23303,7 +23303,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Enchantment Peak",
-                  "text": "Un vârf în washington-apple-orchards-life-v2, un vârf proeminent în Enchantments.",
+                  "text": "Enchantment Peak este un vârf proeminent în lanțul muntos Enchantment.",
                   "category": "natural",
                   "coords": [
                         -120.802691,
@@ -23330,7 +23330,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McClellan Peak",
-                  "text": "Un vârf în washington-apple-orchards-life-v2 în Masivul Stuart.",
+                  "text": "McClellan Peak este un vârf în Enchantments din Washington.",
                   "category": "natural",
                   "coords": [
                         -120.785747,
@@ -23339,7 +23339,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Witches Tower",
-                  "text": "Un vârf în washington-apple-orchards-life-v2, un turn de granit în Enchantments.",
+                  "text": "Witches Tower este un turn de stâncă distinctiv în Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.825356,
@@ -23357,7 +23357,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Etienne Creek Mining Area",
-                  "text": "Ruinele unei zone miniere în washington-apple-orchards-life-v2.",
+                  "text": "Zonă minieră istorică de-a lungul pârâului Etienne din Apple Orchards.",
                   "category": "historical",
                   "coords": [
                         -120.695019,
@@ -23366,7 +23366,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "text": "Un munte în Apple Orchards cu zăcăminte de minereu de fier.",
                   "category": "natural",
                   "coords": [
                         -120.715361,
@@ -23375,7 +23375,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildlife Viewing Blind",
-                  "text": "O atracție de observare a faunei sălbatice în washington-apple-orchards-life-v2.",
+                  "text": "Un adăpost pentru observarea faunei sălbatice în Apple Orchards.",
                   "category": "landmark",
                   "coords": [
                         -120.66857,
@@ -23384,7 +23384,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peshastin Lookout",
-                  "text": "Un punct de belvedere în washington-apple-orchards-life-v2.",
+                  "text": "Punctul de belvedere Peshastin oferă vederi asupra livezilor și văilor.",
                   "category": "natural",
                   "coords": [
                         -120.629075,
@@ -23393,7 +23393,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Boundary Butte",
-                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "text": "Un butte la graniță în Apple Orchards.",
                   "category": "natural",
                   "coords": [
                         -120.650139,
@@ -23402,7 +23402,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Core Enchantments Permit Area",
-                  "text": "O rezervație naturală cu permis în Enchantments în washington-apple-orchards-life-v2.",
+                  "text": "Zonă cu permis necesar pentru drumeții în sălbăticia alpină Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.776241,
@@ -23411,7 +23411,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Camas Meadows Natural Area Preserve",
-                  "text": "O rezervație naturală în washington-apple-orchards-life-v2.",
+                  "text": "O rezervație naturală în Apple Orchards, cunoscută pentru crinii de camas.",
                   "category": "natural",
                   "coords": [
                         -120.580737,
@@ -23420,7 +23420,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Snow Permit Area",
-                  "text": "O rezervație naturală cu permis în washington-apple-orchards-life-v2.",
+                  "text": "Zonă cu permis necesar pentru activități sportive de iarnă în Apple Orchards.",
                   "category": "natural",
                   "coords": [
                         -120.730555,
@@ -23465,7 +23465,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dog Beach",
-                  "text": "Dog Beach este o plajă pentru câini în regiunea livezilor de mere din Washington.",
+                  "text": "O plajă pentru câini unde aceștia pot alerga și înota liber.",
                   "category": "recreational",
                   "coords": [
                         -120.70621,
@@ -23503,7 +23503,7 @@ export const poiExtraUsaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Blewett Stamp Mill",
-                  "text": "Ruins of a historic stamp mill in washington-apple-orchards-life-v2.",
+                  "text": "A historic 19th-century gold ore stamp mill in Apple Orchards.",
                   "category": "historical",
                   "coords": [
                         -120.660217,
@@ -23512,7 +23512,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Tiptop",
-                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "text": "A high point in Apple Orchards with views of the area.",
                   "category": "natural",
                   "coords": [
                         -120.608532,
@@ -23521,7 +23521,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Deer Park Spring",
-                  "text": "A natural spring in washington-apple-orchards-life-v2.",
+                  "text": "A spring in Deer Park, Apple Orchards.",
                   "category": "landmark",
                   "coords": [
                         -120.621418,
@@ -23530,7 +23530,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Windmill Point",
-                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "text": "A point in Apple Orchards named for a windmill.",
                   "category": "natural",
                   "coords": [
                         -120.64932,
@@ -23548,7 +23548,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Edward Peak",
-                  "text": "A peak in washington-apple-orchards-life-v2 located in the Enchantments region.",
+                  "text": "Edward Peak is a granite peak in the Alpine Lakes Wilderness of Washington.",
                   "category": "natural",
                   "coords": [
                         -120.760853,
@@ -23566,7 +23566,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Colchuck Balanced Rock",
-                  "text": "A peak in washington-apple-orchards-life-v2 known for its balanced rock formation.",
+                  "text": "Colchuck Balanced Rock is a precariously balanced rock formation in the Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.818579,
@@ -23575,7 +23575,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Jabberwocky Tower",
-                  "text": "A peak in washington-apple-orchards-life-v2 that is a granite tower in the Enchantments.",
+                  "text": "Jabberwocky Tower is a granite tower in the Enchantments of Washington.",
                   "category": "natural",
                   "coords": [
                         -120.82599,
@@ -23584,7 +23584,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Enchantment Peak",
-                  "text": "A peak in washington-apple-orchards-life-v2, a prominent peak in the Enchantments.",
+                  "text": "Enchantment Peak is a prominent peak in the Enchantment mountain range.",
                   "category": "natural",
                   "coords": [
                         -120.802691,
@@ -23611,7 +23611,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "McClellan Peak",
-                  "text": "A peak in washington-apple-orchards-life-v2 in the Stuart Range.",
+                  "text": "McClellan Peak is a peak in the Enchantments of Washington.",
                   "category": "natural",
                   "coords": [
                         -120.785747,
@@ -23620,7 +23620,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Witches Tower",
-                  "text": "A peak in washington-apple-orchards-life-v2, a granite tower in the Enchantments.",
+                  "text": "Witches Tower is a distinctive rock spire in the Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.825356,
@@ -23638,7 +23638,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Etienne Creek Mining Area",
-                  "text": "Ruins of a mining area in washington-apple-orchards-life-v2.",
+                  "text": "Historic mining area along Etienne Creek in Apple Orchards.",
                   "category": "historical",
                   "coords": [
                         -120.695019,
@@ -23647,7 +23647,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "text": "A mountain in Apple Orchards with iron ore deposits.",
                   "category": "natural",
                   "coords": [
                         -120.715361,
@@ -23656,7 +23656,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Wildlife Viewing Blind",
-                  "text": "A wildlife viewing attraction in washington-apple-orchards-life-v2.",
+                  "text": "A blind for observing wildlife in the Apple Orchards area.",
                   "category": "landmark",
                   "coords": [
                         -120.66857,
@@ -23665,7 +23665,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Peshastin Lookout",
-                  "text": "A viewpoint in washington-apple-orchards-life-v2.",
+                  "text": "Peshastin Lookout provides views over orchards and valleys.",
                   "category": "natural",
                   "coords": [
                         -120.629075,
@@ -23674,7 +23674,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Boundary Butte",
-                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "text": "A butte on the boundary in Apple Orchards.",
                   "category": "natural",
                   "coords": [
                         -120.650139,
@@ -23683,7 +23683,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Core Enchantments Permit Area",
-                  "text": "A permit area nature reserve in the Enchantments in washington-apple-orchards-life-v2.",
+                  "text": "A permit zone for hiking in the alpine wilderness of the Enchantments.",
                   "category": "natural",
                   "coords": [
                         -120.776241,
@@ -23692,7 +23692,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Camas Meadows Natural Area Preserve",
-                  "text": "A nature reserve in washington-apple-orchards-life-v2.",
+                  "text": "A natural preserve in Apple Orchards known for its camas lilies.",
                   "category": "natural",
                   "coords": [
                         -120.580737,
@@ -23701,7 +23701,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Snow Permit Area",
-                  "text": "A permit area nature reserve in washington-apple-orchards-life-v2.",
+                  "text": "A permit area for winter sports activities in Apple Orchards.",
                   "category": "natural",
                   "coords": [
                         -120.730555,
@@ -23746,7 +23746,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Dog Beach",
-                  "text": "Dog Beach is a beach for dogs in the Washington apple orchards region.",
+                  "text": "A dog beach where dogs can run and swim off-leash.",
                   "category": "recreational",
                   "coords": [
                         -120.70621,
@@ -23848,7 +23848,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Storybook Land Canal Boats",
-                  "text": "Storybook Land Canal Boats ist eine Bootsfahrt im Disneyland Park in Anaheim.",
+                  "text": "Die Storybook Land Canal Boats sind eine Bootsfahrt durch Miniaturmärchenszenen in Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.91822,
@@ -23857,7 +23857,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Finding Nemo Submarine Voyage",
-                  "text": "Finding Nemo Submarine Voyage ist eine U-Boot-Fahrt im Disneyland Park in Anaheim.",
+                  "text": "Die Finding Nemo Submarine Voyage ist eine U-Boot-Fahrt durch eine Unterwasserwelt in Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.917176,
@@ -23929,7 +23929,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventureland Treehouse",
-                  "text": "In knott-s-berry-farm-life-v2 ist Adventureland Treehouse ein begehbares Baumhaus.",
+                  "text": "Das Adventureland Treehouse ist ein begehbares Baumhaus-Spielareal in Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.920549,
@@ -23947,7 +23947,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coast Rider",
-                  "text": "In knott-s-berry-farm-life-v2 ist Coast Rider eine Wilde-Maus-Achterbahn.",
+                  "text": "Eine wilde Maus-Achterbahn im Knott’s Berry Farm.",
                   "category": "landmark",
                   "coords": [
                         -118.002026,
@@ -23965,7 +23965,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sierra Sidewinder",
-                  "text": "In knott-s-berry-farm-life-v2 ist Sierra Sidewinder eine sich drehende Achterbahn.",
+                  "text": "Eine sich drehende Achterbahn mit einzelnen rotierenden Wagen.",
                   "category": "landmark",
                   "coords": [
                         -117.99876,
@@ -23974,7 +23974,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "GhostRider",
-                  "text": "In knott-s-berry-farm-life-v2 ist GhostRider eine Holzachterbahn.",
+                  "text": "Eine klassische Holzachterbahn, eine der längsten in Kalifornien.",
                   "category": "landmark",
                   "coords": [
                         -117.999014,
@@ -23983,7 +23983,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Muckenthaler Cultural Center",
-                  "text": "In knott-s-berry-farm-life-v2 ist das Muckenthaler Cultural Center ein Kulturzentrum in einem historischen Herrenhaus.",
+                  "text": "Ein historisches spanisch-koloniales Herrenhaus aus den 1920er Jahren und Kulturzentrum.",
                   "category": "landmark",
                   "coords": [
                         -117.944001,
@@ -23992,7 +23992,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Astro Orbitor",
-                  "text": "In knott-s-berry-farm-life-v2 ist Astro Orbitor eine raketenförmige Rundfahrt.",
+                  "text": "Ein thematisches Spinnfahrgeschäft mit raketenförmigen Gondeln, die einen Mittelpfosten umkreisen.",
                   "category": "landmark",
                   "coords": [
                         -117.918288,
@@ -24019,7 +24019,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Guardians of the Galaxy: Mission Breakout",
-                  "text": "In knott-s-berry-farm-life-v2 ist Guardians of the Galaxy: Mission Breakout ein Free-Fall-Turm.",
+                  "text": "Ein Indoor-Drop-Tower-Fahrgeschäft mit zufälliger Fallsequenz, thematisiert nach den Guardians of the Galaxy.",
                   "category": "landmark",
                   "coords": [
                         -117.916904,
@@ -24066,7 +24066,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Storybook Land Canal Boats",
-                  "text": "A Storybook Land Canal Boats egy hajóút az Anaheim-i Disneyland Parkban.",
+                  "text": "A Storybook Land Canal Boats egy hajóút miniatűr mesebeli jeleneteken át a Disneylandben.",
                   "category": "landmark",
                   "coords": [
                         -117.91822,
@@ -24075,7 +24075,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Finding Nemo Submarine Voyage",
-                  "text": "A Finding Nemo Submarine Voyage egy tengeralattjáró-út az Anaheim-i Disneyland Parkban.",
+                  "text": "A Finding Nemo Submarine Voyage egy tengeralattjáró-út egy víz alatti világon át a Disneylandben.",
                   "category": "landmark",
                   "coords": [
                         -117.917176,
@@ -24147,7 +24147,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventureland Treehouse",
-                  "text": "A knott-s-berry-farm-life-v2 területén az Adventureland Treehouse egy sétálható faház.",
+                  "text": "Az Adventureland Treehouse egy bejárható játszótér a Disneylandben egy faházban.",
                   "category": "landmark",
                   "coords": [
                         -117.920549,
@@ -24165,7 +24165,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coast Rider",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Coast Rider egy vad egér hullámvasút.",
+                  "text": "Egérlyuk hullámvasút a Knott’s Berry Farmban.",
                   "category": "landmark",
                   "coords": [
                         -118.002026,
@@ -24183,7 +24183,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sierra Sidewinder",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Sierra Sidewinder egy forgó hullámvasút.",
+                  "text": "Pörgő hullámvasút egyedi forgó kocsikkal.",
                   "category": "landmark",
                   "coords": [
                         -117.99876,
@@ -24192,7 +24192,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "GhostRider",
-                  "text": "A knott-s-berry-farm-life-v2 területén a GhostRider egy fa hullámvasút.",
+                  "text": "Klasszikus fa hullámvasút, Kalifornia egyik leghosszabbja.",
                   "category": "landmark",
                   "coords": [
                         -117.999014,
@@ -24201,7 +24201,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Muckenthaler Cultural Center",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Muckenthaler Cultural Center egy kulturális központ egy történelmi kastélyban.",
+                  "text": "Történelmi spanyol gyarmati stílusú kúria az 1920-as évekből, ma kulturális központ.",
                   "category": "landmark",
                   "coords": [
                         -117.944001,
@@ -24210,7 +24210,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Astro Orbitor",
-                  "text": "A knott-s-berry-farm-life-v2 területén az Astro Orbitor egy rakétatémájú körhinta.",
+                  "text": "Tematikus forgó játék rakétakabinokkal, amelyek egy központi oszlop körül keringenek.",
                   "category": "landmark",
                   "coords": [
                         -117.918288,
@@ -24237,7 +24237,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Guardians of the Galaxy: Mission Breakout",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Guardians of the Galaxy: Mission Breakout egy szabadeső torony.",
+                  "text": "Fedett zuhanótorony véletlenszerű zuhanássorozattal, A galaxis őrzői témájú.",
                   "category": "landmark",
                   "coords": [
                         -117.916904,
@@ -24284,7 +24284,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Storybook Land Canal Boats",
-                  "text": "Storybook Land Canal Boats este o plimbare cu barca în Disneyland Park din Anaheim.",
+                  "text": "Storybook Land Canal Boats este o plimbare cu barca prin scene miniaturale de basm în Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.91822,
@@ -24293,7 +24293,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Finding Nemo Submarine Voyage",
-                  "text": "Finding Nemo Submarine Voyage este o plimbare cu submarin în Disneyland Park din Anaheim.",
+                  "text": "Finding Nemo Submarine Voyage este o plimbare cu submarinul printr-o lume subacvatică în Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.917176,
@@ -24365,7 +24365,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventureland Treehouse",
-                  "text": "În knott-s-berry-farm-life-v2, Adventureland Treehouse este o căsuță în copac pe care o poți vizita.",
+                  "text": "Adventureland Treehouse este o zonă de joacă sub formă de casă în copac, accesibilă în Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.920549,
@@ -24383,7 +24383,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coast Rider",
-                  "text": "În knott-s-berry-farm-life-v2, Coast Rider este un roller coaster de tip șoarece sălbatic.",
+                  "text": "Un roller coaster de tip șoarece sălbatic la Knott’s Berry Farm.",
                   "category": "landmark",
                   "coords": [
                         -118.002026,
@@ -24401,7 +24401,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sierra Sidewinder",
-                  "text": "În knott-s-berry-farm-life-v2, Sierra Sidewinder este un roller coaster care se rotește.",
+                  "text": "Un roller coaster rotitor cu vagoane care se învârt individual.",
                   "category": "landmark",
                   "coords": [
                         -117.99876,
@@ -24410,7 +24410,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "GhostRider",
-                  "text": "În knott-s-berry-farm-life-v2, GhostRider este un roller coaster din lemn.",
+                  "text": "Un roller coaster clasic din lemn, unul dintre cele mai lungi din California.",
                   "category": "landmark",
                   "coords": [
                         -117.999014,
@@ -24419,7 +24419,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Muckenthaler Cultural Center",
-                  "text": "În knott-s-berry-farm-life-v2, Muckenthaler Cultural Center este un centru cultural găzduit într-un conac istoric.",
+                  "text": "Un conac istoric în stil spaniol colonial, construit în anii 1920, acum centru cultural.",
                   "category": "landmark",
                   "coords": [
                         -117.944001,
@@ -24428,7 +24428,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Astro Orbitor",
-                  "text": "În knott-s-berry-farm-life-v2, Astro Orbitor este o plimbare rotitoare tematică rachetă.",
+                  "text": "O atracție rotitoare cu tematică spațială, cu cabine în formă de rachetă care orbitează un stâlp central.",
                   "category": "landmark",
                   "coords": [
                         -117.918288,
@@ -24455,7 +24455,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Guardians of the Galaxy: Mission Breakout",
-                  "text": "În knott-s-berry-farm-life-v2, Guardians of the Galaxy: Mission Breakout este un turn cu cădere liberă.",
+                  "text": "O atracție de tip turn de cădere în interior, cu secvență aleatorie de cădere, tematică Gardienii Galaxiei.",
                   "category": "landmark",
                   "coords": [
                         -117.916904,
@@ -24502,7 +24502,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Storybook Land Canal Boats",
-                  "text": "Storybook Land Canal Boats is a boat ride at Disneyland Park in Anaheim.",
+                  "text": "Storybook Land Canal Boats is a boat ride through miniature storybook scenes at Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.91822,
@@ -24511,7 +24511,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Finding Nemo Submarine Voyage",
-                  "text": "Finding Nemo Submarine Voyage is a submarine ride at Disneyland Park in Anaheim.",
+                  "text": "Finding Nemo Submarine Voyage is a submarine ride through an underwater world at Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.917176,
@@ -24583,7 +24583,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Adventureland Treehouse",
-                  "text": "In knott-s-berry-farm-life-v2, Adventureland Treehouse is a walk-through treehouse attraction.",
+                  "text": "Adventureland Treehouse is an explorable treehouse play area at Disneyland.",
                   "category": "landmark",
                   "coords": [
                         -117.920549,
@@ -24601,7 +24601,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Coast Rider",
-                  "text": "In knott-s-berry-farm-life-v2, Coast Rider is a wild mouse roller coaster.",
+                  "text": "A wild mouse steel roller coaster at Knott’s Berry Farm.",
                   "category": "landmark",
                   "coords": [
                         -118.002026,
@@ -24619,7 +24619,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Sierra Sidewinder",
-                  "text": "In knott-s-berry-farm-life-v2, Sierra Sidewinder is a spinning roller coaster.",
+                  "text": "A spinning roller coaster with individual rotating cars.",
                   "category": "landmark",
                   "coords": [
                         -117.99876,
@@ -24628,7 +24628,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "GhostRider",
-                  "text": "In knott-s-berry-farm-life-v2, GhostRider is a wooden roller coaster.",
+                  "text": "A classic wooden roller coaster, one of the longest in California.",
                   "category": "landmark",
                   "coords": [
                         -117.999014,
@@ -24637,7 +24637,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Muckenthaler Cultural Center",
-                  "text": "In knott-s-berry-farm-life-v2, Muckenthaler Cultural Center is a cultural center housed in a historic mansion.",
+                  "text": "A historic Spanish Colonial Revival mansion built in the 1920s, now a cultural center.",
                   "category": "landmark",
                   "coords": [
                         -117.944001,
@@ -24646,7 +24646,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Astro Orbitor",
-                  "text": "In knott-s-berry-farm-life-v2, Astro Orbitor is a rocket-themed spinner ride.",
+                  "text": "A space-themed spinning ride with rocket-shaped gondolas that orbit a central pillar.",
                   "category": "landmark",
                   "coords": [
                         -117.918288,
@@ -24673,7 +24673,7 @@ export const poiExtraUsaLifeV2: POI[] = [
             },
             {
                   "name": "Guardians of the Galaxy: Mission Breakout",
-                  "text": "In knott-s-berry-farm-life-v2, Guardians of the Galaxy: Mission Breakout is a drop tower ride.",
+                  "text": "An indoor drop tower ride with a random drop sequence, themed to Guardians of the Galaxy.",
                   "category": "landmark",
                   "coords": [
                         -117.916904,
