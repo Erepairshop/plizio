@@ -372,7 +372,8 @@ function hubPage(l: Lang) {
     .map((m) => {
       const c = content[m.slug];
       const short = (L<string>(c.intro, l) || "").slice(0, 110).replace(/\s+\S*$/, "") + "…";
-      return `<a class="bh-card" href="${beachUrl(l, m.slug)}"><img src="/poi-images/${m.file}" alt="${esc(m.name)}" width="400" height="267" loading="lazy"/><div class="bh-card-body"><h3>${esc(m.name)}</h3><p>${esc(short)}</p></div></a>`;
+      const thumb = m.file.replace(/\.webp$/, "-thumb.webp");
+      return `<a class="bh-card" href="${beachUrl(l, m.slug)}"><img src="/poi-images/${thumb}" alt="${esc(m.name)}" width="400" height="267" loading="lazy" decoding="async"/><div class="bh-card-body"><h3>${esc(m.name)}</h3><p>${esc(short)}</p></div></a>`;
     })
     .join("");
   const itemList = {
