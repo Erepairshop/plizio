@@ -105,10 +105,16 @@ ${hl}
 <script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, "\\u003c")}</script>
 </head><body>`;
 }
-function header(l: Lang) {
+const LANG_LABEL: Record<Lang, string> = { de: "DE", hu: "HU", ro: "RO", en: "EN" };
+function langSwitch(l: Lang, urlFn: (ll: Lang) => string) {
+  return `<div class="plz-langs">${LANGS.map((ll) =>
+    `<a href="${urlFn(ll)}" hreflang="${ll}"${ll === l ? ' class="active" aria-current="true"' : ""}>${LANG_LABEL[ll]}</a>`
+  ).join("")}</div>`;
+}
+function header(l: Lang, urlFn: (ll: Lang) => string) {
   return `<header class="plz-header"><div class="plz-header-inner">
 <a href="/${l}/" class="plz-logo">Plizio</a>
-<nav class="plz-nav"><a href="/${l}/">${esc(t("home", l))}</a><a href="/europe-map/">Europa</a></nav>
+<nav class="plz-nav"><a href="/${l}/">${esc(t("home", l))}</a><a href="/europe-map/">Europa</a>${langSwitch(l, urlFn)}</nav>
 </div></header>`;
 }
 function footer(l: Lang) {
@@ -204,7 +210,7 @@ function beachPage(l: Lang, slug: string) {
 
   return (
     head(title, metaDesc, canonical, hreflang((ll) => beachUrl(ll, slug)), jsonld).replace("__L__", l) +
-    header(l) +
+    header(l, (ll) => beachUrl(ll, slug)) +
     `<main class="bh-main">
 <nav class="plz-breadcrumb"><a href="/${l}/">${esc(t("home", l))}</a><span>›</span><a href="/${l}/${COUNTRY.key}/">${esc(COUNTRY.name[l])}</a><span>›</span><a href="${hubUrl(l)}">${esc(t("beaches", l))}</a><span>›</span><span>${esc(name)}</span></nav>
 <figure class="bh-hero"><img src="${imgUrl}" alt="${esc(name)}" width="1600" height="1066" loading="eager"/>
@@ -248,7 +254,7 @@ function hubPage(l: Lang) {
   };
   return (
     head(title, desc, canonical, hreflang(hubUrl), itemList).replace("__L__", l) +
-    header(l) +
+    header(l, hubUrl) +
     `<main class="bh-main">
 <nav class="plz-breadcrumb"><a href="/${l}/">${esc(t("home", l))}</a><span>›</span><a href="/${l}/${COUNTRY.key}/">${esc(COUNTRY.name[l])}</a><span>›</span><span>${esc(t("beaches", l))}</span></nav>
 <h1>${esc(t("hubTitle", l))}</h1>
