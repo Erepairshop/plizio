@@ -188,7 +188,7 @@ jobs:
             echo "BEFORE SHA unreachable → FULL"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
           fi
           CHANGED=$(git diff --name-only "$BEFORE" "$AFTER" || true)
-          echo "Changed files ($BEFORE..$AFTER):"; echo "$CHANGED" | head -60
+          echo "Changed files ($BEFORE..$AFTER):"; echo "$CHANGED" | head -60 || true
           if [ -z "$CHANGED" ]; then
             echo "No changes → none (reuse)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
           fi
