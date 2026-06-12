@@ -1029,12 +1029,15 @@ const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: str
 };
 function footerHtml(lang: Lang): string {
   const f = FOOTER_COPY[lang] ?? FOOTER_COPY.en;
+  // Home link must point to an existing landing page — extra langs (fr/tr/hr)
+  // have no /<lang>/ home, fall back to en.
+  const navLang: Lang = SUPPORTED_LANGS.includes(lang) ? lang : ("en" as Lang);
   // Globalis kep-fallback: ha egy poi-images/geo-images kep nem tolt be (404 — pl.
   // letoltetlen poi.image), csere placeholder SVG-re, hogy ne legyen torott kep.
   // Capture-fazis (img error nem bubble-ozik); a lazy-load kepek a footer-script
   // utan toltenek, igy elkapja oket.
   const imgFb = `<script>document.addEventListener('error',function(e){var t=e.target;if(t&&t.tagName==='IMG'&&!t.dataset.phf&&/\\/(poi-images|geo-images)\\//.test(t.getAttribute('src')||'')){t.dataset.phf=1;t.src='/placeholders/poi/placeholder-landmark.svg';}},true);</script>`;
-  return `<div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>${imgFb}`;
+  return `<div><a href="/${navLang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>${imgFb}`;
 }
 
 // Belso POI-link a CELPOI altal tamogatott nyelven. A 4 alapnyelv (de/hu/ro/en)
@@ -2188,14 +2191,19 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const metaDesc = smartMetaDesc(descText, `${name} — ${T(poi.type, lang)}`);
   const richness = pageRichness(poi, lang);
 
-  const breadcrumbHome = `<a href="/${lang}/">${I("home", lang)}</a>`;
-  const breadcrumbCountry = `<a href="${buildCountryPath(lang, countryId)}">${countryName}</a>`;
+  // Landing pages (home / country / state) exist ONLY for the 4 supported langs.
+  // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
+  // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
+  // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
+  const navLang: Lang = SUPPORTED_LANGS.includes(lang) ? lang : ("en" as Lang);
+  const breadcrumbHome = `<a href="/${navLang}/">${I("home", lang)}</a>`;
+  const breadcrumbCountry = `<a href="${buildCountryPath(navLang, countryId)}">${countryName}</a>`;
   // State-crumb CSAK ha valoban letezik state-index oldal (regions-ben van a parent).
   // Kulonben 404-re linkelne (pl. /hu/finnorszag/fi/). Szoveg = lokalizalt regio-nev.
   const stateRegion = slugs.getStateForPoi(poi);
   const breadcrumbState = (poi.parent === countryId || !stateRegion)
     ? "" // country-level POI vagy nincs state-index oldal: skip crumb
-    : `<a href="${buildStatePath(lang, poi.parent)}">${slugs.localizedStateName(poi.parent, lang)}</a>`;
+    : `<a href="${buildStatePath(navLang, poi.parent)}">${slugs.localizedStateName(poi.parent, lang)}</a>`;
 
   // hreflang alternates
   const alternates = getPoiAlternates(poi);
@@ -2811,9 +2819,9 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
-  { name: I("home", lang), url: `/${lang}/` },
-  { name: countryName, url: buildCountryPath(lang, countryId) },
-  ...((poi.parent !== countryId && stateRegion) ? [{ name: slugs.localizedStateName(poi.parent, lang), url: buildStatePath(lang, poi.parent) }] : []),
+  { name: I("home", lang), url: `/${navLang}/` },
+  { name: countryName, url: buildCountryPath(navLang, countryId) },
+  ...((poi.parent !== countryId && stateRegion) ? [{ name: slugs.localizedStateName(poi.parent, lang), url: buildStatePath(navLang, poi.parent) }] : []),
   { name, url: buildPoiPath(lang, poi) },
 ])}
 <script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
@@ -2857,9 +2865,9 @@ document.querySelectorAll('.plz-faq-item summary,.plz-yh-collapse summary').forE
 ready();})();</script>
 <header class="plz-header">
   <div class="plz-header-inner">
-    <a href="/${lang}/" class="plz-logo">Plizio</a>
+    <a href="/${navLang}/" class="plz-logo">Plizio</a>
     <nav class="plz-nav">
-      <a href="/${lang}/">${I("home", lang)}</a>
+      <a href="/${navLang}/">${I("home", lang)}</a>
       <a href="/europe-map/">Europa</a>
     </nav>
     <div class="plz-langs">${langSwitcher}</div>
