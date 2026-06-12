@@ -1,0 +1,2802 @@
+{
+ "zlatni-rat": {
+  "beach": "Zlatni Rat",
+  "town": "Bol",
+  "events": [
+   {
+    "name": "Bol Summer Festival (Bolsko lito)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, May to September/October (37th edition in 2026)",
+    "date": "",
+    "blurb": "Bol's main season-long cultural program with near-daily concerts, theatre, exhibitions and gastronomy events.",
+    "source_url": "https://bol.hr/en/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Graffiti na Gradele",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late July; 2026 edition 22-26 July",
+    "date": "2026-07-22",
+    "blurb": "International street-art and graffiti festival bringing leading Croatian and European muralists plus evening concerts and workshops to Bol.",
+    "source_url": "https://bol.hr/en/graffiti-na-gradele-bol-is-the-place-to-be-this-weekend/",
+    "image_url": ""
+   },
+   {
+    "name": "MEETeatING Mediterranean",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in June; 2026 edition 16-21 June",
+    "date": "2026-06-16",
+    "blurb": "International gastronomic and cultural festival pairing Croatian and a guest Mediterranean country's cuisine.",
+    "source_url": "https://bol.hr/en/meeteating-mediterranean/",
+    "image_url": ""
+   },
+   {
+    "name": "Fair Day of Bol (Bolska fjera)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 5 August",
+    "date": "2026-08-05",
+    "blurb": "Bol's patron-saint town feast day, marked with a local fair, gastronomy stalls and live music along the seafront.",
+    "source_url": "https://www.zlatniratbol.com/en/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Klapa A Cappella Evening (Bol)",
+    "type": "music",
+    "recurring": true,
+    "when": "June; 2026 evening on 12 June",
+    "date": "2026-06-12",
+    "blurb": "An evening of traditional Dalmatian klapa a cappella singing at Bol's Teatrin 'Dva ferala'.",
+    "source_url": "https://bol.hr/en/events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "zrce": {
+  "beach": "Zrće",
+  "town": "Novalja",
+  "events": [
+   {
+    "name": "Hideout Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late June / early July; 2026: 30 June-3 July",
+    "date": "2026-06-30",
+    "blurb": "Major UK-rooted electronic music festival with open-air clubs and boat parties at Zrće beach.",
+    "source_url": "https://hideoutfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "DropZone Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early July; 2026: 5-9 July",
+    "date": "2026-07-05",
+    "blurb": "Hardstyle, hardcore and harder electronic music festival with 90+ artists at Zrće beach.",
+    "source_url": "https://zrce.com/events",
+    "image_url": ""
+   },
+   {
+    "name": "Balkan Wave Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually July; 2026: 8-12 July",
+    "date": "2026-07-08",
+    "blurb": "Day-to-night electronic parties with after-beach sessions and boat parties at Zrće.",
+    "source_url": "https://zrce.com/events",
+    "image_url": ""
+   },
+   {
+    "name": "Barrakud Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually August; 2026: 9-13 August",
+    "date": "2026-08-09",
+    "blurb": "Long-running drum and bass / electronic festival at Zrće beach.",
+    "source_url": "https://www.visit-pag.com/tours/barrakud-festival/PG-TR-185",
+    "image_url": ""
+   },
+   {
+    "name": "Zrće Spring Break Croatia",
+    "type": "music",
+    "recurring": true,
+    "when": "annually May / early June",
+    "date": "2026-05-22",
+    "blurb": "Season-opening party weekends at Zrće beach drawing international student crowds.",
+    "source_url": "https://zrce.com/events",
+    "image_url": ""
+   },
+   {
+    "name": "Cultural Summer Novalja",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually from mid-June through summer",
+    "date": "2026-06-13",
+    "blurb": "International cultural program of art exhibitions, concerts, klapa singing, folklore and theatre.",
+    "source_url": "https://visitnovalja.hr/traditional-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Pag Cheese and Sheep Fair",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually first weekend of July",
+    "date": "",
+    "blurb": "Traditional Pag island fair celebrating the famous Paški sir cheese and local sheep farming.",
+    "source_url": "https://visitnovalja.hr/traditional-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Nakanat Music Festival",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually 25 November",
+    "date": "",
+    "blurb": "Traditional Pag island festival of two-part folk singing held since 2003.",
+    "source_url": "https://visitnovalja.hr/traditional-events/?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "banje-beach": {
+  "beach": "Banje Beach",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually 10 July to 25 August",
+    "date": "2026-07-10",
+    "blurb": "Croatia's premier summer arts festival stages 70+ theatre, classical music, dance and visual-arts performances at open-air venues across Dubrovnik's historic centre.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of St Blaise (Festa Svetog Vlaha)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually 2-3 February",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's millennium-old patron-saint celebration, a UNESCO Intangible Cultural Heritage event with a Stradun procession and release of white doves.",
+    "source_url": "https://en.wikipedia.org/wiki/Festivity_of_Saint_Blaise,_the_patron_of_Dubrovnik",
+    "image_url": ""
+   },
+   {
+    "name": "Du Motion - Dubrovnik Half Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late April; 2026: 26 April",
+    "date": "2026-04-26",
+    "blurb": "Annual road-running weekend with a 21.1 km half marathon starting and finishing on Stradun.",
+    "source_url": "https://du-motion.com/races/half-marathon",
+    "image_url": ""
+   },
+   {
+    "name": "Good Food Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in October",
+    "date": "2026-10-05",
+    "blurb": "A two-week gastronomy celebration showcasing local Dubrovnik cuisine, wine tastings and culinary workshops.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late November to early January",
+    "date": "",
+    "blurb": "Festive season event with concerts on Stradun, ice rinks, children's workshops and local food and wine stalls.",
+    "source_url": "https://www.dubrovnik-online.net/dubrovnik-winter-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "nugal-beach": {
+  "beach": "Makarska",
+  "town": "Makarska",
+  "events": [
+   {
+    "name": "Makarsko ljeto (Makarska Cultural Summer)",
+    "type": "cultural festival",
+    "recurring": true,
+    "when": "Mid-June to early September (annually)",
+    "date": "",
+    "blurb": "Makarska's flagship summer cultural program runs about 80 days with roughly 40 events: classical and pop concerts, folklore, theatre, poetry evenings, exhibitions and showcases of local tradition, staged across the town's squares, churches, galleries and historic buildings. A short walk from Nugal Beach.",
+    "source_url": "https://www.dalmatia.hr/event/makarska-summer/",
+    "image_url": ""
+   },
+   {
+    "name": "Makarska Open (WTA 125 tennis)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Early June (annually); 2026 edition 2-7 June",
+    "date": "2026-06-02",
+    "blurb": "A professional WTA 125 women's tennis tournament on the outdoor clay courts of Tennis Center Makarska, the flagship WTA event in Southeastern Europe. The 2026 edition (the 20th) runs 2-7 June, drawing top-ranked international players right in town.",
+    "source_url": "https://www.wtatennis.com/tournaments/1090/makarska-125/2026",
+    "image_url": ""
+   },
+   {
+    "name": "Toochepin Rock Festival",
+    "type": "music festival",
+    "recurring": true,
+    "when": "August (annually)",
+    "date": "",
+    "blurb": "An open-air rock festival held since 2012 on the harbour stage at Lučica in Tučepi, about 3 km from Nugal Beach. Two to three days of Croatian, regional and international bands playing by the sea each August.",
+    "source_url": "https://www.toochepin.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Makarska Jazz Festival",
+    "type": "music festival",
+    "recurring": true,
+    "when": "Late August (annually)",
+    "date": "",
+    "blurb": "A multi-day jazz festival in late August bringing Croatian and international jazz artists to Makarska, a relaxed evening counterpoint to days spent on the Riviera's beaches.",
+    "source_url": "https://www.valamar.com/en/event/makarska-jazz-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Dalmatian Klapa (Omiš)",
+    "type": "traditional music festival",
+    "recurring": true,
+    "when": "July (annually)",
+    "date": "",
+    "blurb": "The leading celebration of klapa, the UNESCO-listed Dalmatian a cappella singing tradition, held each July in nearby Omiš with numerous concerts. A short coastal trip from the Makarska area for a taste of authentic local culture.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/makarska-riviera/events-makarska-riviera/",
+    "image_url": ""
+   },
+   {
+    "name": "Baška Voda Summer",
+    "type": "cultural festival",
+    "recurring": true,
+    "when": "Early July to September (annually)",
+    "date": "",
+    "blurb": "A summer-long series of open-air concerts, small theatre events and cultural activities in the neighbouring Riviera resort of Baška Voda, easily reached from Makarska along the coast.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/makarska-riviera/events-makarska-riviera/",
+    "image_url": ""
+   }
+  ]
+ },
+ "pasjaca": {
+  "beach": "Cavtat (Konavle)",
+  "town": "Cavtat (Konavle)",
+  "events": [
+   {
+    "name": "Čilipi Folklore Performance (Čilipi Folklor)",
+    "type": "traditional/cultural",
+    "recurring": true,
+    "when": "Every Sunday from Easter until the end of October, after Sunday Mass (around 09:30-12:00)",
+    "date": "",
+    "blurb": "Every Sunday in the nearby village of Čilipi, a local ensemble in elegant silk-embroidered Konavle national costumes performs traditional kolo dances (Potkolo, Poskočica, Čičak) on the square in front of St Nicholas' Church. Many performers are from local families who pass the customs down through generations; klapa singing, traditional handicrafts and the County Museum round out the morning.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events/5/cilipi-folklor-folklore-performance",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Konavle_IMG_9802_Cilipi.JPG"
+   },
+   {
+    "name": "Cavtat Summer Festival",
+    "type": "music/cultural",
+    "recurring": true,
+    "when": "End of June to beginning of September each year",
+    "date": "",
+    "blurb": "An annual series of free cultural and entertainment events along the Cavtat waterfront and squares, with dance and music shows, street performances, klapa serenade nights and classical concerts throughout the summer season.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Open Air Cinema Cavtat",
+    "type": "film",
+    "recurring": true,
+    "when": "July to September each year",
+    "date": "",
+    "blurb": "Part of the Cinema Mediterranean project, an open-air cinema in Cavtat screens contemporary European and world films plus children's programming on warm summer evenings.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events/40/films-and-screenings-at-the-open-air-cinema-cavtat-cavtat-summer-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Epidaurus Festival",
+    "type": "music/arts",
+    "recurring": true,
+    "when": "Late summer, around August-September each year",
+    "date": "",
+    "blurb": "Named after Cavtat's ancient name, this arts festival centres on music but also welcomes drama, literature, theatre and educational and folklore workshops, featuring internationally renowned artists alongside a Young Talents programme.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/southern-dalmatia/events-southern-dalmatia/",
+    "image_url": ""
+   },
+   {
+    "name": "Music and Word Festival (Glazba i riječ)",
+    "type": "cultural/music",
+    "recurring": true,
+    "when": "June each year (2026 dates: 15, 23 and 25 June)",
+    "date": "2026-06-15",
+    "blurb": "Organised by the Konavle Art association just before the main season, this festival pairs music and the spoken word: children's choir concerts, theatrical productions and tributes to figures such as Cavtat-born opera singer Tino Pattiera, staged in St Nicholas Church and the Cavtat Culture Centre.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Guided Tour: Cavtat... a Small Place for Great Art",
+    "type": "cultural/sightseeing",
+    "recurring": true,
+    "when": "Every Friday at 09:30, 10 April to 30 October 2026",
+    "date": "",
+    "blurb": "A weekly storytelling walking tour through Cavtat's history, from ancient Epidaurus through the medieval town to the legacy of painter Vlaho Bukovac and sculptor Ivan Meštrović. Starts in front of the Franciscan Monastery.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events/60/a-guided-tour-through-cavtat-cavtat-a-small-place-for-great-art?date=15.05.2026",
+    "image_url": ""
+   },
+   {
+    "name": "The Scents of Christmas in Konavle (Mirisi Božića u Konavlima)",
+    "type": "traditional/festive",
+    "recurring": true,
+    "when": "December each year",
+    "date": "",
+    "blurb": "Billed as the biggest Christmas carols event in Croatia, this award-winning December celebration showcases Konavle's rural traditions, carol singing and festive customs across the region.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "sahara-beach": {
+  "beach": "Lopar (island of Rab)",
+  "town": "Lopar (island of Rab)",
+  "events": [
+   {
+    "name": "Rabska Fjera (Rab Medieval Summer Festival)",
+    "type": "cultural / traditional",
+    "recurring": true,
+    "when": "Annually 25-27 July (feast days of St James, St Anne and St Christopher)",
+    "date": "2026-07-25",
+    "blurb": "Croatia's oldest and largest medieval summer festival, held in the town of Rab (about 10 km from Lopar). For three days the old town travels back in time with costumed reenactments, artisan craft workshops, knightly crossbow tournaments and street performances. Dating back to 1364, it is the island's signature cultural event.",
+    "source_url": "https://www.rab-visit.com/what-to-do/upcoming/rabska-fjera-195/195",
+    "image_url": ""
+   },
+   {
+    "name": "Lopar Samba Festival (Paradise Beach)",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in summer, one night at Paradise Beach (Rajska plaza), Lopar",
+    "date": "",
+    "blurb": "A vibrant beach party that brings Brazilian carnival energy to Lopar. Samba dancers from around the world show off their skills and flamboyant costumes to Latin rhythms, drawing several thousand visitors for one night each summer right next to Sahara Beach's neighbouring Paradise Beach.",
+    "source_url": "https://www.rab-visit.com/en/what-to-do/events/samba-festival/209",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Sand Sculptures (Lopar)",
+    "type": "cultural / art",
+    "recurring": true,
+    "when": "Annually; 2026 main competition 30 June - 3 July at Paradise Beach, season-long display through late September",
+    "date": "2026-06-30",
+    "blurb": "Lopar's famous fine sand is sculpted into elaborate artworks during this summer-long competition on Paradise Beach. The 2026 edition runs its main competition 30 June to 3 July with a concert and winners' ceremony, and the sculptures remain on display through the season. A family-friendly highlight right by Sahara Beach.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Stokaljfest (Lopar Fishing Festival)",
+    "type": "food / traditional",
+    "recurring": true,
+    "when": "Annually in early June at Paradise Beach, Lopar (2026: 4 June, 7:00 PM)",
+    "date": "2026-06-04",
+    "blurb": "A fishing festival dedicated to the Lopar octopus, held on Paradise Beach. Visitors enjoy local seafood specialities, traditional gastronomy and a relaxed seaside atmosphere a short walk from Sahara Beach.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Pumidofest (Lopar Tomato Gastro Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "Annually in July in Lopar (2026: 16 July, 7:00 PM)",
+    "date": "2026-07-16",
+    "blurb": "A gastro festival celebrating Lopar's prized tomatoes, with tastings of local dishes and produce, music and an evening village atmosphere. A fun stop for beach visitors wanting a taste of authentic island food.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Lopar Night (Loparska noc)",
+    "type": "cultural / traditional",
+    "recurring": true,
+    "when": "Annually in August in Lopar (2026: 9 August, 7:00 PM)",
+    "date": "2026-08-09",
+    "blurb": "An evening presentation of Lopar's old customs and traditional crafts, with folklore, local food and entertainment that showcases the village heritage. A classic summer night out for visitors staying near Sahara and Paradise beaches.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Lopar Carnival (Loparski maskari)",
+    "type": "traditional / carnival",
+    "recurring": true,
+    "when": "Annually around Mardi Gras / pre-Lent (February); 2026 main 'Mesopust' day 17 February",
+    "date": "2026-02-17",
+    "blurb": "A carnival tradition more than 150 years old. The Loparski maskari (masked groups) tour the village with live music and a welcome reception on Mardi Gras, an off-season cultural highlight on the island of Rab.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Rab Music Evenings (Rapske glazbene veceri)",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually through summer in the town of Rab (2026 concerts incl. 25 June and 31 July)",
+    "date": "2026-06-25",
+    "blurb": "A summer series of classical and operatic concerts staged in the historic town of Rab, about 10 km from Lopar. The 2026 programme includes an opera evening (Regoc) on 25 June and the Zagreb Quartet on 31 July, an elegant cultural counterpoint to a beach day.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "dance-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-July to late August (10 July - 25 August in 2026)",
+    "date": "2026-07-10",
+    "blurb": "The city's flagship cultural event since 1950, this 47-day festival of theatre, classical and contemporary music, opera, ballet and folklore is staged open-air across Dubrovnik's Old Town squares, palaces and fortresses, a short walk from Dance Beach. The 77th edition opens with the traditional raising of the Libertas flag in front of St Blaise's Church.",
+    "source_url": "https://www.dubrovnik-festival.hr/en/calendar",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of Saint Blaise (Sveti Vlaho), Patron of Dubrovnik",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Every year on 3 February (procession), starting 2 February",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's most important traditional and religious celebration, held continuously since 972 AD and inscribed on UNESCO's list of Intangible Cultural Heritage. It begins on 2 February with the release of white doves and the raising of St Blaise's banner, followed on 3 February by a solemn procession carrying the saint's relics along the Stradun through the Old Town.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "October (5 - 18 October in 2026)",
+    "date": "2026-10-05",
+    "blurb": "An international gastronomy festival organised by the Dubrovnik Tourist Board, featuring tastings, chef demonstrations, themed menus in city restaurants and food-and-wine events celebrating local Dalmatian cuisine across the Old Town and surrounds.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late June to early July",
+    "date": "",
+    "blurb": "Dubrovnik's English-language open-air theatre festival, staging Shakespeare and other classics as 'theatre under the stars' at the atmospheric Fort Lovrijenac, which overlooks Dance Beach. A favourite evening outing for summer visitors.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late November to early January",
+    "date": "",
+    "blurb": "Dubrovnik's Advent and winter celebration, with more than 200 cultural and entertainment events, festive markets, concerts and a large children's programme filling the Old Town's streets and squares through the holiday season.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Open (WTA 125 Tennis Tournament)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Late March (23 - 29 March in 2026)",
+    "date": "2026-03-23",
+    "blurb": "A WTA 125-level women's professional tennis tournament played on the clay courts of Tennis Club Dubrovnik, bringing international players to the city in early spring.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "porporela": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-July to late August (10 July - 25 August in 2026)",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship cultural event since 1950, the 77th edition runs across more than 70 open-air venues inside and around the Old Town walls, a short walk from Porporela. Over 2,000 artists deliver theatre, classical and contemporary music, opera, ballet and folklore through the height of summer.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Dubrovnik_Summer_Festival_2019_(48738589813).jpg"
+   },
+   {
+    "name": "Festivity of Saint Blaise (Festa svetog Vlaha)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Early February, main procession on 3 February",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's patron-saint festival, celebrated continuously since 972 and inscribed on UNESCO's list of Intangible Cultural Heritage. On 3 February, white doves are released and a procession in traditional folk costume carries the saint's relics along the Stradun, just behind the Old Port and Porporela.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "October (5-18 October in 2026)",
+    "date": "2026-10-05",
+    "blurb": "A two-week celebration of Dalmatian and contemporary cuisine organised by the Dubrovnik Tourist Board. Old Town restaurants and venues near the Old Port offer special menus, tastings, workshops and culinary tours, making it a highlight of the shoulder season.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival (Dubrovacki zimski festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late November to early January (around Advent and the New Year)",
+    "date": "",
+    "blurb": "Dubrovnik's Advent and holiday season fills Stradun, Gundulic Square and Pile with Christmas lights, markets, concerts and family activities, all within easy reach of the Old Port and Porporela. The 12th edition ran 29 November 2025 to 3 January 2026.",
+    "source_url": "https://www.dubrovnik-online.net/dubrovnik-winter-festival",
+    "image_url": ""
+   },
+   {
+    "name": "WTA 125 Dubrovnik Women's Tennis Tournament",
+    "type": "sport",
+    "recurring": true,
+    "when": "Late March (23-29 March in 2026)",
+    "date": "2026-03-23",
+    "blurb": "A WTA 125-level women's professional tennis tournament hosted in Dubrovnik in spring, drawing international players to the city before the main summer season.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sakarun": {
+  "beach": "Sali, Dugi Otok",
+  "town": "Sali, Dugi Otok",
+  "events": [
+   {
+    "name": "Saljske užance (Sali Festivity)",
+    "type": "Traditional / cultural festival",
+    "recurring": true,
+    "when": "First weekend of August (3 days)",
+    "date": "2026-08-07",
+    "blurb": "Dugi Otok's biggest traditional festival, held for over 50 years in the village of Sali. Fisherman's Night opens it with fish-stew and tuna/sardine cooking contests, followed by folk customs, port illumination, and the famous 'Tovareča mužika' (donkey music) parade ending with the performers swimming in Sali harbour.",
+    "source_url": "https://www.dugiotok.hr/en/event/saljske-uzance-sali-festivity-2025",
+    "image_url": ""
+   },
+   {
+    "name": "Summer Mul Blues Jam Festival",
+    "type": "Music festival (blues)",
+    "recurring": true,
+    "when": "August (one day)",
+    "date": "",
+    "blurb": "A relaxed open-air blues festival on the waterfront ('mul') of Sali on Dugi Otok, billed as the largest of the small Dalmatian blues festivals. It reached its 10th edition in August 2025 with several performers across a single evening.",
+    "source_url": "https://www.facebook.com/smbjfsali/",
+    "image_url": ""
+   },
+   {
+    "name": "Days of Herbs from Dugi Otok",
+    "type": "Cultural / gastronomic event",
+    "recurring": true,
+    "when": "Late May (about one week)",
+    "date": "2026-05-23",
+    "blurb": "Island-wide event presenting Dugi Otok's traditional knowledge and uses of wild and aromatic herbs, with tastings and demonstrations of local herbal practices.",
+    "source_url": "https://www.dugiotok.hr/en/offer-festivities",
+    "image_url": ""
+   },
+   {
+    "name": "Festival mora i soli (Sea and Salt Festival)",
+    "type": "Cultural / heritage festival",
+    "recurring": true,
+    "when": "Late June",
+    "date": "2026-06-26",
+    "blurb": "A celebration of Dugi Otok's centuries-old (995-year) fishing and salt tradition, presenting the island's maritime heritage with local food and customs.",
+    "source_url": "https://www.dugiotok.hr/en/offer-festivities",
+    "image_url": ""
+   },
+   {
+    "name": "Dugi Otok Moto Tour",
+    "type": "Sport / touring event",
+    "recurring": true,
+    "when": "Late September",
+    "date": "2026-09-25",
+    "blurb": "An organised motorcycling tour along Dugi Otok's panoramic island roads, drawing riders to explore the long island's scenic routes over a long weekend.",
+    "source_url": "https://www.dugiotok.hr/en/offer-festivities",
+    "image_url": ""
+   },
+   {
+    "name": "Village Patron Saint Festivities (Fešte)",
+    "type": "Traditional / religious festival",
+    "recurring": true,
+    "when": "Throughout summer (various dates per village)",
+    "date": "",
+    "blurb": "Each of Dugi Otok's villages, including Božava and Veli Rat near Sakarun, holds its own patron-saint festivity during summer, with traditional music, local dishes and entertainment in the village square and harbour.",
+    "source_url": "https://www.dugiotok.hr/en/offer-festivities",
+    "image_url": ""
+   }
+  ]
+ },
+ "beach-banj-sibenik": {
+  "beach": "Šibenik",
+  "town": "Šibenik",
+  "events": [
+   {
+    "name": "International Children's Festival Šibenik (Međunarodni dječji festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late June to early July (annually)",
+    "date": "",
+    "blurb": "One of Croatia's oldest cultural events, running since 1958. For about two weeks Šibenik's medieval streets and squares fill with drama, puppet, literary, art, film and sports programmes plus dozens of children's workshops with international guest artists. A short walk from Beach Banj.",
+    "source_url": "https://www.dalmatiasibenik.hr/en/events/international-childrens-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Šibenik Dance Festival",
+    "type": "dance",
+    "recurring": true,
+    "when": "Mid-July (annually); 2026 edition 13-18 July",
+    "date": "2026-07-13",
+    "blurb": "Annual contemporary dance festival staged across Šibenik's atmospheric venues, including a headline performance at the spectacular St. Michael's Fortress overlooking the Adriatic. International companies and dancers gather each summer.",
+    "source_url": "https://sibenikdancefestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "St. Michael's Fortress Summer Concerts",
+    "type": "music",
+    "recurring": true,
+    "when": "June to September (annual summer season)",
+    "date": "",
+    "blurb": "The restored medieval St. Michael's Fortress hosts an intimate open-air concert series each summer in its ~1,077-seat clifftop auditorium with sweeping sea views. Past and 2026 acts include major international names (e.g. Robert Plant on 20 June 2026).",
+    "source_url": "https://croatia.hr/en-gb/events/st-michaels-fortress-summer-concerts",
+    "image_url": "https://commons.wikimedia.org/wiki/File:View_of_St._Michael_Fortress_from_Barone.jpg"
+   },
+   {
+    "name": "Evenings of Klapa Songs (Klapske večeri) at Mala Loža",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Every Thursday evening, July to mid-September",
+    "date": "",
+    "blurb": "Free open-air performances of UNESCO-listed Dalmatian klapa a cappella singing held every Thursday through summer at Mala Loža in Šibenik's old town, organised by the local tourist board. An easy stroll from Beach Banj.",
+    "source_url": "https://www.inyourpocket.com/sibenik/experience-sibenik-the-ultimate-summer-festival_80665f",
+    "image_url": ""
+   },
+   {
+    "name": "Robert Plant - All That Glitters tour (St. Michael's Fortress)",
+    "type": "music",
+    "recurring": false,
+    "when": "20 June 2026, evening",
+    "date": "2026-06-20",
+    "blurb": "Led Zeppelin legend Robert Plant performs an exclusive, intimate concert with Saving Grace at St. Michael's Fortress in Šibenik as part of his All That Glitters tour. The clifftop auditorium seats only around 1,077.",
+    "source_url": "https://www.croatiaweek.com/robert-plant-sibenik-fortress-concert-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "betina-spilja": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "Culture / Performing arts",
+    "recurring": true,
+    "when": "Annually, mid-July to late August (2026: 10 July - 25 August)",
+    "date": "2026-07-10",
+    "blurb": "The 77th edition of Dubrovnik's flagship cultural festival turns the old town's Renaissance and Baroque squares, fortresses and palaces into open-air stages. Over 47 days it presents classical music, theatre, opera, dance and folklore at more than 70 historic venues, opening on 10 July in front of St Blaise's Church with the raising of the Libertas flag. A short trip from Betina cave beach into the city.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Dubrovnik,_view_on_Old_town_from_Minceta_tower,_Croatia.JPG"
+   },
+   {
+    "name": "Festivity of St Blaise (Festa Svetog Vlaha)",
+    "type": "Traditional / Religious",
+    "recurring": true,
+    "when": "Annually on 3 February (Dubrovnik Festa run-up 25 Jan - 2 Feb)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's biggest traditional celebration, honouring its patron saint and held without interruption since the year 972, is inscribed on UNESCO's list of Intangible Cultural Heritage. Parish banner-bearers in folk costume, a grand procession through the old town, mass at St Blaise's Church, the release of white doves and the throat-blessing ritual mark the day. In 2026 the city celebrates its saint for the 1,055th year.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "Food & Drink / Gastronomy",
+    "recurring": true,
+    "when": "Annually in October (2026: 5 - 18 October)",
+    "date": "2026-10-05",
+    "blurb": "A two-week celebration of local Dalmatian flavours and contemporary gastronomy organised by the Dubrovnik Tourist Board. Restaurants, cafes and bars across the city host tastings, culinary walks, workshops and kids' events, and the famous 'Dubrovnik Table' lines the Stradun with dishes prepared by local chefs to sample.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Libertas Film Festival",
+    "type": "Film / Culture",
+    "recurring": true,
+    "when": "Annually during the summer season",
+    "date": "",
+    "blurb": "An international film festival showing works from around the world within the historic walls of Dubrovnik, known for spotlighting up-and-coming films and artists. Screenings take place at atmospheric open-air locations around the old town during the warmer months.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "st-jakov-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually, mid-July to late August (10 July – 25 August in 2026)",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship summer cultural event, now in its 77th edition, turning the Old Town's fortresses, squares and palaces into open-air stages for theatre, opera, classical music and dance. It opens on 10 July in front of St Blaise's Church with the raising of the Libertas flag.",
+    "source_url": "https://www.dubrovnik-festival.hr/en/calendar",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of St Blaise (Sveti Vlaho)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on 3 February (festivities begin 2 February)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's most important feast day, honouring its patron saint St Blaise, celebrated since 972 and inscribed on UNESCO's Intangible Cultural Heritage list. White doves are released on 2 February, followed by a grand procession of clergy and locals in traditional costume up the Stradun on 3 February.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/get/newsletter_sveti_vlaho/65304/st_blaise_feast_unique_dubrovnik_winter_celebration.html",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "Annually in October (5 – 18 October in 2026)",
+    "date": "2026-10-05",
+    "blurb": "A citywide autumn celebration of local Dalmatian cuisine organised by the Dubrovnik Tourist Board, featuring around thirty gastronomic events, tastings, workshops, special restaurant menus and the popular Dubrovnik Table finale on the Stradun.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually in late June / early July (24 June – 5 July in 2026)",
+    "date": "2026-06-24",
+    "blurb": "An English-language theatre festival staged under the stars at the historic Fort Lovrijenac, dedicated to Shakespeare and international drama. The 2026 edition presents the new production 'One for All' plus the monodrama 'A Wizard in the Cave'.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Carnival (Karneval)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually in February around Shrovetide (13 – 17 February in 2026)",
+    "date": "2026-02-13",
+    "blurb": "Dubrovnik's pre-Lenten carnival with costumed parades, masks, music and family events around the Old Town and Stradun, part of the winter Dubrovnik Festa season.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival / Advent",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "Annually late November to early January",
+    "date": "",
+    "blurb": "Dubrovnik's festive season with Christmas lights, an Advent market, concerts, food stalls and a lively New Year's celebration centred on the Stradun and the Old Town squares.",
+    "source_url": "https://www.dubrovnik-online.net/dubrovnik-winter-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "bellevue-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Festivity of Saint Blaise (Festa svetog Vlaha)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Early February each year, main day 3 February (preceded by the Dubrovnik Festa, 25 Jan-2 Feb)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's biggest traditional and religious celebration, honouring the city's patron saint, held continuously since 972 AD and inscribed on the UNESCO Intangible Cultural Heritage list. The day features holy mass, the release of white doves, a grand procession through the Old Town with reliquaries and parish banners, and the Trombunjeri firing their muskets at Pile Gate. A short walk from Bellevue Beach.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural/theatre",
+    "recurring": true,
+    "when": "Late June to early July each year",
+    "date": "2026-06-24",
+    "blurb": "International open-air theatre festival celebrating Shakespeare and English-language drama, staged each evening under the stars at the dramatic Fort Lovrijenac above the sea. The 2026 edition runs 24 June to 5 July with a new production, 'One for All', a fresh take on The Three Musketeers. An easy trip from Bellevue Beach near the Old Town.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "type": "cultural/music",
+    "recurring": true,
+    "when": "Mid-July to late August each year",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship cultural event, one of Croatia's most important festivals, turning the Old Town's squares, palaces and fortresses into open-air stages. The 77th edition runs 10 July to 25 August 2026 with over 70 drama, music and dance performances, including the Academy of St Martin in the Fields with Joshua Bell. Opens with the raising of the Libertas flag in front of St Blaise's Church.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Good Food Festival",
+    "type": "food/gastronomy",
+    "recurring": true,
+    "when": "October each year (autumn)",
+    "date": "2026-10-05",
+    "blurb": "Dubrovnik's autumn gastronomy festival organised by the city tourist board, celebrating local Dalmatian flavours, tradition and contemporary cuisine. The 2026 edition runs 5 to 18 October with culinary events, workshops, tastings and special restaurant menus across the city. A flavourful reason to visit beyond beach season.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "festive/seasonal",
+    "recurring": true,
+    "when": "Late November to early January each year",
+    "date": "",
+    "blurb": "Dubrovnik's advent and winter celebration filling the Old Town with festive lights, concerts, food and family programming, with more than 200 cultural and entertainment events including many for children. A lively off-season highlight in the historic centre near Bellevue Beach.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "buza-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Festivity of Saint Blaise (Festa svetog Vlaha)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Early February (main day 3 February); 2026 edition runs around 2-3 February",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's biggest traditional celebration and the city's patron-saint feast, held continuously since 972 AD and recognised as UNESCO Intangible Cultural Heritage. Banner bearers in folk costume, a release of white doves at the Cathedral, and a relics procession along Stradun, just above the Buza cliff bars in the Old Town.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Crkva_svetog_Vlaha_2._velja%C4%8De_2014.JPG"
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural/theatre",
+    "recurring": true,
+    "when": "Late June to early July; 2026 edition 24 June - 5 July",
+    "date": "2026-06-24",
+    "blurb": "English-language Shakespeare and classic-theatre festival staged under the stars at Fort Lovrijenac, just west of the Old Town walls. The 2026 season features 'One for All', a fresh take on The Three Musketeers, an easy add-on to a Buza beach day.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival",
+    "type": "cultural/music",
+    "recurring": true,
+    "when": "10 July to 25 August 2026 (77th edition)",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship 47-day festival of theatre, classical and contemporary music, ballet and folklore, performed in historic venues across and just outside the City Walls, a short walk from the Buza cliff bars.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "October; 2026 edition 5-18 October",
+    "date": "2026-10-05",
+    "blurb": "Two-week gastronomy festival organised by the Dubrovnik Tourist Board celebrating local Dalmatian flavours and contemporary cuisine, with tastings, workshops and special restaurant menus across the Old Town near the beach.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "cultural/seasonal",
+    "recurring": true,
+    "when": "Late November to early January (incl. New Year's Eve on Stradun); 2025/26 edition ran to 3 January 2026",
+    "date": "",
+    "blurb": "Festive winter program with over 200 cultural and entertainment events across the Old Town, culminating in a New Year's Eve concert and celebration on Stradun, the main street above the Buza area.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cava-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Festivity of Saint Blaise (Feast of Sveti Vlaho)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Every year on 2-3 February (Day of the City of Dubrovnik)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's biggest traditional celebration, honouring the city's patron saint, held continuously since 972 AD and inscribed on UNESCO's Intangible Cultural Heritage list. It opens on 2 February with the release of white doves and the raising of St Blaise's flag on Orlando's Column, followed on 3 February by a grand procession of relics, banners and pilgrims through Stradun.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Sv._Vlaho_2008_006.jpg"
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural/theatre",
+    "recurring": true,
+    "when": "Late June into early July each year",
+    "date": "2026-06-24",
+    "blurb": "Europe's southernmost English-language theatre festival, staging Shakespeare and other works under the open sky at the dramatic Fort Lovrijenac. The 2026 edition runs 24 June to 5 July with a new production, 'One for All'. A short trip from the beach into the Old Town for evening performances.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "type": "music/cultural",
+    "recurring": true,
+    "when": "Mid-July to late August each year",
+    "date": "2026-07-10",
+    "blurb": "Croatia's most prestigious cultural festival, in its 77th edition in 2026 (10 July to 25 August). More than 70 drama, opera, classical music, dance and visual-arts events are staged at open-air venues across the historic centre and within the City Walls.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "October each year",
+    "date": "2026-10-05",
+    "blurb": "An autumn celebration of the region's cuisine organised by the Dubrovnik Tourist Board, running 5-18 October 2026. Expect tastings of local specialities and wines, cooking seminars, chef suppers and the traditional 'Dubrovnik Table' laid out along Stradun.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "festival/seasonal",
+    "recurring": true,
+    "when": "Late November to early January each year",
+    "date": "",
+    "blurb": "Dubrovnik's festive-season programme with concerts on Stradun, themed events in Lazareti and in the Lapad and Mokosica neighbourhoods, ice skating, children's workshops and stalls serving local food and mulled wine.",
+    "source_url": "https://www.dubrovnik-online.net/dubrovnik-winter-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "president-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-July to late August (10 July - 25 August in 2026)",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship cultural event and one of the oldest festivals in Europe. For 47 days, theatre, classical and contemporary music, opera, ballet and dance fill open-air stages set against the Old Town's Renaissance and Baroque walls, fortresses and squares. The 2026 edition is the 77th, opening on 10 July in front of St Blaise's Church with the raising of the Libertas flag. A short bus ride from President Beach on the Lapad peninsula.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of St Blaise (Festa svetog Vlaha)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Every 3 February (with celebrations from 2 February)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's patron-saint feast, celebrated continuously since 972 AD and inscribed on UNESCO's list of Intangible Cultural Heritage. The day before, white doves are released and St Blaise's flag is raised on Orlando's Column; on 3 February a solemn mass and a grand procession with the saint's relics wind through the Old Town, accompanied by banners, traditional costumes from Konavle and Župa dubrovačka, and the musket-firing Trombunjeri. The city's biggest winter celebration.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Festivities_of_st._Blaise%2C_patron_of_Dubrovnik_-_procession_-_Dubrovnik_people_dressed_in_traditional_costumes_from_%C5%BDupa_dubrova%C4%8Dka_and_Konavle.png"
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late June to early July (24 June - 5 July in 2026)",
+    "date": "2026-06-24",
+    "blurb": "Dubrovnik's English-language summer theatre festival, staged under the stars at the dramatic clifftop Fort Lovrijenac. Now in its twelfth season, it centres on Shakespeare and classic works; the 2026 programme features 'One for All', a fresh take on The Three Musketeers, plus monodrama and Croatian-classic productions. An atmospheric evening out after a beach day.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "October (5 - 18 October in 2026)",
+    "date": "2026-10-05",
+    "blurb": "An autumn gastronomy festival celebrating Dubrovnik and regional cuisine, with special menus at participating restaurants, tastings, workshops and culinary events across the city. A relaxed off-peak draw for food-loving visitors to the Lapad and Old Town areas.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "Late November to early January",
+    "date": "",
+    "blurb": "Dubrovnik's festive winter programme brings concerts on the Stradun, themed events in Lazareti and in the Lapad and Mokošica neighbourhoods, ice rinks, children's workshops, and stalls of local food and wine. The Lapad edition is on the doorstep of President Beach.",
+    "source_url": "https://www.dubrovnik-online.net/dubrovnik-winter-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "tri-brata-beach": {
+  "beach": "Dubrovnik (Zaton/Štikovica)",
+  "town": "Dubrovnik (Zaton/Štikovica)",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-July to late August (10 July – 25 August in 2026)",
+    "date": "2026-07-10",
+    "blurb": "The city's flagship cultural festival, running for 47 days with 70+ theatre, classical and contemporary music, ballet, dance and folklore performances staged at historic venues across Dubrovnik's Old Town and City Walls. The 77th edition opens on 10 July 2026 with the raising of the Libertas flag in front of St Blaise's Church. About 10 km from Tri brata Beach.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of Saint Blaise (Feast of St Blaise / Sveti Vlaho)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Every 3 February",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's patron-saint celebration and the Day of the City, held continuously since 972 AD and inscribed on the UNESCO Representative List of Intangible Cultural Heritage in 2009. Church bells ring and white doves are released the evening before; on 3 February banner bearers in folk costume lead a grand procession through Stradun with the saint's relics. A short trip from Tri brata Beach near Zaton.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late June into early July (24 June – 5 July in 2026)",
+    "date": "2026-06-24",
+    "blurb": "Dubrovnik's English-language summer theatre festival, performed under the stars at the iconic Fort Lovrijenac. Now in its twelfth season, the 2026 edition headlines 'One for All', an energetic comedic take on The Three Musketeers, plus the monodrama 'A Wizard in the Cave'. Held in Dubrovnik, roughly 10 km from the beach.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Good Food Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "October (5 – 18 October in 2026)",
+    "date": "2026-10-05",
+    "blurb": "Dubrovnik's annual autumn gastronomy festival organised by the Dubrovnik Tourist Board, featuring the traditional 'Dubrovnik Table' on Stradun, chef dinners, wine tastings, culinary workshops and special menus in 60+ restaurants, plus the FOODravanje street-food event in Lazareti. A short drive from the Zaton/Štikovica beaches.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Open (WTA 125 Tennis)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Late March (23 – 29 March in 2026)",
+    "date": "2026-03-23",
+    "blurb": "A WTA 125-level women's professional tennis tournament played on the clay courts of Tennis Club Dubrovnik, drawing international players to the city each spring. About 10 km from Tri brata Beach.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "lokrum-beaches": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "10 July – 25 August 2026",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship 47-day arts festival, founded in 1950, turns the Old Town's fortresses, squares and atriums into open-air stages for theatre, classical and contemporary music, opera, ballet and folklore. The 77th edition runs under the theme Northern Lights with over 70 performances. An easy boat trip from Lokrum.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of St Blaise (Festa Svetog Vlaha)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Each year on 3 February (festivities from 2 February)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's biggest traditional and religious celebration, honouring patron saint St Blaise and held continuously since 972 AD. A UNESCO Intangible Cultural Heritage event, it features the release of white doves, ringing of all the city's bells, a throat-blessing ritual and a grand procession of parish banner-bearers in folk costume along the Stradun.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": ""
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "24 June – 5 July 2026, Fort Lovrijenac",
+    "date": "2026-06-24",
+    "blurb": "Europe's southernmost English-language theatre festival, staged in the dramatic Lovrijenac fortress overlooking the sea. Now in its twelfth season, the 2026 programme features 'One for All', an energetic comic take on The Three Musketeers.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "5 – 18 October 2026",
+    "date": "2026-10-05",
+    "blurb": "A two-week autumn gastronomy celebration organised by the Dubrovnik Tourist Board, with tastings, special restaurant menus, cooking workshops and local-produce showcases across the city, capped by the popular Dubrovnik Table event on the Stradun.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival (Advent in Dubrovnik)",
+    "type": "festival",
+    "recurring": true,
+    "when": "Late November to early January (Advent and New Year period)",
+    "date": "",
+    "blurb": "Festive Advent season in the Old Town with Christmas lights along the Stradun, concerts, food and craft stalls and a lively New Year's Eve celebration on the city's main squares.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Stradun%2C_Dubrovnik%2C_Croatia.JPG"
+   }
+  ]
+ },
+ "stiniva": {
+  "beach": "Komiža",
+  "town": "Komiža",
+  "events": [
+   {
+    "name": "Rota Palagružona (Festival of the Sea / Falkuša Regatta)",
+    "type": "traditional / sailing",
+    "recurring": true,
+    "when": "Annually in June",
+    "date": "",
+    "blurb": "The revival of Europe's oldest fishermen's regatta (first held in 1593), where a fleet of traditional wooden gajeta falkuša boats sets sail from Komiža harbour toward the distant island of Palagruža. Reinstated in 2009 and held every year since, it celebrates the maritime heritage of Komiža's fishermen.",
+    "source_url": "https://www.tz-komiza.hr/what-to-do/historical-regatta-rota-palagruzona",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Falku%C5%A1a"
+   },
+   {
+    "name": "Fishermen's Night (Ribarska noć)",
+    "type": "traditional / food",
+    "recurring": true,
+    "when": "First Saturday in August",
+    "date": "",
+    "blurb": "Komiža's biggest summer celebration of its fishing culture, held on the waterfront with freely shared grilled sardines and local wine, live music, fireworks and a festive atmosphere late into the night.",
+    "source_url": "https://komiza-ksenija.com/island-vis/events-komiza/",
+    "image_url": ""
+   },
+   {
+    "name": "Big Game Fishing Komiža",
+    "type": "sport / fishing",
+    "recurring": true,
+    "when": "Annually in July",
+    "date": "",
+    "blurb": "An international big-game (tuna) fishing competition held in the waters of the Komiža archipelago, drawing on the town's long-standing reputation as one of the premier fishing destinations in the Adriatic.",
+    "source_url": "https://komiza-ksenija.com/island-vis/events-komiza/",
+    "image_url": ""
+   },
+   {
+    "name": "Days of Carob (Dani rogača)",
+    "type": "cultural / food",
+    "recurring": true,
+    "when": "Late September",
+    "date": "",
+    "blurb": "A festival organised by the Komiža Tourist Board dedicated to the carob, the oldest indigenous plant of the area. Komiža is home to Croatia's only carob mill, and the festival celebrates this heritage with local products and traditions.",
+    "source_url": "https://komiza-nina.com/en/island-of-vis/events/",
+    "image_url": ""
+   },
+   {
+    "name": "St. Nicholas' Day (Komiža Town Day)",
+    "type": "traditional / religious",
+    "recurring": true,
+    "when": "6 December",
+    "date": "",
+    "blurb": "On the feast of St. Nicholas, patron of sailors, an old wooden boat is ceremonially burned in front of the church as a ritual sacrifice for the safety of sailors and fishermen; the ashes are used to bless newly built vessels. It also marks Komiža's town day.",
+    "source_url": "https://komiza-ksenija.com/island-vis/events-komiza/",
+    "image_url": ""
+   }
+  ]
+ },
+ "copacabana-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Feast of St Blaise (Festa Svetog Vlaha)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Annually, 2-3 February (run-up festivities from late January)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's most important traditional celebration, held for over 1,000 years and listed as UNESCO Intangible Cultural Heritage. White doves are released in front of St Blaise's Church and a grand procession of relics, folk costumes and historical fraternities moves along the Stradun in the Old City.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik FestiWine",
+    "type": "food and wine",
+    "recurring": true,
+    "when": "Annually in April",
+    "date": "",
+    "blurb": "Regional wine festival gathering more than 100 winemakers from the Dubrovnik-Neretva region, who present their wines to professionals and the public alongside tastings and gastronomy events across the city.",
+    "source_url": "https://www.dubrovnikfestiwine.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Aklapela Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in late April (26-28 April in 2026)",
+    "date": "2026-04-26",
+    "blurb": "Festival of traditional Dalmatian a cappella klapa singing, bringing top Croatian klapa vocal groups to Dubrovnik to perform and keep this UNESCO-recognised singing tradition alive.",
+    "source_url": "https://tzdubrovnik.hr/lang/es/get/dogadjanja_festivali/73805/aklapela_festival.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival (77th edition)",
+    "type": "cultural / performing arts",
+    "recurring": true,
+    "when": "Annually mid-July to late August (10 July - 25 August 2026)",
+    "date": "2026-07-10",
+    "blurb": "Croatia's premier cultural festival: over 2,000 artists and 70+ drama, music, dance and visual-arts performances staged at open-air venues across the historic Old City over 47 days. The 2026 opening on 10 July features the raising of the Libertas flag.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "food and wine",
+    "recurring": true,
+    "when": "Annually in October (5-18 October 2026)",
+    "date": "2026-10-05",
+    "blurb": "Two-week autumn gastronomy festival organised by the Dubrovnik Tourism Board with around thirty events: regional dish preparation, wine tastings, culinary workshops and Eat & Walk food tours throughout the city.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Open (WTA 125 tennis)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually in spring (23-29 March 2026)",
+    "date": "2026-03-23",
+    "blurb": "WTA 125-level women's professional tennis tournament played on the clay courts of Tennis Club Dubrovnik, bringing international players to the city early in the season.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kupari-beach": {
+  "beach": "Kupari (Župa dubrovačka, near Dubrovnik)",
+  "town": "Kupari (Župa dubrovačka, near Dubrovnik)",
+  "events": [
+   {
+    "name": "Župsko ljeto (Summer in Župa) Festival",
+    "type": "music/cultural",
+    "recurring": true,
+    "when": "Throughout July (annual summer programme)",
+    "date": "",
+    "blurb": "Free open-air summer festival across Župa dubrovačka with Dalmatian klapa singing, folklore and dance performances, live music, storytelling and family programmes in the villages of Mlini and Srebreno, a short walk or drive from Kupari Beach.",
+    "source_url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/18215-zupsko-ljeto-2025-summer-festival-brings-music-folklore-family-fun-to-zupa-dubrovacka",
+    "image_url": ""
+   },
+   {
+    "name": "Summer in Župa (Ljeto u Župi)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "From early June through the summer season",
+    "date": "",
+    "blurb": "The Župa dubrovačka Tourist Board's seasonal programme of theatrical plays, classical music and klapa concerts, folklore nights, a summer carnival and fishermen's evenings (ribarska večer) on the Mlini sea terrace, all close to Kupari Beach.",
+    "source_url": "https://www.dubrovnik-riviera.hr/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Župski pjat - Traditional Gastronomy Festival",
+    "type": "food/gastronomy",
+    "recurring": true,
+    "when": "Late April (week-long); 2026 edition 20-27 April",
+    "date": "2026-04-20",
+    "blurb": "A week-long celebration of Župa dubrovačka's traditional cuisine and heritage, with festival menus at local restaurants, cooking workshops, lectures, farm and vineyard visits, and children's programmes, held in the area around Kupari.",
+    "source_url": "https://www.zupski-pjat.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "music/theatre/cultural",
+    "recurring": true,
+    "when": "10 July to 25 August 2026 (77th edition)",
+    "date": "2026-07-10",
+    "blurb": "Croatia's premier cultural festival, about 8 km from Kupari in Dubrovnik's Old Town, opening with the raising of the Libertas flag and featuring over 70 theatre, music, dance and folklore performances by more than 2,000 artists at historic venues.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   }
+  ]
+ },
+ "mlini-beach": {
+  "beach": "Mlini (Župa dubrovačka)",
+  "town": "Mlini (Župa dubrovačka)",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually from 10 July to 25 August",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship cultural festival, running for over 75 years, stages theatre, classical concerts, opera and dance across the Old Town's historic venues like the Rector's Palace, Lovrjenac Fort and Lokrum island. It is about a 20-minute drive or boat trip from Mlini Beach, making it the headline summer event for visitors staying on the Župa dubrovačka riviera.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of Saint Blaise (Festa svetog Vlaha)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on 3 February",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's patron-saint feast and city day, held every 3 February since 972 AD and inscribed on UNESCO's Intangible Cultural Heritage list. Banner-bearers in folk costume from across the region, including Župa dubrovačka, parade into the city for a procession carrying the saint's relics along the Stradun. It is the area's most important traditional celebration, a short trip from Mlini.",
+    "source_url": "https://en.wikipedia.org/wiki/Festivity_of_Saint_Blaise,_the_patron_of_Dubrovnik",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Festivities_of_st._Blaise,_patron_of_Dubrovnik_-_procession_-_Dubrovnik_people_dressed_in_traditional_costumes_from_%C5%BDupa_dubrova%C4%8Dka_and_Konavle.png"
+   },
+   {
+    "name": "Župski Pjat Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually in late April (around 20-27 April)",
+    "date": "2026-04-20",
+    "blurb": "A local food, heritage and tradition festival staged in Župa dubrovačka, the municipality that includes Mlini. It runs a week of lectures, workshops and tastings celebrating the area's Mediterranean cuisine and cultural roots, from traditional pork dishes and local gastronomy to historic film locations and sustainable agriculture.",
+    "source_url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/19679-zupski-pjat-festival-begins-with-lectures-and-new-insights-programme-for-the-first-three-days",
+    "image_url": ""
+   }
+  ]
+ },
+ "srebreno-beach": {
+  "beach": "Srebreno (Župa dubrovačka)",
+  "town": "Srebreno (Župa dubrovačka)",
+  "events": [
+   {
+    "name": "Župsko ljeto (Župa Summer Festival)",
+    "type": "music & cultural festival",
+    "recurring": true,
+    "when": "Throughout July (annually)",
+    "date": "",
+    "blurb": "Free open-air summer programme right in Srebreno and neighbouring Mlini, with Dalmatian klapa concerts, folklore dance (KUD Marko Marojica), live storytelling, and weekly Thursday capoeira shows in Srebreno. The easiest big event for a beach visitor to catch on foot.",
+    "source_url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/18215-zupsko-ljeto-2025-summer-festival-brings-music-folklore-family-fun-to-zupa-dubrovacka",
+    "image_url": ""
+   },
+   {
+    "name": "Župski pjat – Traditional Gastronomy & Heritage Festival",
+    "type": "food & heritage festival",
+    "recurring": true,
+    "when": "Late April (annually); 2026 edition 20-27 April",
+    "date": "2026-04-20",
+    "blurb": "A week-long celebration of Župa dubrovačka's culinary tradition and heritage across the municipality, with special festival menus in local restaurants, cooking classes (hrostule, župski pesto), lectures, folklore and children's programmes. Held a short drive from Srebreno beach.",
+    "source_url": "https://dulist.hr/krece-zupski-pjat-2026-tjedan-dana-edukacije-gastronomije-bastine-djecjih-programa/1013428/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "performing arts festival",
+    "recurring": true,
+    "when": "10 July - 25 August 2026 (77th edition; annual)",
+    "date": "2026-07-10",
+    "blurb": "Croatia's flagship cultural festival turns Dubrovnik's Old Town into an open-air stage for theatre, classical music, ballet and folklore for 47 days. About 15 minutes from Srebreno, it's an easy evening trip during a beach holiday.",
+    "source_url": "https://www.dubrovnik-festival.hr/en/calendar",
+    "image_url": ""
+   },
+   {
+    "name": "Festivity of St Blaise (Sveti Vlaho)",
+    "type": "traditional / religious festival",
+    "recurring": true,
+    "when": "3 February (annually, plus eve on 2 February)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's UNESCO-listed patron-saint celebration, held without interruption since 972 AD. Doves are released and St Blaise's banner raised on 2 February, followed by a grand relic procession along the Stradun on 3 February. A short trip from the Srebreno area for off-season visitors.",
+    "source_url": "https://en.wikipedia.org/wiki/Festivity_of_Saint_Blaise,_the_patron_of_Dubrovnik",
+    "image_url": ""
+   }
+  ]
+ },
+ "ingalo-beach": {
+  "beach": "Koločep (Donje Čelo), Elafiti Islands, Dubrovnik",
+  "town": "Koločep (Donje Čelo), Elafiti Islands, Dubrovnik",
+  "events": [
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovačke ljetne igre)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "10 July – 25 August (annually since 1950)",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship cultural event, held every summer since 1950. The 77th edition runs 10 July to 25 August 2026 with over 70 theatre, opera, music and dance performances at open-air venues across the historic old town, a short ferry ride from Koločep.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Dubrovnik_old_town_Stradun.jpg"
+   },
+   {
+    "name": "Festivity of Saint Blaise (Sveti Vlaho)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "2–3 February (annually)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's most important feast day, honouring the city's patron saint, celebrated since 972 and inscribed on UNESCO's Intangible Cultural Heritage list since 2009. Features the release of white doves, the raising of St Blaise's flag and a procession along Stradun.",
+    "source_url": "https://en.wikipedia.org/wiki/Festivity_of_Saint_Blaise,_the_patron_of_Dubrovnik",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Festivity_of_Saint_Blaise.jpg"
+   },
+   {
+    "name": "Ponta Lopud Film Festival",
+    "type": "film",
+    "recurring": true,
+    "when": "Late June (annually)",
+    "date": "2026-06-25",
+    "blurb": "A boutique film festival on the neighbouring Elafiti island of Lopud, a short boat hop from Koločep. The 2026 edition (25–28 June) features film screenings, a symphonic concert tribute to Ennio Morricone and art exhibitions by the sea.",
+    "source_url": "https://pontalopud.hr/",
+    "image_url": ""
+   },
+   {
+    "name": "Ponta Lopud Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Late August (annually)",
+    "date": "2026-08-27",
+    "blurb": "An internationally noted jazz festival on Lopud island in the Elafiti archipelago. The 2026 edition runs 27–29 August, bringing world-class musicians for concerts celebrating improvisation in an intimate seaside setting.",
+    "source_url": "https://pontalopud.hr/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Good Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "October (annually)",
+    "date": "",
+    "blurb": "An annual culinary celebration in Dubrovnik with food and drink tastings, culinary walks, workshops and the 'Dubrovnik Table', where the Stradun becomes a long communal dining experience. Held each October, easily reachable by ferry from Koločep.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   },
+   {
+    "name": "Elafiti Slalom Regatta",
+    "type": "sport",
+    "recurring": true,
+    "when": "Late April (annually)",
+    "date": "2026-04-24",
+    "blurb": "A sailing regatta through the Elafiti islands (Koločep, Lopud, Šipan) near Dubrovnik, held 24–26 April 2026. A lively spring event for sailing fans visiting the archipelago.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/croatian-islands/events-croatian-islands/",
+    "image_url": ""
+   }
+  ]
+ },
+ "veliki-zali-beach": {
+  "beach": "Trstenik (Pelješac)",
+  "town": "Trstenik (Pelješac)",
+  "events": [
+   {
+    "name": "Trstenik Village Festival (Local Fest)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Early-mid August (around 10 August)",
+    "date": "2026-08-10",
+    "blurb": "Trstenik's own summer village festival, a traditional Dalmatian fest with local food, wine and music right in the bay beside the beach. One of the series of local fests organised across the Orebić/Pelješac area through the summer.",
+    "source_url": "https://visitorebic-croatia.hr/events/",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Panorama,Trstenik-01165.JPG"
+   },
+   {
+    "name": "Pelješac Wine Cellars Festival",
+    "type": "wine",
+    "recurring": true,
+    "when": "Mid-May to mid-June (approx. 15 May - 15 June)",
+    "date": "",
+    "blurb": "The peninsula's largest eno-gastronomic event opening the season: dozens of wineries, taverns and restaurants from across Pelješac open their cellars with tastings, discounts and special menus paired with local Plavac Mali wines.",
+    "source_url": "https://visitorebic-croatia.hr/peljesac-wine-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Dingač Festival",
+    "type": "wine",
+    "recurring": true,
+    "when": "Late June (28-29 June 2026)",
+    "date": "2026-06-28",
+    "blurb": "Wine celebration in Potomje (just inland from Trstenik) organised by the Plavac Mali Association, dedicated to the famous Dingač appellation grown on the steep slopes above the Trstenik coast.",
+    "source_url": "https://visitorebic-croatia.hr/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Taste Pelješac - Fishermen's Nights",
+    "type": "food",
+    "recurring": true,
+    "when": "Weekly through summer (June-August, Wednesday evenings)",
+    "date": "",
+    "blurb": "A summer-long series of fishermen's nights across the Orebić/Pelješac area with grilled fresh fish and seafood, local wine and live music, celebrating the peninsula's maritime cuisine.",
+    "source_url": "https://visitorebic-croatia.hr/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Street Wine Fest, Kuna",
+    "type": "wine",
+    "recurring": true,
+    "when": "Late July (25 July 2026)",
+    "date": "2026-07-25",
+    "blurb": "Open-air local wine tasting event in nearby Kuna, a short drive from Trstenik, showcasing the wines of the Pelješac peninsula in the village streets.",
+    "source_url": "https://visitorebic-croatia.hr/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Sounds of Dalmatia (Klapa Evenings)",
+    "type": "music",
+    "recurring": true,
+    "when": "Summer Sundays (June-July, e.g. 14, 21, 28 June; 5, 12, 19 July 2026)",
+    "date": "",
+    "blurb": "Series of traditional Dalmatian a cappella klapa vocal performances in Orebić, the cultural and ferry hub of the peninsula near the Trstenik area.",
+    "source_url": "https://visitorebic-croatia.hr/events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sunj": {
+  "beach": "Lopud",
+  "town": "Lopud",
+  "events": [
+   {
+    "name": "Ponta Lopud Film Festival",
+    "type": "film",
+    "recurring": true,
+    "when": "Late June each year",
+    "date": "2026-06-25",
+    "blurb": "An international film festival held annually on car-free Lopud island, featuring open-air screenings, masterclasses and workshops with acclaimed directors. The 2026 edition runs 25-28 June, with special boat transport from Dubrovnik. A short stroll from Šunj beach.",
+    "source_url": "https://pontalopud.hr/",
+    "image_url": ""
+   },
+   {
+    "name": "Ponta Lopud Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Late August each year",
+    "date": "2026-08-27",
+    "blurb": "Annual jazz festival on Lopud bringing international and Croatian musicians to intimate island venues. The 2026 edition is scheduled for 27-29 August, perfect for combining live music with a day at nearby Šunj beach.",
+    "source_url": "https://pontalopud.hr/",
+    "image_url": ""
+   },
+   {
+    "name": "Ponta Lopud Book Bridge Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-September each year",
+    "date": "2026-09-17",
+    "blurb": "A literary festival on Lopud uniting authors and readers for talks, readings and cultural exchange. The 2026 edition runs 17-19 September, a quieter end-of-season highlight near Šunj beach.",
+    "source_url": "https://pontalopud.hr/",
+    "image_url": ""
+   },
+   {
+    "name": "Velika Gospa (Feast of Our Lady of Šunj)",
+    "type": "religious",
+    "recurring": true,
+    "when": "15 August each year",
+    "date": "2026-08-15",
+    "blurb": "The Feast of the Assumption (Velika Gospa) is the patronal day of the 15th-century Church of Our Lady of Šunj, which stands on the hill directly above Šunj beach. It is marked on Lopud with a procession, Mass and traditional folk celebrations.",
+    "source_url": "https://db.hr/zupe-gospe-od-sunja-lopud/",
+    "image_url": ""
+   },
+   {
+    "name": "Picigin tournaments at Šunj beach",
+    "type": "sport",
+    "recurring": true,
+    "when": "August (summer season)",
+    "date": "",
+    "blurb": "Šunj's rare sandy, shallow bay is the natural home for picigin, the traditional Adriatic shallow-water ball game. Informal local tournaments draw players to the beach during the August high season.",
+    "source_url": "https://www.dubrovnik-boat-tours.com/sunj-beach-on-lopud-island-a-complete-guide/",
+    "image_url": ""
+   }
+  ]
+ },
+ "slatina-beach": {
+  "beach": "Opatija",
+  "town": "Opatija",
+  "events": [
+   {
+    "name": "Liburnia Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Every first weekend of July",
+    "date": "2026-07-04",
+    "blurb": "Croatia's largest international jazz festival fills Opatija for three days, with concerts on the Summer Stage, hotel terraces, boats, the seafront promenade and town squares, just a short stroll from Slatina Beach.",
+    "source_url": "https://www.liburniajazz.hr/index_en.html",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Opatija_view.jpg"
+   },
+   {
+    "name": "Carnival in Opatija (Opatijski karneval)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-January to mid-February",
+    "date": "2026-01-17",
+    "blurb": "Opatija's carnival season runs for about a month with masked parades, a Children's Carnival Parade and lively street events along the coastal town, a traditional pre-Lenten celebration on the Kvarner Riviera.",
+    "source_url": "https://www.visitopatija.com/en/carnival/carnival-in-opatija-mc27",
+    "image_url": ""
+   },
+   {
+    "name": "Balinjerada (Summer Soapbox Race)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Summer edition in July",
+    "date": "2026-07-18",
+    "blurb": "A beloved Opatija tradition: home-made karts and vehicles running on ball bearings (balinjere) race down the town's main street for fun and adrenaline, a quirky local spectacle near the beachfront.",
+    "source_url": "https://opatija.info/events",
+    "image_url": ""
+   },
+   {
+    "name": "Open Air Theatre (Ljetna pozornica summer programme)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "July to late August",
+    "date": "2026-07-01",
+    "blurb": "Opatija's open-air Summer Stage hosts a season of concerts, theatre and festivals through high summer, an easy evening outing for beach visitors staying near Slatina.",
+    "source_url": "https://www.visitopatija.com/en/calendar-of-events",
+    "image_url": ""
+   },
+   {
+    "name": "Opatija Chocolate Festival (Festival cokolade)",
+    "type": "food",
+    "recurring": true,
+    "when": "Mid-November",
+    "date": "",
+    "blurb": "Croatia's largest and oldest chocolate festival turns Opatija into a chocolate lovers' paradise each November, with tastings, sales and chocolate-themed programmes across the town.",
+    "source_url": "https://www.visitopatija.com/en/chocolate-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Opatija Summer Markets (Angiolina Park)",
+    "type": "market",
+    "recurring": true,
+    "when": "Early May to early October",
+    "date": "2026-05-03",
+    "blurb": "Seasonal markets in Angiolina Park run through the warm months with local crafts, food and produce, a pleasant complement to a day at Slatina Beach.",
+    "source_url": "https://opatija.info/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "pokonji-dol-beach": {
+  "beach": "Hvar",
+  "town": "Hvar",
+  "events": [
+   {
+    "name": "Hvar Summer Festival (Hvarske ljetne priredbe)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late June to early September each year",
+    "date": "2026-06-21",
+    "blurb": "Hvar Town's signature cultural festival since 1961. The 65th edition opens on St. Stephen's Square on 21 June 2026 and runs all summer with classical and contemporary concerts, open-air theatre, dance and art in historic courtyards, the Franciscan Monastery and other atmospheric venues, an easy walk from the beach.",
+    "source_url": "https://visithvar.hr/65th-hvar-summer-festival-opening-ceremony-hvar-2026/",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Hvar_port.jpg"
+   },
+   {
+    "name": "Feast of St. Prosper (St. Prosper Fair)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Around 8-13 May each year",
+    "date": "2026-05-10",
+    "blurb": "Hvar Town honours its co-patron saint St. Prosper, a tradition kept since 1671 when the saint's relics were brought from Rome. A traditional fair fills the main square with stalls, religious processions and a gastronomic feast, a lively local occasion in the heart of town.",
+    "source_url": "https://visithvar.hr/st-prosper-fair-in-hvar/",
+    "image_url": ""
+   },
+   {
+    "name": "Hvar Bodypainting Festival",
+    "type": "art",
+    "recurring": true,
+    "when": "Mid-June each year",
+    "date": "2026-06-13",
+    "blurb": "An international body-painting gathering held on 13-14 June 2026 at the Pakleni islands just off Hvar Town: a competition day on Jerolim (MagoMago) followed by a jam session at Laganini, Palmižana. A colourful, beach-side art event a short boat ride from the shore.",
+    "source_url": "https://wb-association.org/hvar",
+    "image_url": ""
+   },
+   {
+    "name": "Faros Marathon (open-water swim)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Late August / early September each year",
+    "date": "",
+    "blurb": "A legendary 16 km open-water swimming marathon held in Stari Grad Bay on Hvar island since 1976, drawing elite distance swimmers from around the world. A classic late-summer spectacle on the island for anyone who loves the sea.",
+    "source_url": "https://farosmaraton.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Croatian Islands UltraSwim 33.3",
+    "type": "sport",
+    "recurring": true,
+    "when": "Mid-May each year",
+    "date": "2026-05-15",
+    "blurb": "A multi-day open-water swimming event held 15-18 May 2026 along the coast of Hvar, with stages running between Stari Grad and Hvar Town through crystal-clear Adriatic water. Great to watch or join for active beach visitors.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/croatian-islands/events-croatian-islands/",
+    "image_url": ""
+   },
+   {
+    "name": "Tour de Hvar",
+    "type": "sport",
+    "recurring": true,
+    "when": "Early May each year",
+    "date": "2026-05-01",
+    "blurb": "A trail running/hiking event on 1-3 May 2026 offering four routes across the island, with the longer trails starting in Stari Grad and finishing in Hvar Town. A scenic way to explore the island beyond the beaches.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/croatian-islands/events-croatian-islands/",
+    "image_url": ""
+   }
+  ]
+ },
+ "firule-beach": {
+  "beach": "Split",
+  "town": "Split",
+  "events": [
+   {
+    "name": "Picigin World Championship (Bačvice/Firule)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Early June, annually",
+    "date": "",
+    "blurb": "The world championship of picigin, the traditional Split ball game invented on Bačvice's sandy shallows around 1923 and played right here on the beaches next to Firule. Teams of five keep a small ball from touching the shallow water in a fast, acrobatic game. A free, lively spectacle on the same sandy bay where you will be swimming.",
+    "source_url": "https://croatia.hr/en-gb/culture-and-arts/a-bit-of-trivia/picigin-made-in-bacvice",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picigin_in_Split_Bacvice.jpg"
+   },
+   {
+    "name": "Sudamja - Feast of Saint Domnius (Day of Split)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Around 7 May (celebrations run roughly 30 April to 10 May), annually",
+    "date": "2026-05-07",
+    "blurb": "Split's biggest day honours its patron Saint Domnius. A solemn procession carries the saint's relics from the cathedral to the Riva, alongside a centuries-old craft fair, concerts and fireworks over the harbour. The week of festivities is an easy walk from Firule into the old town and Diocletian's Palace.",
+    "source_url": "https://visitsplit.com/en/4141/saint-domnius-day-new-and-old-top-10-things-not-to-miss",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Procesija_Sudamja.jpg"
+   },
+   {
+    "name": "Ultra Europe Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "10-12 July 2026",
+    "date": "2026-07-10",
+    "blurb": "One of Europe's largest electronic dance music festivals, drawing well over a hundred thousand fans to Split's Park Mladeži stadium for three nights of headline DJs and huge stage production, with linked beach and island parties around the city.",
+    "source_url": "https://www.eventdestination.net/en/ultra-europe-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Split Summer Festival (Splitsko ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-July to mid-August, annually",
+    "date": "",
+    "blurb": "Split's long-running open-air arts festival fills atmospheric venues in and around Diocletian's Palace with opera, drama, ballet and concerts through the height of summer, a short walk from the Firule and Bačvice beaches.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Mediterranean Film Festival Split",
+    "type": "film",
+    "recurring": true,
+    "when": "11-20 June 2026",
+    "date": "2026-06-11",
+    "blurb": "A ten-day showcase of films from across the Mediterranean region screened at several venues around Split, a relaxed cultural fixture early in the beach season.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Days of Diocletian (Dani Dioklecijana)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid to late August, annually",
+    "date": "",
+    "blurb": "The streets around Diocletian's Palace and the waterfront are transformed into Roman-era Split, with costumed legionaries, market stalls and reenactments. A vivid free heritage event close to the beaches.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Mrdujska Regatta",
+    "type": "sport",
+    "recurring": true,
+    "when": "Early October, annually",
+    "date": "",
+    "blurb": "The largest sailing regatta in this part of the Adriatic, run around the islet of Mrduja off Split. A spectacular fleet of sailing boats sets off from the Split waterfront each autumn.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   }
+  ]
+ },
+ "bacvice-beach": {
+  "beach": "Split",
+  "town": "Split",
+  "events": [
+   {
+    "name": "Picigin World Championship at Bačvice",
+    "type": "sport / traditional",
+    "recurring": true,
+    "when": "Annually in early June",
+    "date": "",
+    "blurb": "The world championship of picigin, the traditional Split ball game born on Bačvice's sandy shallows around 1908-1923 and now protected as Croatian intangible cultural heritage. Held since 2005 right on Bačvice beach, teams are judged on acrobatics and flair rather than points. A must-see for anyone visiting the beach.",
+    "source_url": "http://www.visitsplit.com/en/1291/world-championship-in-picigin",
+    "image_url": ""
+   },
+   {
+    "name": "Ultra Europe Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "10-12 July 2026",
+    "date": "2026-07-10",
+    "blurb": "One of the world's biggest electronic music festivals, drawing well over 100,000 fans to Split's Park Mladeži stadium for three days of EDM headliners, with related boat and island events around the city. A short walk from Bačvice beach.",
+    "source_url": "https://www.eventdestination.net/en/ultra-europe-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Split Summer Festival (Splitsko ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "14 July - 14 August 2026",
+    "date": "2026-07-14",
+    "blurb": "The 72nd edition of one of Croatia's longest-running performing arts festivals: opera, ballet, drama, concerts and jazz staged across Diocletian's Palace, the Peristyle, Meštrović Gallery and other historic settings in Split's old town, minutes from Bačvice.",
+    "source_url": "https://www.splitsko-ljeto.hr/en/72-split-summer-festival/about",
+    "image_url": ""
+   },
+   {
+    "name": "Days of Diocletian",
+    "type": "cultural / traditional",
+    "recurring": true,
+    "when": "Annually in mid-to-late August",
+    "date": "",
+    "blurb": "Split's old town and waterfront travel back to Roman times, with costumed processions, a market, food and street performances recreating the era of Emperor Diocletian around his palace, a short stroll from Bačvice beach.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Mediterranean Film Festival Split",
+    "type": "film",
+    "recurring": true,
+    "when": "11-20 June 2026",
+    "date": "2026-06-11",
+    "blurb": "Annual festival showcasing films from the Mediterranean and wider region across several venues in Split, including open-air screenings during warm early-summer evenings.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Bačvice Summer Cinema (Ljetno kino Bačvice)",
+    "type": "film",
+    "recurring": true,
+    "when": "Annually late June / early July",
+    "date": "",
+    "blurb": "An open-air cinema right by Bačvice beach screening new releases and classics on warm summer nights, an easy way to round off a day on the sand.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Tennis Summer in Split",
+    "type": "sport",
+    "recurring": true,
+    "when": "17-29 August 2026",
+    "date": "2026-08-17",
+    "blurb": "A new tennis event launched by Croatian tennis legend Goran Ivanišević, bringing competitive tennis to Split in late August during the height of beach season.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   }
+  ]
+ },
+ "supetar-beach": {
+  "beach": "Cavtat",
+  "town": "Cavtat",
+  "events": [
+   {
+    "name": "Cavtat Summer Festival (Cavtatsko ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late June to early September, annually",
+    "date": "",
+    "blurb": "Cavtat's flagship summer programme runs from the end of June into September with open-air concerts, classical music, dance and street performances, plus films at the Open Air Cinema right by the waterfront, an easy stroll from Supetar beach.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events/40/films-and-screenings-at-the-open-air-cinema-cavtat-cavtat-summer-festival",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Cavtat.JPG"
+   },
+   {
+    "name": "Epidaurus Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "September, annually",
+    "date": "",
+    "blurb": "An international classical music and arts festival named after Cavtat's ancient name Epidaurum. Founded in 2007, it brings renowned and emerging artists to the town each September, with concerts in historic harbour-side venues.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events/78/19th-epidaurus-festival-opening-gala-concert-music-sensations",
+    "image_url": ""
+   },
+   {
+    "name": "Cilipi Folklore Performance",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Every Sunday from Easter to the end of October, 11:15 after Mass",
+    "date": "",
+    "blurb": "In the nearby village of Cilipi (about 8 km from Cavtat), the local ensemble performs traditional Konavle songs and dances in regional costume on the square in front of St. Nicholas' Church every Sunday through the season.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events/5/cilipi-folklor-folklore-performance",
+    "image_url": ""
+   },
+   {
+    "name": "Music and Word Festival (Konavle Art)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Late spring, before the main season (May to July)",
+    "date": "",
+    "blurb": "Organised by the Konavle Art association, this pre-season festival presents a series of cultural programmes with Croatian and international artists and supports local young talent.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "The Scents of Christmas in Konavle",
+    "type": "cultural",
+    "recurring": true,
+    "when": "December, annually",
+    "date": "",
+    "blurb": "A rural-tourism Advent celebration in the Konavle countryside near Cavtat, billed as one of Croatia's biggest Christmas carol gatherings, with traditional food, song and customs.",
+    "source_url": "https://visit.cavtat-konavle.com/en/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "plava-laguna": {
+  "beach": "Poreč",
+  "town": "Poreč",
+  "events": [
+   {
+    "name": "Plava Laguna IRONMAN 70.3 Poreč",
+    "type": "sport",
+    "recurring": true,
+    "when": "October (annual)",
+    "date": "2026-10-18",
+    "blurb": "Major annual half-distance triathlon (1.9 km swim, 90 km bike, 21.1 km run) staged right around Poreč's coast and named after the Plava Laguna resort. It draws athletes from over 50 countries and sells out months in advance.",
+    "source_url": "https://www.myporec.com/en/what-to-do/events/27619",
+    "image_url": ""
+   },
+   {
+    "name": "Giostra - Poreč Historical Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "September (annual)",
+    "date": "",
+    "blurb": "A three-day historical festival in Poreč's old town where over 250 costumed participants recreate 18th-century Baroque life, culminating in the Giostra knight tournament reconstructed from a 1745 contest held in the town.",
+    "source_url": "https://www.muzejporec.hr/en/giostra/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pore%C4%8D_-_Giostra_festival_2007y._-_panoramio.jpg"
+   },
+   {
+    "name": "Vinistra",
+    "type": "food and wine",
+    "recurring": true,
+    "when": "Early May (annual)",
+    "date": "2026-05-08",
+    "blurb": "Croatia's largest wine fair, held at Žatika Hall in Poreč. Over three days more than 100 Istrian winemakers, distillers and gourmet producers present their wines, olive oils and spirits for tasting.",
+    "source_url": "https://vinistra.hr/en/vinistra-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Lighthouse Festival Croatia",
+    "type": "music",
+    "recurring": true,
+    "when": "Early June (annual)",
+    "date": "2026-06-03",
+    "blurb": "An intimate seaside underground electronic music festival returning to Poreč, with day and night programs by the Adriatic featuring international house and techno acts.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/istria/events-istria/",
+    "image_url": ""
+   },
+   {
+    "name": "Istra Music Festival - International Festival of Choirs and Orchestras",
+    "type": "music",
+    "recurring": true,
+    "when": "April (annual)",
+    "date": "2026-04-08",
+    "blurb": "The 14th edition of this international festival of choirs and orchestras brings vocal and instrumental ensembles to perform across Poreč's churches and venues in spring.",
+    "source_url": "https://eaff.eu/en/festivals/78-5266-14th-international-festival-of-choirs-and-orchestras-in-pore-istria-croatia",
+    "image_url": ""
+   },
+   {
+    "name": "Poreč Summer (Poreško ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-June to September (annual)",
+    "date": "",
+    "blurb": "Poreč's flagship summer program of open-air concerts, dance, street performances and cultural events filling the old town's squares and streets throughout the high season.",
+    "source_url": "https://www.myporec.com/en/what-to-do/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "cikat": {
+  "beach": "Mali Lošinj",
+  "town": "Mali Lošinj",
+  "events": [
+   {
+    "name": "Lošinj Olympians Regatta (Lošinjska regata)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Mid-September (annual)",
+    "date": "2026-09-12",
+    "blurb": "Traditional sailing regatta off Lošinj, in 2026 its 44th edition, with crews from Croatia, Italy, Slovenia and Austria racing around the island of Susak and in Lošinj bay. Part of the LOSINAVA maritime festival and preceded by a traditional boat parade.",
+    "source_url": "https://www.visitlosinj.hr/the-43rd-losinj-regatta-losinj-olympians-regatta.aspx",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mali_Lo%C5%A1inj_-_camping_%C4%8Cikat.jpg"
+   },
+   {
+    "name": "Lošinj Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "End of July (annual)",
+    "date": "",
+    "blurb": "Open-air jazz festival in Mali Lošinj featuring Croatian and international jazz artists, held in its 22nd-plus year at scenic outdoor locations around the town and waterfront.",
+    "source_url": "http://www.jazzlosinj.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Lošinj Cuisine Festival (Lošinjska kuhinja)",
+    "type": "food",
+    "recurring": true,
+    "when": "Throughout May (annual)",
+    "date": "",
+    "blurb": "Month-long gastronomy festival celebrating island cuisine, with many Mali Lošinj restaurants offering special menus showcasing local Mediterranean specialities, herbs and seafood.",
+    "source_url": "https://www.visitlosinj.hr/events-on-the-island-of-vitality.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Sweet Lošinj - Desserts and Ice Cream Festival",
+    "type": "food",
+    "recurring": false,
+    "when": "19-21 June 2026",
+    "date": "2026-06-19",
+    "blurb": "First edition of a festival celebrating desserts and ice cream in Mali Lošinj, held alongside the Kvarner EXPO fair of souvenirs and indigenous products on the same weekend.",
+    "source_url": "https://www.visitlosinj.hr/events-on-the-island-of-vitality.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Outdoor Exhibition \"On the Sails\"",
+    "type": "cultural",
+    "recurring": false,
+    "when": "5-19 June 2026",
+    "date": "2026-06-05",
+    "blurb": "Open-air art exhibition displayed along the Mali Lošinj waterfront, presenting works on sails as part of the town's summer cultural programme.",
+    "source_url": "https://www.visitlosinj.hr/events-on-the-island-of-vitality.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Lošinj Through the Centuries - Free Guided City Tour",
+    "type": "cultural",
+    "recurring": true,
+    "when": "15 March - 15 October (annual, regular tours)",
+    "date": "",
+    "blurb": "Free guided walking tour through the historic centre of Mali Lošinj exploring the island's maritime and health-tourism heritage, running across the whole season.",
+    "source_url": "https://www.visitlosinj.hr/events-on-the-island-of-vitality.aspx",
+    "image_url": ""
+   }
+  ]
+ },
+ "kasjuni-beach": {
+  "beach": "Split",
+  "town": "Split",
+  "events": [
+   {
+    "name": "Ultra Europe Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Mid-July (annually)",
+    "date": "2026-07-10",
+    "blurb": "One of Europe's largest electronic music festivals, held over three days at Park Mladezi in Split with world-famous EDM, house and techno DJs across massive main and RESISTANCE stages. The 2026 edition runs 10-12 July.",
+    "source_url": "https://ultraeurope.com/",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Ultra_Europe"
+   },
+   {
+    "name": "Split Summer Festival (Splitsko ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-July to mid-August (annually)",
+    "date": "",
+    "blurb": "Running since 1954, this month-long festival fills Split with open-air drama, opera, ballet, music and dance performances at venues around the city, including in and around Diocletian's Palace.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Sudamja (St Domnius Day)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Late April to early May, feast day 7 May (annually)",
+    "date": "2026-05-07",
+    "blurb": "Split's biggest annual celebration honouring its patron saint Sveti Duje and the city's founding, with religious processions, live concerts, markets and food across the old town. In 2026 festivities run roughly 30 April to 10 May.",
+    "source_url": "https://kukuvia.com/sudamja-st-domnius-day-split-guide/",
+    "image_url": ""
+   },
+   {
+    "name": "Days of Diocletian (Dani Dioklecijana)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid to late August (annually)",
+    "date": "",
+    "blurb": "A historical re-enactment festival when the streets around Diocletian's Palace and the waterfront transform into Roman-era Split, with costumed processions, the 'emperor' and his guard, music and period performances.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Mediterranean Film Festival Split",
+    "type": "film",
+    "recurring": true,
+    "when": "Mid-June (annually)",
+    "date": "2026-06-11",
+    "blurb": "An annual festival showcasing regional and Mediterranean cinema at several venues around Split. The 2026 edition is scheduled for 11-20 June.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   },
+   {
+    "name": "Melodije Jadrana (Melodies of the Adriatic)",
+    "type": "music",
+    "recurring": true,
+    "when": "Late June, over three days (annually)",
+    "date": "",
+    "blurb": "A long-running Croatian pop music festival held over three days in late June, featuring regional artists and new Adriatic-flavoured songs.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/split/events-split/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cvitacka-beach": {
+  "beach": "Makarska",
+  "town": "Makarska",
+  "events": [
+   {
+    "name": "WTA Makarska Open (hosted by Valamar)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Early June (annual)",
+    "date": "2026-06-01",
+    "blurb": "International WTA 125 women's tennis tournament on outdoor clay courts at Tennis Center Makarska, drawing top-200 players. 2026 marks the 20th anniversary edition, with an accompanying program of concerts and summer events in the town center.",
+    "source_url": "https://www.wtatennis.com/tournaments/1090/makarska-125/2026",
+    "image_url": ""
+   },
+   {
+    "name": "Makarska Summer (Makarsko kulturno ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Mid-June to early September (annual)",
+    "date": "",
+    "blurb": "Makarska's main cultural season runs about 80 days with roughly 40 programs: classical and folk concerts, klapa singing, theatre, poetry evenings, exhibitions and local traditions held in churches, squares, galleries and historic venues.",
+    "source_url": "https://www.dalmatia.hr/event/makarska-summer/",
+    "image_url": ""
+   },
+   {
+    "name": "Fishermen's Night (Ribarska večer)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Several summer evenings, June to late September (annual)",
+    "date": "",
+    "blurb": "A classic Dalmatian fishermen's evening on the Makarska waterfront with grilled fresh fish, local wine, live klapa and folk music. Held on a handful of dates each summer, it's one of the town's most popular free-spirited seafront celebrations.",
+    "source_url": "https://makarska-info.hr/en/dogadaj/ribarska-vecer-fishermans-night/",
+    "image_url": ""
+   },
+   {
+    "name": "Makarska Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Late August (annual, approx. 28-31 August)",
+    "date": "",
+    "blurb": "Multi-day jazz festival running since 2014, with main concerts at the Monument to the Revolution on Glavica hill and a morning concert at Trg 533. svibnja. Past performers include Richard Bona, Alfredo Rodriguez and Roby Lakatos; some days are free entry.",
+    "source_url": "https://www.valamar.com/en/event/makarska-jazz-festival",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Spomenik_Revolucije,_Makarska.JPG"
+   },
+   {
+    "name": "Advent in Makarska",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "December (annual)",
+    "date": "",
+    "blurb": "Festive winter program on Makarska's waterfront and main squares with Christmas lights, market stalls, local food and drink, and live music and entertainment throughout the Advent period.",
+    "source_url": "https://www.valamar.com/en/event/advent-makarska",
+    "image_url": ""
+   }
+  ]
+ },
+ "foginovo-beach": {
+  "beach": "Karlovac",
+  "town": "Karlovac",
+  "events": [
+   {
+    "name": "Karlovac Beer Days (Dani piva)",
+    "type": "food & drink festival",
+    "recurring": true,
+    "when": "Late August / early September (around 10 days)",
+    "date": "",
+    "blurb": "Croatia's largest and longest-running beer and gastronomy festival, drawing over 100,000 visitors to Karlovac. The main stage runs along the Korana promenade, and a second stage is set up right at Foginovo river beach with concerts aimed at a younger crowd. Past line-ups featured Baby Lasagna, Plavi Orkestar, Vanna and Psihomodo Pop. The 2026 dates are typically confirmed in summer; the 2025 edition ran 29 Aug to 2 Sep.",
+    "source_url": "https://danipiva.net/",
+    "image_url": ""
+   },
+   {
+    "name": "Karlovac Open Air Tribute Festival",
+    "type": "music festival",
+    "recurring": true,
+    "when": "Early July (2-4 July in 2026)",
+    "date": "2026-07-02",
+    "blurb": "An outdoor tribute-band festival held at the Sanac basketball court in central Karlovac as part of the city's 'Zvjezdano ljeto' (Starry Summer) celebrations. The 2026 line-up includes The Rockstar Show, an Artpop Lady Gaga tribute and Electric Corn disco & funk night; past years featured tributes to The Rolling Stones, ABBA, Bon Jovi and Michael Jackson.",
+    "source_url": "https://karlovacopenair.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "International Folk Festival Karlovac",
+    "type": "cultural / folklore festival",
+    "recurring": true,
+    "when": "July (annual)",
+    "date": "",
+    "blurb": "An established annual folklore festival running since 1998 that brings dance and music groups from dozens of countries to Karlovac, with around 10,000 spectators each year. It presents intangible cultural heritage, a film programme, exhibitions of traditional instruments and an international 'Tastes and Movies of the World' culinary segment.",
+    "source_url": "https://www.festivalfinder.eu/festivals/international-folk-festival-karlovac",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Stunt Performers (Festival kaskaderstva)",
+    "type": "film / action spectacle",
+    "recurring": true,
+    "when": "April (17-18 April in 2026)",
+    "date": "2026-04-17",
+    "blurb": "A two-day stunt and action-film festival split between Karlovac (Friday) and the nearby Old Town castle of Novigrad na Dobri (Saturday), with live stunt shows, street chases, sword fights and workshops. The highlight is the Pegaz Award, described as the 'Oscar' of stunt performers, plus a lifetime achievement award and a free outdoor film screening.",
+    "source_url": "https://www.croatiaweek.com/croatia-stunt-festival-karlovac-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Advent in Karlovac",
+    "type": "seasonal / Christmas market",
+    "recurring": true,
+    "when": "Late November - December (Advent season)",
+    "date": "",
+    "blurb": "Karlovac's annual Advent and Christmas festival, with festive markets, lights, food and drink stalls, concerts and family programmes across the historic Zvijezda (Star) town centre. A walkable, free-to-enter winter event for visitors staying in town.",
+    "source_url": "https://visitkarlovac.hr/the-advent-festival-in-karlovac/?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "kraljicina-plaza": {
+  "beach": "Nin",
+  "town": "Nin",
+  "events": [
+   {
+    "name": "Nin Šokolijada (Šokol Festival)",
+    "type": "Gastronomy / traditional festival",
+    "recurring": true,
+    "when": "Mid/late July each year (third weekend of July)",
+    "date": "2026-07-26",
+    "blurb": "Nin's signature gastronomic event since 2003, listed among Croatia's 100 most important manifestations. Families compete with their home-cured šokol (dry-cured pork neck salted in Nin sea salt and dried by the bura wind), alongside folklore performances, music and craft stalls in the old town. A short hop from Kraljičina plaža.",
+    "source_url": "https://m.nin.hr/en/events/ninska-sokolijada",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Salt (Festival soli)",
+    "type": "Traditional / heritage festival",
+    "recurring": true,
+    "when": "Summer (late July / early August) at the Nin saltworks",
+    "date": "2026-07-30",
+    "blurb": "Held at Solana Nin, one of Europe's oldest salt pans where salt is still hand-harvested as in Roman times. Visitors join the traditional harvest, tour the salt museum and sample local products, a fitting backdrop to Nin's healing-mud beaches.",
+    "source_url": "https://www.solananin.hr/en/about-us/open-days-and-the-salt-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "City of Nin Day Celebration",
+    "type": "Cultural / civic festival",
+    "recurring": true,
+    "when": "Early June each year (multi-day program)",
+    "date": "2026-06-02",
+    "blurb": "Nin's main civic festival with a week-long program of sport tournaments (including beach handball), children's performances, concerts and cultural events through the historic old town on its lagoon island.",
+    "source_url": "https://m.nin.hr/en/guide/calendar-events",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of the Sun and Light",
+    "type": "Cultural / heritage event",
+    "recurring": true,
+    "when": "Summer solstice, June 21 each year",
+    "date": "2026-06-21",
+    "blurb": "A solstice celebration at Nin's pre-Romanesque Church of the Holy Cross, often called the world's smallest cathedral, marking the play of sunlight through the ancient building.",
+    "source_url": "https://m.nin.hr/en/guide/calendar-events",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Sand",
+    "type": "Family / entertainment event",
+    "recurring": true,
+    "when": "Mid/late August each year",
+    "date": "2026-08-23",
+    "blurb": "A summer beach-season event celebrating Nin's famous sandy shores with sand-art, games and family activities, directly relevant to visitors of the long sandy Kraljičina plaža.",
+    "source_url": "https://m.nin.hr/en/guide/calendar-events",
+    "image_url": ""
+   },
+   {
+    "name": "Days of Our Lady of Zečevo",
+    "type": "Religious / traditional pilgrimage",
+    "recurring": true,
+    "when": "May (pilgrimage and church holiday); thanksgiving pilgrimage in early August",
+    "date": "2026-05-05",
+    "blurb": "A centuries-old Nin pilgrimage tradition with Mass, processions and a boat pilgrimage to Zečevo island, commemorating the apparition of Our Lady, with a second thanksgiving pilgrimage in early August.",
+    "source_url": "https://m.nin.hr/en/guide/calendar-events",
+    "image_url": ""
+   },
+   {
+    "name": "4th Birdwatching Festival in the Nin Lagoon",
+    "type": "Nature / sport",
+    "recurring": true,
+    "when": "Late April (World Birdwatching Day events also in early October)",
+    "date": "2026-04-25",
+    "blurb": "Guided birdwatching in the Nin lagoon and salt-pan wetlands, a rich habitat for migratory birds, just behind the beach and shallows of Kraljičina plaža.",
+    "source_url": "https://m.nin.hr/en/guide/calendar-events",
+    "image_url": ""
+   }
+  ]
+ },
+ "crni-molo": {
+  "beach": "Crikvenica",
+  "town": "Crikvenica",
+  "events": [
+   {
+    "name": "Ribarski tjedan (Fishermen's Week)",
+    "type": "Traditional / gastronomic festival",
+    "recurring": true,
+    "when": "Late August / early September, annually",
+    "date": "",
+    "blurb": "One of Crikvenica's oldest events, running since 1966 and the crown of the summer season. A week-long celebration of the town's fishing heritage with grilled-fish feasts on the waterfront, local gastronomy, concerts, folklore ensembles, exhibitions and theatre performances. A short walk from Crni molo beach along the promenade.",
+    "source_url": "https://www.crikvenica.hr/58-ribarski-tjedan-u-crikvenici/",
+    "image_url": ""
+   },
+   {
+    "name": "Šilo–Crikvenica Swimming Marathon",
+    "type": "Sport (open-water swimming)",
+    "recurring": true,
+    "when": "14–15 August, annually (Feast of the Assumption)",
+    "date": "",
+    "blurb": "The oldest swimming marathon on the Adriatic, held since 1910. Swimmers cross the 3,500 m Vinodol Channel from Šilo on the island of Krk to the Crikvenica waterfront. Open to professionals and recreational swimmers alike; spectators gather along the seafront and beaches to watch the finish.",
+    "source_url": "https://www.rivieracrikvenica.com/en/crikvenica/silo-crikvenica-swimming-marathon",
+    "image_url": ""
+   },
+   {
+    "name": "Scampi Festival",
+    "type": "Gastronomic festival",
+    "recurring": true,
+    "when": "Mid-May to early June, annually",
+    "date": "2026-05-15",
+    "blurb": "Restaurants across the Crikvenica-Vinodol Riviera showcase the prized scampi (Norway lobster) from the Vinodol Channel with special menus, chef-prepared dinners, a scampi-fishing excursion and waterfront feast, live music and wine tastings. 2026 edition runs roughly 15 May to 7 June.",
+    "source_url": "https://www.rivieracrikvenica.com/en/crikvenica/scampi-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Crikvenica Days (Dani Grada Crikvenice)",
+    "type": "Cultural / town holiday",
+    "recurring": true,
+    "when": "Around 14 August, annually",
+    "date": "",
+    "blurb": "Crikvenica's central public holiday, marked with cultural, entertainment and sporting events around the town and seafront. Coincides with the Feast of the Assumption, the town's patron-saint day, making mid-August the liveliest period for beach visitors.",
+    "source_url": "https://www.rivieracrikvenica.com/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Crikvenica Music Festival – 'Na Palade'",
+    "type": "Music festival",
+    "recurring": true,
+    "when": "Summer (June/July), annually",
+    "date": "2026-06-19",
+    "blurb": "Open-air summer music festival held on the Crikvenica waterfront ('Na Palade'). The 7th edition is scheduled for 19 June 2026, bringing live concerts to the seafront within walking distance of the beaches.",
+    "source_url": "https://www.rivieracrikvenica.com/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Ad Turres Days",
+    "type": "Cultural / historical reenactment",
+    "recurring": true,
+    "when": "Summer, annually",
+    "date": "",
+    "blurb": "A Roman-themed cultural event recalling Crikvenica's ancient settlement of Ad Turres, with ancient gastronomy, handicrafts, period costumes, jewellery, dance and music staged in the town.",
+    "source_url": "https://www.rivieracrikvenica.com/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Moja Mala Kala (Ethno Festival)",
+    "type": "Cultural / ethno festival",
+    "recurring": true,
+    "when": "Summer, annually",
+    "date": "2026-07-03",
+    "blurb": "Ethno festival reviving the atmosphere of Crikvenica's old narrow streets ('kale') with traditional crafts, local food, klapa singing and folklore. The 4th edition is listed for early July 2026.",
+    "source_url": "https://www.rivieracrikvenica.com/en/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "paradise-beach": {
+  "beach": "Lopar (Rab Island)",
+  "town": "Lopar (Rab Island)",
+  "events": [
+   {
+    "name": "Sand Sculpture Festival (Festival pješčanih skulptura)",
+    "type": "cultural / art",
+    "recurring": true,
+    "when": "Summer (opens early May, main competition late June / early July, closes late September)",
+    "date": "2026-06-30",
+    "blurb": "Paradise Beach itself turns into an open-air atelier where artists build large original sand sculptures inspired by animals, legends and cartoons. The 2026 main event runs 30 June to 3 July with the winners announced on Paradise Beach, and the sculptures stay on display through the summer until the closing on World Tourism Day.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Rapska fjera (Rab Medieval Summer Fair)",
+    "type": "traditional / medieval festival",
+    "recurring": true,
+    "when": "Annually 25-27 July (feast days of St James, St Anne and St Christopher)",
+    "date": "2026-07-25",
+    "blurb": "Croatia's oldest and largest medieval summer festival, in the historic old town of Rab about 10 km from Lopar. The streets fill with craft workshops, period costumes, traditional food and the famous crossbow (samostrijel) knights' tournament. A worthwhile evening trip for any beach visitor staying in Lopar.",
+    "source_url": "https://en.wikipedia.org/wiki/Rapska_fjera",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rab_at_night_-_MEDIEVAL_DAYS_-_FIERA3_-_panoramio.jpg"
+   },
+   {
+    "name": "Stokaljfest (Octopus / Fish Festival)",
+    "type": "gastronomy / fishing",
+    "recurring": true,
+    "when": "Early June (evening)",
+    "date": "2026-06-04",
+    "blurb": "Lopar fishing festival dedicated to octopus and local seafood, with traditional dishes, local wine and live music. Part of the village's wider fishermen's heritage celebrations through the summer.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Pumidofest (Lopar Tomato Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "Mid-July (evening)",
+    "date": "2026-07-16",
+    "blurb": "Gastro festival celebrating the locally grown Lopar tomato, with tomato-based specialities, a music programme and entertainment in the village centre, a short walk from Paradise Beach.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Lopar Night – Return to the Roots (Loparska noc)",
+    "type": "traditional / folklore",
+    "recurring": true,
+    "when": "Early-to-mid August (evening)",
+    "date": "2026-08-09",
+    "blurb": "A folklore spectacle presenting Lopar's old customs, crafts and tools with traditional cuisine and the tanac and pojka dances of the San Marino cultural association, culminating in a procession honouring Saint Marinus.",
+    "source_url": "https://lopar.com/traditional-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Rab Music Evenings (Rapske glazbene veceri)",
+    "type": "music / classical",
+    "recurring": true,
+    "when": "Throughout the summer (June-August), 12-14 concerts",
+    "date": "",
+    "blurb": "A summer series of classical and opera concerts by renowned Croatian and international musicians, held at venues on the island of Rab near Lopar. The 2026 programme includes an Opera Regoc evening (25 June) and the Zagreb Quartet (31 July).",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Rab Paradiso Trail",
+    "type": "sport / trail running",
+    "recurring": true,
+    "when": "Late September",
+    "date": "2026-09-26",
+    "blurb": "An annual trekking and trail race on the island of Rab, drawing runners to the scenic coastal and inland trails. A good late-season draw for active beach visitors.",
+    "source_url": "https://lopar.com/calendar-of-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Mala Gospa – Nativity of the Blessed Virgin Mary",
+    "type": "religious / traditional",
+    "recurring": true,
+    "when": "Annually 8 September",
+    "date": "2026-09-08",
+    "blurb": "Lopar's traditional religious feast day with holy masses, pilgrimages, local cuisine, five-a-side football and boccie tournaments, and an evening fiesta with folklore performances and Croatian singers.",
+    "source_url": "https://lopar.com/traditional-events/?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "slanica-beach": {
+  "beach": "Murter",
+  "town": "Murter",
+  "events": [
+   {
+    "name": "Latinsko idro (The Latin Sail) Regatta",
+    "type": "cultural / traditional regatta",
+    "recurring": true,
+    "when": "Late September (central regatta on 29 September, St. Michael's Day)",
+    "date": "",
+    "blurb": "Murter's signature heritage event: around a hundred traditional wooden Dalmatian sailboats (gajete, leuti, kaici) race under their distinctive triangular Latin sails. Revived in 1998, it now includes exhibitions, shipyard visits, maritime workshops and a fried-sardine brunch. A short walk from Slanica Beach.",
+    "source_url": "https://www.tzo-murter.hr/en/experience/sailing-and-nautics/latinsko-idro-regatta/",
+    "image_url": ""
+   },
+   {
+    "name": "St. Roch's Day (Sveti Roko)",
+    "type": "traditional / religious",
+    "recurring": true,
+    "when": "16 August",
+    "date": "2026-08-16",
+    "blurb": "Murter's votive feast for its protector, St. Roch. A solemn mass is followed by a procession through the old town with locals in traditional Dalmatian folk costume, one of the town's most atmospheric annual traditions right by the beach resort.",
+    "source_url": "https://www.murter-kornati.com/en/calendar-of-events-island-murter",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Assumption (Velika Gospa)",
+    "type": "traditional / religious",
+    "recurring": true,
+    "when": "15 August",
+    "date": "2026-08-15",
+    "blurb": "Major summer holiday in Murter with choirs and evening musical entertainment on the Rudina square. Falls in the peak beach season and is celebrated across the island (including a lakeside fishing party in nearby Jezera).",
+    "source_url": "https://www.murter-kornati.com/en/calendar-of-events-island-murter",
+    "image_url": ""
+   },
+   {
+    "name": "Murterska Promenada (Nautics & Gastronomy Festival)",
+    "type": "food & nautical festival",
+    "recurring": true,
+    "when": "Late spring / early June",
+    "date": "2026-06-05",
+    "blurb": "Free open-air festival on the Murter waterfront combining modern nautical exhibitions, the town's maritime traditions, local gastronomy and daily afternoon and evening live music. The 2026 edition is scheduled for 5-6 June.",
+    "source_url": "https://murterska-promenada.hr/",
+    "image_url": ""
+   },
+   {
+    "name": "Love International Festival",
+    "type": "music festival",
+    "recurring": true,
+    "when": "Mid-July (8-14 July 2026)",
+    "date": "2026-07-08",
+    "blurb": "Acclaimed week-long electronic music festival at The Garden resort just outside Tisno (about 5 km from Murter and Slanica Beach). Features a 24-hour programme across multiple stages, sunrise sessions, the famous Barbarella's open-air club and boat parties along the Dalmatian coast.",
+    "source_url": "https://www.loveinternationalfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Betina 'Brganje' Shell Feast & Folklore Festivity",
+    "type": "traditional / food",
+    "recurring": true,
+    "when": "First Sunday in August",
+    "date": "",
+    "blurb": "In neighbouring Betina (a few km from Murter), this all-night shell feast pairs local shellfish and wine with folklore groups and music until dawn, alongside an early-August folklore festivity drawing dance groups from across Croatia.",
+    "source_url": "https://www.murter-kornati.com/en/calendar-of-events-island-murter",
+    "image_url": ""
+   },
+   {
+    "name": "Murter Carnival (Karneval)",
+    "type": "traditional / cultural",
+    "recurring": true,
+    "when": "February (Carnival Sundays and Tuesdays)",
+    "date": "",
+    "blurb": "Winter tradition with daytime carnival parades through Murter and masked balls in the evenings. An off-season cultural event for visitors staying near the bay.",
+    "source_url": "https://www.murter-kornati.com/en/calendar-of-events-island-murter",
+    "image_url": ""
+   }
+  ]
+ },
+ "punta-rata": {
+  "beach": "Brela",
+  "town": "Brela",
+  "events": [
+   {
+    "name": "Open-Air Cinema at Punta Rata Beach (Kino na plaži Punta rata)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Friday evenings (21:00) during July and August",
+    "date": "",
+    "blurb": "Free summer beach cinema right on Punta Rata, screening popular films in the open air (English with Croatian subtitles) under the pines beside the sea. Runs weekly through the high season.",
+    "source_url": "https://brela.hr/dogadanja/ljetno-kino-na-plazi-punta-rata",
+    "image_url": ""
+   },
+   {
+    "name": "Fishermen's Night (Ribarska večer)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Summer evenings in the Soline harbour (around 21:00)",
+    "date": "",
+    "blurb": "Traditional Dalmatian fishermen's evening at Brela's Soline harbour with grilled fish, local wine and live klapa music (often Klapa Berulia). A free, atmospheric taste of local maritime culture.",
+    "source_url": "https://makarska-info.hr/en/tag/ribarska-vecer/",
+    "image_url": ""
+   },
+   {
+    "name": "Brela Municipality Day & Feast of St. Stephen (Dan općine Brela / Sv. Stjepan)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Every 3 August",
+    "date": "2026-08-03",
+    "blurb": "Brela's town day, celebrating its patron St. Stephen with a holy mass, ceremonies and concerts. Past years featured performers such as Tedi Spalato and Klapa Berulia.",
+    "source_url": "https://opcina-brela.hr/obiljezen-dan-opcine-brela-2/",
+    "image_url": ""
+   },
+   {
+    "name": "Brela Summer Concerts (klape, bands & DJ evenings)",
+    "type": "music",
+    "recurring": true,
+    "when": "Regular evenings through the summer (June–September)",
+    "date": "",
+    "blurb": "Brela's tourist board runs a packed summer programme of open-air concerts, from klapa harmony groups (Berulia) to cover bands and tribute nights. Confirmed 2026 dates include a Depeche Mode & David Bowie tribute (4 June) and DJANGO band (18 June).",
+    "source_url": "https://brela.hr/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Free Guided Tour around Brela (Free Tour)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Weekly during the season (e.g. Mondays in June)",
+    "date": "",
+    "blurb": "Free walking tour organised by the Brela Tourist Board introducing the village, its history and the coastline near Punta Rata. Part of a weekly summer activities programme that also includes free beach workouts and painting workshops.",
+    "source_url": "https://brela.hr/en/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "blue-beach": {
+  "beach": "Sukošan",
+  "town": "Sukošan",
+  "events": [
+   {
+    "name": "Feast of St. Cassian (Fešta sv. Kasijana / Sukošanska fešta)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Every year on 13 August (patron saint's day), with a concert and fireworks the evening before on 12 August",
+    "date": "2026-08-13",
+    "blurb": "Sukošan's biggest annual celebration honours its patron saint. A procession carries the statue of St. Cassian through the town, followed by open-air concerts (in 2026 with Đani Maršan and klapa Munita) and a fireworks display. A lively day for any beach visitor to experience local Dalmatian tradition.",
+    "source_url": "https://www.sukosan.hr/en/manifestation/feast-of-st-kasijan/2",
+    "image_url": ""
+   },
+   {
+    "name": "Fishermen's Nights (Ribarska feštica)",
+    "type": "food/traditional",
+    "recurring": true,
+    "when": "Several evenings through the summer (June to August); traditionally Thursday evenings from about 8:30 PM to midnight",
+    "date": "",
+    "blurb": "Classic Dalmatian fishermen's feast on the Sukošan waterfront with grilled fish, local wine and live music (klapa Mirakul, Balboa band and others). Held repeatedly across the season, it is an easy, atmospheric evening out right by the sea.",
+    "source_url": "https://www.gmm-sukosan.com/en/summer-events-in-sukosan",
+    "image_url": ""
+   },
+   {
+    "name": "Donkey Races - Memorial of the kenja Viola (Trke tovarov)",
+    "type": "sport/traditional",
+    "recurring": true,
+    "when": "Annually in the week before St. Cassian's day; in 2026 on 8-9 August (58th edition)",
+    "date": "2026-08-08",
+    "blurb": "A beloved traditional spectacle in which donkeys race through the town, paired with old fishermen's contests such as lamplight fishing and tug of war (svićarenje). The 2026 event marks the 58th memorial, making it one of Sukošan's oldest folk customs.",
+    "source_url": "https://www.gmm-sukosan.com/en/summer-events-in-sukosan",
+    "image_url": ""
+   },
+   {
+    "name": "Prosciutto and Wine Festival (Festival pršuta i vina)",
+    "type": "food/wine",
+    "recurring": true,
+    "when": "Annually in mid-July; in 2026 on 10-11 July (fifth edition)",
+    "date": "2026-07-10",
+    "blurb": "A two-day celebration of Dalmatian prosciutto and regional wines on the Sukošan seafront, now in its fifth year. A relaxed gastro event for tasting local specialities a short walk from the beach.",
+    "source_url": "https://www.sukosan.hr/kalendar-dogadanja",
+    "image_url": ""
+   },
+   {
+    "name": "Sukošan Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in July; in 2026 on 19-20 July (fourth edition)",
+    "date": "2026-07-19",
+    "blurb": "Sukošan's open-air jazz festival, in its fourth edition in 2026, brings two evenings of live music to the coastal town. A pleasant cultural stop for beach visitors looking for evening entertainment.",
+    "source_url": "https://www.sukosan.hr/kalendar-dogadanja",
+    "image_url": ""
+   },
+   {
+    "name": "Brudetijada - Brodetto Cooking Competition",
+    "type": "food/traditional",
+    "recurring": true,
+    "when": "Late August each summer; in 2026 on 29 August",
+    "date": "2026-08-29",
+    "blurb": "A cooking competition for the best brodetto (traditional Adriatic fish stew), closing out the summer season in Sukošan with food, tasting and seaside atmosphere.",
+    "source_url": "https://www.sukosan.hr/kalendar-dogadanja",
+    "image_url": ""
+   }
+  ]
+ },
+ "maestral-beach": {
+  "beach": "Banjol (Rab Island)",
+  "town": "Banjol (Rab Island)",
+  "events": [
+   {
+    "name": "Rapska fjera (Rab Medieval Summer Festival)",
+    "type": "cultural / traditional",
+    "recurring": true,
+    "when": "Annually 25-27 July (feast days of St James, St Anne and St Christopher)",
+    "date": "2026-07-25",
+    "blurb": "Croatia's oldest and largest medieval festival, held in Rab Town since 1364. Over 700 costumed participants run roughly a hundred street workshops, with a Rab crossbowmen knights' tournament, medieval crafts and market, a fishing village built on the beach, music, dance and pyromusical fireworks at the port. About a 5 km walk/drive from Maestral Beach in Banjol.",
+    "source_url": "https://www.rab-visit.com/en/what-to-do/upcoming/rabska-fjera-195/195",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Rab_at_night_-_MEDIEVAL_DAYS_-_FIERA3_-_panoramio.jpg"
+   },
+   {
+    "name": "Rab Crossbowmen Knights' Games (Rapski samostrelicari)",
+    "type": "traditional / sport",
+    "recurring": true,
+    "when": "Several times yearly on St Christopher's Square in Rab Town: 9 May (Town of Rab Day), 30 May, 27 July and 15 August (Assumption Day)",
+    "date": "2026-05-09",
+    "blurb": "Historic crossbow knights' tournament revived in 1995, reviving games first held in 1364. Costumed marksmen compete with crossbows on St Christopher's Square in Rab Town, a short trip from Maestral Beach in Banjol.",
+    "source_url": "https://rab-croatia.com/tourism_en.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Organ Festival \"Petar Nakic\"",
+    "type": "music / classical",
+    "recurring": true,
+    "when": "Summer (June onwards); 2026 concerts include 15, 17 and 18 June in Rab Town",
+    "date": "2026-06-15",
+    "blurb": "Classical organ concert series performed on the valuable historic Petar Nakic pipe organ in Rab's former cathedral (St Mary the Great). Held for around three decades under the Rab Open University, with international musicians. In Rab Town, near Maestral Beach in Banjol.",
+    "source_url": "https://ucilisterab.hr/orguljski-festival-petar-nakic-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Fishermen's Nights (Ribarske veceri)",
+    "type": "food / traditional",
+    "recurring": true,
+    "when": "Throughout the summer tourist season, roughly weekly across the island's villages",
+    "date": "",
+    "blurb": "Each village on Rab hosts its own fishermen's night during the season, with fishermen demonstrating traditional fishing and cooking techniques, grilled fish, local wine and live entertainment along the waterfront, easily reached from Banjol and Rab Town.",
+    "source_url": "https://rab-croatia.com/tourism_en.htm",
+    "image_url": ""
+   }
+  ]
+ },
+ "rucica-beach": {
+  "beach": "Novalja, Pag Island",
+  "town": "Novalja, Pag Island",
+  "events": [
+   {
+    "name": "Barrakud Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "August (annually)",
+    "date": "2026-08-09",
+    "blurb": "Five days of non-stop electronic music on the famous Zrće Beach near Novalja, with two stages, four venues, 20+ artists and boat parties. Held 9-13 August 2026, about 10 km from Ručica Beach.",
+    "source_url": "https://zrce.com/events/barrakud-festival-2026",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Zrce_beach.jpg"
+   },
+   {
+    "name": "Balkan Wave Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "July (annually)",
+    "date": "2026-07-08",
+    "blurb": "Balkan-urban music takeover on Zrće Beach near Novalja with day-to-night parties, a pre-party, three main festival nights, after-beach sessions and boat parties. Held 8-12 July 2026.",
+    "source_url": "https://zrce.com/events/balkan-wave-festival-2026",
+    "image_url": "https://commons.wikimedia.org/wiki/File:Zrce_beach.jpg"
+   },
+   {
+    "name": "Pag Cheese and Sheep Fair (Paški sir)",
+    "type": "food",
+    "recurring": true,
+    "when": "First weekend of July (annually)",
+    "date": "",
+    "blurb": "Annual Novalja fair celebrating the island's renowned Pag sheep cheese (paški sir), with cheese-quality judging, prizes for the best sheep and dairy makers, and tastings of local products.",
+    "source_url": "https://visitnovalja.hr/traditional-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Novalja Summer Culture Festival (Kulturno ljeto)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Summer, from 13 June (annually)",
+    "date": "",
+    "blurb": "Novalja's town summer programme beginning on the Day of Novalja (St. Anthony, 13 June): art exhibitions, classical music concerts, klapa and folklore performances, theatre, outdoor cinema and pop concerts.",
+    "source_url": "https://visitnovalja.hr/traditional-events/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Pag Summer Carnival",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Last weekend of July (annually)",
+    "date": "",
+    "blurb": "The oldest summer carnival of its kind in Croatia, held in nearby Pag town every year since 1959, with masked processions, traditional costumes, Pag lace and folk festivities.",
+    "source_url": "https://www.visit-pag.com/culture-entertainment-pag.php",
+    "image_url": ""
+   },
+   {
+    "name": "Novalja Carnival",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Mid-January to Ash Wednesday (annually)",
+    "date": "",
+    "blurb": "Traditional winter carnival in Novalja with Saturday-night carnival parties, a children's carnival on Sunday afternoon, and final masked events in the main square.",
+    "source_url": "https://visitnovalja.hr/traditional-events/?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "queen-s-beach": {
+  "beach": "Mlini (Župa dubrovačka)",
+  "town": "Mlini (Župa dubrovačka)",
+  "events": [
+   {
+    "name": "Župsko ljeto (Župa Summer Festival)",
+    "type": "music & cultural festival",
+    "recurring": true,
+    "when": "Every July",
+    "date": "",
+    "blurb": "A month-long programme of free open-air events across Župa dubrovačka, including the resorts of Mlini and Srebreno just steps from the beach. Expect Dalmatian klapa harmonies, folklore dance, live music, storytelling and family-friendly shows, most starting around 20:00. A relaxed way to spend a summer evening after a day on the coast.",
+    "source_url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/18215-zupsko-ljeto-2025-summer-festival-brings-music-folklore-family-fun-to-zupa-dubrovacka",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mlini_bay_-_panoramio.jpg"
+   },
+   {
+    "name": "Župski pjat (Gastronomy & Heritage Festival)",
+    "type": "food & heritage festival",
+    "recurring": true,
+    "when": "Late April (20-27 April in 2026)",
+    "date": "2026-04-20",
+    "blurb": "A week of local food, wine and tradition in Župa dubrovačka. Visitors can join vineyard and olive-grove tours with tastings, cooking classes in local homes, workshops on traditional ingredients like carob, lectures and exhibitions, while partner restaurants serve special Župa menus. Most educational programmes and tours are free but require a reservation.",
+    "source_url": "https://www.dubrovnik-riviera.hr/en/news/item/601-traditional-gastronomy-and-heritage-festival-zupski-pjat",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of St. Ilar (Sveti Ilar) - Mlini Patron Saint Day",
+    "type": "traditional religious feast",
+    "recurring": true,
+    "when": "21 October every year",
+    "date": "",
+    "blurb": "Mlini celebrates its patron saint, St. Ilar (Hilarus), a tradition rooted here since ancient times. Legend says the hermit saint slew a dragon on the Mlini shore and converted the region in the 4th century. The day is marked with solemn mass at the baroque parish church of St. Ilar, a local fešta atmosphere just up from the seafront.",
+    "source_url": "https://zupcica.com/index.php/kroz-zupu/religija/item/2384-zupa-mlini-slavi-blagdan-svog-zastitnika-stovanje-svetog-ilara-u-mlinima-je-ukorijenjeno-od-davnina",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival",
+    "type": "performing arts festival",
+    "recurring": true,
+    "when": "10 July - 25 August 2026",
+    "date": "2026-07-10",
+    "blurb": "The 77th edition of Croatia's most prestigious cultural festival, a short drive up the coast in Dubrovnik (about 12 km from Mlini). Over 47 days more than 2,000 artists give 70+ performances of drama, classical music, dance and folklore at open-air and historic venues inside the City Walls, themed 'Northern Lights'. An easy, high-profile evening trip for beach visitors.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   }
+  ]
+ }
+}

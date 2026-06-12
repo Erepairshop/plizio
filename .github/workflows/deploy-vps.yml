@@ -259,6 +259,11 @@ jobs:
           echo "POI HTML count: $COUNT"
           test "$COUNT" -gt 100000
 
+      - name: Beach-hub pages (Croatia muster - hub plus per-beach rich pages plus sitemap-beach.xml)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/build-beach-hub.mts
+
       - name: Build sitemap.xml index from actual chunks (Next 16 export omits it)
         run: |
           set -euo pipefail

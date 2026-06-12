@@ -1,0 +1,632 @@
+[
+ {
+  "slug": "zlatni-rat",
+  "name": "Zlatni Rat",
+  "qid": "Q1262826",
+  "coord": "Point(16.633888888 43.255833333)",
+  "sitelinks": 24,
+  "file": "hr-beach-zlatni-rat.webp",
+  "commons_file": "Bol (33626391504).jpg",
+  "credit": {
+   "artist": "Miran Hojnik",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Bol_(33626391504).jpg"
+  }
+ },
+ {
+  "slug": "zrce",
+  "name": "Zrće",
+  "qid": "Q227190",
+  "coord": "Point(14.91497 44.53873)",
+  "sitelinks": 9,
+  "file": "hr-beach-zrce.webp",
+  "commons_file": "Zrce2012.JPG",
+  "credit": {
+   "artist": "Croq",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Zrce2012.JPG"
+  }
+ },
+ {
+  "slug": "banje-beach",
+  "name": "Banje Beach",
+  "qid": "Q11908072",
+  "coord": "Point(18.115833 42.641389)",
+  "sitelinks": 8,
+  "file": "hr-beach-banje-beach.webp",
+  "commons_file": "Banje Beach.jpg",
+  "credit": {
+   "artist": "Chris Brown",
+   "license": "CC BY-SA 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Banje_Beach.jpg"
+  }
+ },
+ {
+  "slug": "nugal-beach",
+  "name": "Nugal Beach",
+  "qid": "Q7068729",
+  "coord": "Point(17.03277778 43.27888889)",
+  "sitelinks": 8,
+  "file": "hr-beach-nugal-beach.webp",
+  "commons_file": "Nugal beach MakarskaTucepi.jpg",
+  "credit": {
+   "artist": "Tengilorg",
+   "license": "CC BY 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Nugal_beach_MakarskaTucepi.jpg"
+  }
+ },
+ {
+  "slug": "pasjaca",
+  "name": "Pasjača",
+  "qid": "Q104387227",
+  "coord": "Point(18.319444444 42.516666666)",
+  "sitelinks": 7,
+  "file": "hr-beach-pasjaca.webp",
+  "commons_file": "Pasjacha (Pasjača) Beach - panoramio.jpg",
+  "credit": {
+   "artist": "MEETCROATIA_NET",
+   "license": "CC BY 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Pasjacha_(Pasja%C4%8Da)_Beach_-_panoramio.jpg"
+  }
+ },
+ {
+  "slug": "sahara-beach",
+  "name": "Sahara Beach",
+  "qid": "Q16899579",
+  "coord": "Point(14.7511 44.8408)",
+  "sitelinks": 6,
+  "file": "hr-beach-sahara-beach.webp",
+  "commons_file": "Sahara Beach.JPG",
+  "credit": {
+   "artist": "Mrbeachguide",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Sahara_Beach.JPG"
+  }
+ },
+ {
+  "slug": "dance-beach",
+  "name": "Danče Beach",
+  "qid": "Q3465043",
+  "coord": "Point(18.100788888 42.640611111)",
+  "sitelinks": 5,
+  "file": "hr-beach-dance-beach.webp",
+  "commons_file": "Danče 5.JPG",
+  "credit": {
+   "artist": "August Dominus",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Dan%C4%8De_5.JPG"
+  }
+ },
+ {
+  "slug": "porporela",
+  "name": "Porporela",
+  "qid": "Q16111759",
+  "coord": "Point(18.112530555 42.639780555)",
+  "sitelinks": 5,
+  "file": "hr-beach-porporela.webp",
+  "commons_file": "Porporela beach in Dubrovnik, Croatia (48613169822).jpg",
+  "credit": {
+   "artist": "dronepicr",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Porporela_beach_in_Dubrovnik,_Croatia_(48613169822).jpg"
+  }
+ },
+ {
+  "slug": "sakarun",
+  "name": "Sakarun",
+  "qid": "Q6961232",
+  "coord": "Point(14.87182 44.13387)",
+  "sitelinks": 5,
+  "file": "hr-beach-sakarun.webp",
+  "commons_file": "Sakarun beach 02.jpg",
+  "credit": {
+   "artist": "Laurent de Walick from The Hague, The Netherlands",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Sakarun_beach_02.jpg"
+  }
+ },
+ {
+  "slug": "beach-banj-sibenik",
+  "name": "Beach Banj, Šibenik",
+  "qid": "Q48743664",
+  "coord": "Point(15.884359999 43.7411185)",
+  "sitelinks": 5,
+  "file": "hr-beach-beach-banj-sibenik.webp",
+  "commons_file": "View of beach Banj and Sibenik bridge.jpg",
+  "credit": {
+   "artist": "Zvone00",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:View_of_beach_Banj_and_Sibenik_bridge.jpg"
+  }
+ },
+ {
+  "slug": "betina-spilja",
+  "name": "Betina špilja",
+  "qid": "Q2900110",
+  "coord": "Point(18.122947222 42.6395)",
+  "sitelinks": 4,
+  "file": "hr-beach-betina-spilja.webp",
+  "commons_file": "Sea Cave Beach, Dubrovnik.jpg",
+  "credit": {
+   "artist": "Karl Norling",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Sea_Cave_Beach,_Dubrovnik.jpg"
+  }
+ },
+ {
+  "slug": "st-jakov-beach",
+  "name": "St. Jakov Beach",
+  "qid": "Q11950588",
+  "coord": "Point(18.130647222 42.635138888)",
+  "sitelinks": 4,
+  "file": "hr-beach-st-jakov-beach.webp",
+  "commons_file": "Mountain above Sveti Jakov Beach in Dubrovnik, Croatia (48738628043).jpg",
+  "credit": {
+   "artist": "dronepicr",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Mountain_above_Sveti_Jakov_Beach_in_Dubrovnik,_Croatia_(48738628043).jpg"
+  }
+ },
+ {
+  "slug": "bellevue-beach",
+  "name": "Bellevue Beach",
+  "qid": "Q12639823",
+  "coord": "Point(18.092222222 42.646388888)",
+  "sitelinks": 4,
+  "file": "hr-beach-bellevue-beach.webp",
+  "commons_file": "Hotel Bellevue Beach (4068550839).jpg",
+  "credit": {
+   "artist": "Tony Hisgett from Birmingham, UK",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Hotel_Bellevue_Beach_(4068550839).jpg"
+  }
+ },
+ {
+  "slug": "buza-beach",
+  "name": "Buža Beach",
+  "qid": "Q12639825",
+  "coord": "Point(18.108611111 42.638888888)",
+  "sitelinks": 3,
+  "file": "hr-beach-buza-beach.webp",
+  "commons_file": "Walls of Dubrovnik Bar (5967296829).jpg",
+  "credit": {
+   "artist": "Alex Proimos from Sydney, Australia",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Walls_of_Dubrovnik_Bar_(5967296829).jpg"
+  }
+ },
+ {
+  "slug": "cava-beach",
+  "name": "Cava Beach",
+  "qid": "Q12639826",
+  "coord": "Point(18.061741666 42.664025)",
+  "sitelinks": 3,
+  "file": "hr-beach-cava-beach.webp",
+  "commons_file": "Plaža Cava.JPG",
+  "credit": {
+   "artist": "August Dominus",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Pla%C5%BEa_Cava.JPG"
+  }
+ },
+ {
+  "slug": "president-beach",
+  "name": "President Beach",
+  "qid": "Q12639833",
+  "coord": "Point(18.057955555 42.662252777)",
+  "sitelinks": 3,
+  "file": "hr-beach-president-beach.webp",
+  "commons_file": "Plaža President.JPG",
+  "credit": {
+   "artist": "August Dominus",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Pla%C5%BEa_President.JPG"
+  }
+ },
+ {
+  "slug": "tri-brata-beach",
+  "name": "Tri brata Beach",
+  "qid": "Q12639834",
+  "coord": "Point(18.052172222 42.683319444)",
+  "sitelinks": 3,
+  "file": "hr-beach-tri-brata-beach.webp",
+  "commons_file": "Plaža tri brata.jpg",
+  "credit": {
+   "artist": "Bracodbk",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Pla%C5%BEa_tri_brata.jpg"
+  }
+ },
+ {
+  "slug": "lokrum-beaches",
+  "name": "Lokrum Beaches",
+  "qid": "Q12639835",
+  "coord": "Point(18.119080555 42.626908333)",
+  "sitelinks": 3,
+  "file": "hr-beach-lokrum-beaches.webp",
+  "commons_file": "Lokrom-bs-14.jpg",
+  "credit": {
+   "artist": "László Szalai (Beyond silence)",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Lokrom-bs-14.jpg"
+  }
+ },
+ {
+  "slug": "stiniva",
+  "name": "Stiniva",
+  "qid": "Q12803521",
+  "coord": "Point(16.17104 43.01844)",
+  "sitelinks": 3,
+  "file": "hr-beach-stiniva.webp",
+  "commons_file": "Aerial view of the Adriatic Sea at Stiniva Bay on Vis island in Croatia (48608804397).jpg",
+  "credit": {
+   "artist": "dronepicr",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Adriatic_Sea_at_Stiniva_Bay_on_Vis_island_in_Croatia_(48608804397).jpg"
+  }
+ },
+ {
+  "slug": "copacabana-beach",
+  "name": "Copacabana Beach",
+  "qid": "Q17463883",
+  "coord": "Point(18.064444444 42.663888888)",
+  "sitelinks": 3,
+  "file": "hr-beach-copacabana-beach.webp",
+  "commons_file": "Dubrovnik (20883117609).jpg",
+  "credit": {
+   "artist": "Nick Savchenko from Kiev, Ukraine",
+   "license": "CC BY-SA 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Dubrovnik_(20883117609).jpg"
+  }
+ },
+ {
+  "slug": "kupari-beach",
+  "name": "Kupari Beach",
+  "qid": "Q12639829",
+  "coord": "Point(18.191863888 42.6203)",
+  "sitelinks": 2,
+  "file": "hr-beach-kupari-beach.webp",
+  "commons_file": "Hotels Pelegrin and Kupari (Kupari Croatia) 1.jpg",
+  "credit": {
+   "artist": "Gzzz",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Hotels_Pelegrin_and_Kupari_(Kupari_Croatia)_1.jpg"
+  }
+ },
+ {
+  "slug": "mlini-beach",
+  "name": "Mlini Beach",
+  "qid": "Q12639832",
+  "coord": "Point(18.202322222 42.622841666)",
+  "sitelinks": 2,
+  "file": "hr-beach-mlini-beach.webp",
+  "commons_file": "Mlini bay - panoramio.jpg",
+  "credit": {
+   "artist": "keithlawson",
+   "license": "CC BY 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Mlini_bay_-_panoramio.jpg"
+  }
+ },
+ {
+  "slug": "srebreno-beach",
+  "name": "Srebreno Beach",
+  "qid": "Q16111067",
+  "coord": "Point(18.197761111 42.623258333)",
+  "sitelinks": 2,
+  "file": "hr-beach-srebreno-beach.webp",
+  "commons_file": "Playadubrovnik.jpg",
+  "credit": {
+   "artist": "Pablo Enzo",
+   "license": "Public domain",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Playadubrovnik.jpg"
+  }
+ },
+ {
+  "slug": "ingalo-beach",
+  "name": "Ingalo Beach",
+  "qid": "Q16115003",
+  "coord": "Point(18.004575 42.677302777)",
+  "sitelinks": 2,
+  "file": "hr-beach-ingalo-beach.webp",
+  "commons_file": "Otok Koločep.JPG",
+  "credit": {
+   "artist": "August Dominus",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Otok_Kolo%C4%8Dep.JPG"
+  }
+ },
+ {
+  "slug": "veliki-zali-beach",
+  "name": "Veliki žali Beach",
+  "qid": "Q20526831",
+  "coord": "Point(17.927463888 42.7406)",
+  "sitelinks": 2,
+  "file": "hr-beach-veliki-zali-beach.webp",
+  "commons_file": "Veliki žali beach.JPG",
+  "credit": {
+   "artist": "Bracodbk",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Veliki_%C5%BEali_beach.JPG"
+  }
+ },
+ {
+  "slug": "sunj",
+  "name": "Šunj",
+  "qid": "Q20527484",
+  "coord": "Point(17.95183 42.67999)",
+  "sitelinks": 2,
+  "file": "hr-beach-sunj.webp",
+  "commons_file": "Cliffs near Sunj Beach on Lopud Island, Croatia (48738692058).jpg",
+  "credit": {
+   "artist": "dronepicr",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Cliffs_near_Sunj_Beach_on_Lopud_Island,_Croatia_(48738692058).jpg"
+  }
+ },
+ {
+  "slug": "slatina-beach",
+  "name": "Slatina Beach",
+  "qid": "Q31856612",
+  "coord": "Point(14.304595 45.332944)",
+  "sitelinks": 2,
+  "file": "hr-beach-slatina-beach.webp",
+  "commons_file": "Abbázia - 2016 (2).jpg",
+  "credit": {
+   "artist": "Elekes Andor",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Abb%C3%A1zia_-_2016_(2).jpg"
+  }
+ },
+ {
+  "slug": "pokonji-dol-beach",
+  "name": "Pokonji Dol Beach",
+  "qid": "Q31871312",
+  "coord": "Point(16.455633333 43.163738888)",
+  "sitelinks": 2,
+  "file": "hr-beach-pokonji-dol-beach.webp",
+  "commons_file": "Hvar mustacho - panoramio.jpg",
+  "credit": {
+   "artist": "Dejan Sekuloski",
+   "license": "CC BY 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Hvar_mustacho_-_panoramio.jpg"
+  }
+ },
+ {
+  "slug": "firule-beach",
+  "name": "Firule Beach",
+  "qid": "Q115103830",
+  "coord": "Point(16.454399 43.500765)",
+  "sitelinks": 2,
+  "file": "hr-beach-firule-beach.webp",
+  "commons_file": "Firule Beach with a view to Marina Zenta in Split, Croatia (48608227168).jpg",
+  "credit": {
+   "artist": "dronepicr",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Firule_Beach_with_a_view_to_Marina_Zenta_in_Split,_Croatia_(48608227168).jpg"
+  }
+ },
+ {
+  "slug": "bacvice-beach",
+  "name": "Bačvice Beach",
+  "qid": "Q115103952",
+  "coord": "Point(16.44672 43.50226)",
+  "sitelinks": 2,
+  "file": "hr-beach-bacvice-beach.webp",
+  "commons_file": "Strand Bacvice in Split, Kroatien (48608740097).jpg",
+  "credit": {
+   "artist": "dronepicr",
+   "license": "CC BY 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Strand_Bacvice_in_Split,_Kroatien_(48608740097).jpg"
+  }
+ },
+ {
+  "slug": "supetar-beach",
+  "name": "Supetar beach",
+  "qid": "Q12638635",
+  "coord": "Point(18.202222222 42.595)",
+  "sitelinks": 1,
+  "file": "hr-beach-supetar-beach.webp",
+  "commons_file": "J32 557 Strand bei Supetar.jpg",
+  "credit": {
+   "artist": "Falk2",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:J32_557_Strand_bei_Supetar.jpg"
+  }
+ },
+ {
+  "slug": "plava-laguna",
+  "name": "Plava Laguna",
+  "qid": "Q7202888",
+  "coord": "Point(13.58836 45.20821)",
+  "sitelinks": 1,
+  "file": "hr-beach-plava-laguna.webp",
+  "commons_file": "Plava Laguna Strand.jpg",
+  "credit": {
+   "artist": "Corradox",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Plava_Laguna_Strand.jpg"
+  }
+ },
+ {
+  "slug": "cikat",
+  "name": "Čikat",
+  "qid": "Q8079781",
+  "coord": "Point(14.459 44.5306)",
+  "sitelinks": 1,
+  "file": "hr-beach-cikat.webp",
+  "commons_file": "Mali Lošinj - camping Čikat.jpg",
+  "credit": {
+   "artist": "Harassek",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Mali_Lo%C5%A1inj_-_camping_%C4%8Cikat.jpg"
+  }
+ },
+ {
+  "slug": "kasjuni-beach",
+  "name": "Kašjuni Beach",
+  "qid": "Q55017966",
+  "coord": "Point(16.399586 43.507816)",
+  "sitelinks": 1,
+  "file": "hr-beach-kasjuni-beach.webp",
+  "commons_file": "Kasuni beach Split.jpg",
+  "credit": {
+   "artist": "Tengilorg",
+   "license": "CC BY 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Kasuni_beach_Split.jpg"
+  }
+ },
+ {
+  "slug": "cvitacka-beach",
+  "name": "Cvitačka Beach",
+  "qid": "Q135238795",
+  "coord": "Point(16.996389 43.313326)",
+  "sitelinks": 1,
+  "file": "hr-beach-cvitacka-beach.webp",
+  "commons_file": "Makarska iz zraka,plaža00086.JPG",
+  "credit": {
+   "artist": "Mario Knezović",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Makarska_iz_zraka,pla%C5%BEa00086.JPG"
+  }
+ },
+ {
+  "slug": "foginovo-beach",
+  "name": "Foginovo Beach",
+  "qid": "Q135602856",
+  "coord": "Point(15.558647 45.485199)",
+  "sitelinks": 1,
+  "file": "hr-beach-foginovo-beach.webp",
+  "commons_file": "Foginovo kupalište.jpg",
+  "credit": {
+   "artist": "Bukovacka",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Foginovo_kupali%C5%A1te.jpg"
+  }
+ },
+ {
+  "slug": "kraljicina-plaza",
+  "name": "Kraljičina plaža",
+  "qid": "Q120718596",
+  "coord": "Point(15.17665 44.24772)",
+  "sitelinks": 1,
+  "file": "hr-beach-kraljicina-plaza.webp",
+  "commons_file": "Kraljičina beach in Nin (2).jpg",
+  "credit": {
+   "artist": "Przemek Pietrak",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_beach_in_Nin_(2).jpg"
+  }
+ },
+ {
+  "slug": "crni-molo",
+  "name": "Crni molo",
+  "qid": "Q97445443",
+  "coord": "Point(14.6810253 45.1811542)",
+  "sitelinks": 1,
+  "file": "hr-beach-crni-molo.webp",
+  "commons_file": "Crikvenica beach 2005-07-25.jpg",
+  "credit": {
+   "artist": "Myself",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Crikvenica_beach_2005-07-25.jpg"
+  }
+ },
+ {
+  "slug": "paradise-beach",
+  "name": "Paradise Beach",
+  "qid": "Q97445548",
+  "coord": "Point(14.7374369 44.8210783)",
+  "sitelinks": 1,
+  "file": "hr-beach-paradise-beach.webp",
+  "commons_file": "Paradise shore - Lopar, Rab (4).jpg",
+  "credit": {
+   "artist": "Elekes Andor",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Paradise_shore_-_Lopar,_Rab_(4).jpg"
+  }
+ },
+ {
+  "slug": "slanica-beach",
+  "name": "Slanica Beach",
+  "qid": "Q97445867",
+  "coord": "Point(15.5791233 43.8165428)",
+  "sitelinks": 1,
+  "file": "hr-beach-slanica-beach.webp",
+  "commons_file": "Sandy beach Slanica.jpg",
+  "credit": {
+   "artist": "ANDREJ NEUHERZ",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Sandy_beach_Slanica.jpg"
+  }
+ },
+ {
+  "slug": "punta-rata",
+  "name": "Punta rata",
+  "qid": "Q97445980",
+  "coord": "Point(16.9232736 43.3704239)",
+  "sitelinks": 1,
+  "file": "hr-beach-punta-rata.webp",
+  "commons_file": "Brela - plaža Punta rata (istok).jpg",
+  "credit": {
+   "artist": "Silverije",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Brela_-_pla%C5%BEa_Punta_rata_(istok).jpg"
+  }
+ },
+ {
+  "slug": "blue-beach",
+  "name": "Blue Beach",
+  "qid": "Q97446135",
+  "coord": "Point(15.768638 43.754188)",
+  "sitelinks": 1,
+  "file": "hr-beach-blue-beach.webp",
+  "commons_file": "Vodice - plaža kod hotela Punta.JPG",
+  "credit": {
+   "artist": "Silverije",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Vodice_-_pla%C5%BEa_kod_hotela_Punta.JPG"
+  }
+ },
+ {
+  "slug": "maestral-beach",
+  "name": "Maestral Beach",
+  "qid": "Q107034048",
+  "coord": "Point(14.526213888 45.127680555)",
+  "sitelinks": 1,
+  "file": "hr-beach-maestral-beach.webp",
+  "commons_file": "Kiefer am Strand von Malinska 2014.JPG",
+  "credit": {
+   "artist": "Usien",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Kiefer_am_Strand_von_Malinska_2014.JPG"
+  }
+ },
+ {
+  "slug": "rucica-beach",
+  "name": "Ručica Beach",
+  "qid": "Q130270860",
+  "coord": "Point(15.020682 44.501039)",
+  "sitelinks": 0,
+  "file": "hr-beach-rucica-beach.webp",
+  "commons_file": "Plaża Ručica, ok. Metajny, Pag - panoramio.jpg",
+  "credit": {
+   "artist": "*fiedler*",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Pla%C5%BCa_Ru%C4%8Dica,_ok._Metajny,_Pag_-_panoramio.jpg"
+  }
+ },
+ {
+  "slug": "queen-s-beach",
+  "name": "Queen's beach",
+  "qid": "Q130272053",
+  "coord": "Point(18.892461 42.263448)",
+  "sitelinks": 0,
+  "file": "hr-beach-queen-s-beach.webp",
+  "commons_file": "Kraljičina plaža.jpg",
+  "credit": {
+   "artist": "BokicaK",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa.jpg"
+  }
+ }
+]

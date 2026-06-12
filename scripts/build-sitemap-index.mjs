@@ -43,6 +43,12 @@ if (fs.existsSync(hubsPath)) {
   entries.push({ loc: `${SITE}/sitemap-hubs.xml`, lastmod: iso(fs.statSync(hubsPath).mtime) });
 }
 
+// Beach-hub pages (build-beach-hub.mts → out/sitemap-beach.xml). Optional.
+const beachPath = path.join(OUT, "sitemap-beach.xml");
+if (fs.existsSync(beachPath)) {
+  entries.push({ loc: `${SITE}/sitemap-beach.xml`, lastmod: iso(fs.statSync(beachPath).mtime) });
+}
+
 const xml =
   '<?xml version="1.0" encoding="UTF-8"?>\n' +
   '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
