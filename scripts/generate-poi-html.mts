@@ -1418,7 +1418,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     if(!items.length){list.innerHTML='<div class="plz-sgr-load">${escapeHtml(NONE[lang] || NONE.en!)}</div>';return}
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
-      var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&'+(typeof e[5]==='string'?'pano='+e[5]+'&':'')+'viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
+      var sv=(typeof e[5]==='string')?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&pano='+e[5]+'&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
         :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/?api=1&query='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
       var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
       return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
@@ -2393,7 +2393,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const sc = (s as any).coords;
     if (Array.isArray(sc) && sc.length === 2 && typeof sc[0] === "number" && typeof sc[1] === "number") {
       const [slng, slat] = sc;
-      if (SV_OK[svKey(slat, slng)]) {
+      // Pegman ONLY for a concrete pano_id (string value). A bare `1` (viewpoint-
+      // only positive) opens Google at the coord, which for obscure features sits
+      // on the nearest road and shows the wrong place — fall to the Maps pin then.
+      if (typeof SV_OK[svKey(slat, slng)] === "string") {
         const svUrl = svHref(slat, slng);
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       } else {
