@@ -2910,7 +2910,7 @@ ready();})();</script>
   </div>
   ${renderFAQ(poi, lang) || faqHtml}
   <section>
-    <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
+    <a class="plz-cta" href="${countryMapUrl(countryId) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
     ${hubLinkHtml}
     ${osmLink}
   </section>
@@ -3472,7 +3472,7 @@ ready();})();</script>
   <nav class="plz-breadcrumb">
     <a href="/${lang}/">${I("home", lang)}</a><span>›</span>
     <a href="${buildCountryPath(lang, countryId)}">${escapeHtml(countryName)}</a><span>›</span>
-    <a href="${buildStatePath(lang, host.parent!)}">${escapeHtml(host.parent!)}</a><span>›</span>
+    ${(host.parent && host.parent !== countryId && slugs.getStateForPoi(host)) ? `<a href="${buildStatePath(lang, host.parent)}">${escapeHtml(slugs.localizedStateName(host.parent, lang))}</a><span>›</span>` : ""}
     <a href="${hostUrl}">${escapeHtml(hostName)}</a><span>›</span>
     <span>${escapeHtml(sightName)}</span>
   </nav>
