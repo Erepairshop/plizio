@@ -1,0 +1,394 @@
+{
+ "utah-beach": {
+  "beach": "Sainte-Marie-du-Mont",
+  "town": "Sainte-Marie-du-Mont",
+  "country": "France",
+  "events": [
+   {
+    "name": "D-Day Festival Normandy",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually around 6 June (festival period roughly late May to mid-June); 2026 edition approx. 30 May to 14 June",
+    "date": "2026-06-06",
+    "blurb": "Annual festival commemorating the 1944 Allied landings, held across the D-Day beaches including Utah Beach and Sainte-Marie-du-Mont. Features ceremonies, historical re-enactments, military camps, exhibitions, concerts and parachute demonstrations.",
+    "source_url": "https://www.ot-baieducotentin.fr/en/d-day/anniversaire-du-debarquement/",
+    "image_url": ""
+   },
+   {
+    "name": "Utah Beach D-Day Anniversary Ceremonies",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually in early June around the 6 June D-Day anniversary",
+    "date": "2026-06-06",
+    "blurb": "Official commemorative ceremonies and tributes held at Utah Beach and at the Resistance monument in Sainte-Marie-du-Mont, including a parachute-packing demonstration with the ETO association and a bagpipe concert on the village church square.",
+    "source_url": "https://utah-beach.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Sainte-Marie-du-Mont Votive Festival (Fete votive)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August (Assumption)",
+    "date": "2026-08-15",
+    "blurb": "Traditional village festival dedicated to the Virgin Mary, with a foot race, funfair rides, a carnival and fireworks.",
+    "source_url": "https://www.france-voyage.com/cities-towns/sainte-marie-du-mont-17782.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Quatre Jours en Juin (Carentan 1944 Liberation Re-enactment)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually in early June (around 4-7 June), centred on Carentan-les-Marais near Utah Beach",
+    "date": "",
+    "blurb": "Multi-day living-history commemoration of the Battle and Liberation of Carentan, with a commemorative march of hundreds of re-enactors from many countries, military camps and period festivities. Organised by the Carentan Liberty Group.",
+    "source_url": "https://carentan1944.com/en/commemorations/animations-festivites/",
+    "image_url": ""
+   },
+   {
+    "name": "Camp Geronimo (Airborne Museum, Sainte-Mere-Eglise)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early June during the D-Day anniversary; 2026 edition approx. 3-7 June",
+    "date": "",
+    "blurb": "Living-history military camp staged by the Airborne Museum in nearby Sainte-Mere-Eglise, recreating a 1944 airborne encampment with re-enactors, vehicles and demonstrations during the D-Day commemorations.",
+    "source_url": "https://airborne-museum.org/en/en-ce-moment/agenda/camp-geronimo-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "gold-beach": {
+  "beach": "Arromanches-les-Bains",
+  "town": "Arromanches-les-Bains",
+  "country": "France",
+  "events": [
+   {
+    "name": "D-Day Festival Normandy",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually late May to mid-June; 2026 edition (20th) runs 30 May - 14 June 2026, with events across the Gold Beach sector (Arromanches-les-Bains, Asnelles, Ver-sur-Mer)",
+    "date": "2026-05-30",
+    "blurb": "Large annual festival marking the anniversary of the 1944 Normandy landings, with over a hundred events including military vehicle parades, parachute drops, re-enactment camps, concerts, fireworks and memorial ceremonies across the D-Day beaches, including the Gold Beach sector around Arromanches and Asnelles.",
+    "source_url": "https://en.normandie-tourisme.fr/discover/d-day-and-the-battle-of-normandy/programme-d-day-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "D-Day Anniversary Commemoration (6 June)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 6 June; 2026 marked the 82nd anniversary, with local ceremonies in Asnelles and along Gold Beach",
+    "date": "2026-06-06",
+    "blurb": "Annual ceremonies on 6 June honour the Allied landings of 1944. In the Gold Beach sector the town of Asnelles holds commemorative gatherings and guided remembrance tours about civilian and military life during the landings.",
+    "source_url": "https://www.asnelles.fr/programme-commemoration-6-juin-d-day-asnelles/",
+    "image_url": ""
+   },
+   {
+    "name": "British Normandy Memorial Service of Remembrance",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 6 June at the British Normandy Memorial in Ver-sur-Mer (Gold Beach); 2026 service held around 10:30-11:15am",
+    "date": "2026-06-06",
+    "blurb": "Free annual service of remembrance at the British Normandy Memorial overlooking Gold Beach at Ver-sur-Mer, honouring the British and Commonwealth personnel who died during the Battle of Normandy, often attended by veterans.",
+    "source_url": "https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Les Embruns de Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (July-August), with weekly Thursday classical concerts; 2026 edition (13th) around 15-23 July, performances also dated 16 July - 6 August",
+    "date": "",
+    "blurb": "Classical music festival held each summer in Arromanches-les-Bains and nearby Bessin coastal communes, featuring violinist Patrick Bismuth and the ensemble La Tempesta with solo, duo and trio recitals (Beethoven, Schubert, Debussy, Fauré) in venues such as the Church of Arromanches.",
+    "source_url": "http://www.festival-arromanches.com/index.php/programmation",
+    "image_url": ""
+   },
+   {
+    "name": "Arromanches Summer Flea Market (Brocante)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in mid-July and mid-August in Arromanches-les-Bains",
+    "date": "",
+    "blurb": "Seasonal antiques and flea market that fills the streets of Arromanches-les-Bains in mid-July and mid-August with stalls of antique and vintage objects.",
+    "source_url": "https://www.arromanches.com/evenements/",
+    "image_url": ""
+   },
+   {
+    "name": "Arromanches Christmas Market",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in December in Arromanches-les-Bains",
+    "date": "",
+    "blurb": "Festive end-of-year Christmas market in Arromanches-les-Bains, accompanied locally by the Ali Baba solidarity toy flea market (Brocante du jouet) in early December.",
+    "source_url": "https://www.arromanches.com/evenements/",
+    "image_url": ""
+   }
+  ]
+ },
+ "omaha-beach": {
+  "beach": "Saint-Laurent-sur-Mer",
+  "town": "Saint-Laurent-sur-Mer",
+  "country": "France",
+  "events": [
+   {
+    "name": "D-Day Festival Normandy",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually late May to mid-June around the 6 June D-Day anniversary; 2026 edition (82nd anniversary) runs 30 May - 14 June 2026 across all landing beaches including Omaha Beach",
+    "date": "",
+    "blurb": "Region-wide festival commemorating the 1944 Allied landings, with ceremonies, reenactment camps, period-vehicle parades and concerts staged on the D-Day beaches from Utah to Sword, including the Omaha Beach sector at Saint-Laurent-sur-Mer and Vierville-sur-Mer.",
+    "source_url": "https://www.normandie-tourisme.fr",
+    "image_url": ""
+   },
+   {
+    "name": "D-Day Anniversary Ceremony at the Normandy American Cemetery",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 6 June at the Normandy American Cemetery, Colleville-sur-Mer, just above Omaha Beach; 2026 marks the 82nd anniversary",
+    "date": "2026-06-06",
+    "blurb": "Official ceremony honoring the American servicemen who died in the Normandy landings, held at the Normandy American Cemetery overlooking Omaha Beach, drawing veterans, officials and families each 6 June.",
+    "source_url": "https://www.abmc.gov/event/normandy-american-cemetery-82nd-anniversary-of-the-d-day-landings/",
+    "image_url": ""
+   },
+   {
+    "name": "Memorial Day Ceremony at the Normandy American Cemetery",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on the U.S. Memorial Day weekend (late May) at the Normandy American Cemetery, Colleville-sur-Mer; held 24 May in 2026",
+    "date": "",
+    "blurb": "American Battle Monuments Commission Memorial Day observance honoring U.S. service members buried at the Normandy American Cemetery above Omaha Beach, attended by U.S. and French military, veterans and the local community.",
+    "source_url": "https://www.abmc.gov",
+    "image_url": ""
+   },
+   {
+    "name": "Omaha Village (Le Village d'Omaha)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually over the D-Day anniversary weekend in early June at Vierville-sur-Mer / Omaha Beach Campground; 2026 edition around 4-7 June",
+    "date": "",
+    "blurb": "D-Day commemorative event organized by the D-Day Omaha Museum and the Omaha Beach campground, featuring period-vehicle parades, dynamic military demonstrations, torchlight marches, concerts and fireworks near Omaha Beach.",
+    "source_url": "https://www.campingomaha.fr",
+    "image_url": ""
+   },
+   {
+    "name": "Omaha Beach Picnic and Fireworks (Saint-Laurent-sur-Mer)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 6 June evening at Saint-Laurent-sur-Mer on Omaha Beach; 2026 from about 7:30 p.m. to 11:30 p.m.",
+    "date": "2026-06-06",
+    "blurb": "Large seaside picnic on Omaha Beach at Saint-Laurent-sur-Mer with live concerts and a fireworks display, held each year on the evening of the D-Day anniversary.",
+    "source_url": "",
+    "image_url": ""
+   },
+   {
+    "name": "Bedford Boys Tribute Ceremony",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 6 June at Vierville-sur-Mer, within the D-Day Festival",
+    "date": "2026-06-06",
+    "blurb": "Ceremony at Vierville-sur-Mer paying tribute to the 19 soldiers from Bedford, Virginia, all killed on Omaha Beach on D-Day, 6 June 1944.",
+    "source_url": "",
+    "image_url": ""
+   },
+   {
+    "name": "Omaha Festiv'",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (traditionally August) at Vierville-sur-Mer, the rock festival of Omaha Beach",
+    "date": "",
+    "blurb": "Open-air rock music festival staged facing the sea at Vierville-sur-Mer on Omaha Beach, featuring local and regional bands with on-site catering.",
+    "source_url": "https://www.infoconcert.com/festival/omaha-festiv-8767/concerts.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "juno-beach": {
+  "beach": "Courseulles-sur-Mer",
+  "town": "Courseulles-sur-Mer",
+  "country": "France",
+  "events": [
+   {
+    "name": "D-Day Canadian Commemorative Ceremony at the Juno Beach Centre",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 6 June; 2026 ceremony on 6 June at 09:30 on the Garth Webb Esplanade",
+    "date": "2026-06-06",
+    "blurb": "Annual ceremony at the Juno Beach Centre on Juno Beach honouring D-Day and the Battle of Normandy, with Canadian official attendance. Part of the wider 6 June commemorations on the Normandy landing beaches.",
+    "source_url": "https://www.junobeach.org/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Mer (Sea Festival) of Courseulles-sur-Mer",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in August at the port and seafront; in recent years a memorial ceremony around 10 August plus a festive weekend in late August (23-24 Aug in 2025)",
+    "date": "",
+    "blurb": "Maritime festival celebrating Courseulles' fishing-port heritage, combining a solemn ceremony honouring sailors lost at sea with a festive weekend of concerts, stands and seafaring traditions at the marina and beach.",
+    "source_url": "https://www.coeurdenacretourisme.com/en/the-courseulles-sur-mer-sea-festival-a-blend-of-emotion-and-tradition/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival La Semaine Acadienne (Acadian Week)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in August across the Coeur de Nacre towns; 2026 edition (21st) from 7 to 15 August, including events at the Juno Beach Centre",
+    "date": "2026-08-07",
+    "blurb": "Cultural festival paying tribute to Acadian soldiers who landed in Normandy in 1944 and celebrating living Acadian culture, with concerts and events across Saint-Aubin-sur-Mer, Courseulles-sur-Mer and neighbouring towns.",
+    "source_url": "https://www.coeurdenacretourisme.com/offres/festival-la-semaine-acadienne-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Acadian Soldiers Tribute Ceremony at the Juno Beach Centre",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually during Acadian Week in August; 2026 ceremony on 10 August at 09:30",
+    "date": "2026-08-10",
+    "blurb": "Ceremony at the Juno Beach Centre honouring the Acadian soldiers who took part in the D-Day landings, held as part of the annual Semaine Acadienne festival.",
+    "source_url": "https://www.junobeach.org/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Janvier Musiq'Halle",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in January in Courseulles-sur-Mer; 2026 edition runs 10-31 January",
+    "date": "",
+    "blurb": "Winter music festival in Courseulles-sur-Mer showcasing local artists with concerts and live performances.",
+    "source_url": "https://www.courseulles-sur-mer.com/agenda/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sword-beach": {
+  "beach": "Ouistreham (Riva-Bella)",
+  "town": "Ouistreham (Riva-Bella)",
+  "country": "France",
+  "events": [
+   {
+    "name": "D-Day Festival Normandy",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually in early June around the 6 June D-Day anniversary; 2026 edition 1-14 June, with ceremonies and a vehicle parade through Sword Beach on 5 June",
+    "date": "2026-06-06",
+    "blurb": "Region-wide commemoration of the 1944 Allied landings spanning all five D-Day beaches including Sword Beach at Ouistreham/Colleville-Montgomery, with official ceremonies, vehicle parades, parachute drops, concerts and fireworks. 2026 marks the 82nd anniversary.",
+    "source_url": "https://www.caenlamer-tourisme.com/events/dday-festival-normandy/",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Musique (Music Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually on 21 June; 2026 on 21 June",
+    "date": "2026-06-21",
+    "blurb": "France's nationwide music day, celebrated in Ouistreham Riva-Bella with multiple open-air stages and free performances across the town.",
+    "source_url": "https://www.villa-andry.fr/en/news/events-ouistreham-caen-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Scallop and Seafood Festival (Fete de la Coquille)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in October; 2026 edition 17-18 October",
+    "date": "2026-10-17",
+    "blurb": "Seafood celebration at Ouistreham's port with a fish market, grilled scallop skewers and special seafood menus in local restaurants.",
+    "source_url": "https://www.villa-andry.fr/en/news/events-ouistreham-caen-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Les Terrasses Musicales (Musical Terraces)",
+    "type": "music",
+    "recurring": true,
+    "when": "every Tuesday during July and August each summer",
+    "date": "",
+    "blurb": "Series of free open-air evening concerts (jazz, pop, rock, world music) held on the seafront terraces of Ouistreham Riva-Bella throughout the summer.",
+    "source_url": "https://www.villa-andry.fr/en/news/events-ouistreham-caen-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Tous en Scene",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 20-21 March",
+    "date": "2026-03-20",
+    "blurb": "Two-day Ouistreham festival showcasing amateur and professional artistic practice with theatre, dance and live performances across the town's venues.",
+    "source_url": "https://www.villa-andry.fr/en/news/events-ouistreham-caen-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Normandy Beach Race",
+    "type": "sport",
+    "recurring": true,
+    "when": "biennial (every two years) in September on Riva-Bella beach; last held September 2025, next expected 2027 (no 2026 edition)",
+    "date": "",
+    "blurb": "Vintage motorsport festival on Riva-Bella beach in Ouistreham with races of pre-1947 motorcycles and cars, plus rockabilly concerts, a vintage village and 1940s-50s atmosphere. Held every two years; organisers warn there is no 2026 edition.",
+    "source_url": "https://www.festivalenfrance.com/en/festival/normandy-beach-race",
+    "image_url": ""
+   }
+  ]
+ },
+ "plages-du-prado": {
+  "beach": "Marseille",
+  "town": "Marseille",
+  "country": "France",
+  "events": [
+   {
+    "name": "Delta Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July on the Prado beaches; 2026 edition 23-26 July",
+    "date": "2026-07-23",
+    "blurb": "One of France's largest youth music festivals, held directly on the Prado beaches with 6 stages, pool parties and after-parties, drawing around 150,000 attendees. The 2026 edition has a Rio Carnival theme.",
+    "source_url": "https://delta-festival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Freestyle Cup Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in June on the Prado beach; 2026 edition 17-21 June",
+    "date": "2026-06-17",
+    "blurb": "A free open-air festival combining extreme and water sports, giant yoga sessions and DJ concerts on the sand at Prado beach, mixing sport and music in a summer beach atmosphere.",
+    "source_url": "https://www.freestylecup.fr/",
+    "image_url": ""
+   },
+   {
+    "name": "Mondial La Marseillaise a petanque",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early July at Parc Borely (near Prado beach); 2026 edition 3-8 July",
+    "date": "2026-07-03",
+    "blurb": "The world's largest petanque tournament, held at Parc Borely just inland from the Prado beaches. The 65th edition gathers around 13,000 players across all levels with free entry for spectators.",
+    "source_url": "https://mondiallamarseillaiseapetanque.com/",
+    "image_url": ""
+   },
+   {
+    "name": "La Marseillaise des Femmes",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring, starting on the Prado beaches; 2026 edition Sunday 10 May",
+    "date": "2026-05-10",
+    "blurb": "A women's running event held since 2010, with an accessible 5.4 km course combining the Prado beaches, Parc Borely and Avenue du Prado. The 16th edition starts at 9:00 AM on the Prado beaches.",
+    "source_url": "https://www.lamarseillaisedesfemmes.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Marsatac Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer at Parc Borely (near Prado beach); 2026 edition 11-13 June",
+    "date": "2026-06-11",
+    "blurb": "A long-running urban and electronic music festival held at Parc Borely, near the Prado beaches, featuring hip-hop, electro and contemporary music acts over several days.",
+    "source_url": "https://www.marsatac.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually on 21 June across Marseille",
+    "date": "2026-06-21",
+    "blurb": "France's nationwide music celebration, with free concerts and street performances staged throughout Marseille on the summer solstice.",
+    "source_url": "https://www.marseille-tourisme.com/en/",
+    "image_url": ""
+   }
+  ]
+ }
+}

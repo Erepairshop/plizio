@@ -1,0 +1,102 @@
+[
+ {
+  "slug": "pelgurand",
+  "name": "Pelgurand",
+  "qid": "Q23890594",
+  "coord": "Point(24.68406 59.44234)",
+  "sitelinks": 4,
+  "file": "ee-beach-pelgurand.webp",
+  "commons_file": "Stroomi beach at sunset.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "parnu-beach",
+  "name": "Pärnu Beach",
+  "qid": "Q21694719",
+  "coord": "Point(24.495277777 58.374166666)",
+  "sitelinks": 4,
+  "file": "ee-beach-parnu-beach.webp",
+  "commons_file": "Pärnu Beach in May.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pikakari-beach",
+  "name": "Pikakari Beach",
+  "qid": "Q16410345",
+  "coord": "Point(24.722488888 59.473872222)",
+  "sitelinks": 3,
+  "file": "ee-beach-pikakari-beach.webp",
+  "commons_file": "Paljassare beach.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "aa-beach",
+  "name": "Aa Beach",
+  "qid": "Q14948300",
+  "coord": "Point(27.148933 59.437722)",
+  "sitelinks": 2,
+  "file": "ee-beach-aa-beach.webp",
+  "commons_file": "Aa rand 2008 3.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pirita-beach",
+  "name": "Pirita Beach",
+  "qid": "Q21635499",
+  "coord": "Point(24.835127777 59.477347222)",
+  "sitelinks": 2,
+  "file": "ee-beach-pirita-beach.webp",
+  "commons_file": "Pirita beach 7759546582.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kalarand",
+  "name": "Kalarand",
+  "qid": "Q61388864",
+  "coord": "Point(24.745322222 59.44845)",
+  "sitelinks": 2,
+  "file": "ee-beach-kalarand.webp",
+  "commons_file": "Kalarand in Tallinn, 19.04.2019.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "narva-joesuu-beach",
+  "name": "Narva-Jõesuu Beach",
+  "qid": "Q64831124",
+  "coord": "",
+  "sitelinks": 2,
+  "file": "ee-beach-narva-joesuu-beach.webp",
+  "commons_file": "Ust-Narva-15.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kassari-beach",
+  "name": "Kassari beach",
+  "qid": "Q113145689",
+  "coord": "Point(22.8249506 58.7788553)",
+  "sitelinks": 2,
+  "file": "ee-beach-kassari-beach.webp",
+  "commons_file": "Kassari supluskoht (beach), Kassari, Hiiumaa, Estonsko 01.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kabli-beach",
+  "name": "Kabli Beach",
+  "qid": "Q113483499",
+  "coord": "Point(24.4468189 58.0139878)",
+  "sitelinks": 2,
+  "file": "ee-beach-kabli-beach.webp",
+  "commons_file": "Bludné balvany, Kabli rand (pláž), pobřeží Baltského moře, Kabli, Estonsko.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "paralepa-beach",
+  "name": "Paralepa Beach",
+  "qid": "Q31275115",
+  "coord": "Point(23.5167 58.9431)",
+  "sitelinks": 1,
+  "file": "ee-beach-paralepa-beach.webp",
+  "commons_file": "Хаапсалу. Панорама. Фото Виктора Белоусова. - panoramio (5).jpg",
+  "credit": {}
+ }
+]

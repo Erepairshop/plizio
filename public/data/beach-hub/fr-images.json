@@ -1,0 +1,502 @@
+[
+ {
+  "slug": "omaha-beach",
+  "name": "Omaha Beach",
+  "qid": "Q464257",
+  "coord": "Point(-0.868611111 49.368888888)",
+  "sitelinks": 42,
+  "file": "fr-beach-omaha-beach.webp",
+  "commons_file": "1944 NormandyLST.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "utah-beach",
+  "name": "Utah Beach",
+  "qid": "Q757273",
+  "coord": "Point(-1.174722222 49.415833333)",
+  "sitelinks": 34,
+  "file": "fr-beach-utah-beach.webp",
+  "commons_file": "Landings on Utah beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "juno-beach",
+  "name": "Juno Beach",
+  "qid": "Q832409",
+  "coord": "Point(-0.415277777 49.335277777)",
+  "sitelinks": 30,
+  "file": "fr-beach-juno-beach.webp",
+  "commons_file": "Kanadische Truppen landen in der Normandie.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sword-beach",
+  "name": "Sword Beach",
+  "qid": "Q1138519",
+  "coord": "Point(-0.321111111 49.306388888)",
+  "sitelinks": 28,
+  "file": "fr-beach-sword-beach.webp",
+  "commons_file": "Infantry waiting to move off 'Queen White' Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gold-beach",
+  "name": "Gold Beach",
+  "qid": "Q745883",
+  "coord": "Point(-0.571666666 49.345277777)",
+  "sitelinks": 27,
+  "file": "fr-beach-gold-beach.webp",
+  "commons_file": "The British Army in the Normandy Campaign 1944 B5128.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plages-du-prado",
+  "name": "Plages du Prado",
+  "qid": "Q2037477",
+  "coord": "Point(5.371388888 43.262777777)",
+  "sitelinks": 13,
+  "file": "fr-beach-plages-du-prado.webp",
+  "commons_file": "Mistral gagnant Plages du Prado, Marseille.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pompierre-beach",
+  "name": "Pompierre Beach",
+  "qid": "Q3390856",
+  "coord": "Point(-61.5708 15.8719)",
+  "sitelinks": 5,
+  "file": "fr-beach-pompierre-beach.webp",
+  "commons_file": "PlagePompierre.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-clugny",
+  "name": "Plage de Clugny",
+  "qid": "Q24874504",
+  "coord": "Point(-61.75381 16.35364)",
+  "sitelinks": 5,
+  "file": "fr-beach-plage-de-clugny.webp",
+  "commons_file": "Plage de Cluny, Ste-Rose, Guadeloupe.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "grande-anse",
+  "name": "Grande Anse",
+  "qid": "Q3390845",
+  "coord": "Point(-61.7944 16.3069)",
+  "sitelinks": 4,
+  "file": "fr-beach-grande-anse.webp",
+  "commons_file": "Plage de la perle.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "palombaggia",
+  "name": "Palombaggia",
+  "qid": "Q3361665",
+  "coord": "Point(9.32583333 41.55805556)",
+  "sitelinks": 4,
+  "file": "fr-beach-palombaggia.webp",
+  "commons_file": "Aerial view of Palombaggia Beach, Corsica, France (52724214180).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-des-raisins-clairs",
+  "name": "Plage des Raisins Clairs",
+  "qid": "Q24854841",
+  "coord": "Point(-61.2839 16.2488)",
+  "sitelinks": 4,
+  "file": "fr-beach-plage-des-raisins-clairs.webp",
+  "commons_file": "Plage des Raisins Clairs à Saint-François.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-la-chambre-d-amour-anglet",
+  "name": "Plage de la Chambre d'Amour, Anglet",
+  "qid": "Q2948420",
+  "coord": "Point(-1.5474 43.494)",
+  "sitelinks": 3,
+  "file": "fr-beach-plage-de-la-chambre-d-amour-anglet.webp",
+  "commons_file": "Panorama ANGLET.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "grande-anse-reunion",
+  "name": "Grande Anse, Réunion",
+  "qid": "Q3114891",
+  "coord": "Point(55.5469 -21.3689)",
+  "sitelinks": 3,
+  "file": "fr-beach-grande-anse-reunion.webp",
+  "commons_file": "Plage de Grand-anse.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "la-franqui",
+  "name": "La Franqui",
+  "qid": "Q3209242",
+  "coord": "Point(3.032772 42.933679)",
+  "sitelinks": 3,
+  "file": "fr-beach-la-franqui.webp",
+  "commons_file": "Leucate-La Franqui (Aude), view from the cliffs.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "espiguette",
+  "name": "Espiguette",
+  "qid": "Q3393664",
+  "coord": "Point(4.12 43.5)",
+  "sitelinks": 3,
+  "file": "fr-beach-espiguette.webp",
+  "commons_file": "LeGrau5.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-sainte-marguerite",
+  "name": "plage de Sainte-Marguerite",
+  "qid": "Q23013104",
+  "coord": "Point(-2.31003 47.2407)",
+  "sitelinks": 3,
+  "file": "fr-beach-plage-de-sainte-marguerite.webp",
+  "commons_file": "Sainte marguerite.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-du-port-vieux-biarritz",
+  "name": "Plage du port Vieux, Biarritz",
+  "qid": "Q25478643",
+  "coord": "Point(-1.568056 43.4825)",
+  "sitelinks": 3,
+  "file": "fr-beach-plage-du-port-vieux-biarritz.webp",
+  "commons_file": "Plage du Port Vieux de Biarritz.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-des-salines",
+  "name": "Plage des Salines",
+  "qid": "Q539499",
+  "coord": "Point(-60.879505 14.40372)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-des-salines.webp",
+  "commons_file": "Martinique Beach (Salines).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "baie-des-tortues",
+  "name": "Baie des Tortues",
+  "qid": "Q2879767",
+  "coord": "Point(165.454456 -21.60643)",
+  "sitelinks": 2,
+  "file": "fr-beach-baie-des-tortues.webp",
+  "commons_file": "201 au 28 -07-2004 553.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "saleccia-beach",
+  "name": "Saleccia beach",
+  "qid": "Q3390865",
+  "coord": "Point(9.20474 42.72646)",
+  "sitelinks": 2,
+  "file": "fr-beach-saleccia-beach.webp",
+  "commons_file": "Plage de Saleccia .jpg",
+  "credit": {}
+ },
+ {
+  "slug": "la-souris-chaude",
+  "name": "La Souris Chaude",
+  "qid": "Q3390869",
+  "coord": "Point(55.2578 -21.1183)",
+  "sitelinks": 2,
+  "file": "fr-beach-la-souris-chaude.webp",
+  "commons_file": "La Souris Chaude.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-la-grande-conche",
+  "name": "Plage de la Grande-Conche",
+  "qid": "Q3390870",
+  "coord": "Point(-1.01486 45.6169)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-la-grande-conche.webp",
+  "commons_file": "2001-12-Royan-Plage.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-la-vieille-eglise",
+  "name": "Plage de la Vieille église",
+  "qid": "Q3390871",
+  "coord": "Point(-1.75139 49.3817)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-la-vieille-eglise.webp",
+  "commons_file": "Cap-Carteret-plage-Cotentin.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-des-libraires",
+  "name": "plage des Libraires",
+  "qid": "Q3390878",
+  "coord": "Point(-2.35034 47.2684)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-des-libraires.webp",
+  "commons_file": "La plage des Libraires et le boulevard des Océanides à Pornichet.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plages-de-montsarrac",
+  "name": "Plages de Montsarrac",
+  "qid": "Q3390889",
+  "coord": "Point(-2.72892 47.59457)",
+  "sitelinks": 2,
+  "file": "fr-beach-plages-de-montsarrac.webp",
+  "commons_file": "People at plage de la Villeneuve.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "le-minou",
+  "name": "Le Minou",
+  "qid": "Q6507276",
+  "coord": "Point(-4.6158 48.33911)",
+  "sitelinks": 2,
+  "file": "fr-beach-le-minou.webp",
+  "commons_file": "Fort du Minou.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "ondarraitz-beach",
+  "name": "Ondarraitz beach",
+  "qid": "Q12265166",
+  "coord": "Point(-1.778616 43.374047)",
+  "sitelinks": 2,
+  "file": "fr-beach-ondarraitz-beach.webp",
+  "commons_file": "Ondarraitz hondartza.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-bois-jolan",
+  "name": "Plage de Bois Jolan",
+  "qid": "Q17175015",
+  "coord": "Point(-61.3575 16.2351)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-bois-jolan.webp",
+  "commons_file": "Sainte-Anne (Guadeloupe) - Flickr - sybarite48.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "grande-plage-de-houat",
+  "name": "Grande plage de Houat",
+  "qid": "Q17347179",
+  "coord": "Point(-2.94806 47.3897)",
+  "sitelinks": 2,
+  "file": "fr-beach-grande-plage-de-houat.webp",
+  "commons_file": "Plage Gouret Houat.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "plage-du-salus",
+  "name": "Plage du Salus",
+  "qid": "Q17347180",
+  "coord": "Point(-2.95667 47.3825)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-du-salus.webp",
+  "commons_file": "Houat Salus.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "valentin-beach",
+  "name": "Valentin beach",
+  "qid": "Q21177146",
+  "coord": "Point(-2.494597 47.277951)",
+  "sitelinks": 2,
+  "file": "fr-beach-valentin-beach.webp",
+  "commons_file": "Batz-sur-mer plage Valentin 2.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-port-lin",
+  "name": "Plage de Port Lin",
+  "qid": "Q21552927",
+  "coord": "Point(-2.51257 47.283882)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-port-lin.webp",
+  "commons_file": "Plage de Port Lin 01.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-la-mine-d-or",
+  "name": "plage de la Mine d'Or",
+  "qid": "Q23927489",
+  "coord": "Point(-2.489682 47.475017)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-la-mine-d-or.webp",
+  "commons_file": "Plage de la Mine d'or Pénestin n°1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-roseau",
+  "name": "Plage de Roseau",
+  "qid": "Q24854861",
+  "coord": "Point(-61.558888888 16.093333333)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-roseau.webp",
+  "commons_file": "Plage de Roseau.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-viard",
+  "name": "Plage de Viard",
+  "qid": "Q24854959",
+  "coord": "Point(-61.58506 16.16678)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-viard.webp",
+  "commons_file": "La plage de Viard et la pointe la Rose.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-trez-goarem",
+  "name": "Plage de Trez-Goarem",
+  "qid": "Q26257939",
+  "coord": "Point(-4.5957 48.01279)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-trez-goarem.webp",
+  "commons_file": "Plage de Trez-Goarem 3.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cote-des-basques-biarritz",
+  "name": "Côte des Basques, Biarritz",
+  "qid": "Q25473942",
+  "coord": "Point(-1.568556 43.474897)",
+  "sitelinks": 2,
+  "file": "fr-beach-cote-des-basques-biarritz.webp",
+  "commons_file": "Plage Cote Basques.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "milady-beach",
+  "name": "Milady Beach",
+  "qid": "Q25478634",
+  "coord": "Point(-1.575556 43.464444)",
+  "sitelinks": 2,
+  "file": "fr-beach-milady-beach.webp",
+  "commons_file": "Biarritz-Plage de la Milady-20201016.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-du-diamant",
+  "name": "Plage du Diamant",
+  "qid": "Q28952414",
+  "coord": "Point(-61.0315 14.4776)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-du-diamant.webp",
+  "commons_file": "Morne larcher.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "anse-corps-de-garde",
+  "name": "Anse Corps de Garde",
+  "qid": "Q28952417",
+  "coord": "Point(-60.9422 14.4659)",
+  "sitelinks": 2,
+  "file": "fr-beach-anse-corps-de-garde.webp",
+  "commons_file": "Plage de Corps de Garde.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "anse-mabouya",
+  "name": "Anse Mabouya",
+  "qid": "Q28952420",
+  "coord": "Point(-60.9577 14.4681)",
+  "sitelinks": 2,
+  "file": "fr-beach-anse-mabouya.webp",
+  "commons_file": "Anse Mabouya vue coté sud.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plages-de-moya",
+  "name": "Plages de Moya",
+  "qid": "Q31996210",
+  "coord": "Point(45.29567 -12.78171)",
+  "sitelinks": 2,
+  "file": "fr-beach-plages-de-moya.webp",
+  "commons_file": "Moya Beach (10029931635).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-des-catalans",
+  "name": "Plage des Catalans",
+  "qid": "Q42727222",
+  "coord": "Point(5.35542 43.2907)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-des-catalans.webp",
+  "commons_file": "La plage des catalans, Marseille - panoramio (2).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "grande-plage-biarritz",
+  "name": "Grande Plage, Biarritz",
+  "qid": "Q49320843",
+  "coord": "Point(-1.55897 43.48466)",
+  "sitelinks": 2,
+  "file": "fr-beach-grande-plage-biarritz.webp",
+  "commons_file": "00 1767 Grande Plage, Biarritz.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gigaro-beach",
+  "name": "Gigaro Beach",
+  "qid": "Q49322593",
+  "coord": "Point(6.5975 43.1844)",
+  "sitelinks": 2,
+  "file": "fr-beach-gigaro-beach.webp",
+  "commons_file": "Aerial view of Gigaro Beach in La Croix-Valmer, France (52723801211).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-l-eventail",
+  "name": "Plage de l'Éventail",
+  "qid": "Q49322615",
+  "coord": "Point(-2.0232 48.6528)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-l-eventail.webp",
+  "commons_file": "Plage de l'Eventail.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-la-madrague-anglet",
+  "name": "Plage de la Madrague, Anglet",
+  "qid": "Q49322635",
+  "coord": "Point(-1.5348 43.51104)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-la-madrague-anglet.webp",
+  "commons_file": "Anglet-Plage de la Madrague VS-20121028.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "lozari-beach",
+  "name": "Lozari Beach",
+  "qid": "Q49322652",
+  "coord": "Point(9.01626 42.64154)",
+  "sitelinks": 2,
+  "file": "fr-beach-lozari-beach.webp",
+  "commons_file": "Lozari Beach, Corsica, France (52724299758).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-piemanson",
+  "name": "Plage de Piémanson",
+  "qid": "Q49322663",
+  "coord": "Point(4.78489 43.34796)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-piemanson.webp",
+  "commons_file": "Plage de Piemanson.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "plage-de-donnant",
+  "name": "Plage de Donnant",
+  "qid": "Q49322670",
+  "coord": "Point(-3.23625 47.32605)",
+  "sitelinks": 2,
+  "file": "fr-beach-plage-de-donnant.webp",
+  "commons_file": "Plage de Donnant - dsmm05333.jpg",
+  "credit": {}
+ }
+]

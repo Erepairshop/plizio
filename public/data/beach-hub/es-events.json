@@ -1,0 +1,2982 @@
+{
+ "as-catedrais-beach": {
+  "beach": "Ribadeo",
+  "town": "Ribadeo",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Ribadeo Indiano",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, second weekend of July; 2026 edition (XI) 10-12 July",
+    "date": "2026-07-10",
+    "blurb": "Historical reenactment that transforms Ribadeo into an early-20th-century town themed around emigration to the Americas, with a costumed 'Mercado de Ultramar', concerts, exhibitions and street ambiance.",
+    "source_url": "https://www.ribadeo.gal/es/presentado-el-cartel-del-xi-ribadeo-indiano-que-tendra-lugar-del-10-al-12-de-julio/",
+    "image_url": ""
+   },
+   {
+    "name": "Vendaval Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July (typically 24-25 July)",
+    "date": "",
+    "blurb": "Two-day rock and punk music festival held in Ribadeo, gathering Galician and national bands.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/vendaval-fest-ribadeo-33080.html",
+    "image_url": ""
+   },
+   {
+    "name": "San Roque Festival (Fiestas de San Roque)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 14-16 August (main day 16 August)",
+    "date": "2026-08-16",
+    "blurb": "Festival honoring Ribadeo's co-patron saint in the San Roque chapel, with mass, a procession featuring the traditional 'Cocos' and 'Cabezudos' giant figures, a municipal band concert and festivities until dawn.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/san-roque-ribadeo-5211.html",
+    "image_url": ""
+   },
+   {
+    "name": "Santa Maria del Campo Patron Saint Festivities (Semana Grande)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 8 September",
+    "date": "2026-09-08",
+    "blurb": "Ribadeo's main patronal week with religious ceremonies, concerts, children's shows, parades and outdoor parties throughout the town.",
+    "source_url": "https://turismoribadeo.gal/en/plan-your-trip/festivals-and-events/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa do Percebe de Rinlo (Goose Barnacle Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually late July or early August, in the village of Rinlo",
+    "date": "",
+    "blurb": "Gastronomy festival in the nearby fishing village of Rinlo celebrating the prized local 'percebe' (goose barnacle) with tastings and maritime festivities.",
+    "source_url": "https://turismoribadeo.gal/en/plan-your-trip/festivals-and-events/",
+    "image_url": ""
+   },
+   {
+    "name": "Ribadeo de Tapeo",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually during the third and fourth weeks of May",
+    "date": "",
+    "blurb": "Gastronomic tapas competition in which local bars and restaurants offer creative small dishes made with local ingredients.",
+    "source_url": "https://turismoribadeo.gal/en/plan-your-trip/festivals-and-events/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta do Carmen (Maritime Procession)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually mid-July, around 16 July",
+    "date": "",
+    "blurb": "Maritime festival honoring the Virgen del Carmen, patron of sailors, with a sea procession of decorated boats from Ribadeo's harbour.",
+    "source_url": "https://turismoribadeo.gal/en/plan-your-trip/festivals-and-events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "costa-del-maresme": {
+  "beach": "Mataró",
+  "town": "Mataró",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Les Santes (Festa Major de Mataró)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-to-late July; 2026 edition runs 17-29 July, main day 27 July",
+    "date": "2026-07-27",
+    "blurb": "Mataró's main city festival in honour of patron saints Santa Juliana and Santa Semproniana, declared a Festival of National Heritage Interest. Includes the giant parade, the Nit Boja fire run, castellers (human towers) and the Els Focs pyromusical fireworks show, with a final fireworks display over the sea closing the festival.",
+    "source_url": "https://www.lessantes.cat/",
+    "image_url": ""
+   },
+   {
+    "name": "Els Focs de Les Santes",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on the main day of Les Santes, the night of 27 July",
+    "date": "2026-07-27",
+    "blurb": "The great pyromusical fireworks and pyrotechnic show that is the emotional climax of Mataró's Les Santes festival, staged at night and combining fireworks with music.",
+    "source_url": "https://www.festivalesdeespana.com/en/festival/els-focs-de-les-santes-mataro-city",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Gastronòmica de la Coca de Llavaneres",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in October at Parc de Ca l'Alfaro, Sant Andreu de Llavaneres; 2026 edition 4-5 October",
+    "date": "2026-10-04",
+    "blurb": "Gastronomic festival in nearby Sant Andreu de Llavaneres celebrating the local 'coca' pastry, with tastings and sales from local bakers in Parc de Ca l'Alfaro.",
+    "source_url": "https://ajllavaneres.cat/coca25",
+    "image_url": ""
+   },
+   {
+    "name": "Festa del Pèsol Garrofal de Llavaneres (Garrofal Pea Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in spring at Parc de Ca l'Alfaro, Sant Andreu de Llavaneres; 2026 main day 11 April with a gastronomic showcase in restaurants from late March to late April",
+    "date": "2026-04-11",
+    "blurb": "Gastronomy festival in Sant Andreu de Llavaneres dedicated to the local Garrofal pea (pèsol garrofal), a prized regional product, with a festival day of tastings and family activities plus a restaurant showcase menu over several weeks.",
+    "source_url": "https://ajllavaneres.cat/pesol26",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major d'Hivern de Sant Andreu de Llavaneres (Saint Andrew's Day)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 30 November (Saint Andrew's Day)",
+    "date": "2026-11-30",
+    "blurb": "The winter patron-saint festival of Sant Andreu de Llavaneres, a more modest celebration including the switching-on of the Christmas lights, choir concerts, a winter market and children's activities.",
+    "source_url": "https://ajllavaneres.cat/document.php?id=23661",
+    "image_url": ""
+   }
+  ]
+ },
+ "ondarreta-beach": {
+  "beach": "San Sebastián (Donostia)",
+  "town": "San Sebastián (Donostia)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Tamborrada (San Sebastián Day Drum Festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 20 January (24 hours from midnight on 19-20 Jan)",
+    "date": "2026-01-20",
+    "blurb": "San Sebastián's biggest festival. For 24 hours from midnight, over 100 drum companies and some 15,000 locals in soldier and chef costumes parade through the city playing the March of San Sebastián.",
+    "source_url": "https://sansebastianturismoa.eus/en/culture-en/461-san-sebastian-day-the-tamborrada-drum-parade/",
+    "image_url": ""
+   },
+   {
+    "name": "Jazzaldia (San Sebastián International Jazz Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late July; 2026 edition 22-26 July",
+    "date": "2026-07-22",
+    "blurb": "One of Europe's oldest jazz festivals, held since 1966 with free and ticketed concerts across the city, including stages near La Concha bay and the Kursaal Centre.",
+    "source_url": "https://www.jazzaldia.eus/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Quincena Musical (San Sebastián Music Fortnight)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August; 2026 (87th edition) 2-30 August",
+    "date": "2026-08-02",
+    "blurb": "Spain's oldest classical music and opera festival, founded 1939. The 2026 edition features Juan Diego Flórez, Grigory Sokolov and the Mahler Chamber Orchestra across venues including the Kursaal and Miramar Palace.",
+    "source_url": "https://www.quincenamusical.eus/es/",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Grande (Aste Nagusia / Grand Week)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in mid-August around Assumption Day; 2026 edition approx. 8-15 August",
+    "date": "2026-08-08",
+    "blurb": "San Sebastián's main summer fiesta week with daily international fireworks competitions over La Concha bay, regattas, Basque rural sports, concerts and street celebrations.",
+    "source_url": "https://www.spain.info/en/calendar/semana-grande-san-sebastian/",
+    "image_url": ""
+   },
+   {
+    "name": "San Sebastián International Film Festival (Zinemaldia)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September; 2026 (74th edition) 18-26 September",
+    "date": "2026-09-18",
+    "blurb": "A category-A international film festival, one of the most prestigious in the world, awarding the Golden Shell. Held mainly at the Kursaal Centre and Victoria Eugenia Theatre.",
+    "source_url": "https://www.sansebastianfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Donostia-San Sebastián Human Rights Film Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in spring (around April)",
+    "date": "",
+    "blurb": "Annual film festival with screenings, exhibitions and talks raising awareness of human rights and social issues, held in San Sebastián.",
+    "source_url": "https://sansebastianhumanrightsfilmfestival.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-las-canteras": {
+  "beach": "Las Palmas de Gran Canaria",
+  "town": "Las Palmas de Gran Canaria",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Noche de San Juan (St John's Eve) at Las Canteras Beach",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23 June; 2026 edition 23 June 2026",
+    "date": "2026-06-23",
+    "blurb": "Las Palmas' biggest beach night, celebrating the summer solstice and the city's founding. Up to 80,000-100,000 people gather on Las Canteras for a midnight sea dip and a fireworks display over the water (open bonfires are banned to protect the marine ecosystem), with live music along the promenade.",
+    "source_url": "https://www.engelvoelkers.com/es/en/resources/regional/san-juan-night-2025-las-palmas",
+    "image_url": ""
+   },
+   {
+    "name": "Carnival of Las Palmas de Gran Canaria",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually January-February/early March; 2026 edition (50th anniversary, theme 'Las Vegas') runs 24 January to 1 March 2026, closing with the Burial of the Sardine on Las Canteras beach on 1 March",
+    "date": "2026-03-01",
+    "blurb": "One of Spain's most spectacular carnivals, with the Queen's Gala, Drag Queen Gala, murgas contests and grand street parades centred on Santa Catalina Park. The festivities famously close with the 'Burial of the Sardine', a parade ending at Las Canteras beach where the giant sardine effigy is burned.",
+    "source_url": "https://lpacarnaval.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Las Palmas de Gran Canaria International Film Festival (LPA Film Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in spring; 2026 (24th edition) held 25 April to 4 May 2026",
+    "date": "2026-04-25",
+    "blurb": "Long-running international film festival focusing on peripheral cinema from Asia, Latin America, Africa and Eastern Europe. Screenings take place at city venues such as the Monopol Multiplex, CICCA and the Guiniguada Theatre, near the Las Canteras area.",
+    "source_url": "https://www.lpafilmfestival.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Rally Islas Canarias (FIA World Rally Championship)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in April; 2026 edition 23-26 April 2026, with the ceremonial start at Plaza de Santa Ana, Las Palmas",
+    "date": "2026-04-23",
+    "blurb": "Round of the FIA World Rally Championship based in Gran Canaria. The ceremonial start is staged in the historic Vegueta quarter of Las Palmas, drawing crowds to the capital during the event.",
+    "source_url": "https://www.grancanaria.com/turismo/en/agenda/events-in-gran-canaria/",
+    "image_url": ""
+   },
+   {
+    "name": "Founding Festivities of Las Palmas de Gran Canaria",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually in June around the city's foundation date (24 June), with celebrations clustering around the San Juan period",
+    "date": "",
+    "blurb": "The capital marks the anniversary of its founding (San Juan) with civic acts, concerts and cultural programming across the city, culminating in the San Juan night celebrations on Las Canteras beach.",
+    "source_url": "https://www.grancanaria.com/turismo/en/agenda/events-in-gran-canaria/",
+    "image_url": ""
+   }
+  ]
+ },
+ "montalvo-beach": {
+  "beach": "Portonovo (Sanxenxo)",
+  "town": "Portonovo (Sanxenxo)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festas de San Roque (Portonovo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually mid-August (around 14-18 August); patron-saint festivities of Portonovo",
+    "date": "",
+    "blurb": "Portonovo's patron-saint festival held right next to Montalvo Beach, with a popular sardine feast, religious processions, the Virgen del Carmen maritime day, fireworks, funfair attractions and open-air orchestra dances by the fish market.",
+    "source_url": "https://zoompontevedra.es/es/eventos/fiestas-de-san-roque-2025-en-portonovo/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa da Raia (Portonovo Gastronómico)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annual gastronomic fair in Portonovo (recent editions held in autumn, late September to early October; some sources list early May)",
+    "date": "",
+    "blurb": "Maritime gastronomy festival in Portonovo's fishing port celebrating the local ray fish (raia), with tasting stands from around 20 restaurants, traditional music, dances and family activities along Rúa Rafael Picó and the seafront.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/portonovo-gastronomico-festa-da-raia-sanxenxo-1927.html",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas Patronales de Sanxenxo",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late August to early September, honouring San Xenxo, Santa Rosalía and the Virgen del Carmen",
+    "date": "",
+    "blurb": "The main patron-saint festivities of Sanxenxo town, a few kilometres from Montalvo Beach, featuring religious acts, processions, live music, traditional events and gastronomy over roughly two weeks.",
+    "source_url": "https://zoompontevedra.es/es/eventos/fiestas-patronales-de-sanxenxo-2025/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de la Ostra (Oyster Festival, A Lanzada)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually on the second Sunday of August, near the Ermita de A Lanzada",
+    "date": "",
+    "blurb": "Traditional oyster-tasting gastronomic festival held near the A Lanzada chapel in the Sanxenxo area, celebrating local shellfish with food stalls and festivities.",
+    "source_url": "https://www.destino.gal/es/fiestas-gastronomicas-sanxenxo",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de San Juan (Noche de San Xoán)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23-24 June (Midsummer)",
+    "date": "2026-06-23",
+    "blurb": "Midsummer Saint John's Eve celebration in the Sanxenxo area (O Santo and Aios) with traditional bonfires (cacharelas), gatherings and festivities on the night of 23-24 June.",
+    "source_url": "https://www.destino.gal/es/calendario-de-fiestas-populares-sanxenxo",
+    "image_url": ""
+   },
+   {
+    "name": "Trofeo Internacional de Piragüismo 'Vila de Portonovo'",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in mid-June; 2026 edition reported for 14 June",
+    "date": "2026-06-14",
+    "blurb": "International canoeing/kayaking trophy held in Portonovo, in the waters off the Sanxenxo coast near Montalvo Beach.",
+    "source_url": "https://ocioengalicia.com/pontevedra/sanxenxo/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sant-sebastia": {
+  "beach": "Barcelona (La Barceloneta)",
+  "town": "Barcelona (La Barceloneta)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festa Major de la Barceloneta",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late September to early October, around the feast of Sant Miquel (29 Sept); 2026 edition 26 Sept - 5 Oct",
+    "date": "",
+    "blurb": "The annual neighbourhood festival of the historic seafaring district of La Barceloneta, right beside Sant Sebastia beach, with giants and big-heads parades, correfoc fire runs, sardanas, havaneres, seaside concerts and seafood gastronomy.",
+    "source_url": "https://www.barcelona.cat/culturapopular/en/festivals-and-traditions/festa-major-de-la-barceloneta",
+    "image_url": ""
+   },
+   {
+    "name": "Revetlla i Nit de Sant Joan (Midsummer Night on the beach)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23-24 June (summer solstice)",
+    "date": "2026-06-23",
+    "blurb": "Barcelona's midsummer night, when the Barceloneta beaches fill with authorised bonfires, music, fireworks, cava and the traditional coca cake, plus a symbolic midnight swim in the sea.",
+    "source_url": "https://www.barcelonaturisme.com/wv3/en/agenda/14525/the-verbena-and-the-festival-of-san-juan.html",
+    "image_url": ""
+   },
+   {
+    "name": "Copa Nadal (Christmas Harbour Swim)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually on Christmas Day, 25 December, at noon",
+    "date": "2026-12-25",
+    "blurb": "Spain's oldest swimming race, held since 1908 by Club Natacio Barcelona. Swimmers cover about 200 metres in the cold open water of Barcelona's old harbour at Portal de la Pau, a short walk from Sant Sebastia beach.",
+    "source_url": "https://www.cnb.cat/en/copa-nadal",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de la Merce",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 24 September (feast of la Merce); 2026 edition 23-27 September",
+    "date": "",
+    "blurb": "Barcelona's biggest annual festival in honour of the city's patron, with around 500 activities including correfocs, castells (human towers), giants parades, free concerts and the closing Piromusical fireworks-and-music show. Guest city for 2026 is Manchester.",
+    "source_url": "https://www.barcelona.cat/lamerce/en",
+    "image_url": ""
+   },
+   {
+    "name": "Nadal al Port (Christmas at the Port)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually from late November through the Christmas / New Year season at Port Vell",
+    "date": "",
+    "blurb": "Barcelona's largest maritime Christmas festival at Port Vell, near Sant Sebastia beach, featuring nativity scenes, activities and shows; it also hosts the Copa Nadal Christmas swim on 25 December.",
+    "source_url": "https://spainvoyages.com/en/publications/news/nadal-al-port-2025-2026-is-barcelonas-largest-christmas-festival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-poniente-gijon": {
+  "beach": "Gijón",
+  "town": "Gijón",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Gijón Natural Cider Festival (Festival de la Sidra Natural) - Simultaneous Pouring World Record",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually late August; the festival runs roughly 22-31 August and the world-record simultaneous cider pour takes place on Playa de Poniente itself, usually the last Friday of August",
+    "date": "",
+    "blurb": "Asturias's flagship natural cider festival, whose most iconic moment is a Guinness World Record attempt for simultaneous cider pouring (escanciada simultánea) held directly on Playa de Poniente, with around 9,000+ participants pouring at once.",
+    "source_url": "https://www.turismoasturias.es/en/descubre/fiestas-de-interes-turistico/festival-de-la-sidra-natural-gijon",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Grande de Gijón (Big Week / Fiesta de Begoña)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 7-16 August, centred on the feast of the Virgin of Begoña (15 August); 2026 edition approx. 7-16 August",
+    "date": "",
+    "blurb": "Gijón's main civic festival with nearly ten days of concerts, parades, the International Bagpipes Festival and the famous Night of the Fires fireworks display over San Lorenzo bay, with stages set up around the city including the Poniente area.",
+    "source_url": "https://www.spain.info/en/calendar/dia-asturias-gijon/",
+    "image_url": ""
+   },
+   {
+    "name": "Noche de los Fuegos (Night of the Fires)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 14 August, during Semana Grande",
+    "date": "2026-08-14",
+    "blurb": "A spectacular fireworks display drawing tens of thousands of spectators to Gijón's bay, accompanied by orchestras performing at various points across the city including Poniente.",
+    "source_url": "https://gijon.semanagrande.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Negra de Gijón (Black Week)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early-to-mid July; 2026 edition 3-12 July",
+    "date": "2026-07-03",
+    "blurb": "A long-running ten-day literary and popular festival celebrating crime fiction, comics, concerts, exhibitions and a large fairground, held on Gijón's waterfront grounds.",
+    "source_url": "https://blog.telecable.es/fiestas-gijon/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Metrópoli Gijón",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late June to early July; 2026 edition 26 June - 5 July at Recinto Ferial Luis Adaro",
+    "date": "2026-06-26",
+    "blurb": "A large music, culture and entertainment festival with concerts (2026 line-up includes Loquillo, Gipsy Kings, M Clan, Taburete and others) plus comics, gaming, food trucks and a kids' area.",
+    "source_url": "https://metropoligijon.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Día de Asturias en Gijón (Asturias Day)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the first Sunday of August; 2026 falls on 2 August",
+    "date": "2026-08-02",
+    "blurb": "Regional celebration with a midday parade of bagpipe bands and folklore groups through Gijón, showcasing traditional Asturian music, dress and customs.",
+    "source_url": "https://www.spain.info/en/calendar/dia-asturias-gijon/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Aéreo de Gijón (Gijón Air Festival)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late July; 2026 edition 24-26 July over the bay",
+    "date": "2026-07-24",
+    "blurb": "A popular air show with aerobatic displays performed over Gijón's bay, watched by large crowds along the seafront and beaches.",
+    "source_url": "https://blog.telecable.es/fiestas-gijon/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-llombards-bay": {
+  "beach": "Es Llombards (Santanyí), Mallorca",
+  "town": "Es Llombards (Santanyí), Mallorca",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festa d'es Tondre (Sheep-Shearing Festival), Es Llombards",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the first Sunday of May, at the Ca'n Martina football ground in Es Llombards; 2026 edition held in early May",
+    "date": "2026-05-03",
+    "blurb": "Traditional Mallorcan rural festival in Es Llombards reviving old country life, centred on hand sheep-shearing with scissors, xeremiers (pipers), a street procession and popular folk games.",
+    "source_url": "https://fiestasbaleares.com/que-hacemos/festa-des-tondre-des-llombards/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Santo Domingo de Guzmán, Es Llombards summer festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in the first part of August (typically around 9-18 August) in Es Llombards / Cala Llombards",
+    "date": "",
+    "blurb": "Summer patron festivities of the village of Es Llombards in honour of Santo Domingo de Guzmán, with concerts, verbenas (street dance parties), themed nights and local celebrations near the beach.",
+    "source_url": "https://ajsantanyi.net/en/node/9263",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Jaume, Santanyí",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-July to early August (around 15 July - 4 August), with the main day on Sant Jaume, 25 July",
+    "date": "2026-07-25",
+    "blurb": "The main patron festival of Santanyí town honouring Saint James, running over a week with concerts, exhibitions, theatre, sport, fireworks, dimonis and caparrots parades and a traditional ball de bot folk dance in front of the town hall on 25 July.",
+    "source_url": "https://ajsantanyi.net/en/taxonomy/term/104",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Internacional de Música Vila de Santanyí",
+    "type": "music",
+    "recurring": true,
+    "when": "annually, six free concerts spread roughly one per month from May to October; 2026 edition (14th) runs May-October",
+    "date": "",
+    "blurb": "International classical, choral and lyrical music festival held in emblematic Santanyí-area venues (including the parish church of Sant Andreu, Cala Figuera and Cala d'Or). Free entry with advance reservation; 2026 features artists such as organist Ton Koopman and soprano Ofelia Sala.",
+    "source_url": "http://festivalmusicasantanyi.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Sa Fira de Santanyí (Santanyí Fair)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in late October over a weekend; recent editions held around 22-24 October",
+    "date": "",
+    "blurb": "Santanyí's traditional agricultural, livestock, craft and gastronomy fair with stalls of sobrasada, ensaimada, Mallorcan cheese, wine and herb liqueur, plus ball de bot folk dancing and live traditional music in the town square.",
+    "source_url": "https://www.ajsantanyi.net/en/node/7603",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Antoni celebrations, Santanyí and villages",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 16-17 January, including in Es Llombards, Cala Llombards and S'Almunia",
+    "date": "2026-01-17",
+    "blurb": "Traditional winter festival of Saint Anthony with bonfires (foguerons), roasting gatherings, music and the blessing of animals, celebrated across Santanyí's villages including Es Llombards and Cala Llombards.",
+    "source_url": "https://thecalendarmallorca.com/events/sant-antoni-2026-santanyi/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de San Cristóbal, Cala Santanyí",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in early July at the beach car park esplanade of Cala Santanyí",
+    "date": "",
+    "blurb": "Small summer seaside festivity held at Cala Santanyí, a neighbouring cove a few kilometres from Cala Llombards, with local festivities by the beach.",
+    "source_url": "https://www.seemallorca.com/santanyi/events/main",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-bogatell": {
+  "beach": "Barcelona (Poblenou)",
+  "town": "Barcelona (Poblenou)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festes de Maig del Poblenou",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually mid-May; 2026 edition 15-17 May",
+    "date": "2026-05-15",
+    "blurb": "Long-running neighbourhood spring festival on the Rambla del Poblenou (a few hundred metres from Playa de Bogatell) with an artisans and entities fair, the Poblenou Wine Festival, parades and popular culture activities.",
+    "source_url": "https://www.barcelona.cat/es/que-hacer-en-bcn/fiestas-mayores/festes-de-maig-del-poblenou-2026-99400225763",
+    "image_url": ""
+   },
+   {
+    "name": "Primavera Sound Barcelona",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early June; 2026 edition 4-6 June (opening day 3 June, Primavera Bits closing 7 June)",
+    "date": "2026-06-04",
+    "blurb": "Major international music festival held at Parc del Forum, roughly 1.5 km up the coast from Playa de Bogatell, drawing tens of thousands over three days with hundreds of artists.",
+    "source_url": "https://parcdelforum.barcelona/en/calendar/primavera-sound-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major del Poblenou",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually during the first half of September; runs roughly 10 days across two weekends",
+    "date": "",
+    "blurb": "Historic neighbourhood street festival (held since 1872) in Poblenou, the district directly behind Playa de Bogatell, with concerts, correfoc fire runs, traditional Catalan culture and a fireworks display on the beach.",
+    "source_url": "https://www.festamajorpoblenou.org/",
+    "image_url": ""
+   },
+   {
+    "name": "La Merce Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late September around the 24th (feast of Our Lady of Mercy); 2026 edition 23-27 September",
+    "date": "2026-09-23",
+    "blurb": "Barcelona's biggest annual city-wide festival honouring the city's patron saint, with around 500 activities including human towers, giants, correfocs, concerts and fireworks across the city, including the seafront.",
+    "source_url": "https://www.barcelona.cat/lamerce/en",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major de la Barceloneta",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late September into early October around Sant Miquel (29 Sept); 2026 edition 26 September - 5 October",
+    "date": "2026-09-26",
+    "blurb": "Maritime neighbourhood festival in Barceloneta (a few km down the coast) honouring Sant Miquel, with decorated streets, giants and big-heads, correfocs, sardanas, greasy poles at the port and seaside activities.",
+    "source_url": "https://irbarcelona.cat/festes-tradicions-catalunya/festa-major-barceloneta/",
+    "image_url": ""
+   }
+  ]
+ },
+ "platja-des-niu-blau": {
+  "beach": "Santa Eulària des Riu",
+  "town": "Santa Eulària des Riu",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Fiestas Patronales de Santa Eulària (Patron Saint Festivities)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 12 February (patron saint day), with a programme of ~150 events from early February to late March; 2026 main day 12 February, peak music days 13-15 February",
+    "date": "2026-02-12",
+    "blurb": "The town's main patron saint festival honouring Santa Eulària, with bell-ringing and mass at Puig de Missa, processions, traditional ball pagès dancing, more than 70 concerts, fairs and family activities.",
+    "source_url": "https://visitsantaeulalia.com/es/nueva-agenda/fiestas-de-santa-eularia-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de Mayo (May Festivities)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in May, centred on the first Sunday; 2026 programme of 80+ activities through the month, main day around 3 May",
+    "date": "",
+    "blurb": "Month-long celebration of Ibizan tradition with a solemn mass at Puig de Missa, traditional dancing with Colla Es Broll, street parades with floats and horses, plus cultural, sporting and family events.",
+    "source_url": "https://visitsantaeulalia.com/es/nueva-agenda/fiestas-de-mayo-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Hippy Market Punta Arabí (Es Caná)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "every Wednesday from April to October, 10:00-18:00",
+    "date": "",
+    "blurb": "Ibiza's oldest and largest hippy market, running since 1973 in Es Caná near the beaches of Cala Martina and Es Canar, with 500+ stalls of crafts, jewellery and fashion plus concerts, performances and a kids' area.",
+    "source_url": "https://www.hippymarket.info/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Santa Eulària Ibiza Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in April; 2026 edition Saturday 18 April",
+    "date": "2026-04-18",
+    "blurb": "Coastal running event starting and finishing in Santa Eulària des Riu with 42K, 22K and 12K distances along the town's seafront and surrounding area.",
+    "source_url": "https://ibizamarathon.es/en/home/",
+    "image_url": ""
+   },
+   {
+    "name": "Fira Gastronòmica del Gerret (Gerret Gastronomic Fair)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early March during the patron saint festivities; 2026 edition (10th) on 7 March",
+    "date": "2026-03-07",
+    "blurb": "Gastronomic fair celebrating the gerret, a small fish prized in Ibiza, with tastings of local dishes and live music in Santa Eulària.",
+    "source_url": "https://santaeulariadesriu.com/en/current-issues/news/11695-tradicion-cultura-y-mucha-musica-para-las-fiestas-de-santa-eularia-2026-eng",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Internacional de Teatre Infantil Barruguet (Barruguet Family Theatre Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May; 2026 edition (12th) 22-24 May",
+    "date": "2026-05-22",
+    "blurb": "Family and children's theatre festival staged in Santa Eulària des Riu, with 17 companies performing in its 2026 edition.",
+    "source_url": "https://visitsantaeulalia.com/es/nueva-agenda/fiestas-de-mayo-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "beach-of-a-lanzada": {
+  "beach": "O Grove",
+  "town": "O Grove",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Romaria de Nosa Senora da Lanzada (Festa da Lanzada)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually the last weekend of August, at the Romanesque chapel beside A Lanzada beach; 2026 edition late August",
+    "date": "",
+    "blurb": "Pilgrimage and religious festival held at the 12th-century Romanesque hermitage right on A Lanzada beach, drawing crowds from across the Salnes region. It is famous for the associated 'nine waves' fertility ritual.",
+    "source_url": "https://www.osalnes.com/es/descubre/cultura/fiestas-y-festivales/romeria-nuestra-senora-de-la-lanzada.html",
+    "image_url": ""
+   },
+   {
+    "name": "The Nine Waves Ritual (Ritual das Nove Ondas)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "performed on the night of San Juan (eve of 23-24 June) and the last Saturday of August, at midnight on A Lanzada beach",
+    "date": "",
+    "blurb": "An ancient fertility rite in which women wade into the sea beside the Lanzada chapel at midnight to be struck by nine consecutive waves, a tradition linked to pre-Christian cults and Celtic numerology.",
+    "source_url": "https://www.osalnes.com/en/discover/culture/legends/nine-waves-ritual-sanxenxo-and-o-grove.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festa do Marisco de O Grove (O Grove Seafood Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early October at Praza do Corgo, O Grove; 2026 edition 1-12 October",
+    "date": "2026-10-01",
+    "blurb": "Galicia's flagship seafood festival, held since 1963 and declared of International Tourist Interest, offering octopus, mussels, clams, scallops, barnacles and more at popular prices alongside music, bagpipe processions and cooking demonstrations.",
+    "source_url": "https://www.turismogrove.es/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Costa Feira",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid/late summer in Sanxenxo (Nantes business park); 2026 edition 25 July to 25 August",
+    "date": "2026-07-25",
+    "blurb": "Summer music festival in Sanxenxo mixing urban, pop, indie and electronic acts with a food-truck zone and nightly Bulla party. The 2026 line-up includes Nicky Jam, Loquillo, Taburete and others.",
+    "source_url": "https://costafeira.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-el-tarajal": {
+  "beach": "Ceuta",
+  "town": "Ceuta",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Fiestas Patronales en honor a Nuestra Señora de África (Patron Saint Festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually; novena 26 July to 3 August, flower offering 4 August, main feast day and procession 5 August",
+    "date": "2026-08-05",
+    "blurb": "Ceuta's main patron-saint celebration honouring Our Lady of Africa, with a nine-day novena, a large flower offering at Plaza de Africa, and a solemn procession through the city on 5 August.",
+    "source_url": "https://turismodeceuta.com/ceuta/conoce-ceuta/cuatro-culturas/la-patrona-de-ceuta/",
+    "image_url": ""
+   },
+   {
+    "name": "Feria de Ceuta",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in early August; 2026 edition 1-8 August",
+    "date": "2026-08-01",
+    "blurb": "Ceuta's annual summer fair, with casetas, music, attractions and festivities running through early August and culminating around the patron-saint feast day.",
+    "source_url": "https://www.ceutatv.com/articulo/sociedad/feria-ceuta-2026-celebrara-1-8-agosto-anuncia-gobierno/20251204130234228402.html",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Ceuta",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in February; 2026 edition 4-22 February, grand cabalgata 21 February, Entierro de la Caballa 22 February",
+    "date": "2026-02-21",
+    "blurb": "Ceuta's lively carnival featuring chirigota copla contests, costumed parades, the crowning of the Carnival Queen, a grand cabalgata and the traditional closing 'Burial of the Mackerel'.",
+    "source_url": "https://teleceuta.com/ceuta-ya-tiene-calendario-oficial-para-el-carnaval-2026-que-llenara-febrero-de-musica-color-y-tradicion/",
+    "image_url": ""
+   },
+   {
+    "name": "Europe Triathlon Cup Ceuta",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, typically early October (2023 edition 8 Oct, 2024 edition 6 Oct); 2026 date to be confirmed",
+    "date": "",
+    "blurb": "International ETU-sanctioned triathlon held in Ceuta, drawing elite and age-group athletes for swim, bike and run racing along the city's coastline.",
+    "source_url": "https://triathlon.org/events/2025-europe-triathlon-cup-ceuta",
+    "image_url": ""
+   },
+   {
+    "name": "Día de Ceuta (Day of the Independent City of Ceuta)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 2 September",
+    "date": "2026-09-02",
+    "blurb": "Local public holiday commemorating 2 September 1415, when Pedro de Menezes took control of the city; marked with official acts and a quiet civic celebration.",
+    "source_url": "https://www.timeanddate.com/holidays/spain/the-independent-city-ceuta-day",
+    "image_url": ""
+   },
+   {
+    "name": "Día de Nuestra Señora de África (Day of Our Lady of Africa)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 5 August (local public holiday)",
+    "date": "2026-08-05",
+    "blurb": "Local public holiday dedicated to Ceuta's patroness, centred on the flower offering and the procession of the venerated statue carried by costaleros through the streets.",
+    "source_url": "https://www.timeanddate.com/holidays/spain/day-our-lady-africa",
+    "image_url": ""
+   }
+  ]
+ },
+ "platja-de-llevant": {
+  "beach": "El Albir (L'Alfàs del Pi)",
+  "town": "El Albir (L'Alfàs del Pi)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festival de Cine de l'Alfàs del Pi (L'Alfàs del Pi Film Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in early July; 38th edition runs 4-12 July 2026",
+    "date": "2026-07-04",
+    "blurb": "One of the most established film festivals in the Valencian Community, dedicated mainly to short films, with screenings in cinemas and open-air venues. The seafront promenade at the Albir beach, the Paseo de las Estrellas, is named after the festival.",
+    "source_url": "https://www.festivaldelalfas.es/",
+    "image_url": ""
+   },
+   {
+    "name": "Norwegian National Day (17 May) in L'Alfàs del Pi",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 17 May",
+    "date": "2026-05-17",
+    "blurb": "L'Alfàs del Pi hosts one of the largest Norwegian communities outside Norway and stages a major Constitution Day celebration with parades, music and cultural activities that draws thousands of people. It is one of the Costa Blanca's most distinctive multicultural events.",
+    "source_url": "https://www.lalfas.es/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas del Jubileo y del Santísimo Cristo del Buen Acierto",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early-to-mid November (typically around 7-10 November); main day 10 November",
+    "date": "2026-11-10",
+    "blurb": "L'Alfàs del Pi's main patron-saint festival, holding a papal jubilee concession since 1857. Combines religious acts with a Humor Parade, Valencian pilota, correfocs, mascletàs and fireworks.",
+    "source_url": "https://www.lalfas.es/concejalias/fiestas/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de l'Albir",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late August (dates vary by year, e.g. 22-24 August 2025) at the Parque de los Eucaliptos in Albir",
+    "date": "",
+    "blurb": "Albir's summer neighbourhood fiesta bidding farewell to the season, with a themed costume parade, petanca championship, paella and allioli competitions, children's attractions and live music near the beach.",
+    "source_url": "https://www.lalfas.es/concejalias/fiestas/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-la-arena": {
+  "beach": "Puerto de Santiago",
+  "town": "Puerto de Santiago",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Travesía a Nado Playa de la Arena - Puerto de Santiago",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in July; 2026 edition (XXIX) on Saturday 11 July at 17:00",
+    "date": "2026-07-11",
+    "blurb": "Open-water swimming race that starts at Playa de la Arena and finishes at the Puerto de Santiago beach, a roughly 950 m course open to swimmers over 10 years old. Organised by the Santiago del Teide sports department, it reaches its 29th edition in 2026.",
+    "source_url": "https://deportes.santiagodelteide.es/prueba-deportiva/travesia-a-nado-playa-la-arena/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de la Virgen del Carmen (Puerto de Santiago)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 16 July, with festivities over the surrounding days",
+    "date": "2026-07-16",
+    "blurb": "Patron-saint festival of the fishing community of Puerto de Santiago honouring Our Lady of Carmen, protector of sailors. Highlights include a maritime procession of decorated boats that visits nearby coastal villages including Playa de la Arena, plus concerts, verbenas, religious acts and fireworks.",
+    "source_url": "https://www.santiagodelteide.es/comienzan-las-fiestas-en-honor-a-nuestra-senora-del-carmen-en-puerto-de-santiago/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Los Gigantes",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February/March; 2026 edition themed 'Carnaval del Mar', with main weekend rescheduled to 13-15 March 2026",
+    "date": "2026-03-13",
+    "blurb": "Lively street carnival in the Los Gigantes resort area of Santiago del Teide, a short distance from Playa de la Arena. The programme features queen galas, murgas, a choreographic festival, drag gala and the traditional Burial of the Sardine closing parade.",
+    "source_url": "https://www.santiagodelteide.es/el-alcalde-presento-la-programacion-de-actos-del-carnaval-de-los-gigantes-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Tenerife Vive + Santiago del Teide",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer at Playa de la Arena; recent editions held in July/August",
+    "date": "",
+    "blurb": "Youth-oriented festival staged at Playa de la Arena by the Santiago del Teide municipal youth area, combining live music concerts with workshops, water and sports activities, food trucks and environmental-awareness events.",
+    "source_url": "https://tenerifevivemas.es/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas Patronales de Santiago Apóstol (San Isidro Labrador)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 15 May in the town of Santiago del Teide",
+    "date": "2026-05-15",
+    "blurb": "Patron-saint celebration in the municipal capital of Santiago del Teide, with solemn mass, a procession through the town, a parade of floats and traditional dress, a folk festival and a Canarian wrestling (lucha canaria) exhibition.",
+    "source_url": "https://www.santiagodelteide.es/eventos/",
+    "image_url": ""
+   }
+  ]
+ },
+ "monsul-beach": {
+  "beach": "San José",
+  "town": "San José",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Fiestas Patronales de San José",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in early-to-mid August; 2026 edition 7-9 August",
+    "date": "2026-08-07",
+    "blurb": "San José's patron-saint summer festival with live music, orchestras and DJs, beach games, sailing regattas from the marina, sports tournaments and local seafood gastronomy. Held in the village nearest Mónsul Beach.",
+    "source_url": "https://nijar.es/noticias/nijar-presenta-el-calendario-de-ferias-y-fiestas-2026-con-una-programacion-que-recorre-todo-el-municipio-de-mayo-a-octubre/",
+    "image_url": ""
+   },
+   {
+    "name": "Ecofestival Cabo de Gata-Níjar",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 24-26 April (Friday in San José at Hotel El Sotillo)",
+    "date": "2026-04-24",
+    "blurb": "Free festival combining music, environmental education and local gastronomy across the Cabo de Gata-Níjar Natural Park, opening in San José with a local agri-food showcase and live concert before moving to Los Escullos and Rodalquilar.",
+    "source_url": "https://lacronicadelparque.com/cabo-de-gata/cabo-de-gata-nijar-acogera-un-ecofestival-que-unira-sostenibilidad-cultura-y-gastronomia/",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Santa de Níjar (Holy Week)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in spring (Holy Week); 2026 from 29 March to 5 April",
+    "date": "2026-03-29",
+    "blurb": "Holy Week processions in the town of Níjar, including the Cristo de los Gitanos procession on Holy Wednesday and solemn processions on Holy Thursday and Good Friday.",
+    "source_url": "https://www.festivalesdeespana.com/en/festival/holy-week-of-nijar",
+    "image_url": ""
+   },
+   {
+    "name": "Flamingo Beach Festival (Los Escullos)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 8-9 May at Camping Los Escullos",
+    "date": "2026-05-08",
+    "blurb": "Rock and punk music festival held at Camping Los Escullos within the Cabo de Gata-Níjar Natural Park, a short distance up the coast from San José and Mónsul Beach.",
+    "source_url": "https://www.losesculloscabodegata.com/cabo-gata-celebra-primer-ecofestival-una-primavera-llena-musica-sostenibilidad/",
+    "image_url": ""
+   },
+   {
+    "name": "Wah Wah Fest Cabo de Gata (Los Escullos)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 17-18 April at Camping Los Escullos",
+    "date": "2026-04-17",
+    "blurb": "Funk and disco music festival at Camping Los Escullos in the Cabo de Gata-Níjar Natural Park near San José.",
+    "source_url": "https://www.losesculloscabodegata.com/cabo-gata-celebra-primer-ecofestival-una-primavera-llena-musica-sostenibilidad/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-la-barrosa": {
+  "beach": "Chiclana de la Frontera",
+  "town": "Chiclana de la Frontera",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Concert Music Festival (Sancti Petri)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-July to mid-August; 2026 (VII edition) 10 July - 15 August",
+    "date": "2026-07-10",
+    "blurb": "Open-air summer concert series staged at Poblado de Sancti Petri, with the stage practically on La Barrosa beach overlooking Sancti Petri castle. The 2026 line-up includes Sting, Pablo Alboran, Helloween, Chayanne and many more across ~27 nights.",
+    "source_url": "https://www.guiadecadiz.com/es/agenda/julio/2026/concert-music-festival-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Romeria and Maritime Procession of the Virgen del Carmen Atunera",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 15-16 July; pilgrimage from Capilla del Pino (La Barrosa) to Sancti Petri, sea procession along the Sancti Petri channel and La Barrosa beach",
+    "date": "2026-07-16",
+    "blurb": "Seafarers' festival honouring the Virgin of Carmen. A land pilgrimage sets out from the Capilla del Pino in the La Barrosa beach area to Sancti Petri, followed by a maritime procession by boat through the Sancti Petri channel and along La Barrosa beach.",
+    "source_url": "https://www.chiclana.es/areas-municipales/sociedad-y-cultura/fiestas-chiclana/procesion-de-la-virgen-del-carmen",
+    "image_url": ""
+   },
+   {
+    "name": "Feria y Fiestas de San Antonio (Chiclana)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June; 2026 edition 10-14 June at the Las Albinas del Torno fairground",
+    "date": "2026-06-10",
+    "blurb": "Chiclana de la Frontera's main town fair, with casetas, flamenco, fairground rides and a strong equestrian and horse-show presence. The 2026 edition runs 10-14 June with the local holiday on 12 June.",
+    "source_url": "https://www.chiclana.es/noticias/detalle-noticia/la-feria-de-san-antonio-2026-se-celebrara-del-10-al-14-de-junio",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Chiclana",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in February (weeks before Lent); 2026 edition 14-22 February",
+    "date": "2026-02-14",
+    "blurb": "Street carnival with fancy dress, satirical singing groups (coros, chirigotas), gastronomy tastings and a grand parade of floats. The 2026 edition runs 14-22 February and includes the 'Carnaval en las Penas' programme in the town's emblematic venues.",
+    "source_url": "https://www.guiadecadiz.com/es/agenda/febrero/2026/carnaval-chiclana-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de la Virgen de los Remedios (Patron Saint)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in August, typically around 13-17 August",
+    "date": "",
+    "blurb": "Festival in honour of Chiclana's patron saint, the Virgin of Los Remedios, with religious processions and town celebrations in mid-August.",
+    "source_url": "https://turismo.chiclana.es/fileadmin/user_upload/turismo/Ferias_y_fiestas_2026_INGLES.pdf",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Santa (Holy Week) Chiclana",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in March/April, the week before Easter Sunday",
+    "date": "",
+    "blurb": "Holy Week celebrations with traditional Andalusian processions through Chiclana de la Frontera in the week leading up to Easter.",
+    "source_url": "https://turismo.chiclana.es/fileadmin/user_upload/turismo/Ferias_y_fiestas_2026_INGLES.pdf",
+    "image_url": ""
+   }
+  ]
+ },
+ "platja-de-la-nova-icaria": {
+  "beach": "Barcelona",
+  "town": "Barcelona",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festa Major de la Vila Olimpica",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around the end of June / first weekend of July; three days Friday to Sunday",
+    "date": "",
+    "blurb": "Neighbourhood street festival of the Vila Olimpica district (where Nova Icaria beach sits), held since 1993. It opens with a havaneres recital on the nearby beach with a sardine meal and burnt rum, and closes with a fireworks display from the marina pier.",
+    "source_url": "https://www.barcelona.cat/culturapopular/en/festivals-and-traditions/festa-major-de-la-vila-olimpica",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major del Poblenou",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in the first half of September, spread over two weekends (about 10 days)",
+    "date": "",
+    "blurb": "Over 150 years of history, this Poblenou neighbourhood festival fills the streets with parades, giants, castellers (human towers), a correfoc fire run, music and children's activities, with some events held on nearby Bogatell beach.",
+    "source_url": "https://www.festamajorpoblenou.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Nit de Sant Joan (Saint John's Eve / Summer Solstice)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23 June",
+    "date": "2026-06-23",
+    "blurb": "Barcelona's fire festival marking the summer solstice. Bonfires, fireworks and all-night beach parties light up the city's beaches, including those near Nova Icaria, with tens of thousands of revellers along the shoreline.",
+    "source_url": "https://www.barcelona.cat/culturapopular/en/festivals-and-traditions",
+    "image_url": ""
+   },
+   {
+    "name": "La Merce Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late September around the feast of the Mare de Deu de la Merce; 2026 edition 23-27 September",
+    "date": "2026-09-23",
+    "blurb": "Barcelona's biggest street festival in honour of its patron saint. Includes pyrotechnic shows over the city beaches (between Sant Miquel and Somorrostro) and the free Musica Merce concerts staged on nearby Bogatell beach. The 2026 guest city is Manchester.",
+    "source_url": "https://www.barcelona.cat/lamerce/en",
+    "image_url": ""
+   },
+   {
+    "name": "Primavera Sound",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early June at Parc del Forum; 2026 main days 4-6 June (opening 3 June, Primavera Bits closing 7 June)",
+    "date": "2026-06-04",
+    "blurb": "Major international music festival held at Parc del Forum on the Barcelona seafront, a few kilometres up the coast from Nova Icaria beach, drawing large crowds for its pop, rock and electronic line-ups.",
+    "source_url": "https://www.primaverasound.com/en/barcelona",
+    "image_url": ""
+   }
+  ]
+ },
+ "sardinero": {
+  "beach": "Santander",
+  "town": "Santander",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Semana Grande de Santander (Feria de Santiago)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late July around Saint James' day (25 July); 2026 edition 17-26 July",
+    "date": "2026-07-17",
+    "blurb": "Santander's main patronal festival in honour of Santiago Apostol, with ten-plus days of concerts, bay regattas, a bullfighting fair, fireworks and open-air events across the Paseo de Pereda and the Campa de la Magdalena.",
+    "source_url": "https://santander.semanagrande.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Internacional de Santander (FIS)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually throughout August; 2026 edition in August",
+    "date": "",
+    "blurb": "Prestigious month-long classical music, dance, theatre, opera and ballet festival founded in 1948, centred on the Palacio de Festivales de Cantabria and other historic venues in Santander.",
+    "source_url": "https://www.festclasica.com/en/festivals/c/18-festival-internacional-de-santander.html",
+    "image_url": ""
+   },
+   {
+    "name": "Santander Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July / early August at the Campa de la Magdalena; 2026 edition 31 July - 1 August",
+    "date": "2026-07-31",
+    "blurb": "Outdoor pop/rock and indie music festival held on the Magdalena peninsula in Santander, with Spanish and international acts such as Guitarricadelafuente, Rigoberta Bandini and Xoel Lopez on the 2026 line-up.",
+    "source_url": "https://santandermusic.es/",
+    "image_url": ""
+   },
+   {
+    "name": "Magdalena en Vivo",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July during Semana Grande; 2026 edition 21-24 July (some sources 29 July - 1 August) at the Campa de la Magdalena",
+    "date": "",
+    "blurb": "Concert series staged at the Campa de la Magdalena during Santander's Semana Grande, with 2026 acts including Taburete, David Otero, Ana Torroja, Pet Shop Boys and the Gira OT.",
+    "source_url": "https://www.santandercreativa.com/eventos/festival-magdalena-en-vivo-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Virgen del Mar (Patron Saint Festival of Santander)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually; maritime patronal celebration of Santander honouring the Virgen del Mar",
+    "date": "",
+    "blurb": "Traditional maritime festival honouring Santander's patron the Virgen del Mar, combining religious masses, a sea procession of decorated boats across the bay, a floral offering to the sea, pilgrimages, Cantabrian gastronomy and fireworks.",
+    "source_url": "https://fiestasdepueblos.net/fiesta/virgen-del-mar-santander",
+    "image_url": ""
+   }
+  ]
+ },
+ "zarautz": {
+  "beach": "Zarautz",
+  "town": "Zarautz",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "San Pelaio Festivities (Fiestas de San Pelayo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late June (around 25-27 June), patron saint festival",
+    "date": "",
+    "blurb": "Zarautz's main patron saint festival honouring San Pelayo, with children's and adults' drumming groups, giants (gigantes) and big-headed figures (cabezudos), txistu and accordion music, and the traditional Oilasko Bilketa gathering.",
+    "source_url": "https://www.turismozarautz.eus/en/-/san-pelaioak",
+    "image_url": ""
+   },
+   {
+    "name": "Euskal Jaiak (Basque Festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early September, culminating around 9 September (Euskal Jaia day)",
+    "date": "",
+    "blurb": "A week-long celebration of Basque folklore featuring traditional dancers, trikitixa (Basque accordion) and dance contests, folk theatre, bertsolari competitions (including the Lizardi Award) and children's events.",
+    "source_url": "https://www.turismozarautz.eus/en/-/euskal-jaiak",
+    "image_url": ""
+   },
+   {
+    "name": "Zarauzko Triatloia (Zarautz Triathlon)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in June; 2026 edition on Saturday 13 June 2026",
+    "date": "2026-06-13",
+    "blurb": "One of Spain's pioneering triathlons (held since 1987), a middle-distance race with an open-sea swim from Getaria harbour to Zarautz beach, an 80 km coastal/mountain bike leg and a 20 km run.",
+    "source_url": "https://www.zarauzkotriatloia.com/en/home-eng/",
+    "image_url": ""
+   },
+   {
+    "name": "Kalerki Street Theatre Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early July (first week of July)",
+    "date": "",
+    "blurb": "An outdoor street theatre festival filling the streets and squares of Zarautz with performances during the summer season.",
+    "source_url": "http://www.gurezarautz.net/festivities/",
+    "image_url": ""
+   },
+   {
+    "name": "Surf Festival / Surf culture events",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually during the summer surf season on Zarautz's long beach",
+    "date": "",
+    "blurb": "Zarautz is one of the Basque Country's best-known surf towns; its long beach hosts surf competitions and exhibitions for all levels during the season.",
+    "source_url": "https://www.turismozarautz.eus/en/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "lerez-beach": {
+  "beach": "Pontevedra",
+  "town": "Pontevedra",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Romaria de San Benitino de Lerez (Festas de San Benito)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 11 July (with a second feast day on 21 March); 2026 main pilgrimage 11 July",
+    "date": "2026-07-11",
+    "blurb": "Centuries-old pilgrimage festival at the San Salvador de Lerez monastery, right in the Lerez parish beside the river. Pilgrims dip a finger in the saint's oil lamp and crawl under the altar, followed by processions, bagpipe and tambourine music, and communal mussels and empanada at the riverside Salones do Lerez. Declared a Festival of National Tourist Interest.",
+    "source_url": "https://turismoriasbaixas.com/en/descubre/fiestas/san-benitino-de-lerez",
+    "image_url": ""
+   },
+   {
+    "name": "Festas da Peregrina (Pontevedra Patron Saint Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around the second week of August; 2026 edition approximately 8-18 August",
+    "date": "",
+    "blurb": "Pontevedra's main festival honouring the Virgin Peregrina, patron of the province and guide of the Portuguese Way to Santiago. Ten-plus days of religious ceremonies, Galician folklore, street performances, children's shows, national and international concerts, and fireworks.",
+    "source_url": "https://www.visit-pontevedra.com/en/places-to-go/celebrations-holidays/",
+    "image_url": ""
+   },
+   {
+    "name": "Feira Franca de Pontevedra",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on the first weekend of September; 2026 edition 4-5 September",
+    "date": "2026-09-04",
+    "blurb": "Large medieval fair recreating the tax-free market granted to Pontevedra in 1467, drawing around 100,000 costumed participants into the historic old town. Features a medieval market, chivalry tournament, falconry shows, craft stalls, street entertainment and music. Declared a Festival of Tourist Interest in Galicia.",
+    "source_url": "https://feirafranca.pontevedra.gal/",
+    "image_url": ""
+   },
+   {
+    "name": "Entroido de Pontevedra (Carnival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in February/March before Lent; 2026 edition in February 2026",
+    "date": "",
+    "blurb": "Galicia's most important urban carnival, blending tradition, humour and satire with characteristic local symbols such as the parrot Loro Ravachol and King Urco. Includes costume parades, comparsas and murga contests, and traditional games like the Corrida do Galo.",
+    "source_url": "https://es.wikipedia.org/wiki/Carnaval_de_Pontevedra",
+    "image_url": ""
+   },
+   {
+    "name": "BIGSOUND Festival Pontevedra",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer; 2026 edition 17-18 July",
+    "date": "2026-07-17",
+    "blurb": "Major urban music festival held in Pontevedra featuring Spanish and Latin pop and urban headliners. The 2026 line-up includes artists such as Maria Becerra, David Bisbal, Nathy Peluso, Ana Mena and Juan Magan.",
+    "source_url": "https://bigsoundfestival.com/pontevedra/inicio",
+    "image_url": ""
+   }
+  ]
+ },
+ "platja-de-la-mar-bella": {
+  "beach": "Barcelona (Poblenou, Sant Martí)",
+  "town": "Barcelona (Poblenou, Sant Martí)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Nit de Sant Joan (St. John's Eve)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23-24 June; 2026 edition on 23 June",
+    "date": "2026-06-23",
+    "blurb": "Catalonia's midsummer solstice festival, when Barcelona's beaches including Mar Bella, Bogatell and Nova Icaria fill with bonfires, fireworks, picnics and all-night parties. Traditional coca flatbread and cava are staples of the celebration.",
+    "source_url": "https://www.barcelonaturisme.com/wv3/en/agenda/14525/the-verbena-and-the-festival-of-san-juan.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major del Poblenou",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in the first half of September, spread over two weekends",
+    "date": "",
+    "blurb": "The main neighbourhood festival of Poblenou, running since 1872, with around two weeks of giants parades, correfocs (fire runs), street meals, concerts, children's workshops and sports championships throughout the district just inland from the beach.",
+    "source_url": "https://www.festamajorpoblenou.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Maig del Poblenou",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually mid-May; 2026 edition 15-18 May with correfoc on Saturday 18 May",
+    "date": "2026-05-15",
+    "blurb": "Poblenou's May festivities fill the neighbourhood streets with fairs, parades, popular dances and gastronomy, centred on the Rambla del Poblenou, culminating in a Saturday-evening correfoc fire run.",
+    "source_url": "https://guia.barcelona.cat/en/agenda/detall/festes-de-maig-del-poblenou-2026_99400225763.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de la Mercè",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 24 September (patron saint's day); 2026 edition 23-27 September",
+    "date": "2026-09-23",
+    "blurb": "Barcelona's biggest annual city festival honouring the city's patron saint, with roughly 500 activities across the city including street arts (MAC), human towers, fireworks, parades and the BAM and Musica Merce concert programmes.",
+    "source_url": "https://www.barcelona.cat/lamerce/en",
+    "image_url": ""
+   },
+   {
+    "name": "Llum BCN",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in February; 2026 edition 6-8 February",
+    "date": "2026-02-06",
+    "blurb": "A light and technology art festival that transforms the Poblenou neighbourhood with luminous installations created by artists, studios and architecture schools, set within walking distance of the beach.",
+    "source_url": "https://www.barcelona.cat/llumbcn/en",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Jordi (Diada de Sant Jordi)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 23 April",
+    "date": "2026-04-23",
+    "blurb": "Catalonia's day of books and roses, marked across Barcelona including stalls along the Rambla del Poblenou, where couples exchange roses and books in one of the region's most beloved cultural traditions.",
+    "source_url": "https://www.barcelonaturisme.com/wv3/en/agenda/14505/sant-jordi-2026.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-la-malagueta": {
+  "beach": "Málaga",
+  "town": "Málaga",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Noche de San Juan (Night of San Juan)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23 June; 2026 edition on 23 June",
+    "date": "2026-06-23",
+    "blurb": "Midsummer beach celebration held directly on La Malagueta and other Málaga beaches, with giant bonfires, the burning of the 'júa' figure at midnight, fireworks and a traditional midnight swim in the sea. Free to attend.",
+    "source_url": "https://visita.malaga.eu/en/meet-malaga/festivals/the-night-of-san-juan",
+    "image_url": ""
+   },
+   {
+    "name": "Feria de Málaga (Málaga August Fair)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in mid-to-late August; 2026 edition 15-22 August (opening fireworks on the beaches the night of 14 August)",
+    "date": "2026-08-15",
+    "blurb": "Málaga's biggest annual celebration, commemorating the 1487 capture of the city by the Catholic Monarchs. A week of daytime fair in the historic centre and night fair at the Cortijo de Torres fairground, with flamenco, live music, concerts and an opening pyromusical show over the city's beaches.",
+    "source_url": "https://visita.malaga.eu/en/meet-malaga/festivals/august-fair",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de la Virgen del Carmen",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on and around 16 July",
+    "date": "2026-07-16",
+    "blurb": "Seafaring festival honouring the patron saint of fishermen and sailors. Processions through the fishing neighbourhoods (El Palo, Pedregalejo, Huelin) lead to the statue being carried out to sea aboard a traditional jábega boat; divers also submerge an image off La Malagueta beach.",
+    "source_url": "https://visita.malaga.eu/en/whats-on/the-feast-of-the-virgen-del-carmen-p105843",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Santa de Málaga (Holy Week)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in the week before Easter; 2026 edition 29 March (Palm Sunday) to 5 April (Easter Sunday)",
+    "date": "2026-03-29",
+    "blurb": "Declared an Event of International Tourist Interest, Málaga's Holy Week features around 45 brotherhoods carrying ornate religious thrones in processions through the historic city centre from afternoon until dawn, drawing huge crowds.",
+    "source_url": "https://www.spainonfoot.com/whats-on-malaga/event/semana-santa-malaga-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival de Málaga (Málaga Film Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in March; 2026 edition (29th) 6-15 March",
+    "date": "2026-03-06",
+    "blurb": "Spain's leading festival of Spanish-language cinema, screening over 200 films across venues in central Málaga including the Cervantes and Echegaray theatres and the Albéniz cinema, with galas, masterclasses and exhibitions.",
+    "source_url": "https://www.spain.info/en/calendar/spanish-film-festival-malaga/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-gulpiyuri": {
+  "beach": "Llanes",
+  "town": "Llanes",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Fiestas de San Roque",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 14-16 August; 2026 edition 14-16 August",
+    "date": "2026-08-16",
+    "blurb": "Llanes' best-known patron festival, declared of National Tourist Interest in 1966. Features the ritual Danza de San Roque through the streets with bagpipes and drums, a religious procession, traditional Asturian dress, verbenas and fireworks over the beach.",
+    "source_url": "https://www.llanes.es/en/node/19890",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de La Magdalena",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 21-22 July (feast of Santa Maria Magdalena)",
+    "date": "",
+    "blurb": "One of Llanes' three great summer festivals, marked by the red handkerchief group. The day opens with mass and procession followed by traditional dances such as the Pericote, then an afternoon romeria and verbena.",
+    "source_url": "https://lamagdalenallanes.com/el-bando/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de la Virgen de la Guia",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early September; nocturnal procession on 7 September",
+    "date": "2026-09-07",
+    "blurb": "Llanes' patron-saint fiesta, famous for its nocturnal procession in which hundreds of women in classic Spanish mantillas accompany the statue, children make floral offerings (the 'ramu'), and decorated bread pyramids are auctioned.",
+    "source_url": "https://www.spain.info/en/calendar/fiesta-virgen-guia/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival ADAR",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August; 2026 edition runs 8-18 August",
+    "date": "",
+    "blurb": "Classical and contemporary music festival in eastern Asturias with concerts in emblematic venues including the nearby Monasterio de San Antolin de Bedon. Programme features artist residencies, sound walks and free-admission concerts.",
+    "source_url": "https://www.ayuntamientodellanes.com/en/agenda-cultural-y-festiva",
+    "image_url": ""
+   },
+   {
+    "name": "Antroxu (Carnival) de Llanes",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually at Carnival (Feb/March); 2026 main parade 14 February",
+    "date": "2026-02-14",
+    "blurb": "Llanes' Carnival celebration with a traditional costume parade and contest with notable prizes through the historic town centre.",
+    "source_url": "https://asturias.com/carnaval-llanes/",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-de-samil": {
+  "beach": "Vigo",
+  "town": "Vigo",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festival Aereo Internacional de Vigo (Vigo International Air Show)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late spring/summer (historically July-August); 2026 edition held at Samil beach on 30 May 2026",
+    "date": "2026-05-30",
+    "blurb": "Spain's largest international air show, with military and aerobatic flying displays watched by hundreds of thousands of spectators directly over and from Samil beach, facing the Cies Islands.",
+    "source_url": "https://www.facebook.com/vigoairshow/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa da Reconquista de Vigo (Reconquest of Vigo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late March around the 28th (anniversary of the 1809 liberation); 2026 edition 21-29 March, main days 27-29 March",
+    "date": "2026-03-28",
+    "blurb": "Historical reenactment festival in Vigo's old town commemorating the 1809 expulsion of Napoleon's troops, with period costumes, markets, music and street performances.",
+    "source_url": "https://www.turismodevigo.org/en/reconquest-vigo",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Grande de Vigo / Festas do Cristo da Victoria",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually the first week of August; the main procession falls on the first Sunday, which in 2026 is 2 August",
+    "date": "2026-08-02",
+    "blurb": "Vigo's biggest traditional festival week, centred on the religious procession of the Cristo da Victoria, with concerts at the Castrelos Auditorium, street fiestas, markets and fireworks over the estuary.",
+    "source_url": "https://www.turismodevigo.org/es/fiestas-de-vigo",
+    "image_url": ""
+   },
+   {
+    "name": "Imaxinasons - Festival de Jazz de Vigo",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in June over roughly two weeks; 2026 edition around 17-25 June at various Vigo venues",
+    "date": "",
+    "blurb": "Vigo's international jazz festival with indoor and outdoor concerts, workshops and street performances across the city, many of them free or low-priced.",
+    "source_url": "https://turismo.vigo.org/es/imaxinasons",
+    "image_url": ""
+   },
+   {
+    "name": "Galicia Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer; 2026 edition on 26-27 June at the Peirao de Trasatlanticos, Vigo",
+    "date": "2026-06-26",
+    "blurb": "Large open-air pop and Latin music festival on Vigo's waterfront, featuring Spanish and international acts as the musical kick-off to the summer season.",
+    "source_url": "https://galiciafest.gal/",
+    "image_url": ""
+   }
+  ]
+ },
+ "el-medano": {
+  "beach": "El Médano (Granadilla de Abona), Tenerife",
+  "town": "El Médano (Granadilla de Abona), Tenerife",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Tenerife PWA World Cup (Windsurf Grand Slam)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, late July to mid-August; recent editions early August",
+    "date": "",
+    "blurb": "Stage of the Professional Windsurfing Association (PWA) World Tour held at El Cabezo / El Médano beach, one of the world's most iconic windsurfing spots. Over 160 professional windsurfers from 20+ nations compete in Wave and Slalom disciplines, alongside concerts, food and sustainability activities.",
+    "source_url": "https://pwaworldcuptenerife.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de la Virgen de las Mercedes de Roja (El Médano patron-saint fiestas)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in September (around 13-24 September); patron day 21 September",
+    "date": "",
+    "blurb": "El Médano's main patron-saint fiestas honouring Our Lady of Mercedes de Roja, with religious and popular events including the Baile de Taifas in traditional Canarian dress, liturgy and fireworks on the patron day, and the Romería Barquera maritime procession.",
+    "source_url": "https://www.granadilladeabona.org/el-medano-celebra-sus-fiestas-en-honor-a-la-virgen-de-las-mercedes-de-roja/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Día El Médano (Granadilla de Abona Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late February / early March; 2026 daytime beach carnival on 7 March, full carnival 27 Feb-7 Mar",
+    "date": "2026-03-07",
+    "blurb": "The free open-air daytime carnival on Plaza de El Médano, the highlight of Granadilla de Abona's carnival (2026 theme 'Mexico Lindo y Querido'). All-day beachfront party closing with the Entierro de la Sardina (Burial of the Sardine) mock funeral procession.",
+    "source_url": "https://eldigitalsur.com/tenerifesur/granadilla/carnaval-dia-2026-el-medano/",
+    "image_url": ""
+   },
+   {
+    "name": "Muestra Folclórica de los Pueblos (International Folk Dance Festival) & Book Fair",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually (summer) in El Médano",
+    "date": "",
+    "blurb": "A consolidated cultural reference in southern Tenerife, this international folklore exhibition brings traditional music, dance and crafts from various countries to the El Médano beachfront, held alongside the local Book Fair.",
+    "source_url": "https://www.tenerife-holiday-home-insider.com/folk-dance-festival.html",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de San Antonio de Padua",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 13 June",
+    "date": "",
+    "blurb": "Local celebration in honour of San Antonio de Padua featuring a romería (pilgrimage procession) that culminates in a traditional dance in the town's main square.",
+    "source_url": "https://www.granadilladeabona.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Tenerife Happy Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually (autumn / November) in El Médano",
+    "date": "",
+    "blurb": "Family-friendly 'festival of happiness' in El Médano combining music, entertainment and environmental/sustainability awareness, with the main day staged on Plaza de El Médano.",
+    "source_url": "https://tenerifehappyfest.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-dhort": {
+  "beach": "Sant Josep de sa Talaia",
+  "town": "Sant Josep de sa Talaia",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festes de Sant Josep (Patron Saint Festival of Sant Josep de sa Talaia)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually; main saint's day on 19 March with weeks of surrounding events; 2026 edition runs from 8 March, with the patron day on 19 March",
+    "date": "2026-03-19",
+    "blurb": "Patron saint festival of the municipality that includes Cala d'Hort, with a solemn mass and procession, folk dancing by the Sant Josep folkloric group, sports tournaments, exhibitions and live music across the town.",
+    "source_url": "https://www.santjosep.org/es/tu-municipio/fiestas-y-ocio/fiestas-patronales/",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Pepe Rock",
+    "type": "music",
+    "recurring": true,
+    "when": "annually during the Festes de Sant Josep, late March; 2026 edition on Saturday 28 March",
+    "date": "2026-03-28",
+    "blurb": "Long-running rock music night held in Sant Josep de sa Talaia as part of the patron saint festivities, with concerts in local venues and a main stage near the Town Hall. The 2026 edition is headlined by Magma de Oz (Mago de Oz).",
+    "source_url": "https://www.santjosep.org/es/tu-municipio/fiestas-y-ocio/fiestas-patronales/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Agusti des Vedra (Patron Saint Festival of Sant Agusti)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in late August; patron saint's day on 28 August, with weeks of surrounding cultural and music events",
+    "date": "2026-08-28",
+    "blurb": "Popular summer village festival in nearby Sant Agusti des Vedra honouring its patron saint, with mass, procession, folk dances, concerts, workshops, exhibitions and sports. Es Vedra in its name refers to the islet visible from Cala d'Hort.",
+    "source_url": "https://ibiza.travel/en/agenda/fiestas-sant-agust/",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Josep Saturday Artisan and Farmers' Market",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "every Saturday from April to October, 09:30-13:30, in the square in front of the Town Hall",
+    "date": "",
+    "blurb": "Weekly craft and farmers' market in the main square of Sant Josep de sa Talaia with around 40 stalls of local produce, organic baked goods, street food and handmade artisan items.",
+    "source_url": "https://www.santjosep.net/en/event/mercado-sant-josep-ecologico-local-artesania/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cofete": {
+  "beach": "Morro Jable",
+  "town": "Morro Jable",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Fiestas de San Juan de Cofete",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in June (typically a weekend mid-June, around the feast of Saint John)",
+    "date": "",
+    "blurb": "The hamlet of Cofete celebrates its patron Saint John (San Juan) with a weekend of tradition, music and devotion in the remote setting of southern Fuerteventura. The program includes a live concert by Canarian soloists, a popular pilgrimage with traditional costumes, folk bands and decorated carts, and a religious procession in honour of Saint John.",
+    "source_url": "https://www.visitfuerteventura.com/en/events/fuerteventura/fiestas-de-cofete/",
+    "image_url": ""
+   },
+   {
+    "name": "Romería de Cofete (Virgen del Tanquito)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in June; 2026 edition on 13 June",
+    "date": "2026-06-13",
+    "blurb": "A traditional pilgrimage (romería) honouring the Virgen del Tanquito in the dramatic natural setting of Cofete in the south of Fuerteventura. Locals and visitors make the pilgrimage accompanied by folk music, lively parrandas, traditional Canarian attire and decorated carts.",
+    "source_url": "https://www.visitfuerteventura.com/en/events/fuerteventura/romeria-de-cofete/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas del Carmen (Morro Jable)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in July, culminating on 16 July with the maritime procession of the Virgen del Carmen",
+    "date": "2026-07-16",
+    "blurb": "Morro Jable, the nearest town to Cofete, honours its patron saint the Virgen del Carmen, protector of fishermen and the sea. The highlight on 16 July is a traditional boat procession in Jandia Bay; the broader programme blends seafaring tradition, romerias, street parties, concerts, sports tournaments and religious events.",
+    "source_url": "https://www.visitfuerteventura.com/en/events/fuerteventura/el-carmen-festivities-in-morro-jable/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnival of Morro Jable (Pajara Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February-March; 2026 Pajara carnival runs 6-22 March, ending in Morro Jable 13-22 March (2026 theme: Disney)",
+    "date": "",
+    "blurb": "The Pajara municipality carnival travels through La Lajita, Pajara and Costa Calma before finishing in Morro Jable with parades, costume contests, music and street parties. The 2026 edition runs from early to late March with a Disney theme.",
+    "source_url": "https://www.guidetocanaryislands.com/pajara-carnival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-las-teresitas": {
+  "beach": "San Andrés (Santa Cruz de Tenerife)",
+  "town": "San Andrés (Santa Cruz de Tenerife)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Noche de San Juan (St. John's Eve) on Playa de Las Teresitas",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23-24 June; 2026 edition the night of 23 June 2026",
+    "date": "2026-06-23",
+    "blurb": "On midsummer night, locals and visitors gather on Playa de Las Teresitas for bonfires on the sand, midnight swims and the Canarian tradition of jumping over the flames. One of the most atmospheric free events of the Tenerife summer.",
+    "source_url": "",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas Patronales de San Andrés y Santa Lucía",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late November to mid-December (programme typically runs from around 22 November into early December)",
+    "date": "",
+    "blurb": "The patron-saint fiestas of the fishing village of San Andrés, right next to Las Teresitas beach. The programme blends religious functions, processions, verbenas (open-air dances), music and traditions of this historic fishing community in the Anaga district.",
+    "source_url": "https://www.santacruzdetenerife.es/web/noticias-y-agenda/noticias/detalle-noticia/san-andres-honra-a-sus-patronos-con-un-programa-lleno-de-tradicion-y-participacion",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de San Andrés y los Cacharros",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the nights of 29-30 November",
+    "date": "2026-11-29",
+    "blurb": "Tenerife-wide Saint Andrew celebration marking the year's new wine. Children and youths drag tied-together cans and old metal objects ('los cacharros') noisily through the streets, recalling the old sound of wine barrels rolled to the sea, accompanied by chestnuts and new wine.",
+    "source_url": "https://www.webtenerife.co.uk/what-to-do/culture/traditions/las-tablas-de-san-andres/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiesta de la Virgen del Carmen (San Andrés maritime procession)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in July, around the feast of Our Lady of Mount Carmel (16 July), as part of the San Andrés fishing-village celebrations",
+    "date": "",
+    "blurb": "Honouring the patron saint of fishermen, the image of the Virgen del Carmen is carried in a land-and-sea procession ending at the Fishermen's Brotherhood wharf, where it embarks for a coastal journey, closing with fireworks. A traditional event of the San Andrés fishing community beside Las Teresitas.",
+    "source_url": "https://www.santacruzdetenerife.es/web/noticias-y-agenda/noticias/detalle-noticia/san-andres-honra-a-sus-patronos-con-un-programa-lleno-de-tradicion-y-participacion",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Santa Cruz de Tenerife",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February (overall programme from mid-January); 2026 edition 16 January - 22 February 2026, theme 'Ritmos Latinos'",
+    "date": "2026-02-13",
+    "blurb": "One of the world's largest carnivals, held in Santa Cruz de Tenerife about 7 km from Las Teresitas. Murga and comparsa contests, the Carnival Queen gala and huge street parades fill the city; the 2026 theme is 'Latin Rhythms'.",
+    "source_url": "https://www.idealista.com/en/news/lifestyle-in-spain/2026/01/27/881392-tenerife-carnival-2026-guide-to-the-santa-cruz-celebrations",
+    "image_url": ""
+   }
+  ]
+ },
+ "maspalomas-dunes": {
+  "beach": "Maspalomas",
+  "town": "Maspalomas",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Maspalomas International Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late February/March; 2026 edition 10-22 March (theme 'El Circo')",
+    "date": "2026-03-10",
+    "blurb": "Gran Canaria's most colourful carnival, declared a Fiesta de Interes Turistico de Canarias. Features the drag queen gala, grand parade (Gran Cabalgata), street parties (mogollones) and the Entierro de la Sardina, mostly free events around Playa del Ingles and Maspalomas.",
+    "source_url": "https://www.maspalomas.com/noteventosfestejos/2723-maspalomas-levanta-la-carpa-del-carnaval-2026-circo-familias-y-el-faro-como-gran-protagonista",
+    "image_url": ""
+   },
+   {
+    "name": "Maspalomas Pride by Freedom",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May; 2026 edition (25th anniversary) 4-10 May, main float parade Saturday 9 May",
+    "date": "2026-05-04",
+    "blurb": "One of Europe's largest LGBTQ+ Pride celebrations, centred on the Yumbo Centre in Playa del Ingles. The week includes the Grand Float Parade, pool and foam parties, beach events and live performances.",
+    "source_url": "https://maspalomaspridebyfreedom.com/english/",
+    "image_url": ""
+   },
+   {
+    "name": "Maspalomas Soul Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July; 2026 edition (10th) 17-19 July at Playa de San Agustin",
+    "date": "2026-07-17",
+    "blurb": "A free open-air music festival blending soul, funk and R&B rhythms with the seaside setting of San Agustin beach near Maspalomas.",
+    "source_url": "https://localguidegrancanaria.com/en/maspalomas-soul-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de San Bartolome de Tirajana (Patron Saint Festivities)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually 14-24 August; main day 24 August",
+    "date": "2026-08-14",
+    "blurb": "Patron-saint festivities of the municipality honouring San Bartolome, with the dawn Diana Floreada, solemn mass and procession, traditional Canarian Sancocho meal, the 'Lluvias de Agosto' festival and gastronomy competitions (gofio and mojo).",
+    "source_url": "https://www.maspalomas.com/index.php/cultura-y-accion-social/eventos-y-festejos",
+    "image_url": ""
+   },
+   {
+    "name": "Maspalomas Winter Pride",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in November; 2026 edition (12th) 2-8 November",
+    "date": "2026-11-02",
+    "blurb": "Week-long LGBTQ+ winter celebration in Gran Canaria's south with live shows, pool parties, excursions and the Pride Walk, taking advantage of the mild November climate.",
+    "source_url": "https://www.winterpride.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Feria de Artesania del Faro de Maspalomas (Artisan Craft Fair)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "recurring craft fair held at the Maspalomas Lighthouse, organised by FEDAC (typically around holiday periods)",
+    "date": "",
+    "blurb": "Traditional Canarian artisan craft fair set around the emblematic Maspalomas Lighthouse, showcasing local handcrafts organised by FEDAC.",
+    "source_url": "https://turismo.maspalomas.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-rodiles": {
+  "beach": "Villaviciosa",
+  "town": "Villaviciosa",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Desembarco de Carlos V (Landing of Charles V) in Tazones and Villaviciosa",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late August (Sat-Sun); 2025 was the 43rd edition on 23-24 August. The festival's regatta is sailed in Rodiles bay, right by the beach.",
+    "date": "",
+    "blurb": "Historical reenactment, declared a Festival of Tourist Interest of Asturias, recreating Emperor Charles V's 1517 arrival at the nearby fishing port of Tazones. Features over a hundred costumed actors, a period market, falconry and fencing displays, live music, and the Carlos V regatta sailed in Rodiles bay.",
+    "source_url": "https://www.turismovillaviciosa.es/primer-desembarco-de-carlos-v/villaviciosa",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de Nuestra Senora del Portal (Virgin of Portal Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around the second week of September in Villaviciosa town; 2026 main day 12 September",
+    "date": "2026-09-12",
+    "blurb": "Villaviciosa's main patron-saint festival, lasting several days. Combines a solemn mass and procession with the Virgin's image alongside popular celebrations with cider, bagpipes, orchestras and a noted parade of decorated floats (carrozas).",
+    "source_url": "https://www.turismoasturias.es/en/agenda-de-asturias/-/calendarsuite/event/nuestra-senora-del-portal-fiestas-en-villaviciosa/567668/1663106400000/JXvXAPSD7JC0",
+    "image_url": ""
+   },
+   {
+    "name": "Mercau Tradicional de Oles",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually the first weekend of August in Oles (Villaviciosa); 2026 edition 1-2 August",
+    "date": "2026-08-01",
+    "blurb": "A Festival of Tourist Interest recreating typical Asturian village scenes with humour, featuring artisans demonstrating jet carving, basket and madrena (wooden clog) making, stone, fabric and copper work, plus taverns serving traditional Asturian food and cider.",
+    "source_url": "https://www.turismoasturias.es/en/descubre/fiestas-de-interes-turistico/mercau-tradicional-de-oles",
+    "image_url": ""
+   },
+   {
+    "name": "Antroxu - Villaviciosa Carnival (Carnaval Maliayes)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually around February/March; 2026 main parade Saturday 28 February",
+    "date": "2026-02-28",
+    "blurb": "The town's Carnival (Antroxu) with a charanga brass-band competition, a costume parade and contest including traditional masked 'mazcaraos', cash prizes, and live music in the Town Hall Square. A children's carnival is held a couple of weeks earlier.",
+    "source_url": "https://en.asturias.com/villaviciosa-carnival/",
+    "image_url": ""
+   },
+   {
+    "name": "Foguera de San Xuan (Saint John's Bonfire) in Amandi",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around Saint John's Eve, night of 23 June, in Amandi (Villaviciosa)",
+    "date": "2026-06-23",
+    "blurb": "Traditional midsummer Saint John's bonfire celebration in the Amandi parish that still preserves the dancing of the 'danza prima' and the fire-jumping ritual, drawing large crowds.",
+    "source_url": "https://villaviciosa.vivirasturias.com/datos-basicos/i/62732821/fiestas-villaviciosa",
+    "image_url": ""
+   },
+   {
+    "name": "Ruta de los Belenes de Villaviciosa (Nativity Scene Route)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually from early December to 5 January (Christmas season) at several venues across Villaviciosa town",
+    "date": "",
+    "blurb": "A Christmas-season route through several venues in Villaviciosa displaying unique, constantly renewed nativity creations; runs from 6 December until 5 January.",
+    "source_url": "https://www.turismovillaviciosa.es/ruta-de-los-belenes-de-villaviciosa",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-mitjana": {
+  "beach": "Ferreries",
+  "town": "Ferreries",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festes de Sant Bartomeu de Ferreries",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually 23-25 August; 2026 edition 23-25 August",
+    "date": "2026-08-23",
+    "blurb": "Ferreries' main patron-saint festival, dating to the 14th century, featuring the traditional jaleo (horse dance) with caixers (riders), parades, giant heads, street markets and music. A distinctive local touch is the Fabioler riding a donkey and the following-day Jaleo d'Ases (donkey jaleo).",
+    "source_url": "https://www.illesbalears.travel/en/menorca/events-festes-de-sant-bartomeu-de-ferreries",
+    "image_url": ""
+   },
+   {
+    "name": "Opening Menorca",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in April; 2026 edition 7-25 April",
+    "date": "2026-04-07",
+    "blurb": "Island-wide art and culture festival that turns Menorca into an open-air gallery. The 2026 programme includes events in Ferreries and at the Melia Cala Galdana hotel, plus jazz concerts and visits to the Sant Patrici estate and cheese factory.",
+    "source_url": "https://www.menorca.info/menorca/local/2026/04/06/2599787/menorca-isla-arte-comienza-opening-menorca-2026.html",
+    "image_url": ""
+   },
+   {
+    "name": "Menorca Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early August; 2026 edition 1-9 August at Recinte Firal d'Es Mercadal",
+    "date": "2026-08-01",
+    "blurb": "Open-air music festival at the Es Mercadal fairground (roughly 10 km from the beach) with seven concerts by national and international artists alongside local Menorcan performers.",
+    "source_url": "https://menorcamusicfestival.com/es/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-del-ingles": {
+  "beach": "Maspalomas (San Bartolomé de Tirajana, Gran Canaria)",
+  "town": "Maspalomas (San Bartolomé de Tirajana, Gran Canaria)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Maspalomas International Carnival (Carnaval Internacional de Maspalomas)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in March; 2026 edition 10-22 March, theme 'El Circo' (The Circus)",
+    "date": "2026-03-10",
+    "blurb": "One of the Canary Islands' biggest carnivals, held in Playa del Ingles and Maspalomas with the Drag Queen gala, the Gran Cabalgata parade, free Mogollon street parties, a dog carnival and the Burial of the Sardine. Most events are free.",
+    "source_url": "https://www.maspalomas.live/event/carnaval-internacional-de-maspalomas-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Maspalomas Pride (Maspalomas Gay Pride)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early-to-mid May; 2026 edition (25th anniversary) approx. 4-10 May, Grand Float Parade Saturday 9 May",
+    "date": "2026-05-09",
+    "blurb": "One of Europe's largest LGBTQ+ celebrations, centred on the Yumbo Centre in Playa del Ingles, with a week of parties and the Grand Float Parade ending at the Yumbo Centre. 2026 marks the 25th anniversary.",
+    "source_url": "https://maspalomaspridebyfreedom.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas Patronales de San Fernando de Maspalomas",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in late May; 2026 edition (61st) 21-31 May, theme 'Raices y Tradiciones'",
+    "date": "2026-05-21",
+    "blurb": "The patron-saint festivities of San Fernando de Maspalomas, featuring the Romeria Ofrenda folk procession with decorated ox-carts, folklore festivals, traditional Canarian games, popular music nights and the solemn procession of San Fernando and the Virgen del Carmen.",
+    "source_url": "https://www.maspalomas.com/noteventosfestejos/2878-2026-eyf-fiestaspatronalessanfernando-raices-tradiciones",
+    "image_url": ""
+   },
+   {
+    "name": "Maspalomas Costa Canaria Soul Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July; 2026 edition (10th anniversary) 17-19 July at Playa de San Agustin",
+    "date": "2026-07-17",
+    "blurb": "A free open-air soul, funk and R&B music festival held on the seafront at Playa de San Agustin near Playa del Ingles, celebrating its 10th edition in 2026 with international and Canarian artists.",
+    "source_url": "https://www.radiomaspalomas.es/blog/el-x-maspalomas-soul-festival-2026-se-celebrara-del-17-al-19-de-julio/9220.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-del-silgar": {
+  "beach": "Sanxenxo",
+  "town": "Sanxenxo",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festas de Sanxenxo (Santa Rosalia, O Carme e San Xenxo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late August to early September (about 13 days); 2026 edition expected around 22 Aug - 5 Sep",
+    "date": "",
+    "blurb": "Sanxenxo's main patron-saint festivals honouring San Xenxo, Santa Rosalia and the Virxe do Carme, with masses, processions (including a maritime procession), firecrackers, fireworks, concerts and street celebrations near Silgar beach and the town centre.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/festas-sanxenxo-santa-rosalia-o-carme-e-san-xenxo-345.html",
+    "image_url": ""
+   },
+   {
+    "name": "Costa Feira Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (July-August); 2026 edition runs roughly 25 July - 25 August at Poligono de Nantes, Sanxenxo",
+    "date": "",
+    "blurb": "Summer music festival in Sanxenxo with a multi-night lineup of Spanish and Latin artists. The 2026 edition announced acts including Nicky Jam, Taburete and Loquillo across themed concert nights.",
+    "source_url": "https://www.festivalesdeespana.com/festival/festival-costa-feira-sanxenxo",
+    "image_url": ""
+   },
+   {
+    "name": "San Antonio (Sanxenxo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 13 June",
+    "date": "2026-06-13",
+    "blurb": "Traditional patronal celebration of Saint Anthony in Sanxenxo, featuring firecrackers and a procession at midday, a solemn mass in the evening and an open-air concert by the local Sanxenxo band.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/san-antonio-sanxenxo-3863.html",
+    "image_url": ""
+   },
+   {
+    "name": "Feira Gastronomica de Productos Galegos (Montalvo)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early August at Montalvo beach, Sanxenxo (about 5 km from Silgar)",
+    "date": "",
+    "blurb": "Galician gastronomic fair held at Montalvo beach in Sanxenxo, showcasing regional food products and traditional Galician dishes with tastings and stalls.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/feira-gastronomica-de-productos-galegos-sanxenxo-3569.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festa do Marisco de O Grove",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in October (about 12 days) in O Grove, neighbouring Sanxenxo (roughly 10 km); 2026 edition expected early-mid October",
+    "date": "",
+    "blurb": "One of Spain's best-known seafood festivals, held in nearby O Grove since 1963. Over its twelve days it draws more than 100,000 visitors with classic Galician dishes such as arroz con bogavante (rice with lobster) and abundant fresh shellfish.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/festa-do-marisco-o-grove-96.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festival de Maios e Coplas",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 1 May at Plaza Pascual Veiga / Circulo Cultural Deportivo, Sanxenxo",
+    "date": "2026-05-01",
+    "blurb": "Traditional Galician May Day celebration in Sanxenxo, with the presentation of the decorated 'maios' figures and a contest of satirical coplas (verses) sung by local groups.",
+    "source_url": "https://www.paxinasgalegas.es/fiestas/festival-de-maios-e-coplas-do-ccd-sanxenxo-15798.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-vadella": {
+  "beach": "Sant Josep de sa Talaia",
+  "town": "Sant Josep de sa Talaia",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festes de Sant Josep (Patron Saint Festivities of Sant Josep de sa Talaia)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 19 March (St Joseph's day), with a programme spanning early-to-late March; 2026 edition runs roughly 8 March - 9 April",
+    "date": "2026-03-19",
+    "blurb": "The patron-saint festival of the Sant Josep municipality (which includes Cala Vadella). Centred on St Joseph's day, 19 March, it features a solemn mass, procession, Ibizan folk dancing, children's activities, sport, exhibitions and a video-mapping show on the church facade.",
+    "source_url": "https://ibiza.travel/en/agenda/fiestas-patronales-de-sant-josep/",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Pepe Rock",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late March as part of the Festes de Sant Josep; 2026 edition (28th annual) on Saturday 28 March, headlined by Mago de Oz",
+    "date": "2026-03-28",
+    "blurb": "Long-running rock music night held in Sant Josep village as part of the patron-saint festivities, with live bands in local venues and a main concert beside the town hall. The 2026 edition is headlined by Spanish band Mago de Oz.",
+    "source_url": "https://www.santjosep.org/es/tu-municipio/fiestas-y-ocio/fiestas-patronales/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Agusti des Vedra (Patron Saint Festivities of Sant Agusti)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually centred on 28 August (St Augustine's day), with a programme of activities from roughly 20 August to 20 September",
+    "date": "2026-08-28",
+    "blurb": "One of the most popular summer village festivals in the Sant Josep municipality, held a short distance from Cala Vadella. The main day, 28 August, brings a mass, procession and music, alongside weeks of concerts, workshops, exhibitions, sport and family activities.",
+    "source_url": "https://ibiza.travel/en/agenda/fiestas-sant-agust/",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Josep Ecological Food and Craft Market (Mercat de Sant Josep)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "every Saturday morning (approx. 10:00-13:00), primarily in the summer season, in front of the Sant Josep town hall",
+    "date": "",
+    "blurb": "A weekly ecological food and craft market held in the centre of Sant Josep village, near Cala Vadella. Stalls offer local organic produce, meat, fruit and vegetables, plus handmade island crafts such as wicker baskets and slippers.",
+    "source_url": "https://www.ibiza-spotlight.com/event/ecological-food-and-craft-market-san-jose",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-los-bikinis": {
+  "beach": "Somo (Ribamontán al Mar), Cantabria",
+  "town": "Somo (Ribamontán al Mar), Cantabria",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Derby Internacional de Loredo (International Loredo Horse Race)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late July / early August on Loredo beach, timed to low tides; 2026 edition Sunday 26-27 July (LXVIII edition, races from 12:00)",
+    "date": "2026-07-27",
+    "blurb": "Historic horse-racing derby held directly on Loredo beach since 1957, declared a Festival of Tourist Interest of Cantabria. Professional jockeys race on the wet sand at low tide, drawing large crowds.",
+    "source_url": "https://www.ribamontanalmar.es/derby-de-loredo/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas Patronales de Santa María de Latas (Somo-Loredo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early September around 3-9 September; includes torchlight procession (3 Sept), live orchestras and fireworks; the Virgin's solemnity falls on 8 September",
+    "date": "2026-09-08",
+    "blurb": "Patron-saint festival of Somo and Loredo centred on the Sanctuary of Nuestra Senora de Latas, with a torchlight procession, masses, peñas, top Spanish orchestras, fireworks and a children's day (Latucas).",
+    "source_url": "https://www.ribamontanalmar.es/fiestas-ntra-sra-de-latas/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival de Surf, Skate & Música (Escuela Cántabra de Surf, Somo)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late August on Somo beach; recent editions ran from around 20-26 August",
+    "date": "",
+    "blurb": "Annual surf, skate and music festival on Somo beach organised by the Escuela Cantabra de Surf, combining national surf and skate competitions with live music; one of Spain's notable surf-culture events.",
+    "source_url": "https://www.escuelacantabradesurf.com/en/festival-cantabria-surf-school/",
+    "image_url": ""
+   },
+   {
+    "name": "Rip Curl GromSearch 2026 (Somo)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026 Somo stage on 1-3 May; junior categories Sub-12, Sub-14, Sub-16 (male and female)",
+    "date": "2026-05-01",
+    "blurb": "Stage of the international Rip Curl GromSearch junior surf circuit held at Somo beach, where category winners qualify for the European Final. Somo is the only Spanish venue on the circuit.",
+    "source_url": "https://www.federacioncantabradesurf.com/el-rip-curl-gromsearch-2026-esta-de-vuelta/",
+    "image_url": ""
+   },
+   {
+    "name": "Mercado Marinero de Somo (Somo Seafarers' Market)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in spring; 3rd edition held 3-5 April 2026 at the Nuevo Parque - Pista Deportiva, Somo (16:00-22:00)",
+    "date": "2026-04-03",
+    "blurb": "Themed maritime craft and gastronomy market in Somo, transforming the seafront park into a seafarers' atmosphere with artisan stalls, local food and the Cantabrian Sea as backdrop.",
+    "source_url": "https://agendamedieval.com/agenda/iii-mercado-marinero-de-somo-cantabria-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "la-concha-beach": {
+  "beach": "San Sebastián (Donostia)",
+  "town": "San Sebastián (Donostia)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Aste Nagusia / Semana Grande (Big Week) with International Fireworks Competition",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 15 August; 2026 edition 8-15 August, fireworks nightly at 22:45 over La Concha bay",
+    "date": "2026-08-08",
+    "blurb": "San Sebastián's main summer festival, nine days of concerts, Basque rural sports, gastronomy and dance. Its centerpiece is the International Fireworks Competition launched nightly over La Concha bay, watched from the beach and promenade.",
+    "source_url": "https://sansebastianturismoa.eus/en/culture-en/1337-great-week/",
+    "image_url": ""
+   },
+   {
+    "name": "Bandera de la Concha (Kontxako Bandera) Trainera Rowing Regatta",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually on the first two Sundays of September; 2026 finals on 6 and 13 September (qualifiers 2-3 September)",
+    "date": "2026-09-06",
+    "blurb": "One of the oldest and most famous Basque trainera (rowing boat) regattas, raced directly in La Concha Bay. Crews from along the Cantabrian coast compete for the flag before crowds exceeding 100,000 on the beach.",
+    "source_url": "https://www.sansebastianturismoa.eus/en/blog/basque/4121-donostiako-estropadak-bandera-concha-en",
+    "image_url": ""
+   },
+   {
+    "name": "San Sebastián International Film Festival (Zinemaldia)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in mid-to-late September; 74th edition 18-26 September 2026",
+    "date": "2026-09-18",
+    "blurb": "A FIAPF A-category film festival on par with Cannes, Venice and Berlin, held at venues including the Kursaal and Victoria Eugenia theatre near La Concha. Features the Official Selection and the lifetime-achievement Donostia Awards.",
+    "source_url": "https://www.sansebastianfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Tamborrada de San Sebastián (Drum Parade)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 20 January (San Sebastián Day); 24 hours of drumming starting midnight on the 19th",
+    "date": "2026-01-20",
+    "blurb": "The city's patron-saint celebration, a 24-hour drum festival in which tens of thousands of participants dressed as soldiers and cooks parade through the streets, beginning at midnight in Plaza de la Constitución.",
+    "source_url": "https://sansebastianturismoa.eus/en/culture-en/461-san-sebastian-day-the-tamborrada-drum-parade/",
+    "image_url": ""
+   },
+   {
+    "name": "Donostiako Jazzaldia (San Sebastián International Jazz Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late July; 2026 edition around 22-26 July",
+    "date": "",
+    "blurb": "One of Europe's oldest jazz festivals, held annually since 1966 with free open-air concerts on the Zurriola beach stage near La Concha plus headline shows at the Kursaal and other venues.",
+    "source_url": "https://www.jazzaldia.eus/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Quincena Musical (San Sebastián Music Fortnight)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August; 2026 edition roughly 2-30 August",
+    "date": "",
+    "blurb": "A long-running classical music season held since 1939, presenting orchestras, opera and chamber music across the city's main concert halls during August.",
+    "source_url": "https://www.spain.info/en/calendar/san-sebastian-music-fortnight/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-salada": {
+  "beach": "Sant Antoni de Portmany",
+  "town": "Sant Antoni de Portmany",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festes de Santa Agnes de Corona (Almond Blossom Festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually in late January around the patron saint day (21 January), coinciding with the almond trees in bloom on the Pla de Corona; cultural events, guided walks, craft markets and gastronomy",
+    "date": "2026-01-21",
+    "blurb": "Village fiesta of Santa Agnes de Corona, the hamlet just inland from Cala Salada, celebrated when the almond trees of the Pla de Corona blossom in white and pink. Includes a mass and procession, folklore, guided walks, craft markets and local food.",
+    "source_url": "https://www.ibiza-spotlight.com/event/fiestade-santa-ines-santa-agnes",
+    "image_url": ""
+   },
+   {
+    "name": "Cursa Flor d'Ametller (Almond Blossom Race)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually in early-to-mid February; 2026 edition on 8 February at 10:00",
+    "date": "2026-02-08",
+    "blurb": "Running race organised by Sa Raval Athletics Club through Santa Agnes de Corona to celebrate the almond blossom season, with 7.5 km, 1 km and 300 m categories for all ages.",
+    "source_url": "https://www.ibiza-spotlight.com/event/almond-blossom-race",
+    "image_url": ""
+   },
+   {
+    "name": "Festes Patronals de Sant Antoni",
+    "type": "festival",
+    "recurring": true,
+    "when": "Annually around the patron saint day, 17 January, with a programme of activities running across January into February",
+    "date": "2026-01-17",
+    "blurb": "Patron saint festival of Sant Antoni de Portmany, the main town near Cala Salada. The main day on 17 January features a solemn mass, procession, blessing of animals, traditional dancing and food tasting, surrounded by a month of cultural, musical, sporting and gastronomic activities.",
+    "source_url": "https://visit.santantoni.net/en/events/fiestas-patronales-de-sant-antoni-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Bartomeu",
+    "type": "festival",
+    "recurring": true,
+    "when": "Annually around 24 August, the patron saint day of the town",
+    "date": "2026-08-24",
+    "blurb": "Summer patron saint festival of Sant Antoni de Portmany honouring Saint Bartholomew on 24 August, famous for the fireworks display over the bay, plus concerts, gastronomic events, traditional markets, historical recreations and sports competitions.",
+    "source_url": "https://www.ibiza-calendar.com/eventos/fiestas-sant-bartomeu-san-antoni-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Festa des Vi Pages (Country Wine Festival), Sant Mateu d'Albarca",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "Annually in December (typically the second Friday), marking the end of the local wine harvest",
+    "date": "",
+    "blurb": "Traditional homemade country wine festival in the inland village of Sant Mateu d'Albarca, a short distance northeast of Cala Salada. Visitors taste local 'vi pages' wines, eat grilled meats and charcuterie, and dance to live music.",
+    "source_url": "https://visit.santantoni.net/en/events/sant-mateu-wine-festival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "san-lorenzo-beach": {
+  "beach": "Gijón",
+  "town": "Gijón",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Semana Grande de Begoña (Gijón Great Week)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early-mid August (around 6-15 August); 2026 edition 6-15 August",
+    "date": "2026-08-15",
+    "blurb": "Gijón's main summer festival honouring Our Lady of Begoña, with concerts in Plaza Mayor and Paseo de Begoña, beach activities at Playa de Poniente, processions and traditional dances. It closes on 15 August with the Danza Prima and Restallón.",
+    "source_url": "https://gijon.semanagrande.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Noche de los Fuegos (Night of the Fireworks)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 14 August during Semana Grande; 2026 edition 14 August",
+    "date": "2026-08-14",
+    "blurb": "A spectacular fireworks display launched from the Cerro de Santa Catalina over the San Lorenzo bay, drawing tens of thousands of spectators to San Lorenzo Beach and Playa de Poniente. One of Spain's most impressive urban fireworks shows.",
+    "source_url": "https://gijon.semanagrande.com/events/noche-de-los-fuegos/",
+    "image_url": ""
+   },
+   {
+    "name": "Día de Asturias en Gijón (Asturias Day)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually the first Sunday of August at Cerro de Santa Catalina; 2026 around 2 August",
+    "date": "",
+    "blurb": "Asturias Day celebration at the Cerro de Santa Catalina above San Lorenzo Beach, featuring a midday parade with bagpipe bands and folklore groups, the auction of the traditional 'ramu', Danza Prima and Asturian rural sports.",
+    "source_url": "https://blog.telecable.es/fiestas-gijon/",
+    "image_url": ""
+   },
+   {
+    "name": "Antroxu (Gijón Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February around the carnival period; 2026 edition 13-17 February",
+    "date": "2026-02-16",
+    "blurb": "Gijón's lively carnival with five days of celebrations from Thursday of Comadres to the Burial of the Sardine. The highlight is the Antroxu Parade on Carnival Monday, with floats and charangas filling the streets with music and costumes.",
+    "source_url": "https://www.gijon.es/es/eventos/programa-antroxu-2026",
+    "image_url": ""
+   },
+   {
+    "name": "FIDMA - Feria Internacional de Muestras de Asturias",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in August (roughly first half of the month); 2026 edition around 1-16 August",
+    "date": "",
+    "blurb": "The International Trade Fair of Asturias, held in Gijón since 1924, is one of northern Spain's largest summer events, drawing over 700,000 visitors with exhibitions, commercial stands, entertainment and concerts.",
+    "source_url": "https://blog.telecable.es/fiestas-gijon/",
+    "image_url": ""
+   },
+   {
+    "name": "Triatlón Ciudad de Gijón Playa de San Lorenzo",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (typically summer), with swim leg in San Lorenzo bay; 2026 date to be confirmed",
+    "date": "",
+    "blurb": "Triathlon staged directly at San Lorenzo Beach, with the open-water swim in the bay and cycling and running legs through the city. It includes sprint and middle-distance categories and aims to be a national-calendar reference event.",
+    "source_url": "https://www.trigijonplayasanlorenzo.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cantabrian-coast": {
+  "beach": "Somo (Ribamontán al Mar)",
+  "town": "Somo (Ribamontán al Mar)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festival de Surf, Skate y Música de la Escuela Cántabra de Surf",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late August (a full week); 2026 edition (35th anniversary) 20-26 August",
+    "date": "2026-08-20",
+    "blurb": "Long-running free festival on Somo beach combining surfing, skateboarding and live music/DJs, gathering top national surfers and riders. One of the oldest surf events in Spain, organised by the Escuela Cantabra de Surf.",
+    "source_url": "https://www.escuelacantabradesurf.com/en/festival-cantabria-surf-school/",
+    "image_url": ""
+   },
+   {
+    "name": "EDP Surf Pro Spain - Somo Stop",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September; 2026 Somo stop waiting period 19-27 September",
+    "date": "2026-09-19",
+    "blurb": "Opening stop of the national EDP Surf Pro Spain professional surfing league, held at Playa de Somo and organised by the Escuela Cantabra de Surf, with an 8,000 euro prize purse and a focus on inclusion and sustainability.",
+    "source_url": "https://surfprospain.es/somo",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas Patronales de Santa María de Latas (Somo - Loredo)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early September around the feast of 8 September; 2026 expected 5-9 September",
+    "date": "",
+    "blurb": "Patron-saint festival centred on the Sanctuary of Santa María de Latas in Somo-Loredo, with masses, traditional dances, a municipal choir, orchestras, fireworks and a children's day (Latucas) on 9 September.",
+    "source_url": "https://www.ribamontanalmar.es/evento/fiestas-patronales-santa-maria-de-latas/",
+    "image_url": ""
+   }
+  ]
+ },
+ "barceloneta-beach": {
+  "beach": "Barcelona",
+  "town": "Barcelona",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Revetlla de Sant Joan (Saint John's Eve)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23 June into 24 June (summer solstice); 2026 edition night of 23 June 2026",
+    "date": "2026-06-23",
+    "blurb": "Catalonia's summer-solstice night, when bonfires, firecrackers and all-night beach parties take over Barcelona. Barceloneta beach is one of the most popular gathering spots, drawing thousands with music, picnics and fireworks after sunset.",
+    "source_url": "https://irbarcelona.org/traditions-festivals/sant-joan-night-verbena/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major de la Barceloneta (Festes de Sant Miquel)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late September around the feast of Sant Miquel (29 September); 2026 dates pending confirmation",
+    "date": "",
+    "blurb": "The Barceloneta neighbourhood's own main festival, honouring patron saint Sant Miquel del Port. Days of sardanes, havaneres singing, correfocs (fire runs), giants parades (Pep Barcelona and Maria la Neta), concerts, sport and urban-culture workshops. Tradition dating back to 1855.",
+    "source_url": "https://irbarcelona.cat/festes-tradicions-catalunya/festa-major-barceloneta/",
+    "image_url": ""
+   },
+   {
+    "name": "La Mercè Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 24 September (city patron saint); 2026 edition 23-27 September 2026",
+    "date": "2026-09-23",
+    "blurb": "Barcelona's biggest city festival, honouring patron saint Our Lady of Mercy. Castellers, correfocs, giants and pyrotechnic shows, including a fireworks display over Barceloneta beach. The 2026 edition ties in with Barcelona as World Capital of Architecture and the Gaudi centenary.",
+    "source_url": "https://www.barcelona-tourist-guide.com/en/events/la-merce/barcelona-la-merce.html",
+    "image_url": ""
+   },
+   {
+    "name": "Primavera Sound Barcelona",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early June at Parc del Forum; 2026 edition 4-6 June 2026",
+    "date": "2026-06-04",
+    "blurb": "Major international music festival held at Parc del Forum on Barcelona's seafront, a short distance up the coast from Barceloneta. Hosts a large lineup of rock, pop and electronic acts over several days.",
+    "source_url": "https://www.primaverasound.com/en/barcelona",
+    "image_url": ""
+   },
+   {
+    "name": "Sonar Festival (Sonar de Dia / Sonar de Nit)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in mid-to-late June; 2026 edition around 18-20 June 2026",
+    "date": "",
+    "blurb": "Barcelona's renowned festival of advanced electronic music and digital art, held across venues in the city not far from the seafront. Combines daytime and nighttime programming with international DJs and live acts.",
+    "source_url": "https://www.barcelonatourism.org/barcelona-festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-llonga": {
+  "beach": "Santa Eulària des Riu",
+  "town": "Santa Eulària des Riu",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festes de Maig (May Festivities of Santa Eulària des Riu)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually throughout May; main day on the first Sunday of May; 2026 main day Sunday 3 May",
+    "date": "2026-05-03",
+    "blurb": "The municipality's oldest and most deeply rooted patron-saint celebration, honouring the Virgin of the Rosary. The first Sunday features a solemn mass and traditional dance at Puig de Missa plus parades of carts, horses, classic cars and motorcycles, alongside 80+ cultural, sporting and festive activities all month.",
+    "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2/may-festivities-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Santa Eulària (Patron Saint's Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early February to late March; patron saint's day 12 February",
+    "date": "2026-02-12",
+    "blurb": "Santa Eulària's patron-saint festival with around 150 events including children's games, workshops, a solemn mass and procession at Puig de Missa, traditional dancing, street music, tastings and more than 70 concerts across local bars and restaurants.",
+    "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2/santa-eularia-festivities-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Santa Eulària Ibiza Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in April; 2026 edition Saturday 18 April",
+    "date": "2026-04-18",
+    "blurb": "Road running event with full marathon (42K), 22K and a family-friendly 12K along the Santa Eulària seafront, drawing thousands of runners from many countries. The marathon route starts at the Port of Ibiza.",
+    "source_url": "https://ibizamarathon.es/en/home/",
+    "image_url": ""
+   },
+   {
+    "name": "Barruguet Family Theatre Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May; 2026 edition 22-24 May",
+    "date": "2026-05-22",
+    "blurb": "Family-oriented theatre festival in Santa Eulària des Riu with around 20 public performances plus additional shows aimed at schools and care homes, part of the town's May programme.",
+    "source_url": "https://visitsantaeulalia.com/en/nueva-agenda-2/may-festivities-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Las Dalias Hippy Market (Sant Carles de Peralta)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "every Saturday year-round, plus summer night markets; Christmas market in December",
+    "date": "",
+    "blurb": "One of Ibiza's largest and best-known markets, running since 1985, with around 300 stalls of crafts, fashion, jewellery, gastronomy and gifts in nearby Sant Carles de Peralta. Saturdays year-round with additional summer night markets.",
+    "source_url": "https://lasdalias.es/en/markets",
+    "image_url": ""
+   },
+   {
+    "name": "Ibiza Medieval Fair (Eivissa Medieval, Dalt Vila)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in May; 2026 edition 7-10 May",
+    "date": "2026-05-07",
+    "blurb": "Annual medieval fair in the fortified old town (Dalt Vila) of nearby Ibiza Town, turning the streets into a medieval scene with markets, crafts, food, musicians, jugglers and shows.",
+    "source_url": "https://www.ibiza-spotlight.com/event/ibizas-medieval-fair",
+    "image_url": ""
+   }
+  ]
+ },
+ "la-fosca": {
+  "beach": "Palamós",
+  "town": "Palamós",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Festa Major de Palamós (Sant Joan)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late June around the feast of Sant Joan; 2026 edition approximately 20-23 June",
+    "date": "",
+    "blurb": "Palamós's main town festival tied to the Sant Joan midsummer celebrations, with open-air concerts (Barraques on Platja Gran), habaneres, the Flama del Canigó, a bonfire night and closing fireworks.",
+    "source_url": "https://en.costabrava.org/what-to-do/culture/events/festes-majors-main-local-festivals/palamos-main-festival-100925",
+    "image_url": ""
+   },
+   {
+    "name": "Fira de la Gamba de Palamós (Prawn Fair)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early June at the Port de Palamós fish market; 2025 edition was 7 June",
+    "date": "",
+    "blurb": "Gastronomy fair celebrating the famous Palamós red prawn, held beside the fish market with tastings, cooking demonstrations and activities promoting the town's fishing heritage and sustainable practices.",
+    "source_url": "https://firadelagamba.cat/",
+    "image_url": ""
+   },
+   {
+    "name": "Palamós Terra de Mar - Maritime Festival of the Costa Brava",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May; 2026 edition 23-24 May",
+    "date": "2026-05-23",
+    "blurb": "A maritime festival celebrating Costa Brava sea culture with boat tours, kayaking, sailing and SUP activities, plus marine-science and underwater-robotics demonstrations from the University of Girona.",
+    "source_url": "https://palamosterrademar.cat/",
+    "image_url": ""
+   },
+   {
+    "name": "Rumb(A) Palamós - Catalan Rumba Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually on Fridays during July",
+    "date": "",
+    "blurb": "Summer music festival featuring free Catalan rumba concerts on Friday evenings throughout July in Palamós.",
+    "source_url": "https://costabrava.org/en/what-to-do/culture/festivals/palamos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Amb So de Cobla Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early August; 2025 edition 5-9 August",
+    "date": "",
+    "blurb": "Festival of traditional Catalan cobla music held in Palamós each August.",
+    "source_url": "https://costabrava.org/en/what-to-do/culture/festivals/palamos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Virgin of Carmel sea procession (Festa del Carme)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 16 July",
+    "date": "2026-07-16",
+    "blurb": "Traditional maritime celebration honouring the Virgin of Carmel, patron saint of fishermen and sailors, with decorated fishing boats taking part in a procession by sea, observed in Palamós and other Costa Brava coastal towns.",
+    "source_url": "https://costabrava.org/en/what-to-do/culture/festivals/palamos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Cantada d'Havaneres de Calella de Palafrugell",
+    "type": "music",
+    "recurring": true,
+    "when": "annually on the first Saturday of July at Port Bo beach, Calella de Palafrugell (about 8 km from La Fosca); 58th edition was 5 July 2025",
+    "date": "",
+    "blurb": "The reference gathering of the havaneres (Catalan sea-shanty) world, a seaside concert at Port Bo beach in nearby Calella de Palafrugell featuring traditional habanera singing and cremat (flamed rum).",
+    "source_url": "https://www.havanerescalella.cat/en/",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-de-riazor": {
+  "beach": "A Coruña",
+  "town": "A Coruña",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Noite de San Xoán (San Juan Bonfires)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on the night of 23-24 June; 2026 edition night of 23 June into 24 June",
+    "date": "2026-06-23",
+    "blurb": "A Coruña's biggest festival, declared of International Tourist Interest, with bonfires lit directly on Riazor, Orzán and Matadero beaches. Over 150,000 people gather for sardine grills, music and the midnight 'Noite da Quema' bonfire ritual followed by fireworks.",
+    "source_url": "https://www.spain.info/en/calendar/bonfires-san-juan-a-coruna/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de María Pita",
+    "type": "festival",
+    "recurring": true,
+    "when": "Annually throughout August; 2026 edition runs across August (opening 1 August)",
+    "date": "",
+    "blurb": "A Coruña's main month-long summer festival held in and around Plaza de María Pita, featuring free concerts, craft fairs, exhibitions and family activities throughout August.",
+    "source_url": "https://www.coruna.gal/tourism/en/event-calendar/festivals-and-events?argIdioma=en",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Noroeste Estrella Galicia",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in early August during the María Pita festivities; 2026 edition 5-10 August",
+    "date": "2026-08-05",
+    "blurb": "Long-running free live-music festival across several plazas and beaches of A Coruña, celebrating its 40th edition in 2026 with multiple stages of free concerts.",
+    "source_url": "https://www.festivalesdeespana.com/en/festival/noroeste-estrella-galicia-festival-a-coruna",
+    "image_url": ""
+   },
+   {
+    "name": "International Folk Festival 'Cidade da Coruña'",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually in August during the María Pita festivities (held since 1987); five days of performances",
+    "date": "",
+    "blurb": "International folklore festival running since 1987, coinciding with the María Pita fiestas, with participating groups from around the world performing traditional dance and music over five days.",
+    "source_url": "https://www.spain.info/en/calendar/international-festival-folklore-cidade-a-coruna/",
+    "image_url": ""
+   },
+   {
+    "name": "Medio Maratón Coruña21 (Half Marathon)",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually around late February / early March; 2026 (18th edition) on 1 March, 09:30 start",
+    "date": "2026-03-01",
+    "blurb": "Certified 21.097 km half marathon (plus a 5K race) on a fast, flat seafront circuit, starting at the Obelisco on Cantón Grande and finishing at Plaza de María Pita.",
+    "source_url": "https://www.coruna.gal/carreraspopulares/es/coruna21/presentacion?argIdioma=es",
+    "image_url": ""
+   },
+   {
+    "name": "Entroido (Carnival) of A Coruña",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually in February (Carnival week); 2026 edition 13-18 February",
+    "date": "2026-02-13",
+    "blurb": "A Coruña's carnival week with the enthronement of the Momo God, a grand parade to María Pita, the Choqueiros competition, and the Burial of the Sardine ending at San Amaro beach, plus traditional gastronomy like filloas and orejas.",
+    "source_url": "https://www.coruna.gal/tourism/en/event-calendar/festivals-and-events?argIdioma=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "zurriola-beach": {
+  "beach": "San Sebastián (Donostia)",
+  "town": "San Sebastián (Donostia)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Tamborrada (Drum Festival) — San Sebastián Day",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on 20 January (begins at midnight on 19 January); 2026 edition centred on 20 January 2026",
+    "date": "2026-01-20",
+    "blurb": "A 24-hour drum festival marking the feast day of Saint Sebastian, the city's patron saint. Over 100 bands and 15,000 locals parade through the streets drumming, including a famous children's parade.",
+    "source_url": "https://sansebastianturismoa.eus/en/culture-en/461-san-sebastian-day-the-tamborrada-drum-parade/",
+    "image_url": ""
+   },
+   {
+    "name": "Jazzaldia (San Sebastián Jazz Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in late July; 2026 edition (61st) around 22-26 July 2026",
+    "date": "",
+    "blurb": "One of the oldest jazz festivals in Europe, internationally renowned, with concerts across the city including free open-air stages, some near Zurriola beach and the Kursaal.",
+    "source_url": "https://www.jazzaldia.eus/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Grande / Aste Nagusia (Grand Week)",
+    "type": "festival",
+    "recurring": true,
+    "when": "Annually the week including 15 August; 2026 edition 8-15 August 2026",
+    "date": "2026-08-08",
+    "blurb": "San Sebastián's main summer festival with Basque folklore, concerts and street entertainment, including events at the port and around Zurriola beach.",
+    "source_url": "https://www.spain.info/en/calendar/semana-grande-san-sebastian/",
+    "image_url": ""
+   },
+   {
+    "name": "International Fireworks Competition (Donostia)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually during Semana Grande, nightly at 22:45 over La Concha bay; 2026 edition (60th) 8-15 August 2026",
+    "date": "2026-08-08",
+    "blurb": "A nightly pyrotechnics contest during Semana Grande where teams compete over La Concha bay for the Concha de Oro prize. Free to watch from the promenades, hillsides and boats.",
+    "source_url": "https://www.festivalesdeespana.com/en/festival/donostia-international-fireworks-competition-san-sebastian",
+    "image_url": ""
+   },
+   {
+    "name": "San Sebastián Musical Fortnight (Quincena Musical)",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in August; 2026 edition approximately 2-30 August 2026",
+    "date": "",
+    "blurb": "A classical music season held every summer since 1939, spanning a broad range of styles and composers across venues in the city.",
+    "source_url": "https://www.spain.info/en/calendar/san-sebastian-music-fortnight/",
+    "image_url": ""
+   },
+   {
+    "name": "San Sebastián International Film Festival (Zinemaldia)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually in mid-to-late September; 2026 edition (74th) 18-26 September 2026",
+    "date": "2026-09-18",
+    "blurb": "A FIAPF A-category film festival on a par with Cannes, Venice and Berlin, centred on the Kursaal next to Zurriola beach, featuring Official Selection screenings and the Donostia Awards.",
+    "source_url": "https://www.sansebastianfestival.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "platja-de-la-nova-mar-bella": {
+  "beach": "Barcelona (Poblenou, Sant Martí)",
+  "town": "Barcelona (Poblenou, Sant Martí)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Nit de Sant Joan (Midsummer Night)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23-24 June; 2026 edition night of 23 June into 24 June",
+    "date": "2026-06-23",
+    "blurb": "Catalonia's summer solstice celebration with bonfires, firecrackers, fireworks, coca cake and cava. The nearby Mar Bella, Bogatell and Nova Icaria beaches fill with thousands of people partying through the night, making this one of the biggest events right on this stretch of coast.",
+    "source_url": "https://www.barcelonaturisme.com/wv3/en/agenda/14525/the-verbena-and-the-festival-of-san-juan.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Major del Poblenou",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in mid-September; 2026 edition runs 5-14 September",
+    "date": "2026-09-05",
+    "blurb": "The main neighbourhood festival of Poblenou, the district immediately behind the beach, with hundreds of activities, concerts, popular culture, correfocs and street parties across many venues over about ten days.",
+    "source_url": "https://ajuntament.barcelona.cat/santmarti/ca/noticies/la-festa-major-del-poblenou-mes-gran-que-mai-1546731",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Maig del Poblenou",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in May; 48th edition 15-17 May 2026",
+    "date": "2026-05-15",
+    "blurb": "A long-running spring festival in the Poblenou neighbourhood featuring concerts, children's activities, popular Catalan culture, a wine festival and a fair of local associations and artisans.",
+    "source_url": "https://ajuntament.barcelona.cat/dretsidiversitat/es/detail/festes-de-maig-del-poblenou-2026_99400225763",
+    "image_url": ""
+   },
+   {
+    "name": "Primavera Sound Barcelona",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early June at Parc del Forum (about 2 km north of the beach); 2026 edition 4-6 June",
+    "date": "2026-06-04",
+    "blurb": "One of Europe's largest indie, rock and electronic music festivals, held at the Parc del Forum just up the coast from the beach. The 2026 edition features The Cure, Gorillaz, Massive Attack, Doja Cat and Skrillex among many others.",
+    "source_url": "https://parcdelforum.barcelona/en/calendar/primavera-sound-2026",
+    "image_url": ""
+   },
+   {
+    "name": "La Merce Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 24 September (city patron saint day); 2026 edition 23-27 September",
+    "date": "2026-09-23",
+    "blurb": "Barcelona's largest annual festival honouring the city's patron saint, the Mare de Deu de la Merce, with castellers (human towers), correfocs, giants, concerts and fireworks across the city. The 2026 guest city is Manchester.",
+    "source_url": "https://www.barcelona.cat/lamerce/en",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-la-caleta": {
+  "beach": "Cádiz",
+  "town": "Cádiz",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Carnaval de Cádiz",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February (movable, before Lent); 2026 edition 12-22 February, with fireworks over La Caleta on the main parade Sundays",
+    "date": "2026-02-12",
+    "blurb": "One of Spain's most famous carnivals, declared an International Tourist Attraction. Ten days of choirs (coros), comparsas and satirical chirigotas, street singing, parades and fireworks, some of them launched over Playa de la Caleta.",
+    "source_url": "https://www.andalucia.com/festival/carnival-cadiz.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Procession of the Virgen del Carmen",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 16 July",
+    "date": "2026-07-16",
+    "blurb": "Maritime-religious festival honouring the patron of sailors. The image of the Virgin is carried out from Playa de la Caleta and taken around the bay of Cádiz by boat, escorted by a flotilla of fishing vessels, with bands and fireworks.",
+    "source_url": "https://www.andalucia.com/festival/virgindelcarmen.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Entierro de la Caballa (Burial of the Mackerel)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in late August (around 22-25 August), marking the end of summer",
+    "date": "",
+    "blurb": "A mock funeral procession winds through the La Viña neighbourhood carrying a giant wooden mackerel that is finally burned on Playa de la Caleta. Includes a free public tasting of noodles with mackerel and carnival performances on the beach.",
+    "source_url": "https://www.cadizturismo.com/es/eventos/entierro-de-la-caballa",
+    "image_url": ""
+   },
+   {
+    "name": "Trofeo Carranza (Ramón de Carranza Trophy)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early-to-mid August at the Nuevo Mirandilla stadium",
+    "date": "",
+    "blurb": "Long-running international pre-season football tournament hosted by Cádiz CF, drawing top invited clubs. The matches turn the city into a festival with concerts, family activities and a beach-party atmosphere.",
+    "source_url": "https://www.festivalesdeespana.com/en/festival/ramon-carranza-trophy-cadiz",
+    "image_url": ""
+   },
+   {
+    "name": "Semana Santa de Cádiz (Holy Week)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually during Holy Week (March/April, movable); 2026 falls 29 March-5 April",
+    "date": "2026-03-29",
+    "blurb": "Solemn Holy Week processions of brotherhoods carrying ornate floats through the historic centre of Cádiz, close to Playa de la Caleta, with music and incense over several days.",
+    "source_url": "https://www.cadizturismo.com",
+    "image_url": ""
+   }
+  ]
+ },
+ "platja-de-migjorn": {
+  "beach": "Sant Ferran de ses Roques (Formentera)",
+  "town": "Sant Ferran de ses Roques (Formentera)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Formentera Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early June; 2026 edition (12th) runs 4-7 June 2026, with free open-air concerts in Sant Francesc, Blue Bar, Sa Panxa and Ses Roques",
+    "date": "2026-06-04",
+    "blurb": "Free four-day jazz festival held at emblematic spots across Formentera, including Sant Francesc square and seaside venues. Winner of the 2025 Balearic Islands Tourism Award for Best Tourist Experience.",
+    "source_url": "https://www.formentera.es/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Joan (La Mola)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 23-24 June, with celebrations through late June in El Pilar de la Mola; bonfire night on 23-24 June",
+    "date": "2026-06-24",
+    "blurb": "Traditional midsummer festival in El Pilar de la Mola featuring the giant Sant Joan bonfire, gaita payesa folk music, concerts, traditional dances and workshops.",
+    "source_url": "https://www.formentera.es/en/agenda/sant-joan/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Ferran de ses Roques",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 30 May in Sant Ferran de ses Roques",
+    "date": "2026-05-30",
+    "blurb": "Patron-saint festivities of Sant Ferran, the village nearest Platja de Migjorn, with a procession, concerts, traditional dancing, a market in the church square and children's activities.",
+    "source_url": "https://www.formentera.es/en/agenda/festes-de-sant-ferran/",
+    "image_url": ""
+   },
+   {
+    "name": "La Mola Artisan (Hippy) Market",
+    "type": "cultural",
+    "recurring": true,
+    "when": "every Wednesday and Sunday from May to October, 16:00-22:00, in El Pilar de la Mola",
+    "date": "",
+    "blurb": "Long-running craft and art market (established 1984) in El Pilar de la Mola, with handmade fashion, jewellery and crafts plus live music, storytelling and local food.",
+    "source_url": "https://www.formentera.es/en/la-mola-artisan-market/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de la Mare de Deu del Pilar (El Pilar de la Mola)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 12 October in El Pilar de la Mola, traditionally coinciding with the autumn pig-slaughter season",
+    "date": "2026-10-12",
+    "blurb": "Autumn patron festival of Our Lady of Pilar in El Pilar de la Mola, with fairs, concerts and traditional gastronomy events.",
+    "source_url": "https://www.formentera.es/en/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-agulla": {
+  "beach": "Cala Rajada (Capdepera)",
+  "town": "Cala Rajada (Capdepera)",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Mercat Medieval de Capdepera (Medieval Market)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in mid-May; 2026 edition 15-17 May 2026",
+    "date": "2026-05-15",
+    "blurb": "Long-running medieval-themed festival held within and around Capdepera's hilltop castle, with costumed performers, artisan craft stalls, falconry, fire shows and traditional food. First held in 2000 to commemorate the castle's founding.",
+    "source_url": "https://visitcapdepera.com/en/medieval-market-of-capdepera/",
+    "image_url": ""
+   },
+   {
+    "name": "Festes de Sant Roc (Cala Rajada)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in mid-August, roughly 8-16 August",
+    "date": "",
+    "blurb": "Cala Rajada's main summer patron-saint festival with open-air dances, concerts, correfocs (fire runs), children's activities, contests, gastronomic events and sports over about a week.",
+    "source_url": "https://ajcapdepera.net/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Serenates d'Estiu de Cala Rajada",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (July-August), concert series",
+    "date": "",
+    "blurb": "Long-established summer concert series organised by Joventuts Musicals de Capdepera (founded 1988), held in the gardens of the Fundació Bartomeu March, featuring classical, chamber, baroque, jazz and fusion music with national and international artists.",
+    "source_url": "https://ajcapdepera.net/es/node/15165",
+    "image_url": ""
+   },
+   {
+    "name": "Mostra de la Llampuga (Gold Mackerel / Mahi-Mahi Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually on the second weekend of October",
+    "date": "",
+    "blurb": "Traditional gastronomy fair in Cala Rajada celebrating the local llampuga (mahi-mahi) fish, with cooking shows and tastings, habanera music contests, craft demonstrations and a trade fair.",
+    "source_url": "https://www.illesbalears.travel/en/mallorca/events-mostra-de-la-llampuga-de-cala-ratjada",
+    "image_url": ""
+   },
+   {
+    "name": "Festes del Turista (Capdepera & Cala Rajada)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late September",
+    "date": "",
+    "blurb": "Festival held to thank holidaymakers visiting Capdepera and Cala Rajada, with markets, music, dance, gastronomy and cultural activities bringing locals and tourists together.",
+    "source_url": "https://www.oncapdepera.com/events.php",
+    "image_url": ""
+   },
+   {
+    "name": "Illes Balears Ballooning Festival (Capdepera)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late October (around 22-26 October)",
+    "date": "",
+    "blurb": "International hot-air balloon festival based in Capdepera, with pilots and teams from across Europe, morning and evening flights, exhibitions and family activities over several days.",
+    "source_url": "https://www.oncapdepera.com/events.php",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-blanca": {
+  "beach": "Playa Blanca",
+  "town": "Playa Blanca",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Fiestas del Carmen Playa Blanca",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually mid-July, main day around 16 July; includes a grand maritime procession of decorated boats along the southern coast",
+    "date": "2026-07-16",
+    "blurb": "Playa Blanca's main patron festival honouring the Virgen del Carmen, patroness of fishermen. Features a solemn mass, street procession, a maritime procession of decorated boats along Lanzarote's southern coast, concerts and open-air dances.",
+    "source_url": "https://lanzarote3.com/en/fiestas-del-carmen-de-playa-blanca-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Playa Blanca Carnival (Carnaval de Playa Blanca)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late winter/early spring; 2026 edition 12-15 March, theme 'The Gods of Olympus', Grand Parade on Saturday 14 March",
+    "date": "2026-03-14",
+    "blurb": "Southern Lanzarote's lively carnival in Playa Blanca with a Grand Parade, live music concerts and free events on Av. Papagayo. The 2026 theme is 'The Gods of Olympus' and the main parade falls on Saturday 14 March.",
+    "source_url": "https://gazettelife.com/news/playa-blanca-carnival-2026-events-programme/",
+    "image_url": ""
+   },
+   {
+    "name": "Fiestas de San Marcial del Rubicon (Femes)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually late June to early July, main day 7 July, in the village of Femes above Playa Blanca",
+    "date": "2026-07-07",
+    "blurb": "Religious and cultural festival in the hilltop village of Femes honouring San Marcial del Rubicon, patron saint of Lanzarote. Includes mass, procession, folklore and traditional music, held roughly 10 km from Playa Blanca beach.",
+    "source_url": "https://yaiza.es/programa-fiestas-de-san-marcial-en-femes/",
+    "image_url": ""
+   }
+  ]
+ },
+ "playa-de-rodas": {
+  "beach": "Vigo",
+  "town": "Vigo",
+  "country": "Spain",
+  "events": [
+   {
+    "name": "Sinsal SON Estrella Galicia",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late July on San Simón island in the Ría de Vigo; 2026 edition expanded to two weekends, 24-26 July and 31 July-2 August",
+    "date": "2026-07-24",
+    "blurb": "Boutique music festival held on the island of San Simón in the Vigo estuary, famous for keeping its line-up secret until the audience disembarks on the island.",
+    "source_url": "https://sinsal.gal/es/",
+    "image_url": ""
+   },
+   {
+    "name": "O Marisquiño",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early-to-mid August at Samil beach, Vigo (facing the Cíes Islands); 2026 edition 6-9 August",
+    "date": "2026-08-06",
+    "blurb": "Southern Europe's largest free urban-culture and action-sports festival, with skate, BMX, breaking and 3x3 basketball competitions plus music and gastronomy, centred on Samil beach with the Cíes Islands as a backdrop.",
+    "source_url": "https://xn--omarisquio-19a.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa da Reconquista de Vigo",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in late March in Vigo's old town; main days 27-29 March, with the central date on 28 March (2026)",
+    "date": "2026-03-28",
+    "blurb": "Festival of National Tourist Interest re-enacting the 1809 popular uprising that expelled Napoleon's troops from the city, with period costumes, street markets, traditional music and dance.",
+    "source_url": "https://www.turismodevigo.org/en/reconquest-vigo",
+    "image_url": ""
+   },
+   {
+    "name": "Galicia Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late June at the Peirao de Trasatlánticos, Vigo; 2026 edition 26-27 June",
+    "date": "2026-06-26",
+    "blurb": "Two-day pop and Latin music festival on Vigo's transatlantic quay, featuring a multi-artist Spanish and Latin American line-up.",
+    "source_url": "https://galiciafest.gal/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Aéreo Internacional de Vigo (Vigo International Airshow)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (typically July-August) over Samil beach, Vigo, facing the Cíes Islands",
+    "date": "",
+    "blurb": "Large free international airshow flown over Samil beach and the Vigo estuary, drawing well over 100,000 spectators with aerobatic and military display teams.",
+    "source_url": "https://www.turismodevigo.org/en/large-concerts-and-festivals",
+    "image_url": ""
+   },
+   {
+    "name": "San Xoán (Saint John's Eve / Summer Solstice)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the night of 23 June, with bonfires on Vigo's beaches and across Galicia",
+    "date": "2026-06-23",
+    "blurb": "Traditional midsummer celebration welcoming the solstice with beach bonfires (cacharelas), music and seasonal food along the Vigo coastline.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ }
+}

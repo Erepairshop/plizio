@@ -1,0 +1,82 @@
+[
+ {
+  "slug": "stawiki",
+  "name": "Stawiki",
+  "qid": "Q34497829",
+  "coord": "Point(19.110153611 50.273895527)",
+  "sitelinks": 3,
+  "file": "pl-beach-stawiki.webp",
+  "commons_file": "Pond Stawiki, pier and beach, Sosnowiec.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "miedzyzdroje-beach",
+  "name": "Międzyzdroje beach",
+  "qid": "Q49323506",
+  "coord": "Point(14.44758 53.93297)",
+  "sitelinks": 2,
+  "file": "pl-beach-miedzyzdroje-beach.webp",
+  "commons_file": "DJI 0181-Strand-Misdroj.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pobierowo-beach",
+  "name": "Pobierowo beach",
+  "qid": "Q49323526",
+  "coord": "Point(14.92591 54.06085)",
+  "sitelinks": 1,
+  "file": "pl-beach-pobierowo-beach.webp",
+  "commons_file": "Pobierowo02.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "poniatowka-beach",
+  "name": "Poniatówka Beach",
+  "qid": "Q56348966",
+  "coord": "Point(21.041452777 52.236825)",
+  "sitelinks": 1,
+  "file": "pl-beach-poniatowka-beach.webp",
+  "commons_file": "Nad Wisłą - panoramio (8).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "jastarnia-beach",
+  "name": "Jastarnia beach",
+  "qid": "Q91934450",
+  "coord": "Point(18.6729 54.70517)",
+  "sitelinks": 1,
+  "file": "pl-beach-jastarnia-beach.webp",
+  "commons_file": "Ratownicy na plaży strzeżonej w Jastarni - lipiec 2019.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "zakatek-wodny-trzebuskie-egi",
+  "name": "Zakątek wodny Trzebuskie Łęgi",
+  "qid": "Q136215010",
+  "coord": "Point(14.6996336 53.4346758)",
+  "sitelinks": 1,
+  "file": "pl-beach-zakatek-wodny-trzebuskie-egi.webp",
+  "commons_file": "Pláž a molo, jezero Dąbie, Štětín (Szczecin) - Prawobrzeże, Západopomořanské vojvodství.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "swinoujscie-beach-on-usedom",
+  "name": "Świnoujście beach on Usedom",
+  "qid": "Q136760454",
+  "coord": "Point(14.2647828 53.9219481)",
+  "sitelinks": 1,
+  "file": "pl-beach-swinoujscie-beach-on-usedom.webp",
+  "commons_file": "Pláž, Świnoujście, Polsko 02.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "beach-przytor-swinoujscie",
+  "name": "Beach Przytór, Świnoujście",
+  "qid": "Q138583899",
+  "coord": "Point(14.32738 53.9124303)",
+  "sitelinks": 1,
+  "file": "pl-beach-beach-przytor-swinoujscie.webp",
+  "commons_file": "Cesta, pláž Przytór (Plaża Przytór), Świnoujście, ostrov Wolin.jpg",
+  "credit": {}
+ }
+]

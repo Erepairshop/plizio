@@ -1,0 +1,102 @@
+[
+ {
+  "slug": "konyaalt-beach",
+  "name": "Konyaaltı Beach",
+  "qid": "Q2493895",
+  "coord": "Point(30.644444444 36.865)",
+  "sitelinks": 10,
+  "file": "tr-beach-konyaalt-beach.webp",
+  "commons_file": "Konyaaltı Plajı - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kaputas-beach",
+  "name": "Kaputaş Beach",
+  "qid": "Q284093",
+  "coord": "Point(29.4492 36.2292)",
+  "sitelinks": 8,
+  "file": "tr-beach-kaputas-beach.webp",
+  "commons_file": "KAPUTAŞ BEACH - panoramio - Haluk Comertel.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "patara-beach",
+  "name": "Patara Beach",
+  "qid": "Q6978175",
+  "coord": "Point(29.2923562 36.269471)",
+  "sitelinks": 8,
+  "file": "tr-beach-patara-beach.webp",
+  "commons_file": "Patara Dünen.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kleopatra-beach",
+  "name": "Kleopatra beach",
+  "qid": "Q49321623",
+  "coord": "Point(31.97628 36.55123)",
+  "sitelinks": 4,
+  "file": "tr-beach-kleopatra-beach.webp",
+  "commons_file": "Kleopatra beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ladies-beach-kusadas",
+  "name": "Ladies Beach, Kuşadası",
+  "qid": "Q6469476",
+  "coord": "Point(27.242969 37.844708)",
+  "sitelinks": 3,
+  "file": "tr-beach-ladies-beach-kusadas.webp",
+  "commons_file": "Kadınlar Denizi - Kuşadası 02.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "inkumu",
+  "name": "İnkumu",
+  "qid": "Q31188256",
+  "coord": "Point(32.223942 41.665543)",
+  "sitelinks": 3,
+  "file": "tr-beach-inkumu.webp",
+  "commons_file": "İnkumu beach, in 2006.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kent-park",
+  "name": "Kent Park",
+  "qid": "Q6019963",
+  "coord": "Point(30.549166666 39.773055555)",
+  "sitelinks": 2,
+  "file": "tr-beach-kent-park.webp",
+  "commons_file": "Kentpark Gölet... - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sarigerme",
+  "name": "Sarigerme",
+  "qid": "Q7424070",
+  "coord": "Point(28.68333333 36.7)",
+  "sitelinks": 2,
+  "file": "tr-beach-sarigerme.webp",
+  "commons_file": "Sarigerme Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "bardakc-beach",
+  "name": "Bardakçı Beach",
+  "qid": "Q49320129",
+  "coord": "Point(27.418055555 37.029166666)",
+  "sitelinks": 1,
+  "file": "tr-beach-bardakc-beach.webp",
+  "commons_file": "Bardakçı Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gumbet-beach",
+  "name": "Gümbet Beach",
+  "qid": "Q49320872",
+  "coord": "Point(27.402222222 37.031944444)",
+  "sitelinks": 1,
+  "file": "tr-beach-gumbet-beach.webp",
+  "commons_file": "Gümbet Beach.jpg",
+  "credit": {}
+ }
+]

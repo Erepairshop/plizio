@@ -1,0 +1,2032 @@
+{
+ "beach-przytor-swinoujscie": {
+  "slug": "beach-przytor-swinoujscie",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "Der Strand Przytór im östlichen Teil von Świnoujście (Swinemünde) auf der malerischen Insel Wolin gelegen, ist ein wahres verstecktes Juwel der polnischen Ostseeküste. Im Gegensatz zum belebten Hauptstrand auf der Insel Uznam bietet der Strandabschnitt Przytór eine Oase der Ruhe, unberührte Naturschönheit und eine zutiefst entspannende Atmosphäre. Umrahmt von duftenden, dichten Kiefernwäldern und sanften Küstendünen, ist dieser breite, feinsandige Strand perfekt für alle, die dem Touristenrummel entfliehen möchten. Der weiche, pudrige weiße Sand und das Rauschen der Ostseewellen schaffen eine meditative Umgebung. Bei einem Spaziergang können Sie ungestörte Blicke auf den Horizont genießen und die jodhaltige Meeresluft einatmen. Da er weniger erschlossen ist, hat sich Przytór seinen ursprünglichen Charme bewahrt. Er ist ein Favorit bei Naturliebhabern, Strandwanderern und Radfahrern, die auf den nahegelegenen Küstenwegen unterwegs sind. Der Kontrast zwischen dem dunklen Grün der Kiefern, dem hellen Sand und dem tiefen Blaugrau des Meeres bietet spektakuläre Fotomotive, besonders während der goldenen Stunde. Ob Sie einen abgelegenen Ort zum Lesen, Platz zum Drachensteigen oder eine friedliche Naturkulisse zum Entspannen suchen – Przytór bietet ein authentisches Ostseeerlebnis abseits der ausgetretenen Pfade.",
+   "hu": "A Przytór strand, amely Świnoujście keleti részén, a festői Wolin-szigeten található, a lengyel balti tengerpart egyik igazi rejtett gyöngyszeme. Szemben az Uznam-szigeten lévő nyüzsgő, erősen kiépített főstranddal, a Przytór szakasz a nyugalom oázisát, érintetlen természeti szépséget és mélyen pihentető légkört kínál. Az illatos, sűrű fenyőerdőkkel és szelíd parti dűnékkel körülvett, széles, finom homokos strand tökéletes azok számára, akik menekülni vágynak a tipikus turistatömegek elől. A puha, porszerű fehér homok a talpunk alatt és a balti-tengeri hullámok ritmikus morajlása szinte meditatív környezetet teremt. A partvonalon sétálva zavartalan kilátás nyílik a horizontra, belélegezhetjük a friss, jódban gazdag tengeri levegőt, és megfigyelhetjük a helyi tengeri madarakat természetes élőhelyükön. Mivel kevésbé kiépített, a Przytór strand megőrizte eredeti, érintetlen varázsát, ami miatt a természet szerelmeseinek, a hosszú tengerparti sétákat kedvelőknek és a közeli parti utakon túrázó kerékpárosoknak is nagy kedvence. A tengerparti fenyők sötétzöldje, a világos, szinte hófehér homok és a tenger mély kékesszürke árnyalata közötti kontraszt látványos fotótémákat kínál, különösen az aranyórában. Akár egy félreeső helyet keres olvasáshoz, hatalmas nyílt teret papírsárkány eregetéséhez, vagy egyszerűen csak egy békés természeti környezetet a családjával való kikapcsolódáshoz, a Przytór strand egy hiteles és felejthetetlen Balti-tengeri élményt nyújt, messze a kitaposott ösvényektől.",
+   "ro": "Plaja Przytór, situată în partea de est a orașului Świnoujście, pe pitoreasca insulă Wolin, este o adevărată bijuterie ascunsă a coastei baltice poloneze. Spre deosebire de plaja principală aglomerată și puternic comercializată de pe insula Uznam, porțiunea Przytór oferă o oază de liniște, o frumusețe naturală brută și o atmosferă profund relaxantă. Încadrată de păduri dense și parfumate de pini și de dune de coastă pitorești, această plajă largă cu nisip fin este perfectă pentru cei care doresc să scape de aglomerația turistică obișnuită. Nisipul alb, moale și pudrat sub picioare și sunetul ritmic al valurilor Mării Baltice creează un mediu aproape meditativ. Plimbându-vă de-a lungul țărmului, vă puteți bucura de priveliști neîntrerupte asupra orizontului, puteți respira aerul proaspăt al mării, bogat în iod, și puteți observa păsările marine locale în habitatul lor natural. Deoarece este mai puțin dezvoltată, plaja Przytór își păstrează farmecul neatins, devenind una dintre preferatele iubitorilor de natură, ale celor care fac plimbări lungi pe plajă și ale bicicliștilor care navighează pe traseele de coastă din apropiere. Contrastul dintre verdele închis al pinilor de coastă, nisipul luminos, aproape alb, și albastrul-gri profund al mării oferă oportunități fotografice spectaculoase, în special în timpul orei de aur. Indiferent dacă sunteți în căutarea unui loc retras pentru a citi o carte sau a unui cadru natural liniștit pentru a vă relaxa, plaja Przytór vă oferă o experiență autentică și de neuitat la Marea Baltică, departe de traseele bătătorite.",
+   "en": "Beach Przytór, located in the eastern part of Świnoujście on the picturesque Wolin Island, is a true hidden gem of the Polish Baltic coast. Unlike the bustling, highly commercialized main beach on the Uznam island, the Przytór stretch offers an oasis of tranquility, raw natural beauty, and a deeply relaxing atmosphere. Framed by fragrant, dense pine forests and rolling coastal dunes, this wide, fine-sand beach is perfect for those seeking an escape from typical tourist crowds. The soft, powdery white sand underfoot and the rhythmic sound of the Baltic waves create a deeply meditative environment. Walking along the shoreline, you can enjoy unbroken views of the horizon, breathe in the crisp, iodine-rich sea air, and observe local seabirds in their natural habitat. Because it is less developed, Beach Przytór retains a pristine charm, making it a favorite among nature lovers, long-distance beach walkers, and cycling enthusiasts who navigate the nearby coastal trails. The contrast between the dark green of the coastal pines, the bright, almost white sand, and the deep blue-grey of the sea provides spectacular photo opportunities, especially during golden hour. Whether you are looking for a secluded spot to read a book, a wide open space to fly a kite, or simply a peaceful natural setting to unwind with your loved ones, Beach Przytór delivers an authentic and unforgettable Baltic Sea experience far off the beaten path."
+  },
+  "type": {
+   "de": "sandig",
+   "hu": "homokos",
+   "ro": "nisipos",
+   "en": "sandy"
+  },
+  "water": {
+   "de": "Das Wasser ist typischerweise kühl und erfrischend, mit einem sauberen, leicht trüben baltischen Grünblau. Der Einstieg ins Wasser ist sanft und flach, was das Waten generell sicher macht.",
+   "hu": "A víz jellemzően hűvös és frissítő, tiszta, a Balti-tengerre jellemző kissé opálos zöldeskék árnyalattal. A víz fokozatosan és lassan mélyül, így a part menti pancsolás biztonságos.",
+   "ro": "Apa este de obicei răcoroasă și revigorantă, cu o nuanță curată, verde-albăstruie specifică Mării Baltice. Intrarea în apă se face treptat și este puțin adâncă, fiind sigură pentru a merge prin apă.",
+   "en": "The water is typically cool and refreshing, with a clean, slightly murky Baltic green-blue hue. The entry into the water is gentle and shallow, making it generally safe for wading."
+  },
+  "access": {
+   "de": "Erreichbar hauptsächlich über malerische Waldwege oder mit dem Fahrrad über die nahegelegenen Küstenrouten. Es gibt keinen direkten Autozugang zum Strand; man muss im Landesinneren parken und durch den Wald gehen.",
+   "hu": "Elsősorban festői erdei ösvényeken vagy a közeli parti útvonalakon kerékpárral közelíthető meg. Közvetlenül autóval nem lehet lejutni a strandra; beljebb kell parkolni, és az erdőn keresztül kell sétálni.",
+   "ro": "Accesibil în principal prin poteci pitorești de pădure sau cu bicicleta, folosind rutele de coastă din apropiere. Nu există acces direct cu mașina la plajă; trebuie să parcați mai în interior și să mergeți prin pădure.",
+   "en": "Accessible primarily via scenic forest walking paths or by bicycle using the nearby coastal routes. There is no direct car access to the beach itself; you must park inland and walk through the woods."
+  },
+  "parking": {
+   "de": "In den Gebieten Przytór und Łunowo gibt es begrenzte, oft informelle Parkmöglichkeiten, von denen aus man 15-30 Minuten zum Strand laufen muss.",
+   "hu": "Przytór és Łunowo környékén korlátozott, gyakran nem hivatalos parkolási lehetőségek vannak, ahonnan 15-30 perces sétával érhető el a homokos part.",
+   "ro": "Există opțiuni limitate de parcare informale în zonele Przytór și Łunowo, necesitând o plimbare de 15-30 de minute pentru a ajunge la nisip.",
+   "en": "Limited informal parking options are available in the Przytór and Łunowo areas, requiring a walk of 15-30 minutes to reach the sand."
+  },
+  "facilities": {
+   "de": [
+    "Mülleimer (saisonal)",
+    "Wanderwege",
+    "Radwegzugang",
+    "Keine Toiletten",
+    "Keine Liegenvermietung"
+   ],
+   "hu": [
+    "Szemetesek (szezonális)",
+    "Túraösvények",
+    "Kerékpárút hozzáférés",
+    "Nincs mosdó",
+    "Nincs napágybérlés"
+   ],
+   "ro": [
+    "Coșuri de gunoi (sezonier)",
+    "Trasee de drumeție",
+    "Acces pistă biciclete",
+    "Fără toalete",
+    "Fără închiriere șezlonguri"
+   ],
+   "en": [
+    "Trash bins (seasonal)",
+    "Walking trails",
+    "Cycle path access",
+    "No restrooms",
+    "No sunbed rentals"
+   ]
+  },
+  "family": {
+   "de": "Ideal für Familien, die einen ruhigen, natürlichen Strandtag abseits der lauten Spielhallen suchen, da es viel Platz für Kinder zum Laufen und Spielen im Sand gibt.",
+   "hu": "Kiváló azoknak a családoknak, akik csendes, természetes strandolásra vágynak távol a zajos játéktermektől, hatalmas teret biztosítva a gyerekeknek a homokban való futkározásra és játékra.",
+   "ro": "Excelent pentru familiile care caută o zi de plajă liniștită, în natură, departe de zgomotul stațiunilor, oferind spații vaste pentru ca cei mici să alerge și să se joace în nisip.",
+   "en": "Great for families seeking a quiet, natural beach day away from the noisy arcades, offering vast spaces for children to run and play in the sand."
+  },
+  "kids": {
+   "de": "Kinder werden den weichen Sand zum Bauen und den extrem breiten Strand lieben, jedoch sollten Eltern beachten, dass es hier keine speziellen Spielplätze oder Einrichtungen gibt.",
+   "hu": "A gyerekek imádni fogják a várépítésre alkalmas puha homokot és a rendkívül széles partot, de a szülőknek figyelembe kell venniük, hogy nincsenek kiépített játszóterek vagy létesítmények.",
+   "ro": "Copiii vor adora nisipul moale, perfect pentru castele, și plaja extrem de largă, deși părinții trebuie să rețină că nu există locuri de joacă sau facilități dedicate aici.",
+   "en": "Kids will love the soft, builder-friendly sand and the extremely wide beach, though parents should note there are no dedicated playgrounds or facilities here."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Eigenes Picknick mitbringen",
+     "tip": "Es gibt keine Bars an diesem wilden Strand, packen Sie also ausreichend Wasser und Snacks ein."
+    },
+    {
+     "name": "Smażona Flądra (Gebratene Flunder)",
+     "tip": "Probieren Sie diesen frischen Ostseefisch in lokalen Tavernen im Zentrum von Świnoujście."
+    },
+    {
+     "name": "Gofry (Waffeln)",
+     "tip": "Ein klassisches polnisches Küstendessert, das in den Haupttouristenzonen erhältlich ist."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Saját piknik",
+     "tip": "Ezen a vad strandon nincsenek büfék, ezért csomagoljon elegendő vizet és harapnivalót."
+    },
+    {
+     "name": "Smażona Flądra (Sült lepényhal)",
+     "tip": "Kóstolja meg ezt a friss balti halat Świnoujście központjának helyi vendéglőiben."
+    },
+    {
+     "name": "Gofry (Gofri)",
+     "tip": "Klasszikus lengyel tengerparti desszert, amely a főbb turisztikai zónákban kapható."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Aduceți propriul picnic",
+     "tip": "Nu există baruri pe această plajă sălbatică, așa că luați cu voi multă apă și gustări."
+    },
+    {
+     "name": "Smażona Flądra (Cambula prăjită)",
+     "tip": "Încercați acest pește proaspăt de la Marea Baltică la tavernele locale din centrul orașului Świnoujście."
+    },
+    {
+     "name": "Gofry (Vafe)",
+     "tip": "Un desert clasic al litoralului polonez, disponibil în principalele zone turistice."
+    }
+   ],
+   "en": [
+    {
+     "name": "Bring your own picnic",
+     "tip": "There are no bars on this wild beach, so pack plenty of water and snacks."
+    },
+    {
+     "name": "Smażona Flądra (Fried Flounder)",
+     "tip": "Try this fresh Baltic fish at local taverns in the center of Świnoujście."
+    },
+    {
+     "name": "Gofry (Waffles)",
+     "tip": "A classic Polish seaside dessert, available in the main tourist zones."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist völlig kostenlos.",
+   "hu": "A strandra a belépés teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit.",
+   "en": "Access to the beach is completely free of charge."
+  },
+  "lifeguard": {
+   "de": "Dies ist ein unbewachter, wilder Strand; es sind zu keiner Zeit Rettungsschwimmer im Dienst.",
+   "hu": "Ez egy nem őrzött, vad strand; a területen nincs vízimentő szolgálat.",
+   "ro": "Aceasta este o plajă sălbatică, neamenajată; nu există salvamari de serviciu în niciun moment.",
+   "en": "This is an unguarded, wild beach; there are no lifeguards on duty at any time."
+  },
+  "shade": {
+   "de": "Es gibt keinen Schatten direkt auf dem Sand, aber der angrenzende Kiefernwald bietet einen natürlichen Rückzugsort vor der Sonne.",
+   "hu": "Magán a homokos parton nincs árnyék, de a partot szegélyező fenyőerdő természetes menedéket nyújt a nap elől.",
+   "ro": "Nu există umbră direct pe nisip, dar pădurea de pini din apropiere oferă un refugiu natural împotriva soarelui.",
+   "en": "There is no shade on the sand itself, but the bordering pine forest provides natural retreat from the sun."
+  },
+  "best_time": {
+   "de": "Der frühe Morgen für friedliche Spaziergänge oder der späte Nachmittag im Sommer, um atemberaubende, ruhige Sonnenuntergänge zu genießen.",
+   "hu": "Kora reggel egy békés sétához, vagy nyáron a késő délutáni órák a lenyűgöző, csendes naplementék élvezetéhez.",
+   "ro": "Dimineața devreme pentru plimbări liniștite sau după-amiaza târziu, vara, pentru a vă bucura de apusuri de soare uimitoare și liniștite.",
+   "en": "Early morning for peaceful walks, or late afternoon in summer to enjoy stunning, quiet sunsets."
+  },
+  "nearby": {
+   "de": "Das belebte Zentrum von Świnoujście mit seinem Leuchtturm und der Promenade liegt im Westen, während der Wolin-Nationalpark und Międzyzdroje nur eine kurze Fahrt nach Osten entfernt sind.",
+   "hu": "Świnoujście nyüzsgő központja a világítótoronnyal és a sétánnyal nyugatra, míg a Wolin Nemzeti Park és Międzyzdroje egy rövid autóútra keletre található.",
+   "ro": "Centrul plin de viață al orașului Świnoujście, cu farul și promenada sa, se află la vest, în timp ce Parcul Național Wolin și Międzyzdroje sunt la o scurtă călătorie cu mașina spre est.",
+   "en": "The bustling center of Świnoujście with its lighthouse and promenade is to the west, while the Wolin National Park and Międzyzdroje are a short drive east."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie Mückenschutz für den Waldspaziergang mit.",
+    "Nehmen Sie all Ihren Müll mit, da es nur wenige Mülleimer gibt.",
+    "Ein Windschutz (parawan) ist sehr zu empfehlen."
+   ],
+   "hu": [
+    "Hozzon magával szúnyogriasztót az erdei sétához.",
+    "Vigye el magával az összes szemetet, mivel a kukák száma korlátozott.",
+    "Szélfogó (parawan) használata erősen ajánlott."
+   ],
+   "ro": [
+    "Aduceți un repelent împotriva țânțarilor pentru plimbarea prin pădure.",
+    "Luați cu voi tot gunoiul, deoarece coșurile sunt limitate.",
+    "Un paravan de vânt (parawan) este foarte recomandat."
+   ],
+   "en": [
+    "Bring mosquito repellent for the forest walk.",
+    "Pack out all your trash as there are limited bins.",
+    "A windbreak screen (parawan) is highly recommended."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist der Strand im Sommer überfüllt?",
+     "hu": "Túlzsúfolt a strand nyáron?",
+     "ro": "Este plaja aglomerată vara?",
+     "en": "Is the beach crowded in summer?"
+    },
+    "a": {
+     "de": "Im Vergleich zum Hauptstrand in Świnoujście ist es sehr friedlich und nie überfüllt.",
+     "hu": "A Świnoujście-i főstrandhoz képest nagyon békés, és soha nincs túlzsúfolva.",
+     "ro": "În comparație cu plaja principală din Świnoujście, este foarte liniștită și niciodată supraaglomerată.",
+     "en": "Compared to the main beach in Świnoujście, it is very peaceful and never overly crowded."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann ich hier eine Sonnenliege mieten?",
+     "hu": "Lehet itt napágyat bérelni?",
+     "ro": "Pot închiria un șezlong aici?",
+     "en": "Can I rent a sunbed here?"
+    },
+    "a": {
+     "de": "Nein, es gibt keinen Verleih. Sie müssen Ihr eigenes Handtuch und Ausrüstung mitbringen.",
+     "hu": "Nem, nincsenek kölcsönzők. Saját törölközőt és felszerelést kell hoznia.",
+     "ro": "Nu, nu există servicii de închiriere. Trebuie să aduceți propriul prosop și echipament.",
+     "en": "No, there are no rental services. You must bring your own towel and equipment."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten?",
+     "hu": "Vannak nyilvános mosdók?",
+     "ro": "Există toalete publice?",
+     "en": "Are there public toilets?"
+    },
+    "a": {
+     "de": "Nein, dies ist ein wilder Strand ohne sanitäre Anlagen.",
+     "hu": "Nem, ez egy vad strand, ahol nincsenek mosdók.",
+     "ro": "Nu, aceasta este o plajă sălbatică, fără facilități sanitare.",
+     "en": "No, this is a wild beach without sanitary facilities."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist es sicher zum Schwimmen?",
+     "hu": "Biztonságos itt a fürdőzés?",
+     "ro": "Este sigur pentru înot?",
+     "en": "Is it safe for swimming?"
+    },
+    "a": {
+     "de": "Das Wasser ist flach, aber denken Sie daran, dass es unbewacht ist. Schwimmen erfolgt auf eigene Gefahr.",
+     "hu": "A víz sekély, de ne feledje, hogy nem őrzött terület, így a fürdőzés csak saját felelősségre ajánlott.",
+     "ro": "Apa este în general puțin adâncă, dar rețineți că este nesupravegheată, deci înotul este pe propriul risc.",
+     "en": "The water is generally shallow, but remember it is unguarded, so swimming is at your own risk."
+    }
+   }
+  ]
+ },
+ "jastarnia-beach": {
+  "slug": "jastarnia-beach",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": true,
+  "intro": {
+   "de": "Der Strand von Jastarnia gilt weithin als einer der schönsten und malerischsten Strände auf der Halbinsel Hel in Polen. Er zeichnet sich durch seinen unglaublich weichen, pudrigen weißen Sand und das beruhigende Rauschen der Ostseewellen aus und bietet einen klassischen Rückzugsort an der Küste. Der Strand ist vom geschäftigen Ferienort durch einen duftenden Kiefernwaldstreifen getrennt, der eine natürliche Barriere bildet, die ruhige Atmosphäre bewahrt und eine malerische Annäherung durch die Sanddünen ermöglicht.\n\nWas Jastarnia besonders macht, ist seine einzigartige Lage. Während der Strand am offenen Meer hervorragende Bedingungen zum Sonnenbaden und für entspannende Spaziergänge am Ufer bietet, grenzt die Stadt auf der gegenüberliegenden Seite auch an das flache, ruhige Wasser der Putziger Wiek (Zatoka Pucka). Diese Dualität bedeutet, dass Strandbesucher morgens die erfrischende Ostseebrandung genießen und später zur Bucht aufbrechen können, die ein Weltklasse-Zentrum für Wind- und Kitesurfen ist.\n\nDie Atmosphäre hier bietet die perfekte Balance zwischen einem lebhaften Sommerresort und einem friedlichen Naturrückzugsort. Während der Hochsommermonate ist der Strand voller Familien und Wassersportler, doch seine enorme Breite sorgt dafür, dass er sich selten überfüllt anfühlt. Die historischen Fischerhäuser in der Stadt und die allgegenwärtigen lokalen Fischrestaurants verleihen dem Küstenerlebnis einen Hauch von authentischem kaschubischem Charme und machen den Besuch unvergesslich.",
+   "hu": "A jastarniai strandot széles körben a lengyelországi Hel-félsziget egyik legszebb és legfestőibb partszakaszának tartják. A hihetetlenül puha, porszerű fehér homok és a balti-tengeri hullámok megnyugtató hangja klasszikus tengerparti kikapcsolódást kínál. A strandot egy illatos fenyőerdei sáv választja el a nyüzsgő üdülővárostól, amely természetes gátat képez a nyugodt légkör megőrzése érdekében, és festői, homokdűnéken keresztüli megközelítést biztosít a látogatóknak.\n\nJastarniát különösen egyedivé teszi a földrajzi fekvése. Míg a nyílt tengeri strand kiváló feltételeket biztosít a napozáshoz és a pihentető tengerparti sétákhoz, a város a másik oldalon a Pucki-öböl sekély, nyugodt vizével is határos. Ez a kettősség azt jelenti, hogy a strandolók reggel élvezhetik a frissítő balti hullámokat, később pedig az öböl felé vehetik az irányt, amely a szörfözés és a kitesurfözés világszínvonalú, nyüzsgő központja.\n\nAz itteni hangulat tökéletes egyensúlyt teremt a pezsgő nyári üdülőhely és a békés természeti menedék között. A nyári csúcsónapokban a strand tele van családokkal és a vízi sportok szerelmeseivel, de a hatalmas szélessége miatt ritkán érződik túlzsúfoltnak. A városban található történelmi halászházak és a mindenütt jelenlévő helyi haléttermek a part menti élményt autentikus kasub varázzsal egészítik ki, így Jastarnia nem csupán egy fürdőhely, hanem egy teljes kulturális élmény is.",
+   "ro": "Plaja Jastarnia este considerată pe scară largă drept una dintre cele mai frumoase și pitorești plaje de pe Peninsula Hel din Polonia. Caracterizată prin nisipul său alb, incredibil de fin și sunetul liniștitor al valurilor Mării Baltice, aceasta oferă o evadare clasică pe coastă. Plaja este separată de orașul stațiune plin de viață de o centură parfumată de păduri de pini, creând o barieră naturală care păstrează atmosfera senină și oferă un acces pitoresc prin dunele de nisip delicate.\n\nCeea ce face ca Jastarnia să fie cu adevărat specială este locația sa unică. În timp ce plaja de la marea deschisă oferă condiții excelente pentru plajă și plimbări relaxante de-a lungul țărmului, orașul se învecinează pe partea opusă cu apele puțin adânci și calme ale Golfului Puck. Această dualitate înseamnă că vizitatorii se pot bucura de valurile răcoritoare ale Mării Baltice dimineața, iar mai târziu se pot îndrepta spre golf, care este un centru de talie mondială pentru windsurfing și kitesurfing.\n\nAtmosfera de aici atinge un echilibru perfect între o stațiune de vară vibrantă și un refugiu natural pașnic. În timpul lunilor de vârf ale verii, plaja este plină de familii și entuziaști ai sporturilor nautice, însă lățimea sa vastă asigură că rareori se simte copleșitor de aglomerată. Căsuțele istorice ale pescarilor din oraș și restaurantele locale de pește adaugă o notă de farmec cașubian autentic experienței, transformând vizita într-o amintire de neuitat.",
+   "en": "Jastarnia Beach is widely considered one of the most beautiful and picturesque beaches on the Hel Peninsula in Poland. Characterized by its incredibly soft, powdery white sand and the soothing sound of the Baltic waves, it offers a classic coastal escape. The beach is separated from the bustling resort town by a fragrant belt of pine forests, creating a natural barrier that preserves the serene atmosphere and provides a highly scenic approach through the rolling sandy dunes.\n\nWhat makes Jastarnia particularly special is its unique geographical location. While the open sea beach provides excellent conditions for sunbathing and relaxing walks along the shore, the town also borders the shallow, calm waters of the Bay of Puck on the opposite side. This duality means that beachgoers can enjoy the refreshing Baltic surf in the morning and head to the bay later, which serves as a world-class hub for windsurfing and kitesurfing enthusiasts.\n\nThe atmosphere here strikes a perfect balance between a vibrant summer resort and a peaceful nature retreat. During the peak summer months, the beach is alive with families and water sports lovers, yet its vast width ensures it rarely feels overwhelmingly crowded. Historic fishermen's cottages scattered throughout the town and the ubiquitous local fish restaurants add a touch of authentic Kashubian charm to the coastal experience, making Jastarnia a truly complete holiday destination."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Das Wasser ist im Allgemeinen sauber und hat eine erfrischende Ostseetemperatur, mit einem allmählich tiefer werdenden Einstieg. Der Zugang ist sandig und flach, ohne scharfe Felsen.",
+   "hu": "A víz általában tiszta, frissítő balti-tengeri hőmérsékletű, és fokozatosan mélyül. A belépés homokos és sima, éles szikláktól teljesen mentes.",
+   "ro": "Apa este în general curată, cu o temperatură răcoroasă specifică Mării Baltice, prezentând o adâncire treptată. Intrarea este nisipoasă și lină, fără pietre ascuțite.",
+   "en": "The water is generally clean with a refreshing Baltic Sea temperature, featuring a gradual deepening. The entry is very sandy and smooth, free of sharp rocks."
+  },
+  "access": {
+   "de": "Leicht zu Fuß vom Zentrum von Jastarnia durch wunderschöne Kiefernwaldwege erreichbar. Man kann ihn auch über den Küstenradweg oder mit dem Zug (Bahnhof Jastarnia) erreichen.",
+   "hu": "Gyalogosan könnyen megközelíthető Jastarnia központjából gyönyörű fenyőerdei ösvényeken keresztül. Kerékpárral a festői kerékpárúton, vagy vonattal a helyi állomásig utazva is elérhető.",
+   "ro": "Ușor accesibil pe jos din centrul orașului Jastarnia prin cărări frumoase prin pădurea de pini. De asemenea, se poate ajunge cu bicicleta pe traseul de coastă sau cu trenul (stația Jastarnia).",
+   "en": "Easily accessible by foot from the center of Jastarnia through beautiful pine forest paths. It can also be reached by bicycle via the coastal route or by train to the local station."
+  },
+  "parking": {
+   "de": "Gebührenpflichtige städtische Parkplätze stehen im Stadtzentrum zur Verfügung, etwa 10-15 Gehminuten vom Strand entfernt.",
+   "hu": "A városközpontban fizetős önkormányzati parkolók állnak rendelkezésre, amelyek általában 10-15 perces sétára találhatók a parttól.",
+   "ro": "Există parcări municipale cu plată disponibile în centrul orașului, de obicei la 10-15 minute de mers pe jos de plajă.",
+   "en": "Paid municipal parking lots are available in the town center, typically a 10-15 minute walk from the main beach entrances."
+  },
+  "facilities": {
+   "de": [
+    "Toiletten",
+    "Strandbars",
+    "Sonnenliegenverleih",
+    "Umkleidekabinen",
+    "Rettungsschwimmer",
+    "Beachvolleyball"
+   ],
+   "hu": [
+    "Mosdók",
+    "Strandbárok",
+    "Napágy bérlés",
+    "Öltözőkabinok",
+    "Vízimentők",
+    "Strandröplabda"
+   ],
+   "ro": [
+    "Toalete",
+    "Baruri pe plajă",
+    "Închiriere șezlonguri",
+    "Cabine de schimb",
+    "Salvamar",
+    "Volei pe plajă"
+   ],
+   "en": [
+    "Toilets",
+    "Beach bars",
+    "Sunbed rental",
+    "Changing cabins",
+    "Lifeguards",
+    "Beach volleyball"
+   ]
+  },
+  "family": {
+   "de": "Es ist äußerst familienfreundlich aufgrund des außergewöhnlich breiten Sandufers, das endlos Platz zum Sandburgenbauen bietet. Die gut gepflegten Waldzugänge machen es ideal für Ausflüge.",
+   "hu": "Kiemelkedően családbarát a széles homokos partnak köszönhetően, amely végtelen teret biztosít a homokvár-építéshez. A jól karbantartott erdei megközelítés ideálissá teszi kirándulásokhoz.",
+   "ro": "Este extrem de prietenoasă cu familiile datorită țărmului nisipos excepțional de lat, oferind spațiu nesfârșit pentru joacă. Accesul bine întreținut prin pădure o face ideală pentru excursii.",
+   "en": "It is highly family-friendly due to the exceptionally wide sandy shore, providing endless space for building sandcastles. The well-maintained forest access makes it ideal for day trips."
+  },
+  "kids": {
+   "de": "Kinder lieben den weichen Sand und das flache Ufer. In der Hochsaison werden in der Nähe der Haupteingänge oft aufblasbare Rutschen und Trampoline aufgebaut.",
+   "hu": "A gyerekek imádják a puha homokot és a lassan mélyülő vizet. A nyári főszezonban gyakran állítanak fel felfújható csúszdákat és trambulinokat a bejáratok közelében.",
+   "ro": "Copiii iubesc nisipul fin și apa puțin adâncă de la mal. În timpul sezonului de vârf, se instalează adesea tobogane gonflabile și trambuline lângă intrările principale.",
+   "en": "Children love the soft sand and the gentle shoreline. There are often inflatable slides and trampolines set up near the main beach entrances during the peak summer season."
+  },
+  "gastro": [
+   {
+    "de": [
+     {
+      "name": "Smażona Flądra (Gebratene Flunder)",
+      "tip": "Erhältlich in traditionellen Fischbratereien (smażalnia ryb) entlang der Hauptstraßen, die zum Strand führen."
+     },
+     {
+      "name": "Gofry (Waffeln)",
+      "tip": "Serviert mit Schlagsahne und frischen Früchten an kleinen Ständen in der Nähe der Strandeingänge."
+     },
+     {
+      "name": "Zapiekanka (Polnisches überbackenes Baguette)",
+      "tip": "Ein schneller, warmer Snack, der in lokalen Fast-Food-Kiosken im Stadtzentrum zu finden ist."
+     }
+    ],
+    "hu": [
+     {
+      "name": "Smażona Flądra (Sült lepényhal)",
+      "tip": "Hagyományos halsütödékben (smażalnia ryb) kapható a strandhoz vezető főbb utcákon."
+     },
+     {
+      "name": "Gofry (Gofri)",
+      "tip": "Tejszínhabbal és friss gyümölcsökkel kínálják a strandbejáratok közeli kis bódékban."
+     },
+     {
+      "name": "Zapiekanka (Lengyel melegszendvics)",
+      "tip": "Gyors, meleg harapnivaló, amely a városközpont helyi gyorséttermi kioszkjaiban található."
+     }
+    ],
+    "ro": [
+     {
+      "name": "Smażona Flądra (Cambulă prăjită)",
+      "tip": "Disponibilă la restaurantele tradiționale de pește (smażalnia ryb) de pe străzile care duc spre plajă."
+     },
+     {
+      "name": "Gofry (Vafe)",
+      "tip": "Servite cu frișcă și fructe proaspete la micile tarabe din apropierea intrărilor pe plajă."
+     },
+     {
+      "name": "Zapiekanka (Sandviș cald polonez)",
+      "tip": "O gustare rapidă și caldă găsită în chioșcurile locale de fast-food din centrul orașului."
+     }
+    ],
+    "en": [
+     {
+      "name": "Smażona Flądra (Fried Flounder)",
+      "tip": "Available at traditional fish fryeries (smażalnia ryb) along the main streets leading to the beach."
+     },
+     {
+      "name": "Gofry (Belgian-style waffles)",
+      "tip": "Served with whipped cream and fresh fruits at small stalls near the beach entrances."
+     },
+     {
+      "name": "Zapiekanka (Polish open-faced sandwich)",
+      "tip": "A quick, warm snack found in local fast-food kiosks in the town center."
+     }
+    ]
+   }
+  ],
+  "entrance": {
+   "de": "Der Zugang zum Strand ist völlig kostenlos.",
+   "hu": "A strandra a belépés teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit.",
+   "en": "Access to the beach is completely free of charge."
+  },
+  "lifeguard": {
+   "de": "In der Hochsommersaison (Juli und August) sind Rettungsschwimmer an ausgewiesenen Badebereichen im Einsatz.",
+   "hu": "A nyári főszezonban (júliusban és augusztusban) a kijelölt fürdőhelyeken vízimentők teljesítenek szolgálatot.",
+   "ro": "Salvamarii sunt la datorie în zonele de scăldat desemnate în timpul sezonului de vârf estival (iulie și august).",
+   "en": "Lifeguards are on duty at designated bathing areas during the peak summer season (July and August)."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten direkt am Strand, daher wird ein Sonnenschirm oder ein traditioneller Windschutz (parawan) empfohlen.",
+   "hu": "Magán a strandon nincs természetes árnyék, ezért érdemes napernyőt vagy hagyományos szélfogót (parawan) hozni.",
+   "ro": "Nu există umbră naturală pe plajă, așa că se recomandă aducerea unei umbrele sau a unui paravan tradițional de vânt (parawan).",
+   "en": "There is no natural shade on the beach itself, so bringing a beach umbrella or a traditional Polish windbreak (parawan) is recommended."
+  },
+  "best_time": {
+   "de": "Die beste Zeit für einen Besuch ist von Ende Juni bis Mitte August für das wärmste Wetter.",
+   "hu": "A legérdemesebb június végétől augusztus közepéig látogatni a legmelegebb időjárás miatt.",
+   "ro": "Cel mai bun moment pentru vizită este de la sfârșitul lunii iunie până la jumătatea lunii august.",
+   "en": "The best time to visit is from late June to mid-August for the warmest weather and vibrant atmosphere."
+  },
+  "nearby": {
+   "de": "Jastarnia grenzt an Jurata und Kuźnica. Ein Muss in der Nähe sind der Leuchtturm und die Bunker aus dem Zweiten Weltkrieg.",
+   "hu": "Jastarniát Jurata és Kuźnica határolja. A közelben feltétlenül érdemes megnézni a világítótornyot és a II. világháborús bunkereket.",
+   "ro": "Jastarnia se învecinează cu Jurata și Kuźnica. Un loc de neratat este Farul și buncărele din al Doilea Război Mondial.",
+   "en": "Jastarnia is bordered by Jurata and Kuźnica. A must-see nearby is the Jastarnia Lighthouse and the historic World War II bunkers."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie einen 'Parawan' (Windschutz) mit, um sich vor der Küstenbrise zu schützen.",
+    "Spazieren Sie zur Seite der Putziger Wiek, um atemberaubende Sonnenuntergänge zu genießen.",
+    "Kommen Sie in den Monaten Juli und August früh morgens für einen guten Platz am Wasser."
+   ],
+   "hu": [
+    "Hozzon magával 'parawan'-t (szélfogót), hogy megvédje magát a tengerparti szellőktől.",
+    "Sétáljon át a Pucki-öböl oldalára a lélegzetelállító naplementékért.",
+    "Júliusban és augusztusban érkezzen kora reggel, hogy jó helyet biztosítson magának."
+   ],
+   "ro": [
+    "Aduceți un 'parawan' (paravan de vânt) pentru a vă proteja de briza de coastă.",
+    "Faceți o plimbare pe partea Golfului Puck pentru vederi uluitoare la apus.",
+    "Ajungeți dimineața devreme în iulie și august pentru un loc bun lângă apă."
+   ],
+   "en": [
+    "Bring a 'parawan' (windbreak) to protect against coastal breezes and ensure privacy.",
+    "Walk to the Bay of Puck side for breathtaking sunset views.",
+    "Arrive early in the morning during July and August to secure a good spot near the water."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist das Wasser kalt?",
+     "hu": "Hideg a víz?",
+     "ro": "Este rece apa?",
+     "en": "Is the water cold?"
+    },
+    "a": {
+     "de": "Ja, die Ostsee ist im Allgemeinen frisch, die Sommertemperaturen liegen normalerweise zwischen 17°C und 20°C.",
+     "hu": "Igen, a Balti-tenger vize általában frissítő, a nyári hőmérséklet többnyire 17°C és 20°C között mozog.",
+     "ro": "Da, Marea Baltică este în general rece, temperaturile de vară variind de obicei între 17°C și 20°C.",
+     "en": "Yes, the Baltic Sea is generally crisp, with summer temperatures usually ranging between 17°C and 20°C."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten am Strand?",
+     "hu": "Vannak nyilvános mosdók a strandon?",
+     "ro": "Există toalete publice pe plajă?",
+     "en": "Are there public toilets on the beach?"
+    },
+    "a": {
+     "de": "Ja, in der Sommersaison stehen in der Nähe der Haupteingänge mobile Toiletten und öffentliche Toilettenanlagen zur Verfügung.",
+     "hu": "Igen, a nyári szezonban a fő bejáratok közelében mobil vécék és nyilvános mosdók is rendelkezésre állnak.",
+     "ro": "Da, toaletele ecologice și facilitățile de toaletă publică sunt disponibile lângă intrările principale în timpul sezonului estival.",
+     "en": "Yes, portable toilets and public restroom facilities are available near the main entrances during the summer season."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann ich am Hauptstrand Wassersportausrüstung mieten?",
+     "hu": "Bérelhetek vízi sportfelszerelést a fő strandon?",
+     "ro": "Pot închiria echipament pentru sporturi nautice pe plaja principală?",
+     "en": "Can I rent water sports equipment at the main beach?"
+    },
+    "a": {
+     "de": "Die meiste Wassersportausrüstung wird auf der gegenüberliegenden Seite der Stadt an der Putziger Wiek vermietet, nicht am offenen Meer.",
+     "hu": "A legtöbb vízi sportfelszerelést a város túlsó oldalán, a Pucki-öbölnél lehet bérelni, nem a nyílt tengeri strandon.",
+     "ro": "Majoritatea echipamentelor se închiriază pe partea opusă a orașului, la Golful Puck, nu pe plaja de la marea deschisă.",
+     "en": "Most water sports equipment, especially for windsurfing, is rented on the opposite side of town by the Bay of Puck, not the open sea beach."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist das Schwimmen sicher?",
+     "hu": "Biztonságos az úszás?",
+     "ro": "Este sigur pentru înot?",
+     "en": "Is it safe to swim?"
+    },
+    "a": {
+     "de": "Das Schwimmen ist in den von Rettungsschwimmern bewachten Bereichen sicher. Achten Sie jedoch auf die Warnflaggen bezüglich der Strömungen.",
+     "hu": "Az úszás biztonságos a vízimentők által felügyelt területeken. Mindig figyeljen azonban a tengeri áramlatokra figyelmeztető zászlókra.",
+     "ro": "Înotul este sigur în zonele păzite de salvamari. Cu toate acestea, fiți mereu atenți la steagurile de avertizare privind curenții marini.",
+     "en": "Swimming is safe in designated areas guarded by lifeguards. However, always pay attention to the warning flags regarding sea currents."
+    }
+   }
+  ]
+ },
+ "miedzyzdroje-beach": {
+  "slug": "miedzyzdroje-beach",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": true,
+  "intro": {
+   "de": "Der Strand von Międzyzdroje (Misdroy) ist einer der berühmtesten und lebhaftesten Sandstrände an der polnischen Ostseeküste und wird oft als die Sommerhauptstadt Westpommerns bezeichnet. Eingebettet in die üppigen, grünen Hügel des Woliński-Nationalparks bietet er einen atemberaubenden Kontrast zwischen dem breiten, weißen Sandstrand und den dramatischen, bewaldeten Klippen in der Ferne. Der Strand ist bekannt für seinen feinen, pudrigen Sand, der sich unter den Füßen unglaublich weich anfühlt und ein wahres Paradies für Sonnenanbeter und Barfußspaziergänger ist.\n\nDie Atmosphäre hier ist zweifellos lebendig und elegant und zieht sowohl Familien als auch Prominente an. Nicht umsonst verfügt die Stadt über einen eigenen Walk of Fame (Aleja Gwiazd). Der Mittelpunkt des Strandes ist die beeindruckende, fast 400 Meter lange Seebrücke aus Holz, die weit in die Ostsee hineinreicht und einen atemberaubenden Panoramablick auf die Küste sowie spektakuläre Sonnenuntergänge bietet. Das Wasser ist, wie für die Ostsee typisch, frisch und kühl und zeigt je nach Himmel wunderschöne Schattierungen von Tiefblau bis Stahlgrau.\n\nHinter der unmittelbaren Küstenlinie erstreckt sich eine belebte Promenade, die von charmanten Cafés, Ständen mit frischem Fisch und Boutiquen gesäumt ist. Trotz seiner Beliebtheit sorgt die enorme Breite des Strandes dafür, dass jeder ein Plätzchen zum Entspannen findet, egal ob er die pulsierende Energie in der Nähe der Seebrücke oder einen ruhigeren Abschnitt weiter östlich in Richtung der hoch aufragenden Klippen bevorzugt. Er verbindet Natur und Komfort perfekt.",
+   "hu": "A Międzyzdroje strand a lengyel balti tengerpart egyik leghíresebb és legnyüzsgőbb homokos partszakasza, amelyet gyakran Nyugat-Pomeránia nyári fővárosának is neveznek. Közvetlenül a Woliński Nemzeti Park buja, zöldellő dombjai mellett fekszik, lenyűgöző kontrasztot teremtve a széles, fehér homokos part és a távolabbi, drámai, erdővel borított sziklák között. A strand finom, porszerű homokjáról ismert, amely hihetetlenül puha érzést nyújt, igazi paradicsomot teremtve a napozók és a mezítláb sétálók számára.\n\nA hangulat itt kétségtelenül élénk és elegáns, családokat és hírességeket egyaránt vonz, nem véletlen, hogy a város saját Csillagok Sétányával (Aleja Gwiazd) is büszkélkedhet. A part központi eleme a lenyűgöző, közel 400 méter hosszú, fából épült móló, amely mélyen benyúlik a Balti-tengerbe, lélegzetelállító panorámát és látványos naplementéket kínálva. A víz, a Balti-tengerre jellemzően, friss és hűsítő, az égbolt színétől függően a mélykék és az acélszürke gyönyörű árnyalataiban játszik.\n\nA közvetlen partvonal mögött egy nyüzsgő sétány húzódik, tele hangulatos kávézókkal, friss halat kínáló standokkal és butikokkal. Bár nagyon népszerű, a strand lenyűgöző szélessége biztosítja, hogy mindenki találjon magának egy kényelmes helyet, akár a móló körüli pezsgő energiát, akár a magasodó sziklák felé eső, csendesebb keleti szakaszt részesíti előnyben. A természet és a kényelem tökéletes ötvözete.",
+   "ro": "Plaja Międzyzdroje este una dintre cele mai faimoase și vibrante întinderi de nisip de pe coasta poloneză a Mării Baltice, fiind adesea numită 'Capitala de vară a Pomeraniei Occidentale'. Amplasată chiar lângă dealurile luxuriante și verzi ale Parcului Național Woliński, aceasta oferă un contrast uimitor între țărmul larg cu nisip alb și stâncile dramatice, acoperite de păduri, din depărtare. Plaja este renumită pentru nisipul său fin, prăfos, care se simte incredibil de moale sub picioare, fiind un paradis pentru iubitorii de soare și pentru cei care adoră să se plimbe desculți.\n\nAtmosfera de aici este incontestabil plină de viață și elegantă, atrăgând deopotrivă familii și celebrități, motiv pentru care orașul se mândrește cu propria sa Alee a Stelelor (Aleja Gwiazd). Punctul central al plajei este impresionantul dig din lemn, lung de aproape 400 de metri, care se întinde mult în Marea Baltică, oferind vederi panoramice uluitoare ale coastei și apusuri de soare spectaculoase. Apa, caracteristică Mării Baltice, este proaspătă și răcoroasă, etalând nuanțe frumoase de albastru intens și gri-oțel, în funcție de cer.\n\nDincolo de linia țărmului, plaja este mărginită de o promenadă animată, plină de cafenele fermecătoare, standuri cu pește proaspăt și magazine tip boutique. În ciuda popularității sale, lățimea generoasă a plajei asigură faptul că toată lumea își poate găsi un loc de relaxare, fie că preferă energia vibrantă din apropierea digului, fie o secțiune mai liniștită spre est, în direcția stâncilor impunătoare. Este echilibrul perfect între natură și confortul unei stațiuni.",
+   "en": "Międzyzdroje beach is one of the most famous and vibrant stretches of sand on the Polish Baltic coast, often referred to as the 'Summer Capital of West Pomerania.' Nestled right next to the lush, green hills of the Woliński National Park, it offers a stunning contrast between the wide, white sandy shore and the dramatic, forested cliffs in the distance. The beach is renowned for its fine, powdery sand that feels incredibly soft underfoot, making it a paradise for sunbathers and barefoot strollers alike.\n\nThe atmosphere here is undeniably lively and elegant, drawing both families and celebrities, which is why the town features its own Walk of Fame (Aleja Gwiazd). The focal point of the beach is the impressive, nearly 400-meter-long wooden pier (Molo) that stretches far into the Baltic Sea, offering breathtaking panoramic views of the coastline and spectacular sunsets. The water, characteristic of the Baltic, is crisp and refreshing, displaying beautiful hues of deep blue and steel-grey depending on the sky.\n\nBeyond the immediate shoreline, the beach is backed by a bustling promenade lined with charming cafes, fresh fish stands, and boutique shops. Despite its popularity, the sheer width of the beach ensures that everyone can find a spot to relax, whether they prefer the vibrant energy near the pier or a quieter section further east towards the towering cliffs. It perfectly balances natural beauty with resort-style comfort."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Die Wasserqualität ist in der Regel ausgezeichnet, mit einem allmählichen, sicheren Einstieg, obwohl die Wassertemperaturen an der Ostsee oft kühl bleiben.",
+   "hu": "A vízminőség általában kiváló, a tengerfenék fokozatosan, lassan mélyül, bár a Balti-tenger vize nyáron is hűvös maradhat.",
+   "ro": "Calitatea apei este în general excelentă, cu o intrare treptată și sigură în mare, deși temperaturile apei din Marea Baltică rămân adesea răcoroase.",
+   "en": "The water quality is generally excellent with a gradual, safe entry into the sea, though Baltic Sea temperatures often remain quite crisp."
+  },
+  "access": {
+   "de": "Leicht erreichbar zu Fuß vom Stadtzentrum von Międzyzdroje. Die Stadt ist gut an Züge und Straßen angebunden.",
+   "hu": "A strand könnyen megközelíthető gyalogosan Międzyzdroje központjából. A város kiváló vonat- és közút-hálózattal rendelkezik.",
+   "ro": "Ușor accesibilă pe jos din centrul orașului Międzyzdroje. Orașul este bine conectat prin trenuri și drumuri.",
+   "en": "Easily accessible on foot from the center of Międzyzdroje. The town is well-connected by trains and roads."
+  },
+  "parking": {
+   "de": "In der Stadt gibt es kostenpflichtige Parkplätze, die jedoch in der Hochsaison schnell belegt sind, sodass sich ein kurzer Fußweg empfiehlt.",
+   "hu": "A városban találhatók fizetős parkolók, de főszezonban hamar megtelnek, így érdemes kicsit távolabb megállni és sétálni.",
+   "ro": "Există parcări cu plată în oraș, dar acestea se ocupă rapid în plin sezon, de aceea se recomandă o scurtă plimbare pe jos.",
+   "en": "Paid parking is available in the town, but spaces fill up quickly in high season, so a short walk is highly recommended."
+  },
+  "facilities": {
+   "de": [
+    "Promenade",
+    "Seebrücke",
+    "Toiletten",
+    "Duschen",
+    "Rettungsschwimmer",
+    "Sonnenliegen",
+    "Restaurants"
+   ],
+   "hu": [
+    "Sétány",
+    "Móló",
+    "WC",
+    "Zuhanyzók",
+    "Vízimentők",
+    "Napágyak",
+    "Éttermek"
+   ],
+   "ro": [
+    "Promenadă",
+    "Dig",
+    "Toalete",
+    "Dușuri",
+    "Salvamar",
+    "Șezlonguri",
+    "Restaurante"
+   ],
+   "en": [
+    "Promenade",
+    "Pier",
+    "Toilets",
+    "Showers",
+    "Lifeguards",
+    "Sunbeds",
+    "Restaurants"
+   ]
+  },
+  "family": {
+   "de": "Der Strand ist äußerst familienfreundlich und bietet breite Sandflächen, die sich perfekt zum Sandburgenbauen und für sicheres Spielen eignen.",
+   "hu": "A strand rendkívül családbarát, széles, finom homokos területekkel rendelkezik, amelyek tökéletesek a homokvár-építésre és a biztonságos játékra.",
+   "ro": "Plaja este extrem de prietenoasă cu familiile, oferind zone largi de nisip, perfecte pentru construirea castelelor de nisip și pentru joacă în siguranță.",
+   "en": "The beach is extremely family-friendly, offering wide sandy areas perfect for building sandcastles and playing safely."
+  },
+  "kids": {
+   "de": "Für Kinder gibt es flaches Wasser in Ufernähe, aufblasbare Rutschen in der Saison und zahlreiche Spielplätze entlang der Promenade.",
+   "hu": "A gyerekeket sekély parti vizek, szezonális felfújható csúszdák és a sétány mentén található számos játszótér várja.",
+   "ro": "Copiii se pot bucura de apă puțin adâncă la țărm, tobogane gonflabile în sezon și numeroase locuri de joacă de-a lungul promenadei.",
+   "en": "Kids can enjoy shallow waters near the shore, seasonal inflatable slides, and numerous playgrounds scattered along the promenade."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Gebratene Flunder (Flądra)",
+     "tip": "Probieren Sie diesen typischen Ostseefisch in den Smażalnia ryb (Fischbratereien) nahe der Seebrücke."
+    },
+    {
+     "name": "Waffeln mit Früchten (Gofry z owocami)",
+     "tip": "Frische Waffeln mit Schlagsahne und Obst finden Sie an fast jedem Stand an der Promenade."
+    },
+    {
+     "name": "Geräucherter Fisch (Ryba wędzona)",
+     "tip": "Kaufen Sie frisch geräucherten Fisch aus den traditionellen Räuchereien in der Stadt für ein authentisches Erlebnis."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Sült lepényhal (Flądra)",
+     "tip": "Kóstolja meg ezt a jellegzetes balti-tengeri halat a mólóhoz közeli halas büfékben (Smażalnia ryb)."
+    },
+    {
+     "name": "Gofri gyümölccsel (Gofry z owocami)",
+     "tip": "Friss gofri tejszínhabbal és gyümölcsökkel szinte minden sétányi standnál kapható."
+    },
+    {
+     "name": "Füstölt hal (Ryba wędzona)",
+     "tip": "Vásároljon frissen füstölt halat a város hagyományos halfüstölőiből az autentikus élményért."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Cambulă prăjită (Flądra)",
+     "tip": "Încercați acest pește tipic din Marea Baltică în localurile tip 'Smażalnia ryb' din apropierea digului."
+    },
+    {
+     "name": "Vafe cu fructe (Gofry z owocami)",
+     "tip": "Vafele proaspete cu frișcă și fructe se găsesc la aproape fiecare chioșc de pe promenadă."
+    },
+    {
+     "name": "Pește afumat (Ryba wędzona)",
+     "tip": "Cumpărați pește proaspăt afumat din afumătorile tradiționale din oraș pentru o experiență autentică."
+    }
+   ],
+   "en": [
+    {
+     "name": "Fried Flounder (Flądra)",
+     "tip": "Try this typical Baltic Sea fish in the 'Smażalnia ryb' (fish fryeries) near the pier."
+    },
+    {
+     "name": "Waffles with Fruit (Gofry z owocami)",
+     "tip": "Fresh waffles with whipped cream and fruit can be found at almost every stall along the promenade."
+    },
+    {
+     "name": "Smoked Fish (Ryba wędzona)",
+     "tip": "Buy freshly smoked fish from the traditional smokehouses in town for an authentic experience."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Hauptstrand ist kostenlos; für Sonnenliegen oder spezielle Attraktionen fallen jedoch Gebühren an.",
+   "hu": "A fő strand látogatása ingyenes, a napágyakért és egyéb attrakciókért azonban fizetni kell.",
+   "ro": "Accesul la plaja principală este gratuit; cu toate acestea, se percep taxe pentru șezlonguri sau anumite atracții.",
+   "en": "Access to the main beach is free; however, fees apply for sunbeds or specific attractions."
+  },
+  "lifeguard": {
+   "de": "Während der Hauptsaison im Sommer wird der Strand von professionellen Rettungsschwimmern überwacht.",
+   "hu": "A nyári főszezonban a strandot profi vízimentők felügyelik.",
+   "ro": "În timpul sezonului de vârf de vară, plaja este supravegheată de salvamari profesioniști.",
+   "en": "During the peak summer season, the beach is patrolled by professional lifeguards."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten am Strand, daher ist es üblich, eigene Sonnenschirme oder Windschutze (Parawan) mitzubringen.",
+   "hu": "A parton nincs természetes árnyék, így a fürdőzők általában saját napernyőt vagy a lengyel tengerpartra jellemző szélfogót (parawan) hoznak magukkal.",
+   "ro": "Nu există umbră naturală pe plajă, așa că este o practică obișnuită să vă aduceți propriile umbrele sau paravane de vânt (parawan).",
+   "en": "There is no natural shade on the beach, so bringing your own umbrella or a traditional windbreak (parawan) is common practice."
+  },
+  "best_time": {
+   "de": "Juli und August bieten das beste Badewetter und die lebhafteste Atmosphäre.",
+   "hu": "A július és az augusztus kínálja a legjobb időt a fürdőzésre és a legpezsgőbb hangulatot.",
+   "ro": "Iulie și august oferă cea mai bună vreme pentru înot și cea mai vibrantă atmosferă.",
+   "en": "July and August offer the best swimming weather and the most vibrant atmosphere."
+  },
+  "nearby": {
+   "de": "Der wunderschöne Woliński-Nationalpark mit seinen Wisenten liegt direkt nebenan, und die Hafenstadt Świnoujście ist nur eine kurze Fahrt entfernt.",
+   "hu": "A gyönyörű, európai bölényeknek otthont adó Woliński Nemzeti Park közvetlenül a szomszédban található, Świnoujście kikötővárosa pedig csak egy rövid autóútra van.",
+   "ro": "Frumosul Parc Național Woliński, cu zimbrii săi, se află chiar alături, iar orașul-port Świnoujście este la o scurtă călătorie cu mașina.",
+   "en": "The beautiful Woliński National Park, home to European bison, is right next door, and the port city of Świnoujście is a short drive away."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie einen 'Parawan' (Windschutz) mit, um sich wie die Einheimischen vor dem Ostseewind zu schützen.",
+    "Kommen Sie in der Hochsaison früh, um sich einen Platz am Wasser zu sichern.",
+    "Spazieren Sie bei Sonnenuntergang auf der Seebrücke für die besten Fotomotive.",
+    "Verpassen Sie nicht den Walk of Fame (Aleja Gwiazd) gleich hinter dem Strand."
+   ],
+   "hu": [
+    "Hozzon magával 'parawan'-t (szélfogót), hogy a helyiekhez hasonlóan védekezzen a balti-tengeri szél ellen.",
+    "Főszezonban érkezzen korán, hogy jó helyet találjon a víz közelében.",
+    "Tegyen egy sétát a mólón naplementekor a legjobb fotózási lehetőségekért.",
+    "Ne hagyja ki a part mögött található Csillagok Sétányát (Aleja Gwiazd)."
+   ],
+   "ro": [
+    "Aduceți un 'parawan' (paravan de vânt) pentru a vă proteja de briza baltică, ca un localnic.",
+    "Ajungeți devreme în sezonul de vârf pentru a vă asigura un loc lângă apă.",
+    "Faceți o plimbare pe dig la apus pentru cele mai bune fotografii.",
+    "Nu ratați Aleea Stelelor (Aleja Gwiazd) din apropiere, aflată chiar în spatele plajei."
+   ],
+   "en": [
+    "Bring a 'parawan' (windbreak) to shield yourself from Baltic breezes like a local.",
+    "Arrive early in peak season to secure a spot near the water.",
+    "Take a walk on the pier during sunset for the best photo opportunities.",
+    "Don't miss the nearby Walk of Fame (Aleja Gwiazd) just behind the beach."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Kostet die Seebrücke in Międzyzdroje Eintritt?",
+     "hu": "Fizetős a Międzyzdroje móló?",
+     "ro": "Există o taxă de intrare pentru digul din Międzyzdroje?",
+     "en": "Is there an entrance fee for the Międzyzdroje pier?"
+    },
+    "a": {
+     "de": "Nein, der Spaziergang auf der Seebrücke ist das ganze Jahr über kostenlos.",
+     "hu": "Nem, a mólón való séta egész évben teljesen ingyenes.",
+     "ro": "Nu, plimbarea pe digul din Międzyzdroje este gratuită pe tot parcursul anului.",
+     "en": "No, walking on the Międzyzdroje pier is free of charge year-round."
+    }
+   },
+   {
+    "q": {
+     "de": "Darf ich meinen Hund an den Strand mitnehmen?",
+     "hu": "Levihetem a kutyámat a strandra?",
+     "ro": "Pot să îmi aduc câinele pe plajă?",
+     "en": "Can I bring my dog to the beach?"
+    },
+    "a": {
+     "de": "Während der Sommersaison sind Hunde an den Hauptbadestränden meist nicht erlaubt; achten Sie auf Schilder für spezielle Hundestrände.",
+     "hu": "A nyári szezonban a fő fürdőstrandokon általában tilos a kutyasétáltatás, keresse a kijelölt kutyás zónákat.",
+     "ro": "În general, câinii nu au voie pe plajele principale în timpul sezonului de vară; verificați semnele pentru zonele destinate câinilor.",
+     "en": "Dogs are generally not allowed on the main swimming beaches during the summer season; check local signs for designated dog zones."
+    }
+   },
+   {
+    "q": {
+     "de": "Wie warm ist die Ostsee im Sommer?",
+     "hu": "Milyen meleg a Balti-tenger nyáron?",
+     "ro": "Cât de caldă este Marea Baltică vara?",
+     "en": "How warm is the Baltic Sea in summer?"
+    },
+    "a": {
+     "de": "Die Wassertemperatur erreicht im Juli und August normalerweise Werte zwischen 17°C und 20°C.",
+     "hu": "A vízhőmérséklet júliusban és augusztusban általában 17°C és 20°C között tetőzik.",
+     "ro": "Temperatura apei atinge de obicei între 17°C și 20°C în iulie și august.",
+     "en": "The water temperature usually peaks between 17°C and 20°C in July and August."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es in der Nähe einen FKK-Bereich?",
+     "hu": "Van a közelben nudista kijelölt rész?",
+     "ro": "Există o secțiune pentru nudiști în apropiere?",
+     "en": "Is there a nudist section nearby?"
+    },
+    "a": {
+     "de": "Ja, der Hauptstrand ist ein Textilstrand, aber in Richtung Lubiewo gibt es einige Kilometer entfernt einen bekannten FKK-Strand.",
+     "hu": "Igen, a fő strand textiles, de Lubiewo felé, néhány kilométerre található egy jól ismert nudista strand (FKK).",
+     "ro": "Da, plaja principală este textilă, dar există o plajă de nudiști bine-cunoscută (FKK) la câțiva kilometri distanță, spre Lubiewo.",
+     "en": "Yes, the main beach is textile, but there is a well-known nudist beach (FKK) a few kilometers away towards Lubiewo."
+    }
+   }
+  ]
+ },
+ "pobierowo-beach": {
+  "slug": "pobierowo-beach",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": true,
+  "accessible": true,
+  "intro": {
+   "de": "Pobierowo ist einer der beliebtesten Badeorte an der polnischen Ostseeküste und lockt Besucher mit seinem breiten, feinsandigen Strand und einer malerischen Umgebung. Der Strand erstreckt sich über mehrere Kilometer und zeichnet sich durch seinen weichen, hellen Sand aus, der ideal für lange Spaziergänge und entspannte Tage am Meer ist. Die Kulisse wird von dichten Kiefernwäldern geprägt, die bis an die Küste reichen und nicht nur an heißen Tagen für angenehmen Schatten, sondern auch für eine herrliche, harzige Meeresluft sorgen.\n\nEin besonderes Merkmal des Strandes von Pobierowo ist seine Lebendigkeit während der Sommersaison, kombiniert mit Abschnitten, die Ruhe und Erholung bieten. Die steil abfallenden Klippen und die grünen Wälder im Hintergrund bilden einen wunderschönen Kontrast zum tiefen Blau der Ostsee. Entlang des Strandes gibt es zahlreiche Zugänge, die gut ausgebaut sind, einige davon auch barrierefrei, was den Strand für alle Besucher attraktiv macht.\n\nFür Aktivurlauber und Familien ist Pobierowo ein wahres Paradies. Das saubere Meerwasser lädt zum Schwimmen und Planschen ein, während der breite Strandabschnitt genügend Platz für Beachvolleyball, Frisbee oder das Bauen von Sandburgen bietet. Abends verwandelt sich der Strand in einen romantischen Ort, an dem man atemberaubende Sonnenuntergänge beobachten kann, die den Himmel über der Ostsee in ein spektakuläres Farbenspiel tauchen. Die perfekte Kombination aus Natur, guter Infrastruktur und freundlicher Atmosphäre macht diesen Strand zu einem unvergesslichen Reiseziel.",
+   "hu": "Pobierowo a lengyel Balti-tenger partjának egyik legkedveltebb üdülőhelye, amely széles, finom homokos strandjával és festői környezetével vonzza a látogatókat. A több kilométer hosszan elnyúló partszakasz puha, világos homokjáról ismert, amely ideális hosszú sétákhoz és pihentető tengerparti napokhoz. A hátteret sűrű fenyőerdők alkotják, amelyek egészen a partig érnek, és nemcsak kellemes árnyékot adnak a forró napokon, hanem friss, gyantás tengeri levegőt is biztosítanak.\n\nA pobierowói strand különlegessége, hogy a nyári szezonban rendkívül élettel teli, mégis kínál olyan szakaszokat, ahol csendre és nyugalomra lelhetünk. A meredek sziklafalak és a háttérben húzódó zöldellő erdők gyönyörű kontrasztot alkotnak a Balti-tenger mélykék vizével. A strand mentén számos, jól kiépített lejáró található, amelyek közül több akadálymentesített, így minden látogató számára könnyen megközelíthetővé teszi a partot.\n\nAz aktív pihenésre vágyók és a családok számára Pobierowo valóságos paradicsom. A tiszta tengervíz fürdőzésre és pancsolásra csábít, miközben a széles partszakasz elegendő helyet biztosít a strandröplabdához, a frizbizéshez vagy a homokvár-építéshez. Esténként a strand romantikus hellyé változik, ahol lélegzetelállító naplementéket csodálhatunk meg, amelyek látványos színkavalkáddá varázsolják a Balti-tenger feletti eget. A természet, a kiváló infrastruktúra és a barátságos légkör tökéletes harmóniája teszi ezt a strandot felejthetetlen úti céllá.",
+   "ro": "Pobierowo este una dintre cele mai populare stațiuni de pe litoralul polonez al Mării Baltice, atrăgând vizitatorii cu plaja sa largă, cu nisip fin, și împrejurimile pitorești. Plaja, care se întinde pe mai mulți kilometri, este renumită pentru nisipul său moale și deschis la culoare, ideal pentru plimbări lungi și zile de relaxare la malul mării. Fundalul este dominat de păduri dese de pini, care ajung până aproape de coastă, oferind nu doar o umbră plăcută în zilele toride, ci și un aer marin proaspăt, cu arome de rășină.\n\nO caracteristică specială a plajei din Pobierowo este vitalitatea sa în timpul sezonului estival, combinată cu porțiuni care oferă liniște și relaxare. Falezele abrupte și pădurile verzi din fundal creează un contrast frumos cu albastrul profund al Mării Baltice. De-a lungul plajei există numeroase căi de acces bine amenajate, unele dintre ele fiind adaptate pentru persoanele cu mobilitate redusă, ceea ce face plaja atractivă și accesibilă pentru toți vizitatorii.\n\nPentru turiștii activi și familii, Pobierowo este un adevărat paradis. Apa curată a mării invită la înot și bălăceală, în timp ce plaja largă oferă suficient spațiu pentru volei pe plajă, frisbee sau construirea de castele de nisip. Seara, plaja se transformă într-un loc romantic, unde puteți admira apusuri de soare uluitoare, care transformă cerul deasupra Mării Baltice într-un spectacol fascinant de culori. Combinația perfectă de natură, infrastructură excelentă și o atmosferă prietenoasă face din această plajă o destinație de neuitat.",
+   "en": "Pobierowo is one of the most popular resorts on the Polish Baltic coast, attracting visitors with its wide, fine sandy beach and picturesque surroundings. Stretching for several kilometers, the beach is known for its soft, light-colored sand, which is ideal for long walks and relaxing days by the sea. The backdrop is dominated by dense pine forests that reach almost to the coast, providing not only pleasant shade on hot days but also fresh, resinous sea air.\n\nA special feature of the beach in Pobierowo is its vibrancy during the summer season, combined with sections that offer peace and relaxation. The steep cliffs and green forests in the background create a beautiful contrast with the deep blue of the Baltic Sea. Along the beach, there are numerous well-developed access points, some of which are wheelchair accessible, making the shoreline welcoming and easy to reach for all types of visitors.\n\nFor active vacationers and families, Pobierowo is a true paradise. The clean sea water invites for swimming and splashing around, while the wide stretch of beach offers plenty of space for beach volleyball, frisbee, or building elaborate sandcastles. In the evenings, the beach transforms into a romantic spot where you can watch breathtaking sunsets that paint the sky above the Baltic Sea in a spectacular display of colors. The perfect combination of pristine nature, excellent infrastructure, and a friendly atmosphere makes this beach an unforgettable destination."
+  },
+  "type": {
+   "de": "feinsandig",
+   "hu": "finom homokos",
+   "ro": "nisip fin",
+   "en": "fine sandy"
+  },
+  "water": {
+   "de": "Das Wasser der Ostsee ist hier erfrischend und von guter Qualität, der Einstieg ist relativ flach, ideal für Nichtschwimmer.",
+   "hu": "A Balti-tenger vize itt frissítő és jó minőségű, a tengerfenék lassan mélyül, így ideális az úszni nem tudók számára is.",
+   "ro": "Apa Mării Baltice este răcoroasă și de bună calitate, iar intrarea în apă este relativ lină, ideală pentru cei care nu știu să înoate.",
+   "en": "The Baltic Sea water here is refreshing and of good quality, with a relatively shallow entry, making it ideal for non-swimmers."
+  },
+  "access": {
+   "de": "Der Strand ist vom Ortszentrum aus in wenigen Minuten zu Fuß gut erreichbar; einige Zugänge sind flach, andere führen über Holztreppen.",
+   "hu": "A strand a városközpontból néhány perc alatt könnyen megközelíthető gyalog; a lejárók egy része sík, míg máshol falépcsőkön lehet lejutni.",
+   "ro": "Plaja este ușor accesibilă pe jos în câteva minute din centrul stațiunii; unele intrări sunt plane, în timp ce altele se fac pe scări de lemn.",
+   "en": "The beach is easily accessible on foot in a few minutes from the town center; some accesses are flat, while others lead via wooden stairs."
+  },
+  "parking": {
+   "de": "Es gibt gebührenpflichtige Parkplätze im Ort, meist nur 5-10 Gehminuten vom Strand entfernt.",
+   "hu": "A városban fizetős parkolók állnak rendelkezésre, amelyek többnyire 5-10 perces sétára találhatók a strandtól.",
+   "ro": "Există parcări cu plată în oraș, de obicei la doar 5-10 minute de mers pe jos de plajă.",
+   "en": "There are paid parking lots in the town, usually just a 5-10 minute walk from the beach."
+  },
+  "facilities": {
+   "de": [
+    "Toiletten",
+    "Duschen",
+    "Strandbars",
+    "Sonnenliegen-Verleih",
+    "Rettungsschwimmer",
+    "Umkleidekabinen"
+   ],
+   "hu": [
+    "WC",
+    "Zuhanyzók",
+    "Strandbárok",
+    "Napágy bérlés",
+    "Vízimentők",
+    "Öltözők"
+   ],
+   "ro": [
+    "Toalete",
+    "Dușuri",
+    "Baruri pe plajă",
+    "Închiriere șezlonguri",
+    "Salvamar",
+    "Cabine de schimb"
+   ],
+   "en": [
+    "Toilets",
+    "Showers",
+    "Beach bars",
+    "Sunbed rental",
+    "Lifeguards",
+    "Changing rooms"
+   ]
+  },
+  "family": {
+   "de": "Der Strand ist äußerst familienfreundlich, bietet viel Platz zum Spielen und hat in der Saison eine sichere und bewachte Badezone.",
+   "hu": "A strand rendkívül családbarát, rengeteg helyet kínál a játékhoz, a szezonban pedig biztonságos, őrzött fürdőövezet is működik.",
+   "ro": "Plaja este extrem de prietenoasă cu familiile, oferind mult spațiu pentru joacă și o zonă de scăldat sigură și supravegheată în timpul sezonului.",
+   "en": "The beach is highly family-friendly, offering plenty of space for playing and a safe, supervised bathing zone during the season."
+  },
+  "kids": {
+   "de": "Für Kinder gibt es flaches Wasser am Ufer, und oft werden Hüpfburgen oder kleine Rutschen am Strand aufgebaut.",
+   "hu": "A gyerekeket lassan mélyülő part menti víz várja, a strandon pedig gyakran állítanak fel ugrálóvárakat vagy kisebb csúszdákat.",
+   "ro": "Pentru copii există apă puțin adâncă la țărm, iar pe plajă sunt adesea amenajate castele gonflabile sau tobogane mici.",
+   "en": "For children, there is shallow water by the shore, and bouncy castles or small slides are often set up on the beach."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Smażona ryba",
+     "tip": "In den Fischbratereien nahe der Strandzugänge gibt es frischen Dorsch (Dorsz) oder Flunder (Flądra)."
+    },
+    {
+     "name": "Gofry",
+     "tip": "Eine süße polnische Spezialität an der Küste, serviert mit Schlagsahne und frischen Früchten, an vielen Ständen erhältlich."
+    },
+    {
+     "name": "Zapiekanki",
+     "tip": "Überbackene Baguettes mit Pilzen und Käse, der perfekte schnelle Snack auf dem Weg zum Strand."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Smażona ryba",
+     "tip": "A strandlejárók közelében lévő halsütőkben friss tőkehalat (Dorsz) vagy lepényhalat (Flądra) kínálnak."
+    },
+    {
+     "name": "Gofry",
+     "tip": "Édes lengyel tengerparti specialitás tejszínhabbal és friss gyümölcsökkel, számos bódéban kapható."
+    },
+    {
+     "name": "Zapiekanki",
+     "tip": "Gombával és sajttal grillezett bagett, amely tökéletes gyors harapnivaló a strand felé menet."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Smażona ryba",
+     "tip": "În restaurantele de pește din apropierea intrărilor pe plajă se oferă cod proaspăt (Dorsz) sau cambulă (Flądra)."
+    },
+    {
+     "name": "Gofry",
+     "tip": "O specialitate dulce de pe coasta poloneză, servită cu frișcă și fructe proaspete, disponibilă la multe chioșcuri."
+    },
+    {
+     "name": "Zapiekanki",
+     "tip": "Baghete gratinate cu ciuperci și brânză, gustarea rapidă perfectă în drum spre plajă."
+    }
+   ],
+   "en": [
+    {
+     "name": "Smażona ryba",
+     "tip": "Fresh cod (Dorsz) or flounder (Flądra) is offered in the fish fryeries near the beach accesses."
+    },
+    {
+     "name": "Gofry",
+     "tip": "A sweet Polish seaside specialty, served with whipped cream and fresh fruits, available at many stands."
+    },
+    {
+     "name": "Zapiekanki",
+     "tip": "Toasted baguettes topped with mushrooms and cheese, the perfect quick snack on the way to the beach."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist kostenlos, lediglich für die Anmietung von Liegen oder Strandkörben fallen Gebühren an.",
+   "hu": "A strand látogatása ingyenes, csak a napágyak vagy strandsátrak bérléséért kell fizetni.",
+   "ro": "Accesul la plajă este gratuit, se percep taxe doar pentru închirierea șezlongurilor sau a coșurilor de plajă.",
+   "en": "Access to the beach is free; fees apply only for renting sunbeds or beach chairs."
+  },
+  "lifeguard": {
+   "de": "Während der Hauptsaison (Juli und August) sorgen ausgebildete Rettungsschwimmer in ausgewiesenen Zonen für Sicherheit.",
+   "hu": "A főszezonban (júliusban és augusztusban) kijelölt zónákban szakképzett vízimentők gondoskodnak a biztonságról.",
+   "ro": "În timpul sezonului de vârf (iulie și august), salvamarii calificați asigură siguranța în zonele desemnate.",
+   "en": "During the peak season (July and August), trained lifeguards ensure safety in designated zones."
+  },
+  "shade": {
+   "de": "Der Kiefernwald am Rand des Strandes bietet natürlichen Schatten, zudem können Sonnenschirme gemietet werden.",
+   "hu": "A strand szélén húzódó fenyőerdő természetes árnyékot nyújt, emellett napernyők is bérelhetők.",
+   "ro": "Pădurea de pini de la marginea plajei oferă umbră naturală, iar în plus se pot închiria umbrele de soare.",
+   "en": "The pine forest at the edge of the beach provides natural shade, and sun umbrellas can also be rented."
+  },
+  "best_time": {
+   "de": "Die beste Zeit für einen Besuch sind die Sommermonate Juli und August, wenn das Wasser am wärmsten ist und alle Einrichtungen geöffnet sind.",
+   "hu": "A legjobb időszak a látogatásra a július és az augusztus, amikor a legmelegebb a víz és minden szolgáltatás működik.",
+   "ro": "Cel mai bun moment pentru o vizită sunt lunile de vară iulie și august, când apa este cea mai caldă și toate facilitățile sunt deschise.",
+   "en": "The best time to visit is during the summer months of July and August when the water is warmest and all facilities are open."
+  },
+  "nearby": {
+   "de": "Pobierowo liegt nah an der Stadt Rewal, die mit ihrer Schmalspurbahn und den malerischen Klippen einen tollen Tagesausflug bietet.",
+   "hu": "Pobierowo közel fekszik Rewal városához, amely keskeny nyomtávú vasútjával és festői szikláival remek egynapos kirándulást ígér.",
+   "ro": "Pobierowo este situat aproape de orașul Rewal, care oferă o excursie de o zi excelentă cu calea sa ferată cu ecartament îngust și stâncile pitorești.",
+   "en": "Pobierowo is located close to the town of Rewal, which offers a great day trip with its narrow-gauge railway and picturesque cliffs."
+  },
+  "tips": {
+   "de": [
+    "Mieten Sie einen traditionellen Strandkorb (Parawan), um sich vor dem Ostseewind zu schützen.",
+    "Bringen Sie ein Fahrrad mit, die Waldwege entlang der Küste sind hervorragend ausgebaut.",
+    "Besuchen Sie den Strand am frühen Morgen, um in Ruhe Bernstein zu suchen."
+   ],
+   "hu": [
+    "Béreljen hagyományos szélfogót (parawan), hogy megvédje magát a tengeri széltől.",
+    "Hozzon magával kerékpárt, a part menti erdei utak kiválóan kiépítettek.",
+    "Látogasson el kora reggel a strandra, és keressen borostyánt a nyugodt parton."
+   ],
+   "ro": [
+    "Închiriați un paravan tradițional pentru a vă proteja de vântul de la Marea Baltică.",
+    "Aduceți o bicicletă, potecile forestiere de-a lungul coastei sunt foarte bine dezvoltate.",
+    "Vizitați plaja dimineața devreme pentru a căuta chihlimbar în liniște."
+   ],
+   "en": [
+    "Rent a traditional beach windbreak (parawan) to protect yourself from the Baltic wind.",
+    "Bring a bicycle, the forest paths along the coast are perfectly developed.",
+    "Visit the beach early in the morning to search for amber in peace."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Be szabad vinni kutyákat a strandra?",
+     "ro": "Sunt permiși câinii pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Ja, es gibt speziell ausgewiesene Hundezonen in Pobierowo (oft bei den Zugängen 32 und 43), die auch im Sommer genutzt werden können.",
+     "hu": "Igen, Pobierowóban speciálisan kijelölt kutyás zónák találhatók (gyakran a 32-es és 43-as lejárónál), amelyek nyáron is használhatók.",
+     "ro": "Da, în Pobierowo există zone special desemnate pentru câini (adesea la intrările 32 și 43), care pot fi folosite și în timpul verii.",
+     "en": "Yes, there are specially designated dog zones in Pobierowo (often at entrances 32 and 43), which can be used even during the summer season."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist der Strand rollstuhlgerecht?",
+     "hu": "A strand kerekesszékkel is megközelíthető?",
+     "ro": "Plaja este accesibilă pentru scaune cu rotile?",
+     "en": "Is the beach wheelchair accessible?"
+    },
+    "a": {
+     "de": "Ja, ausgewählte Strandzugänge verfügen über Rampen und sind für Rollstuhlfahrer zugänglich.",
+     "hu": "Igen, bizonyos strandlejárók rámpával vannak ellátva, így kerekesszékkel is kényelmesen használhatók.",
+     "ro": "Da, anumite intrări pe plajă sunt prevăzute cu rampe și sunt accesibile pentru utilizatorii de scaune cu rotile.",
+     "en": "Yes, selected beach accesses are equipped with ramps and are accessible to wheelchair users."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten am Strand?",
+     "hu": "Vannak nyilvános illemhelyek a strandon?",
+     "ro": "Există toalete publice pe plajă?",
+     "en": "Are there public toilets on the beach?"
+    },
+    "a": {
+     "de": "Ja, an den Hauptzugängen gibt es öffentliche Toiletten, für die meist eine kleine Gebühr anfällt.",
+     "hu": "Igen, a főbb lejáróknál találhatók nyilvános WC-k, amelyek használatáért általában csekély díjat kell fizetni.",
+     "ro": "Da, la intrările principale există toalete publice, pentru care se percepe de obicei o mică taxă.",
+     "en": "Yes, there are public toilets at the main entrances, for which a small fee is usually charged."
+    }
+   },
+   {
+    "q": {
+     "de": "Wie hoch ist die Wassertemperatur?",
+     "hu": "Milyen a víz hőmérséklete?",
+     "ro": "Care este temperatura apei?",
+     "en": "What is the water temperature like?"
+    },
+    "a": {
+     "de": "Im Hochsommer erreicht die Ostsee hier Temperaturen von etwa 18-20°C, was eine angenehme Erfrischung bietet.",
+     "hu": "A nyári főszezonban a Balti-tenger vize általában 18-20°C körüli hőmérsékletet ér el, ami kellemesen frissítő.",
+     "ro": "În plină vară, Marea Baltică atinge aici temperaturi de aproximativ 18-20°C, oferind o răcorire plăcută.",
+     "en": "In the height of summer, the Baltic Sea here reaches temperatures of around 18-20°C, offering a pleasant refreshment."
+    }
+   }
+  ]
+ },
+ "poniatowka-beach": {
+  "slug": "poniatowka-beach",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": true,
+  "accessible": false,
+  "intro": {
+   "de": "Der Poniatówka-Strand ist kein typisches Reiseziel an der Küste, sondern einer der berühmtesten städtischen Flussstrände Europas, direkt im Herzen von Warschau. Dieser breite Sandstrand liegt am rechten, wilderen Ufer der Weichsel (Wisła), direkt unter der Poniatowski-Brücke, und bietet eine einzigartige Mischung aus Stadtleben und Naturerlebnis. Während das linke Ufer für seine betonierten Boulevards bekannt ist, bietet Poniatówka eine entspanntere, unkonventionelle Atmosphäre, in der man sich auf feinem, natürlichem Sand entspannen kann, mit spektakulärem Blick auf die Skyline und das Nationalstadion. \n\nWas Poniatówka besonders macht, ist die Integration ungezähmter Natur in eine Metropole. Der Strand ist von einem üppigen, geschützten Auwald gesäumt, der einen grünen Korridor schafft. In den warmen Sommermonaten erwacht die Gegend mit Beachvolleyballturnieren, Sonnenanbetern und Gruppen von Freunden, die Picknicks genießen, förmlich zum Leben. \n\nWenn der Abend hereinbricht, verwandelt sich Poniatówka in einen magischen Ort. Es ist einer der wenigen Orte in der Stadt, an dem öffentliche Lagerfeuer an ausgewiesenen Feuerstellen erlaubt sind. Die Kombination aus knisternden Feuern, der beleuchteten Stadtlandschaft, die sich im Fluss spiegelt, und der entspannten Energie macht es zu einem Muss. Obwohl das Schwimmen in der Weichsel aufgrund gefährlicher Strömungen strengstens verboten ist, bleibt der Strand ein wesentlicher Bestandteil der Warschauer Sommerkultur.",
+   "hu": "A Poniatówka strand nem egy tipikus tengerparti úti cél, hanem Európa egyik leghíresebb és legélettelibb városi folyami strandja, amely egyenesen Varsó szívében található. A Visztula (Wisła) vadabb, jobb partján, közvetlenül az ikonikus Poniatowski híd alatt elterülő széles, homokos partszakasz a városi nyüzsgés és a természetes nyugalom egyedülálló keverékét kínálja. Míg a folyó bal partja a kiépített beton sétányokról és a nyüzsgő éjszakai életről ismert, a Poniatówka egy sokkal lazább, bohémabb atmoszférát biztosít, ahol a helyiek a finom, természetes homokon pihenhetnek, miközben lenyűgöző kilátás nyílik a belváros felhőkarcolóira és a Nemzeti Stadionra. \n\nAmi igazán különlegessé teszi a Poniatówkát, az az érintetlen természet jelenléte a modern metropoliszon belül. A strand mögött egy buja, védett ártéri erdő húzódik, amely egy olyan zöld folyosót hoz létre, mintha mérföldekre lennénk a forgalmas városi utcáktól. A meleg nyári hónapokban a terület megtelik élettel: strandröplabda-bajnokságok zajlanak, napozók töltik meg a partot, baráti társaságok piknikeznek a szabadban. \n\nAhogy leszáll az est, a Poniatówka varázslatos hellyé változik. Ez egyike azon kevés helyeknek a városban, ahol a kijelölt tűzrakó helyeken engedélyezett a tábortűz gyújtása. A ropogó tűz, a folyón tükröződő kivilágított városkép és a vidám, mégis laza energia teszi kihagyhatatlanná. Bár a Visztulában fürdeni a veszélyes áramlatok miatt szigorúan tilos, maga a strand a varsói nyári kultúra elengedhetetlen része marad.",
+   "ro": "Plaja Poniatówka nu este o destinație de coastă tipică, ci una dintre cele mai faimoase plaje urbane fluviale din Europa, situată în inima Varșoviei. Aflată pe malul drept, mai sălbatic, al râului Vistula (Wisła), exact sub Podul Poniatowski, această întindere de nisip oferă un amestec unic de viață urbană și natură. În timp ce malul stâng este cunoscut pentru bulevardele de beton și viața de noapte, Poniatówka oferă o atmosferă boemă, unde localnicii se relaxează pe nisipul fin, având o vedere spectaculoasă asupra centrului orașului și a Stadionului Național. \n\nCeea ce face ca Poniatówka să fie specială este integrarea naturii neîmblânzite într-o metropolă modernă. Plaja este mărginită de o pădure riverană luxuriantă, creând un coridor verde care te face să te simți departe de străzile aglomerate. În lunile calde de vară, zona prinde viață cu turnee de volei pe plajă, pasionați de bronz și grupuri de prieteni care se bucură de picnicuri. \n\nOdată cu lăsarea serii, Poniatówka devine magică. Este unul dintre puținele locuri din oraș unde focurile de tabără sunt permise în vetre special amenajate. Combinația dintre focurile care trosnesc, peisajul urban iluminat și energia vibrantă o fac un loc de neratat. Deși înotul în Vistula este strict interzis din cauza curenților periculoși, plaja în sine rămâne o parte esențială a culturii de vară varșoviene.",
+   "en": "Poniatówka Beach is not your typical coastal destination; it is one of Europe's most famous and vibrant urban river beaches, located right in the heart of Warsaw. Situated on the wilder, right bank of the Vistula (Wisła) River, directly beneath the iconic Poniatowski Bridge, this wide, sandy expanse offers a unique blend of city life and natural escape. While the left bank of the river is known for its concrete boulevards and bustling nightlife, Poniatówka provides a more relaxed, bohemian atmosphere where locals gather to unwind on fine, natural sand with a spectacular view of the downtown skyline and the National Stadium. \n\nWhat makes Poniatówka truly special is its integration of untamed nature within a modern metropolis. The beach is backed by a lush, protected riparian forest, creating a green corridor that feels worlds away from the busy city streets just a short walk away. During the warm summer months, the area comes alive with beach volleyball tournaments, sunbathers, and groups of friends enjoying picnics. \n\nAs evening falls, Poniatówka transforms into a magical spot. It is one of the few places in the city where public bonfires are permitted in designated fire pits. The combination of crackling fires, the illuminated cityscape reflecting on the river, and the lively yet laid-back energy makes it a must-visit. Although swimming in the Vistula is strictly prohibited due to dangerous currents, the beach itself remains an essential part of Warsaw's summer culture."
+  },
+  "type": {
+   "de": "sandig",
+   "hu": "homokos",
+   "ro": "nisipos",
+   "en": "sandy"
+  },
+  "water": {
+   "de": "Das Schwimmen in der Weichsel ist aufgrund starker, unvorhersehbarer Strömungen und versteckter Tiefen strengstens verboten. Das Wasser dient ausschließlich dem Genießen der Aussicht vom Ufer aus.",
+   "hu": "A Visztula folyóban a fürdés a folyó erős, kiszámíthatatlan áramlatai és a rejtett medrek miatt szigorúan tilos. A víz kizárólag a partról nyíló látvány élvezetére szolgál, bemenni életveszélyes.",
+   "ro": "Înotul în râul Vistula este strict interzis din cauza curenților puternici, imprevizibili și a adâncimilor ascunse. Apa este doar pentru a admira peisajul de pe mal, nu pentru a intra în ea.",
+   "en": "Swimming in the Vistula river is strictly prohibited due to strong, unpredictable currents and hidden depths. The water is entirely for enjoying the view from the shore, not for entering."
+  },
+  "access": {
+   "de": "Leicht erreichbar mit öffentlichen Verkehrsmitteln (Straßenbahnen und Busse zur Poniatowski-Brücke oder Rondo Waszyngtona), gefolgt von einem kurzen Spaziergang über Treppen oder Wege. Hervorragende Radwege führen ebenfalls direkt zum Strandbereich.",
+   "hu": "Könnyen megközelíthető tömegközlekedéssel (villamosok és buszok a Poniatowski hídhoz vagy a Rondo Waszyngtona megállóhoz), ahonnan rövid séta vezet le a lépcsőkön vagy ösvényeken. Kiváló kerékpárutak is közvetlenül a strandhoz vezetnek.",
+   "ro": "Ușor accesibil cu transportul public (tramvaie și autobuze până la Podul Poniatowski sau Rondo Waszyngtona), urmat de o scurtă coborâre pe scări sau poteci. De asemenea, piste de biciclete excelente duc direct la zonă.",
+   "en": "Easily accessible by public transport (trams and buses to the Poniatowski Bridge or Rondo Waszyngtona) followed by a short walk down stairs or paths. Excellent bicycle paths also connect directly to the beach area."
+  },
+  "parking": {
+   "de": "Kostenpflichtige städtische Parkplätze stehen rund um das nahe gelegene Nationalstadion (PGE Narodowy) zur Verfügung, nur einen kurzen Fußweg vom Strand entfernt.",
+   "hu": "Fizetős városi parkolási lehetőség a közeli Nemzeti Stadion (PGE Narodowy) körül áll rendelkezésre, csupán rövid sétatávolságra a strandtól.",
+   "ro": "Parcarea publică cu plată este disponibilă în jurul Stadionului Național (PGE Narodowy) din apropiere, la doar o scurtă plimbare de plajă.",
+   "en": "Paid city parking is available around the nearby National Stadium (PGE Narodowy), just a short walking distance from the beach."
+  },
+  "facilities": {
+   "de": [
+    "Strandbar",
+    "Volleyballplätze",
+    "mobile Toiletten",
+    "Feuerstellen",
+    "Outdoor-Fitnessstudio",
+    "Fahrradständer",
+    "Fährhaltestelle"
+   ],
+   "hu": [
+    "strandbár",
+    "röplabdapályák",
+    "mobil wc",
+    "tűzrakó helyek",
+    "szabadtéri edzőterem",
+    "kerékpártárolók",
+    "komp megálló"
+   ],
+   "ro": [
+    "bar pe plajă",
+    "terenuri de volei",
+    "toalete ecologice",
+    "vetre pentru foc",
+    "sală de fitness în aer liber",
+    "parcare biciclete",
+    "stație de feribot"
+   ],
+   "en": [
+    "beach bar",
+    "volleyball courts",
+    "portable toilets",
+    "fire pits",
+    "outdoor gym",
+    "bike racks",
+    "ferry stop"
+   ]
+  },
+  "family": {
+   "de": "Großartig für Familien, die picknicken, im riesigen Sandkasten spielen oder im nahe gelegenen Wald spazieren gehen möchten. Allerdings ist extreme Vorsicht geboten, um Kinder vom gefährlichen Fluss fernzuhalten.",
+   "hu": "Kiváló választás családoknak piknikezéshez, a hatalmas homokozóként szolgáló parton való játékhoz vagy a közeli erdőben tett sétákhoz, de rendkívüli figyelem szükséges, hogy a gyerekeket távol tartsák a veszélyes folyótól.",
+   "ro": "Excelent pentru familiile care doresc să facă un picnic, să se joace în nisipul fin sau să se plimbe în pădurea din apropiere, însă este necesară prudență extremă pentru a ține copiii departe de râul periculos.",
+   "en": "Great for families who want to have a picnic, play in the vast sandbox, or walk in the nearby woods, but extreme caution is needed to keep children away from the dangerous river."
+  },
+  "kids": {
+   "de": "Kinder werden den endlosen Sand zum Sandburgenbauen und die offenen Flächen zum Herumlaufen lieben. Es gibt jedoch keinen sicheren Zugang zum Wasser, weshalb Wasserspiele hier nicht möglich sind.",
+   "hu": "A gyerekek imádni fogják a végtelen homokot, ahol homokvárakat építhetnek, és a hatalmas szabad teret a rohangáláshoz. Biztonságos vízbelépés azonban nincs, így a vízi játékok itt nem lehetségesek.",
+   "ro": "Copiii vor adora nisipul nesfârșit pentru construirea castelelor de nisip și spațiul deschis pentru alergat. Cu toate acestea, nu există nicio intrare sigură în apă, deci jocurile în apă nu sunt o opțiune.",
+   "en": "Kids will love the endless sand for building sandcastles and the open space for running around. However, there is no safe water entry, so water play is not an option here."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Zapiekanki",
+     "tip": "Beliebtes polnisches Streetfood (überbackene halbe Baguettes mit Pilzen und Käse), oft bei nahegelegenen Foodtrucks erhältlich."
+    },
+    {
+     "name": "Gegrillte Kiełbasa",
+     "tip": "Eine klassische Strandmahlzeit; man kann in der Nähe Wurst kaufen und sie selbst an einer der ausgewiesenen Feuerstellen rösten."
+    },
+    {
+     "name": "Craft Beer & Limonaden",
+     "tip": "Erhältlich an den saisonalen Strandbars, die in den Sommermonaten direkt im Sand aufgebaut werden."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Zapiekanka",
+     "tip": "Népszerű lengyel utcai étel (sült melegszendvics gombával és sajttal), amelyet a közeli food truckoknál gyakran árulnak."
+    },
+    {
+     "name": "Grillezett Kiełbasa",
+     "tip": "Klasszikus strandétel; a közelben vásárolhatsz kolbászt, amit magad is megsüthetsz a kijelölt tűzrakó helyek egyikén."
+    },
+    {
+     "name": "Kézműves Sör és Limonádé",
+     "tip": "Nyári hónapokban a közvetlenül a homokon felállított szezonális strandbárokban kapható."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Zapiekanki",
+     "tip": "Mâncare stradală poloneză populară (jumătăți de baghetă prăjite cu ciuperci și brânză), adesea disponibilă la rulotele cu mâncare din apropiere."
+    },
+    {
+     "name": "Kiełbasa la grătar",
+     "tip": "O masă clasică de plajă; puteți cumpăra cârnați din apropiere pentru a-i prăji chiar dumneavoastră la una dintre vetrele de foc."
+    },
+    {
+     "name": "Bere artizanală și limonadă",
+     "tip": "Disponibile la barurile sezoniere amenajate direct pe nisip în timpul lunilor de vară."
+    }
+   ],
+   "en": [
+    {
+     "name": "Zapiekanki",
+     "tip": "Popular Polish street food (toasted half-baguettes with mushrooms and cheese) often available at nearby food trucks."
+    },
+    {
+     "name": "Grilled Kiełbasa",
+     "tip": "A classic beach meal; you can buy sausages nearby and roast them yourself at one of the designated fire pits."
+    },
+    {
+     "name": "Craft Beer & Lemonades",
+     "tip": "Available at the seasonal beach bars set up right on the sand during the summer months."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand und zu den Naturgebieten ist völlig kostenlos und rund um die Uhr für die Öffentlichkeit zugänglich.",
+   "hu": "A strand és a természeti területek látogatása teljesen ingyenes, és a nap 24 órájában nyitva áll a nagyközönség számára.",
+   "ro": "Accesul la plajă și în zonele naturale este complet gratuit și deschis publicului non-stop.",
+   "en": "Access to the beach and the natural areas is completely free and open to the public 24/7."
+  },
+  "lifeguard": {
+   "de": "Es gibt keine Rettungsschwimmer, da das Betreten des Flusses zum Schwimmen zu jeder Zeit strengstens verboten ist.",
+   "hu": "Nincs vízi mentőszolgálat, mivel a folyóba fürdés céljából bemenni minden időszakban szigorúan tilos.",
+   "ro": "Nu există salvamari la datorie, deoarece intrarea în râu pentru înot este strict interzisă în orice moment.",
+   "en": "There are no lifeguards on duty, as entering the river to swim is strictly prohibited at all times."
+  },
+  "shade": {
+   "de": "Die riesige Struktur der Poniatowski-Brücke spendet ausgedehnte Bereiche mit zuverlässigem Schatten, während die umliegenden Bäume natürlichen Schutz vor der Sonne bieten.",
+   "hu": "A Poniatowski híd hatalmas szerkezete jelentős árnyékos területeket biztosít, míg a környező fák némi természetes menedéket nyújtanak a naptól.",
+   "ro": "Structura imensă a Podului Poniatowski oferă zone masive de umbră sigură, în timp ce copacii din jur oferă un refugiu natural de la soare.",
+   "en": "The immense structure of the Poniatowski Bridge provides massive areas of reliable shade, while the surrounding trees offer some natural respite from the sun."
+  },
+  "best_time": {
+   "de": "Vom späten Nachmittag bis zum späten Abend im Sommer ist die beste Zeit, um die Strandbars, Sonnenuntergänge und Lagerfeuer zu genießen.",
+   "hu": "A nyári késő délutáni és késő esti órák a legjobbak a strandbárok, a naplementék és a tábortüzek élvezetére.",
+   "ro": "După-amiaza târziu până seara târziu, vara, este cel mai bun moment pentru a vă bucura de barurile de pe plajă, apusuri și focuri de tabără.",
+   "en": "Late afternoon to late evening in summer is the best time to enjoy the beach bars, sunsets, and bonfires."
+  },
+  "nearby": {
+   "de": "Zentral in Warschau gelegen. Direkt nebenan befindet sich das Stadion PGE Narodowy, und auf der anderen Seite des Flusses liegen die historischen Boulevards und das lebhafte Viertel Powiśle.",
+   "hu": "Központi elhelyezkedésű Varsóban. Közvetlenül mellette található a PGE Narodowy stadion, a folyó túlpartján pedig a történelmi sétányok és a nyüzsgő Powiśle negyed várja a látogatókat.",
+   "ro": "Situat central în Varșovia. Chiar alături se află stadionul PGE Narodowy, iar peste râu se întind bulevardele istorice și vibrantul cartier Powiśle.",
+   "en": "Located centrally in Warsaw. Right next door is the PGE Narodowy stadium, and across the river lies the historic Boulevards and the vibrant Powiśle district."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie eigenes Brennholz und Streichhölzer mit, wenn Sie die öffentlichen Feuerstellen nutzen möchten.",
+    "Behalten Sie in überfüllten Bereichen Ihre Habseligkeiten im Auge.",
+    "Verwenden Sie abends Insektenschutzmittel, da Mücken in der Nähe des Flusses aktiv sein können.",
+    "Überqueren Sie die Brücke bei Sonnenuntergang für die besten Fotos der Warschauer Skyline."
+   ],
+   "hu": [
+    "Hozz magaddal saját tűzifát és gyufát, ha használni szeretnéd a nyilvános tűzrakó helyeket.",
+    "Ügyelj az értékeidre a zsúfolt területeken.",
+    "Használj szúnyogriasztót az esti órákban, mivel a folyó közelében sok lehet a szúnyog.",
+    "Sétálj át a hídon naplementekor, hogy a legjobb fotókat készíthesd Varsó látképéről."
+   ],
+   "ro": [
+    "Aduceți-vă propriile lemne de foc și chibrituri dacă doriți să folosiți vetrele publice.",
+    "Fiți atenți la bunurile personale în zonele aglomerate.",
+    "Folosiți repelent împotriva insectelor seara, deoarece țânțarii pot fi activi lângă râu.",
+    "Traversați podul la apus pentru cele mai iconice fotografii ale orizontului Varșoviei."
+   ],
+   "en": [
+    "Bring your own firewood and matches if you want to use the public fire pits.",
+    "Keep an eye on your belongings in crowded areas.",
+    "Use insect repellent in the evenings, as mosquitoes can be active near the river.",
+    "Cross the bridge at sunset for the most iconic photos of the Warsaw skyline."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Kann ich hier in der Weichsel schwimmen?",
+     "hu": "Fürödhetek itt a Visztula folyóban?",
+     "ro": "Pot înota în râul Vistula aici?",
+     "en": "Can I swim in the Vistula River here?"
+    },
+    "a": {
+     "de": "Absolut nicht. Schwimmen ist illegal und aufgrund starker Strömungen und Unterwassergefahren extrem gefährlich.",
+     "hu": "Egyáltalán nem. A fürdés illegális és rendkívül veszélyes az erős áramlatok és a víz alatti veszélyek miatt.",
+     "ro": "Absolut nu. Înotul este ilegal și extrem de periculos din cauza curenților puternici și a pericolelor subacvatice.",
+     "en": "Absolutely not. Swimming is illegal and highly dangerous due to strong currents and underwater hazards."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten?",
+     "hu": "Vannak nyilvános mosdók a területen?",
+     "ro": "Există toalete publice disponibile?",
+     "en": "Are there public toilets available?"
+    },
+    "a": {
+     "de": "Ja, die Stadt stellt während der Sommersaison mobile Toiletten (Toi Toi) in der Nähe der Hauptwege zur Verfügung.",
+     "hu": "Igen, a város a nyári szezonban mobil vécéket (Toi Toi) biztosít a főbb ösvények közelében.",
+     "ro": "Da, orașul pune la dispoziție toalete ecologice (Toi Toi) în timpul sezonului de vară lângă aleile principale.",
+     "en": "Yes, the city provides portable toilets (Toi Toi) during the summer season near the main paths."
+    }
+   },
+   {
+    "q": {
+     "de": "Muss ich die Feuerstellen im Voraus buchen?",
+     "hu": "Előre le kell foglalnom a tűzrakó helyeket?",
+     "ro": "Trebuie să rezerv vetrele de foc în avans?",
+     "en": "Do I need to book the fire pits in advance?"
+    },
+    "a": {
+     "de": "Nein, die Feuerstellen werden nach dem Prinzip 'Wer zuerst kommt, mahlt zuerst' vergeben. An Sommerwochenenden sollte man früh da sein.",
+     "hu": "Nem, a tűzrakó helyeket érkezési sorrendben lehet elfoglalni. Nyári hétvégéken érdemes korán érkezni.",
+     "ro": "Nu, vetrele de foc sunt disponibile pe principiul primul venit, primul servit. Este bine să ajungeți devreme în weekendurile de vară.",
+     "en": "No, the fire pits are available on a first-come, first-served basis. It is best to arrive early on summer weekends."
+    }
+   },
+   {
+    "q": {
+     "de": "Darf ich am Strand Alkohol trinken?",
+     "hu": "Fogyaszthatok alkoholt a strandon?",
+     "ro": "Pot consuma alcool pe plajă?",
+     "en": "Can I drink alcohol on the beach?"
+    },
+    "a": {
+     "de": "Im Allgemeinen ist das Trinken von Alkohol an öffentlichen Orten in Polen verboten, aber für bestimmte ausgewiesene Bereiche entlang der Weichselufer und Strände gibt es manchmal Ausnahmen. Achten Sie auf die aktuellen lokalen Schilder, um Bußgelder zu vermeiden.",
+     "hu": "Általánosságban elmondható, hogy Lengyelországban tilos a közterületi alkoholfogyasztás, de a Visztula mentén és a strandokon bizonyos kijelölt zónákban időnként kivételt tesznek. Ellenőrizd az aktuális helyi táblákat a bírságok elkerülése végett.",
+     "ro": "În general, consumul de alcool în locuri publice este interzis în Polonia, dar anumite zone de pe bulevardele și plajele râului Vistula au uneori excepții. Verificați semnele locale actuale pentru a evita amenzile.",
+     "en": "Generally, drinking alcohol in public places is banned in Poland, but certain designated areas along the Vistula boulevards and beaches sometimes have exemptions. Check current local signs to avoid fines."
+    }
+   }
+  ]
+ },
+ "stawiki": {
+  "slug": "stawiki",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": true,
+  "intro": {
+   "de": "Stawiki liegt im Herzen von Sosnowiec in der Woiwodschaft Schlesien und ist ein äußerst beliebter städtischer Erholungskomplex. Im Gegensatz zu den Stränden der Ostsee bietet dieses Ziel ein fantastisches Seeerlebnis mitten in einer Metropolregion. Das Gebiet verfügt über einen gepflegten Sandstrand, der sanft in das ruhige, erfrischende Wasser des Stawiki-Teichs abfällt. Umgeben von viel Grün und moderner Infrastruktur dient es als perfekte urbane Oase für Einheimische und Touristen, die Entspannung suchen.\n\nDer revitalisierte Stawiki-Komplex ist ein Zentrum für aktive Erholung und Wassersport. Das Kronjuwel der Anlage ist die beeindruckende Wake Zone Stawiki, einer der besten Wakeboard-Parks der Region, der viele Enthusiasten anzieht. Die energiegeladene Atmosphäre ist in den Sommermonaten überall spürbar, wenn die Menschen Stand-Up-Paddling betreiben, schwimmen und Strandspiele spielen. Die umliegenden Wege wimmeln von Radfahrern, Inlineskatern und Spaziergängern und machen es zu einem dynamischen Ort für Aktivitäten.\n\nÜber Wasser und Sand hinaus bietet Stawiki eine pulsierende soziale Szene. Die moderne Strandpromenade ist gesäumt von gemütlichen Lokalen, Strandbars und Ruhezonen, in denen Besucher ein Getränk mit Blick auf den See genießen können. Wenn die Sonne untergeht, verwandelt sich die Gegend in einen lebhaften Treffpunkt mit einer warmen Atmosphäre. Ob Sie einen Adrenalinstoß oder einen ruhigen Nachmittag suchen, Stawiki liefert ab.",
+   "hu": "A Sziléziai vajdaságban, Sosnowiec szívében található Stawiki egy pezsgő és rendkívül népszerű városi rekreációs komplexum. A Balti-tenger strandjaival ellentétben ez a hely egy fantasztikus tóparti strandélményt kínál egy nyüzsgő metropolisz közepén. A terület homokos stranddal büszkélkedhet, amely enyhén lejt a Stawiki-tó nyugodt vizébe. A buja növényzettel és modern infrastruktúrával körülvett terület tökéletes oázis a helyiek és turisták számára, akik a város elhagyása nélkül vágynak kikapcsolódásra.\n\nA felújított Stawiki komplexum nem csupán a napozásról szól; az aktív kikapcsolódás és a vízi sportok központja. A létesítmény ékköve a Wake Zone Stawiki, a régió egyik legjobb wakeboard parkja, amely sok rajongót vonz. Az energikus atmoszféra tapintható a nyári hónapokban, amikor a látogatók SUP-oznak, úsznak és strandjátékokat játszanak. A környező utakon kerékpárosok, görkorcsolyázók és sétálók nyüzsögnek, kiváló helyszínt biztosítva a szabadtéri mozgáshoz.\n\nA vízen és a homokon túl a Stawiki élénk közösségi élettel is rendelkezik. A vízparti sétányt hangulatos éttermek, strandbárok és pihenőzónák szegélyezik, ahol a vendégek egy finom étel vagy ital mellett élvezhetik a tavi kilátást. Naplemente után a terület egy nyüzsgő találkozóhellyé alakul, meleg, hívogató hangulattal. Akár adrenalint keres a wakeboardon, akár egy békés délutánt a puha homokon, a Stawiki gazdag és változatos élményt nyújt.",
+   "ro": "Stawiki, situat în inima orașului Sosnowiec din Voievodatul Silezia, este un complex urban de recreere vibrant și extrem de popular. Spre deosebire de plajele întinse de la Marea Baltică, această destinație oferă o experiență fantastică de plajă pe malul lacului, chiar în mijlocul unei zone metropolitane. Zona are o plajă de nisip bine întreținută, care coboară lin în apele calme și răcoroase ale iazului Stawiki. Înconjurat de verdeață luxuriantă și infrastructură modernă, servește ca o oază urbană perfectă pentru localnici și turiști.\n\nRecent revitalizat, complexul Stawiki nu este doar pentru plajă; este un centru pentru recreere activă și sporturi nautice. Bijuteria coroanei complexului este impresionanta Wake Zone Stawiki, unul dintre cele mai bune parcuri de wakeboard din regiune, care atrage entuziaști din toată Polonia. Atmosfera energică este palpabilă în lunile de vară, cu oameni bucurându-se de stand-up paddleboarding, înot și diverse jocuri. Potecile pavate din jur sunt pline de bicicliști, rolleri și pietoni, făcându-l un loc dinamic pentru activități în aer liber.\n\nDincolo de apă și nisip, Stawiki se mândrește cu o scenă socială vibrantă. Promenada modernă de pe malul mării este mărginită de localuri confortabile, baruri pe plajă și zone de odihnă unde vizitatorii se pot bucura de o masă sau de o băutură răcoritoare cu o vedere pitorească la lac. La apusul soarelui, zona se transformă adesea într-un loc de întâlnire plin de viață, cu o ambianță caldă și primitoare. Indiferent dacă sunteți în căutarea unei explozii de adrenalină, sau o după-amiază liniștită, Stawiki oferă.",
+   "en": "Stawiki, located in the heart of Sosnowiec in the Silesian Voivodeship, is a vibrant and highly popular urban recreation complex. Unlike the sprawling beaches of the Baltic Sea, this destination offers a fantastic lakeside beach experience right in the middle of a bustling metropolitan area. The area features a well-maintained sandy beach that gently slopes into the calm, refreshing waters of the Stawiki pond. Surrounded by lush greenery and modern infrastructure, it serves as a perfect urban oasis for locals and tourists alike who seek relaxation without leaving the city.\n\nRecently revitalized, the Stawiki complex is not just about sunbathing; it is a hub for active recreation and water sports. The crown jewel of the complex is the impressive Wake Zone Stawiki, one of the best wakeboarding parks in the region, attracting enthusiasts from all over Poland. The energetic atmosphere is palpable during the summer months, with people enjoying stand-up paddleboarding, swimming, and various beach games. The surrounding paved paths are constantly buzzing with cyclists, rollerbladers, and walkers, making it a dynamic spot for outdoor activities.\n\nBeyond the water and sand, Stawiki boasts a vibrant social scene. The modern beachfront promenade is lined with cozy eateries, beach bars, and resting zones where visitors can enjoy a meal or a refreshing drink with a picturesque view of the lake. As the sun sets, the area often transforms into a lively meeting place with a warm, inviting ambiance. Whether you are looking for an adrenaline rush on a wakeboard, a family-friendly splash in the water, or simply a peaceful afternoon lounging on soft sand under the Silesian sky, Stawiki delivers a surprisingly rich and varied beach experience."
+  },
+  "type": {
+   "de": "Sandig",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Ruhiges, frisches Seewasser mit sanftem Einstieg, dessen Qualität während der Badesaison regelmäßig überwacht wird.",
+   "hu": "Nyugodt, édesvizű tó enyhe mélyüléssel, melynek vízminőségét a fürdési szezonban rendszeresen ellenőrzik.",
+   "ro": "Apă de lac calmă și dulce, cu o coborâre lină, monitorizată regulat pentru calitate în timpul sezonului de scăldat.",
+   "en": "Calm, fresh lake water with a gentle descent, regularly monitored for quality during the bathing season."
+  },
+  "access": {
+   "de": "Leicht erreichbar mit dem Auto, öffentlichen Verkehrsmitteln oder dem Fahrrad, direkt neben dem städtischen Stadion in Sosnowiec gelegen.",
+   "hu": "Könnyen megközelíthető autóval, tömegközlekedéssel vagy kerékpárral, közvetlenül a sosnowieci városi stadion mellett található.",
+   "ro": "Ușor accesibil cu mașina, transportul public sau bicicleta, situat chiar lângă stadionul municipal din Sosnowiec.",
+   "en": "Easily accessible by car, public transport, or bicycle, located right next to the municipal stadium in Sosnowiec."
+  },
+  "parking": {
+   "de": "In der Nähe des Stadions und des Wakeboard-Parks stehen kostenlose und gebührenpflichtige Parkplätze zur Verfügung, nur einen kurzen Spaziergang vom Strand entfernt.",
+   "hu": "A stadion és a wakeboard park közelében ingyenes és fizetős parkolók is találhatók, rövid sétára a strandtól.",
+   "ro": "Există parcări gratuite și cu plată disponibile în apropierea stadionului și a parcului de wakeboard, la o scurtă plimbare de plajă.",
+   "en": "There are free and paid parking lots available near the stadium and the wakeboard park, just a short walk from the beach."
+  },
+  "facilities": {
+   "de": [
+    "Strandbar",
+    "Toiletten",
+    "Duschen",
+    "Wakeboard-Anlage",
+    "Radwege",
+    "Rettungsschwimmer",
+    "Umkleidekabinen"
+   ],
+   "hu": [
+    "Strandbár",
+    "Mosdók",
+    "Zuhanyzók",
+    "Wakeboard pálya",
+    "Kerékpárutak",
+    "Vízimentő",
+    "Öltözők"
+   ],
+   "ro": [
+    "Bar pe plajă",
+    "Toalete",
+    "Dușuri",
+    "Parc de wakeboard",
+    "Piste de biciclete",
+    "Salvamar",
+    "Cabine de probă"
+   ],
+   "en": [
+    "Beach bar",
+    "Toilets",
+    "Showers",
+    "Wakeboard park",
+    "Bike paths",
+    "Lifeguard",
+    "Changing rooms"
+   ]
+  },
+  "family": {
+   "de": "Sehr familienfreundlich aufgrund des ruhigen Wassers, des sandigen Ufers und der gut ausgebauten Infrastruktur für alle Altersgruppen.",
+   "hu": "Nagyon családbarát a nyugodt víz, a homokos part és a minden korosztályt kiszolgáló, jól kiépített infrastruktúra miatt.",
+   "ro": "Foarte potrivit pentru familii datorită apelor calme, țărmului nisipos și infrastructurii bine dezvoltate pentru toate vârstele.",
+   "en": "Very family-friendly due to the calm waters, sandy shore, and well-developed infrastructure that caters to all ages."
+  },
+  "kids": {
+   "de": "Kinder werden den aufblasbaren Wasserhindernisparcours (Aquator) und die ausgewiesenen flachen Badezonen lieben.",
+   "hu": "A gyerekek imádni fogják a felfújható vízi akadálypályát (Aquator) és a kijelölt, sekély vizű fürdőzónákat.",
+   "ro": "Copiii vor adora traseul gonflabil cu obstacole pe apă (Aquator) și zonele de înot cu apă puțin adâncă.",
+   "en": "Children will love the inflatable water obstacle course (Aquator) and the designated shallow swimming zones."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Plaża Stawiki",
+     "tip": "Beliebter Strandort, der Grillgerichte, Burger und erfrischende Sommercocktails anbietet."
+    },
+    {
+     "name": "Lokale Eisstände",
+     "tip": "Suchen Sie nach Ständen an der Promenade, die traditionelles polnisches Eis (lody) verkaufen."
+    },
+    {
+     "name": "Przystań",
+     "tip": "Nahegelegenes Restaurant mit einer Mischung aus polnischer und europäischer Küche mit Seeblick."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Plaża Stawiki",
+     "tip": "Népszerű vízparti hely, amely grillezett ételeket, hamburgereket és frissítő koktélokat kínál."
+    },
+    {
+     "name": "Helyi fagylaltos standok",
+     "tip": "Keresse a sétány mentén a hagyományos lengyel fagylaltot (lody) áruló bódékat."
+    },
+    {
+     "name": "Przystań",
+     "tip": "Közeli étterem, amely lengyel és európai ételeket kínál kilátással a tóra."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Plaża Stawiki",
+     "tip": "Locație populară pe plajă oferind preparate la grătar, burgeri și cocktailuri răcoritoare de vară."
+    },
+    {
+     "name": "Standuri locale de înghețată",
+     "tip": "Căutați tarabele de pe promenadă care vând înghețată tradițională poloneză (lody)."
+    },
+    {
+     "name": "Przystań",
+     "tip": "Restaurant în apropiere, care oferă un mix de bucătărie poloneză și europeană, cu vedere la lac."
+    }
+   ],
+   "en": [
+    {
+     "name": "Plaża Stawiki",
+     "tip": "Popular beachside venue offering grilled dishes, burgers, and refreshing summer cocktails."
+    },
+    {
+     "name": "Local Ice Cream Stands",
+     "tip": "Look for local stalls selling traditional Polish ice cream (lody) along the promenade."
+    },
+    {
+     "name": "Przystań",
+     "tip": "Nearby restaurant offering a mix of Polish and European cuisine with lake views."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Hauptstrand und den öffentlichen Erholungsgebieten ist im Allgemeinen kostenlos, während für die Wasserpark-Attraktionen Tickets benötigt werden.",
+   "hu": "A fő strand és a nyilvános rekreációs területek látogatása általában ingyenes, bár a vízipark attrakcióihoz jegy szükséges.",
+   "ro": "Accesul la plaja principală și la zonele publice de recreere este în general gratuit, deși atracțiile parcului acvatic necesită bilete.",
+   "en": "Access to the main beach and public recreational areas is generally free of charge, though water park attractions require tickets."
+  },
+  "lifeguard": {
+   "de": "In der Hochsaison im Sommer (Juli und August) sind in der Regel täglich Rettungsschwimmer im Dienst.",
+   "hu": "A nyári csúcsszezonban (július és augusztus) általában naponta szolgálatot teljesítenek a vízimentők.",
+   "ro": "Salvamarii sunt de obicei la datorie zilnic în timpul sezonului de vârf de vară (iulie și august).",
+   "en": "Lifeguards are typically on duty daily during the peak summer bathing season (July and August)."
+  },
+  "shade": {
+   "de": "Am Rand gibt es einige Bäume, die natürlichen Schatten spenden, aber es wird empfohlen, für die Sandflächen einen eigenen Sonnenschirm mitzubringen.",
+   "hu": "A széleken néhány fa biztosít természetes árnyékot, de a homokos részekre érdemes saját napernyőt vinni.",
+   "ro": "Există câțiva copaci care oferă umbră naturală pe margini, dar se recomandă să vă aduceți propria umbrelă pentru zonele nisipoase.",
+   "en": "There are some trees offering natural shade around the edges, but it's recommended to bring your own umbrella for the sandy areas."
+  },
+  "best_time": {
+   "de": "Warme Sommernachmittage eignen sich perfekt zum Schwimmen und Genießen der lebhaften Atmosphäre, während die Morgenstunden am besten für ruhige Spaziergänge sind.",
+   "hu": "A meleg nyári délutánok tökéletesek az úszáshoz és a nyüzsgő hangulat élvezetéhez, míg a reggelek a csendes sétákhoz ideálisak.",
+   "ro": "După-amiezile calde de vară sunt perfecte pentru înot și pentru a vă bucura de atmosfera vibrantă, în timp ce diminețile sunt cele mai bune pentru plimbări liniștite.",
+   "en": "Warm summer afternoons are perfect for swimming and enjoying the vibrant atmosphere, while mornings are best for quiet walks."
+  },
+  "nearby": {
+   "de": "In Sosnowiec gelegen, nahe Katowice. Zu den nahegelegenen Attraktionen zählen das historische Schloss Sielecki und der lebhafte Schlesische Park.",
+   "hu": "Sosnowiec városában található, közel Katowicéhez. A közeli látnivalók közé tartozik a történelmi Sielecki-kastély és a nyüzsgő Sziléziai Park.",
+   "ro": "Situat în Sosnowiec, aproape de Katowice. Atracțiile din apropiere includ Castelul istoric Sielecki și vibrantul Parc Silezian.",
+   "en": "Located in Sosnowiec, close to Katowice. Nearby attractions include the historic Sielecki Castle and the vibrant Silesian Park."
+  },
+  "tips": {
+   "de": [
+    "Mieten Sie ein Wakeboard und probieren Sie die Seilbahn aus",
+    "Machen Sie einen Spaziergang oder eine Radtour um den gesamten See",
+    "Besuchen Sie den aufblasbaren Aquapark, wenn Sie mit Kindern reisen"
+   ],
+   "hu": [
+    "Béreljen wakeboardot és próbálja ki a kötélpályát",
+    "Sétálja vagy biciklizze körbe az egész tavat",
+    "Látogasson el a felfújható aquaparkba, ha gyerekekkel utazik"
+   ],
+   "ro": [
+    "Închiriați un wakeboard și încercați parcul de cabluri",
+    "Faceți o plimbare sau o plimbare cu bicicleta în jurul întregului lac",
+    "Vizitați parcul acvatic gonflabil dacă călătoriți cu copii"
+   ],
+   "en": [
+    "Rent a wakeboard and try the cable park",
+    "Take a walk or bike ride around the entire lake",
+    "Visit the inflatable aquapark if travelling with kids"
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist das Wasser sauber?",
+     "hu": "Tiszta a víz?",
+     "ro": "Este apa curată?",
+     "en": "Is the water clean?"
+    },
+    "a": {
+     "de": "Ja, die Wasserqualität wird während der Sommersaison regelmäßig vom örtlichen Gesundheitsamt überprüft.",
+     "hu": "Igen, a víz minőségét a nyári szezonban rendszeresen ellenőrzi a helyi egészségügyi felügyelőség.",
+     "ro": "Da, calitatea apei este verificată regulat de inspectoratul sanitar local în timpul sezonului de vară.",
+     "en": "Yes, the water quality is regularly checked by the local sanitary inspectorate during the summer season."
+    }
+   },
+   {
+    "q": {
+     "de": "Darf ich meinen Hund mitbringen?",
+     "hu": "Vihetem a kutyámat?",
+     "ro": "Pot aduce câinele meu?",
+     "en": "Can I bring my dog?"
+    },
+    "a": {
+     "de": "Hunde sind am Sandbadestrand grundsätzlich nicht erlaubt, können aber an der Leine auf den umliegenden Wegen ausgeführt werden.",
+     "hu": "Kutyákat általában nem szabad bevinni a homokos strandra, de pórázon lehet velük sétálni a környező utakon.",
+     "ro": "Câinii nu sunt în general permiși pe plaja cu nisip, dar îi puteți plimba în lesă pe cărările din jur.",
+     "en": "Dogs are generally not allowed on the sandy bathing beach, but you can walk them on leashes on the surrounding paths."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es Wassersportmöglichkeiten?",
+     "hu": "Vannak vízi sportolási lehetőségek?",
+     "ro": "Există sporturi nautice disponibile?",
+     "en": "Are there water sports available?"
+    },
+    "a": {
+     "de": "Auf jeden Fall, Stawiki ist berühmt für seine große Wake Zone, die Wakeboarding und Wasserski bietet.",
+     "hu": "Abszolút, a Stawiki híres a nagy Wake Zone-ról, amely wakeboardozást és vízisízést kínál.",
+     "ro": "Absolut, Stawiki este faimos pentru marea sa Wake Zone, oferind wakeboard și schi nautic.",
+     "en": "Absolutely, Stawiki is famous for its large Wake Zone, offering wakeboarding and water skiing."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist es für Kleinkinder geeignet?",
+     "hu": "Alkalmas kisgyermekek számára?",
+     "ro": "Este potrivit pentru copiii mici?",
+     "en": "Is it suitable for toddlers?"
+    },
+    "a": {
+     "de": "Ja, das flach abfallende Wasser und das sandige Ufer machen es sicher und angenehm für kleine Kinder.",
+     "hu": "Igen, a vízbe vezető enyhe lejtő és a homokos part biztonságossá és élvezetessé teszi a kisgyermekek számára.",
+     "ro": "Da, panta lină de intrare în apă și țărmul nisipos o fac sigură și plăcută pentru copiii mici.",
+     "en": "Yes, the gentle slope into the water and the sandy shore make it safe and enjoyable for young children."
+    }
+   }
+  ]
+ },
+ "swinoujscie-beach-on-usedom": {
+  "slug": "swinoujscie-beach-on-usedom",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": false,
+  "accessible": true,
+  "intro": {
+   "de": "Der Strand von Świnoujście (Swinemünde) auf der Insel Usedom gilt weithin als einer der spektakulärsten und schönsten Strände an der gesamten polnischen Ostseeküste. Mit einer bemerkenswerten Breite von bis zu 200 Metern in einigen Abschnitten bietet dieser weitläufige Küstenstreifen selbst in der Hochsaison ein überwältigendes Gefühl von Raum und Freiheit. Der Sand hier ist außergewöhnlich fein, weich und fast schneeweiß, was ihn zu einem wahren Paradies für Barfußspaziergänge und ausgiebige Sonnenbäder macht.\n\nDie geografische Lage von Świnoujście verleiht dem Ort ein einzigartiges Mikroklima. Dank der flachen Küstengewässer ist die Wassertemperatur hier oft die wärmste an der polnischen Küste und lädt zu einem erfrischenden, aber dennoch angenehmen Bad ein. Das sanfte Rauschen der Wellen in Verbindung mit der frischen, jodhaltigen Meeresbrise schafft eine sehr therapeutische Umgebung. Eine wunderschön revitalisierte Promenade verläuft parallel zum Strand und verbindet die natürliche Schönheit der Küste nahtlos mit eleganter Bäderarchitektur.\n\nDarüber hinaus zeichnet sich der Strand durch eine tadellos saubere Umgebung aus und wird seit Jahren durchgehend mit der renommierten Blauen Flagge ausgezeichnet. Der sanfte Übergang von der belebten Promenade über einen schützenden Dünengürtel hinab zum weiten Sandstrand bietet eine malerische Kulisse. Ob Sie einen ruhigen Ort für den Sonnenuntergang oder lebhafte Sommeraktivitäten suchen, Świnoujście bietet ein unvergessliches Erlebnis.",
+   "hu": "A Świnoujście strand, amely a festői Usedom szigetén található, széles körben a lengyel balti partvidék egyik leglátványosabb és legszebb strandjaként ismert. Ez a kiterjedt partszakasz, amelynek szélessége helyenként a 200 métert is eléri, még a legforgalmasabb nyári főszezonban is a tér és a szabadság lenyűgöző érzését nyújtja. Az itteni homok kivételesen finom, puha és szinte hófehér, ami valóságos paradicsommá teszi a mezítlábas séták és a kényelmes napozás szerelmeseinek.\n\nŚwinoujście földrajzi elhelyezkedése egyedülálló mikroklímát biztosít a területnek. A sekély parti vizeknek köszönhetően a tenger hőmérséklete itt gyakran a legmelegebb az egész lengyel tengerparton, amely hívogató és kellemes fürdőzést tesz lehetővé. A hullámok lágy morajlása és a friss, jód dús tengeri szellő rendkívül gyógyító és pihentető környezetet teremt. A stranddal párhuzamosan egy gyönyörűen felújított sétány húzódik, amely zökkenőmentesen ötvözi a part természetes szépségét az elegáns üdülőhelyi építészettel.\n\nA strand lenyűgöző természeti adottságain túl kifogástalanul tiszta környezetet tart fenn, és már egymást követő években is elnyerte a rangos Kék Zászló minősítést. A nyüzsgő sétányról a strandfűvel borított védő dűnesoron keresztül a hatalmas homokos partra vezető finom átmenet festői díszletet kínál. Akár egy csendes helyet keres a fenséges naplemente megtekintéséhez, akár egy nyári programokkal teli, nyüzsgő területet, ez a part felejthetetlen élményt nyújt.",
+   "ro": "Plaja din Świnoujście, situată pe insula Usedom, este considerată una dintre cele mai spectaculoase și frumoase plaje de pe întreaga coastă poloneză a Mării Baltice. Având o lățime remarcabilă, care poate atinge până la 200 de metri în anumite zone, această porțiune întinsă de coastă oferă un sentiment copleșitor de spațiu și libertate, chiar și în timpul vârfului sezonului estival. Nisipul de aici este excepțional de fin, moale și aproape alb ca zăpada, fiind un adevărat paradis pentru plimbările desculț și băile de soare.\n\nPoziția geografică a orașului Świnoujście îi conferă un microclimat unic. Datorită apelor de coastă puțin adânci, temperatura mării este adesea cea mai ridicată de pe litoralul polonez, invitând vizitatorii la o baie răcoritoare, dar confortabilă. Sunetul blând al valurilor, combinat cu briza marină proaspătă și bogată în iod, creează un mediu extrem de terapeutic. O promenadă frumos revitalizată se desfășoară paralel cu plaja, îmbinând perfect frumusețea naturală a coastei cu arhitectura elegantă a stațiunii.\n\nDincolo de atributele sale fizice uimitoare, plaja menține un mediu impecabil de curat și a fost distinsă cu prestigiosul certificat Steagul Albastru ani la rând. Tranziția subtilă de la promenada plină de viață, printr-o centură protectoare de dune acoperite cu iarbă de plajă, către țărmul vast și nisipos oferă un cadru pitoresc. Fie că sunteți în căutarea unui loc liniștit pentru a admira un apus de soare maiestuos, fie a unei zone vibrante, pline de activități, plaja din Świnoujście promite o experiență de neuitat.",
+   "en": "Świnoujście beach, located on the island of Usedom, is widely considered one of the most spectacular and beautiful beaches on the entire Polish Baltic coast. Boasting a remarkable width that can reach up to 200 meters in some areas, this expansive stretch of coastline provides an overwhelming sense of space and freedom, even during the peak summer season. The sand here is exceptionally fine, soft, and nearly snow-white, making it a true paradise for barefoot walks and sunbathing.\n\nThe geographical location of Świnoujście grants it a unique microclimate. Thanks to the shallow coastal waters, the sea temperature here is often the warmest on the Polish coast, inviting visitors for a refreshing yet comfortable swim. The gentle sound of the waves, combined with the refreshing, iodine-rich sea breeze, creates a highly therapeutic environment. A beautifully revitalized promenade runs parallel to the beach, seamlessly blending natural coastal beauty with elegant resort architecture.\n\nBeyond its stunning physical attributes, the beach maintains an impeccably clean environment and has been awarded the prestigious Blue Flag certificate for consecutive years. The subtle transition from the lively promenade, through a protective belt of dunes covered in beach grass, down to the vast sandy shore offers a picturesque setting. Whether you are seeking a peaceful spot to watch the majestic sunset or a vibrant area filled with summer activities, Świnoujście delivers an unforgettable seaside experience."
+  },
+  "type": {
+   "de": "Feinsandig",
+   "hu": "Finom homokos",
+   "ro": "Nisip fin",
+   "en": "Fine sand"
+  },
+  "water": {
+   "de": "Ausgezeichnete Wasserqualität mit sehr flachem Einstieg. Durch das flache Wasser erwärmt sich die Ostsee hier schneller als an anderen Abschnitten.",
+   "hu": "Kiváló vízminőség, rendkívül lassan mélyülő, lankás tengerfenékkel. A sekély víz miatt a Balti-tenger itt gyorsabban felmelegszik, mint máshol.",
+   "ro": "Calitate excelentă a apei, cu o intrare foarte lină și treptată. Datorită apei puțin adânci, marea se încălzește aici mai repede decât în alte părți.",
+   "en": "Excellent water quality with a very shallow, gentle slope into the sea. Because of the shallow depth, the Baltic Sea warms up faster here than in other sections."
+  },
+  "access": {
+   "de": "Sehr gut erreichbar zu Fuß von der Stadt oder der Promenade aus, mit zahlreichen hölzernen Stegen, die über die Dünen führen.",
+   "hu": "Nagyon könnyen megközelíthető gyalogosan a városból vagy a sétányról, a dűnéken átvezető számos fa pallón keresztül.",
+   "ro": "Foarte ușor accesibilă pe jos din oraș sau de pe promenadă, prin numeroasele pasarele din lemn care traversează dunele.",
+   "en": "Very easily accessible on foot from the city or the promenade, with numerous wooden boardwalks leading over the dunes."
+  },
+  "parking": {
+   "de": "Kostenpflichtige Parkplätze stehen in der Nähe der Promenade und in den angrenzenden Straßen des Kurviertels zur Verfügung.",
+   "hu": "Fizetős parkolóhelyek állnak rendelkezésre a sétány közelében és a gyógyfürdőnegyed környező utcáiban.",
+   "ro": "Parcări cu plată sunt disponibile în apropierea promenadei și pe străzile adiacente din cartierul balnear.",
+   "en": "Paid parking spaces are available near the promenade and in the adjacent streets of the spa district."
+  },
+  "facilities": {
+   "de": [
+    "Toiletten",
+    "Duschen",
+    "Umkleidekabinen",
+    "Rettungsschwimmer",
+    "Strandkorbverleih",
+    "Gastronomie",
+    "Wassersport",
+    "Volleyballfelder"
+   ],
+   "hu": [
+    "Mosdók",
+    "Zuhanyzók",
+    "Öltözőkabinok",
+    "Vízimentő",
+    "Strandkosár bérlés",
+    "Büfék",
+    "Vízisportok",
+    "Röplabdapályák"
+   ],
+   "ro": [
+    "Toalete",
+    "Dușuri",
+    "Cabine de schimb",
+    "Salvamar",
+    "Închiriere șezlonguri",
+    "Restaurante",
+    "Sporturi nautice",
+    "Terenuri de volei"
+   ],
+   "en": [
+    "Toilets",
+    "Showers",
+    "Changing rooms",
+    "Lifeguards",
+    "Beach basket rental",
+    "Food stands",
+    "Water sports",
+    "Volleyball courts"
+   ]
+  },
+  "family": {
+   "de": "Einer der familienfreundlichsten Strände in Polen, da er extrem breit ist und das ruhige, flache Wasser maximale Sicherheit bietet.",
+   "hu": "Lengyelország egyik leginkább családbarát strandja, mivel rendkívül széles, a nyugodt, sekély víz pedig maximális biztonságot nyújt.",
+   "ro": "Una dintre cele mai potrivite plaje pentru familii din Polonia, fiind extrem de lată, iar apa calmă și puțin adâncă oferă siguranță maximă.",
+   "en": "One of the most family-friendly beaches in Poland, as it is extremely wide and the calm, shallow water offers maximum safety."
+  },
+  "kids": {
+   "de": "Kinder lieben das flache, warme Wasser und den feinen Sand zum Burgenbauen. Entlang des Strandes gibt es oft Hüpfburgen, Trampoline und Spielplätze direkt an der Promenade.",
+   "hu": "A gyerekek imádják a sekély, meleg vizet és a homokvár építésre kiváló finom homokot. A part mentén gyakran vannak ugrálóvárak, trambulinok és játszóterek a sétányon.",
+   "ro": "Copiii adoră apa puțin adâncă și caldă, precum și nisipul fin perfect pentru castele. De-a lungul plajei există adesea castele gonflabile, trambuline și locuri de joacă pe promenadă.",
+   "en": "Kids love the shallow, warm water and the fine sand perfect for building castles. Along the beach, there are often bouncy castles, trampolines, and playgrounds right by the promenade."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Smażona Flądra (Gebratene Flunder)",
+     "tip": "In den traditionellen Fischbratereien (Smażalnia ryb) in Strandnähe probieren."
+    },
+    {
+     "name": "Gofry (Waffeln)",
+     "tip": "Waffeln mit Schlagsahne und frischen Früchten, erhältlich an unzähligen Kiosken auf der Promenade."
+    },
+    {
+     "name": "Zapiekanka",
+     "tip": "Das klassische polnische überbackene Baguette, ein schneller und beliebter Snack für den Strandtag."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Smażona Flądra (Sült lepényhal)",
+     "tip": "Kóstolja meg a strandhoz közeli hagyományos halsütőkben (Smażalnia ryb)."
+    },
+    {
+     "name": "Gofry (Gofri)",
+     "tip": "Tejszínhabos és friss gyümölcsös gofri, amely a sétány számtalan kioszkjában kapható."
+    },
+    {
+     "name": "Zapiekanka",
+     "tip": "A klasszikus lengyel melegszendvics, amely egy gyors és népszerű harapnivaló a strandoláshoz."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Smażona Flądra (Cambula prăjită)",
+     "tip": "Încercați-o în restaurantele tradiționale de pește (Smażalnia ryb) din apropierea plajei."
+    },
+    {
+     "name": "Gofry (Vafe)",
+     "tip": "Vafe cu frișcă și fructe proaspete, disponibile la nenumăratele chioșcuri de pe promenadă."
+    },
+    {
+     "name": "Zapiekanka",
+     "tip": "Bagueta clasică poloneză gratinată, o gustare rapidă și populară pentru o zi la plajă."
+    }
+   ],
+   "en": [
+    {
+     "name": "Smażona Flądra (Fried Flounder)",
+     "tip": "Try it at the traditional fish fryeries (Smażalnia ryb) located near the beach."
+    },
+    {
+     "name": "Gofry (Waffles)",
+     "tip": "Waffles topped with whipped cream and fresh fruit, available at countless kiosks on the promenade."
+    },
+    {
+     "name": "Zapiekanka",
+     "tip": "The classic Polish toasted baguette, a quick and popular snack for a beach day."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist kostenlos, lediglich für die Miete von Strandkörben oder Liegen fallen Gebühren an.",
+   "hu": "A strandra a belépés ingyenes, csak a strandkosarak vagy napágyak bérléséért kell fizetni.",
+   "ro": "Accesul la plajă este gratuit, se percep taxe doar pentru închirierea coșurilor de plajă sau a șezlongurilor.",
+   "en": "Access to the beach is free of charge, with fees only applying to the rental of beach baskets or sunbeds."
+  },
+  "lifeguard": {
+   "de": "In der Sommersaison (Juli und August) sorgen an den Hauptabschnitten Rettungsschwimmer für Sicherheit.",
+   "hu": "A nyári szezonban (július és augusztus) a főbb szakaszokon vízimentők gondoskodnak a biztonságról.",
+   "ro": "În sezonul de vară (iulie și august), salvamarii asigură securitatea pe secțiunile principale ale plajei.",
+   "en": "During the summer season (July and August), lifeguards ensure safety on the main sections of the beach."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten auf dem Sand, daher wird empfohlen, einen Sonnenschirm oder einen typisch polnischen Windschutz (Parawan) mitzubringen.",
+   "hu": "A homokon nincs természetes árnyék, ezért érdemes napernyőt vagy jellegzetes lengyel szélfogót (parawan) hozni.",
+   "ro": "Nu există umbră naturală pe nisip, așa că se recomandă să aduceți o umbrelă de soare sau un paravan de vânt tipic polonez (parawan).",
+   "en": "There is no natural shade on the sand, so bringing a parasol or a typical Polish windbreak (parawan) is recommended."
+  },
+  "best_time": {
+   "de": "Juli und August für das wärmste Wasser und lebhafte Atmosphäre, oder der frühe September für ruhigere Spaziergänge.",
+   "hu": "Július és augusztus a legmelegebb víz és a nyüzsgő hangulat miatt, vagy kora szeptember a csendesebb sétákhoz.",
+   "ro": "Iulie și august pentru cea mai caldă apă și o atmosferă plină de viață, sau începutul lui septembrie pentru plimbări liniștite.",
+   "en": "July and August for the warmest water and lively atmosphere, or early September for quieter walks."
+  },
+  "nearby": {
+   "de": "Die Innenstadt von Świnoujście, der höchste Leuchtturm der Ostsee und die markante Windmühlenbake (Stawa Młyny) sind in der Nähe. Auch die deutsche Grenze und das Seebad Ahlbeck sind über die Promenade erreichbar.",
+   "hu": "Świnoujście belvárosa, a Balti-tenger legmagasabb világítótornya és a jellegzetes szélmalom-alakú navigációs jel (Stawa Młyny) a közelben található. A német határ és Ahlbeck üdülőhelye szintén elérhető a sétányon.",
+   "ro": "Centrul orașului Świnoujście, cel mai înalt far de la Marea Baltică și farul sub formă de moară de vânt (Stawa Młyny) sunt în apropiere. Granița cu Germania și stațiunea Ahlbeck sunt de asemenea accesibile pe promenadă.",
+   "en": "Downtown Świnoujście, the highest lighthouse on the Baltic Sea, and the distinctive windmill beacon (Stawa Młyny) are nearby. The German border and the resort of Ahlbeck are also accessible via the promenade."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie einen 'Parawan' (Windschutz) mit, er schützt vor der Ostseebrise und sichert Ihren Platz.",
+    "Machen Sie einen Spaziergang zur Stawa Młyny (Windmühlenbake) am Ende der Mole – ein perfektes Fotomotiv.",
+    "Mieten Sie ein Fahrrad und erkunden Sie die grenzüberschreitende Promenade nach Deutschland.",
+    "Für Hundebesitzer gibt es einen speziellen Strandabschnitt, achten Sie auf die Beschilderung."
+   ],
+   "hu": [
+    "Hozzon magával egy 'parawan'-t (szélfogót), amely véd a balti-tengeri szellőtől és biztosítja a helyét.",
+    "Sétáljon el a móló végén található Stawa Młyny (szélmalom) navigációs jelhez – tökéletes fotótéma.",
+    "Béreljen kerékpárt, és fedezze fel a Németországba vezető határon átnyúló sétányt.",
+    "A kutyatulajdonosok számára külön kijelölt partszakasz áll rendelkezésre, figyelje a táblákat."
+   ],
+   "ro": [
+    "Aduceți un 'parawan' (paravan de vânt) care vă protejează de briza Mării Baltice și vă asigură spațiul.",
+    "Faceți o plimbare până la farul moară de vânt (Stawa Młyny) la capătul digului - un loc perfect pentru fotografii.",
+    "Închiriați o bicicletă și explorați promenada transfrontalieră care duce în Germania.",
+    "Există o secțiune specială de plajă pentru proprietarii de câini, urmăriți indicatoarele."
+   ],
+   "en": [
+    "Bring a 'parawan' (windbreak) as it protects from the Baltic breeze and secures your spot on the sand.",
+    "Take a walk to the Stawa Młyny (windmill beacon) at the end of the breakwater - a perfect photo op.",
+    "Rent a bicycle and explore the cross-border promenade that leads right into Germany.",
+    "There is a specially designated beach section for dog owners, look for the local signage."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist das Wasser warm genug zum Schwimmen?",
+     "hu": "Elég meleg a víz az úszáshoz?",
+     "ro": "Apa este suficient de caldă pentru înot?",
+     "en": "Is the water warm enough to swim?"
+    },
+    "a": {
+     "de": "Ja, durch die geringe Tiefe ist das Wasser in Świnoujście im Sommer wärmer als im Rest der polnischen Ostsee, oft um die 20-22°C.",
+     "hu": "Igen, a kis vízmélység miatt Świnoujście vize nyáron melegebb, mint a lengyel Balti-tenger többi részén, gyakran 20-22°C körül mozog.",
+     "ro": "Da, datorită adâncimii mici, apa din Świnoujście este mai caldă vara decât în restul Mării Baltice poloneze, ajungând adesea la 20-22°C.",
+     "en": "Yes, due to the shallow depth, the water in Świnoujście is warmer in the summer than the rest of the Polish Baltic Sea, often reaching around 20-22°C."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es Toiletten und Duschen?",
+     "hu": "Vannak mosdók és zuhanyzók?",
+     "ro": "Există toalete și dușuri disponibile?",
+     "en": "Are there toilets and showers available?"
+    },
+    "a": {
+     "de": "Ja, entlang der Zugänge und an der Promenade gibt es sehr gut gepflegte sanitäre Anlagen, einige davon kostenpflichtig.",
+     "hu": "Igen, a bejáratok mentén és a sétányon nagyon jól karbantartott vizesblokkok találhatók, némelyikük fizetős.",
+     "ro": "Da, de-a lungul intrărilor și pe promenadă există facilități sanitare foarte bine întreținute, unele dintre ele fiind cu taxă.",
+     "en": "Yes, there are very well-maintained sanitary facilities along the entrances and the promenade, though some may charge a small fee."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann man Strandliegen mieten?",
+     "hu": "Lehet napágyakat bérelni?",
+     "ro": "Pot închiria șezlonguri?",
+     "en": "Can I rent sun loungers?"
+    },
+    "a": {
+     "de": "Ja, in bestimmten Bereichen der Hauptstrände können Sie traditionelle Strandkörbe oder normale Sonnenliegen mieten.",
+     "hu": "Igen, a fő strandok bizonyos részein hagyományos strandkosarakat vagy normál napágyakat is bérelhet.",
+     "ro": "Da, în anumite zone ale plajelor principale puteți închiria coșuri tradiționale de plajă sau șezlonguri normale.",
+     "en": "Yes, in designated areas of the main beaches, you can rent traditional wicker beach baskets or regular sun loungers."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist der Strand im Sommer überfüllt?",
+     "hu": "Zsúfolt a strand nyáron?",
+     "ro": "Plaja este aglomerată vara?",
+     "en": "Is the beach crowded in summer?"
+    },
+    "a": {
+     "de": "Obwohl es im Sommer ein beliebtes Ziel ist, sorgt die enorme Breite des Strandes (bis zu 200 m) dafür, dass man immer einen Platz findet.",
+     "hu": "Bár nyáron népszerű célpont, a strand hatalmas (akár 200 m-es) szélessége garantálja, hogy mindig találunk helyet.",
+     "ro": "Deși este o destinație populară vara, lățimea enormă a plajei (până la 200 m) garantează că veți găsi întotdeauna un loc.",
+     "en": "Although it is a popular summer destination, the immense width of the beach (up to 200m) ensures that you can always find a spot."
+    }
+   }
+  ]
+ },
+ "zakatek-wodny-trzebuskie-egi": {
+  "slug": "zakatek-wodny-trzebuskie-egi",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "Der Wasserwinkel Trzebuskie Łęgi ist ein ruhiger, naturbelassener Ort in der Nähe des Stettiner Haffs und des Oder-Netzwerks im Nordwesten Polens. Es ist ein friedlicher Ort, weit abseits der geschäftigen Ostseebäder, und bietet eine einzigartige, ruhige Umgebung der Flussmündung, die zum Verweilen einlädt.\n\nDieses Gebiet zeichnet sich durch üppige grüne Wiesen, dichtes Schilf und besonders ruhiges Wasser aus. Es ist ein wahres Paradies für all diejenigen, die absolute Ruhe, ausgedehnte Naturspaziergänge und ungestörte Vogelbeobachtung suchen. Die weite Landschaft ist sehr idyllisch und touristisch kaum erschlossen.\n\nDas Wasser ist hier deutlich sanfter als am offenen Meer, was es zu einem großartigen Ort für ein entspanntes Picknick am Ufer oder einen Zwischenstopp während eines Fahrradausflugs macht. Die Gegend ist vor allem bei Einheimischen für ihre unberührte Natur und die malerischen Sonnenuntergänge sehr beliebt.\n\nBesucher sollten beachten, dass dies eher ein wilder, natürlicher Uferabschnitt als ein klassischer, bewirtschafteter Badestrand ist. Wer jedoch die Stille der Natur, das Rauschen des Schilfs und weite Wasserlandschaften schätzt, wird diesen versteckten Ort in der Nähe von Police lieben.",
+   "hu": "A Zakątek wodny Trzebuskie Łęgi egy csendes, természetes vizes élőhely a Szczecini-öböl és az Odera folyóhálózatának közelében, Lengyelország északnyugati részén. Ez egy békés hely, távol a nyüzsgő balti-tengeri üdülőhelyektől, amely egyedülálló, nyugodt torkolati környezetet kínál a kikapcsolódni vágyóknak.\n\nEzt a területet buja zöld rétek, sűrű nádasok és különösen nyugodt víz jellemzi. Valóságos paradicsom mindazok számára, akik abszolút békére, hosszú természetjárásra és zavartalan madármegfigyelésre vágynak. A tágas táj nagyon idilli, és turisztikailag alig kiépített, így megőrizte vad varázsát.\n\nA víz itt sokkal csendesebb, mint a nyílt tengeren, ami kiváló helyszínné teszi egy pihentető parti piknikhez vagy egy kerékpáros kirándulás közbeni megállóhoz. A környék elsősorban a helyiek körében népszerű az érintetlen természet és a festői naplementék miatt.\n\nA látogatóknak érdemes szem előtt tartaniuk, hogy ez inkább egy vad, természetes partszakasz, mintsem egy klasszikus, jól felszerelt fürdőstrand. Aki azonban értékeli a természet csendjét, a nádas susogását és a tágas vizes tájakat, az garantáltan imádni fogja ezt a Police közelében megbúvó rejtett kincset.",
+   "ro": "Zakątek wodny Trzebuskie Łęgi este un colț de apă liniștit și natural, situat în apropierea Lagunei Szczecin și a rețelei râului Oder, în nord-vestul Poloniei. Este un loc pașnic, departe de stațiunile aglomerate de la Marea Baltică, oferind un mediu estuarin unic și calm, perfect pentru relaxare.\n\nAceastă zonă se caracterizează prin pajiști verzi luxuriante, stufăriș dens și ape deosebit de liniștite. Este un adevărat paradis pentru toți cei care caută liniște absolută, plimbări lungi în natură și observarea netulburată a păsărilor. Peisajul vast este foarte idilic și abia dezvoltat din punct de vedere turistic, păstrându-și farmecul sălbatic.\n\nApa aici este mult mai blândă decât în marea deschisă, ceea ce îl face un loc excelent pentru un picnic relaxant pe mal sau o oprire în timpul unei excursii cu bicicleta. Zona este populară în special printre localnici pentru natura sa curată și apusurile pitorești.\n\nVizitatorii ar trebui să țină cont de faptul că aceasta este mai degrabă o porțiune de coastă sălbatică și naturală decât o plajă de scăldat clasică, amenajată. Cu toate acestea, oricine apreciază liniștea naturii, foșnetul stufului și peisajele acvatice vaste va iubi această comoară ascunsă de lângă Police.",
+   "en": "The water corner of Zakątek wodny Trzebuskie Łęgi is a quiet, natural wetland area located near the Szczecin Lagoon and the Oder River network in northwestern Poland. It is a peaceful spot, far removed from the bustling Baltic Sea resorts, offering a unique, calm estuarine environment that invites you to relax.\n\nThis area is characterized by lush green meadows, dense reed beds, and particularly calm waters. It is a true paradise for anyone seeking absolute peace, long nature walks, and undisturbed bird watching. The vast landscape is very idyllic and barely developed for tourism, thus retaining its wild charm.\n\nThe water here is much gentler than on the open sea, making it an excellent spot for a relaxing picnic on the shore or a rest stop during a cycling trip. The area is particularly popular among locals for its untouched nature and picturesque sunsets.\n\nVisitors should keep in mind that this is more of a wild, natural stretch of shoreline rather than a classic, managed bathing beach. However, anyone who appreciates the silence of nature, the rustling of the reeds, and the expansive aquatic landscapes is guaranteed to love this hidden gem nestled near the town of Police."
+  },
+  "type": {
+   "de": "Grasig und schlammig",
+   "hu": "Füves és iszapos",
+   "ro": "Iarbă și noroi",
+   "en": "Grassy and muddy"
+  },
+  "water": {
+   "de": "Sehr ruhiges, oft seichtes Lagunenwasser mit natürlichen Ufern.",
+   "hu": "Nagyon nyugodt, gyakran sekély vizű öböl természetes partokkal.",
+   "ro": "Apă de lagună foarte calmă, adesea puțin adâncă, cu maluri naturale.",
+   "en": "Very calm, often shallow lagoon water with natural banks."
+  },
+  "access": {
+   "de": "Am besten mit dem Fahrrad oder zu Fuß über unbefestigte Wege erreichbar.",
+   "hu": "Legjobban kerékpárral vagy gyalogosan, földutakon keresztül közelíthető meg.",
+   "ro": "Cel mai bine accesibil cu bicicleta sau pe jos prin poteci neasfaltate.",
+   "en": "Best accessed by bicycle or on foot via unpaved paths."
+  },
+  "parking": {
+   "de": "Es gibt keine ausgewiesenen Parkplätze; wildes Parken am Wegesrand in der Nähe.",
+   "hu": "Nincsenek kijelölt parkolók; út menti parkolás a közelben.",
+   "ro": "Nu există locuri de parcare desemnate; parcare neamenajată pe marginea drumului în apropiere.",
+   "en": "There are no designated parking lots; wild roadside parking nearby."
+  },
+  "facilities": {
+   "de": [
+    "Natur pur",
+    "Keine Toiletten",
+    "Keine Gastronomie",
+    "Ruhige Lage"
+   ],
+   "hu": [
+    "Érintetlen természet",
+    "Nincs WC",
+    "Nincs büfé",
+    "Csendes környezet"
+   ],
+   "ro": [
+    "Natură pură",
+    "Fără toalete",
+    "Fără gastronomie",
+    "Locație liniștită"
+   ],
+   "en": [
+    "Pure nature",
+    "No toilets",
+    "No catering",
+    "Quiet location"
+   ]
+  },
+  "family": {
+   "de": "Ideal für Familien, die Naturabenteuer und Picknicks abseits der Massen suchen.",
+   "hu": "Ideális olyan családok számára, akik a tömegtől távol keresnek természeti kalandokat és piknikezési lehetőséget.",
+   "ro": "Ideal pentru familiile care caută aventuri în natură și picnicuri departe de aglomerație.",
+   "en": "Ideal for families looking for nature adventures and picnics away from the crowds."
+  },
+  "kids": {
+   "de": "Kinder können die Tierwelt beobachten und auf den Wiesen spielen, aber es gibt keine speziellen Spielplätze.",
+   "hu": "A gyerekek megfigyelhetik a vadvilágot és játszhatnak a réteken, de nincsenek kiépített játszóterek.",
+   "ro": "Copiii pot observa fauna sălbatică și se pot juca pe pajiști, dar nu există locuri de joacă.",
+   "en": "Kids can observe wildlife and play in the meadows, but there are no specific playgrounds."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Picknick am Ufer",
+     "tip": "Bringen Sie Ihre eigenen Snacks mit, da es vor Ort keine Stände gibt."
+    },
+    {
+     "name": "Fischgerichte",
+     "tip": "In der nahegelegenen Stadt Police finden Sie Restaurants mit regionalem Fisch."
+    },
+    {
+     "name": "Polnische Klassiker (Pierogi)",
+     "tip": "Besuchen Sie nach dem Ausflug ein lokales Lokal in Police für ein herzhaftes Essen."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Parti piknik",
+     "tip": "Hozzon magával saját rágcsálnivalót, mivel a helyszínen nincsenek árusok."
+    },
+    {
+     "name": "Halételek",
+     "tip": "A közeli Police városában regionális halakat kínáló éttermeket talál."
+    },
+    {
+     "name": "Lengyel klasszikusok (Pierogi)",
+     "tip": "A kirándulás után látogasson el egy police-i vendéglőbe egy kiadós étkezésre."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Picnic pe mal",
+     "tip": "Aduceți-vă propriile gustări, deoarece nu există tarabe la fața locului."
+    },
+    {
+     "name": "Mâncăruri din pește",
+     "tip": "În orașul din apropiere, Police, veți găsi restaurante cu pește regional."
+    },
+    {
+     "name": "Clasice poloneze (Pierogi)",
+     "tip": "După excursie, vizitați un restaurant local din Police pentru o masă copioasă."
+    }
+   ],
+   "en": [
+    {
+     "name": "Shoreline picnic",
+     "tip": "Bring your own snacks as there are no food stalls on site."
+    },
+    {
+     "name": "Fish dishes",
+     "tip": "In the nearby town of Police, you will find restaurants offering regional fish."
+    },
+    {
+     "name": "Polish classics (Pierogi)",
+     "tip": "After your trip, visit a local eatery in Police for a hearty meal."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zu diesem Naturgebiet ist völlig kostenlos.",
+   "hu": "A belépés erre a természeti területre teljesen ingyenes.",
+   "ro": "Accesul în această zonă naturală este complet gratuit.",
+   "en": "Access to this natural area is completely free of charge."
+  },
+  "lifeguard": {
+   "de": "Es handelt sich um einen wilden Wasserzugang ohne Rettungsschwimmer.",
+   "hu": "Ez egy vad part, vízimentő szolgálat nélkül.",
+   "ro": "Aceasta este o zonă sălbatică, fără salvamar.",
+   "en": "This is a wild water access point with no lifeguards."
+  },
+  "shade": {
+   "de": "Einige natürliche Schattenplätze durch Bäume und Büsche am Rand der Wiesen.",
+   "hu": "Némi természetes árnyékot adnak a rétek szélén lévő fák és bokrok.",
+   "ro": "Câteva locuri cu umbră naturală de la copacii și tufișurile de la marginea pajiștilor.",
+   "en": "Some natural shade provided by trees and bushes at the edge of the meadows."
+  },
+  "best_time": {
+   "de": "Warme Frühlings- und Sommertage sind am besten für einen Besuch.",
+   "hu": "A meleg tavaszi és nyári napok a legalkalmasabbak a látogatásra.",
+   "ro": "Zilele calde de primăvară și vară sunt cele mai bune pentru o vizită.",
+   "en": "Warm spring and summer days are best for a visit."
+  },
+  "nearby": {
+   "de": "Die Stadt Police ist in der Nähe. Auch die Naturreservate entlang der Oder sind einen Besuch wert.",
+   "hu": "A közeli Police városa és az Odera menti természetvédelmi területek is megérnek egy látogatást.",
+   "ro": "Orașul Police este în apropiere. Rezervele naturale de-a lungul râului Oder merită de asemenea vizitate.",
+   "en": "The town of Police is nearby. The nature reserves along the Oder are also worth a visit."
+  },
+  "tips": {
+   "de": [
+    "Mückenspray ist aufgrund der Nähe zum Wasser und Schilf unerlässlich.",
+    "Ein Fernglas für die Vogelbeobachtung mitnehmen.",
+    "Perfekt als Pausenort während einer Fahrradtour geeignet."
+   ],
+   "hu": [
+    "A szúnyogriasztó elengedhetetlen a víz és a nádas közelsége miatt.",
+    "Érdemes távcsövet vinni a madármegfigyeléshez.",
+    "Tökéletes pihenőhely egy kerékpártúra során."
+   ],
+   "ro": [
+    "Spray-ul împotriva țânțarilor este esențial din cauza apropierii de apă și stuf.",
+    "Luați binoclul cu dumneavoastră pentru observarea păsărilor.",
+    "Perfect ca loc de odihnă în timpul unui tur cu bicicleta."
+   ],
+   "en": [
+    "Mosquito repellent is essential due to the proximity to water and reeds.",
+    "Bring binoculars for bird watching.",
+    "Perfect as a rest stop during a cycling tour."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Gibt es eine Eintrittsgebühr?",
+     "hu": "Kell belépőt fizetni?",
+     "ro": "Există o taxă de intrare?",
+     "en": "Is there an entrance fee?"
+    },
+    "a": {
+     "de": "Nein, der Zugang ist völlig kostenlos und jederzeit möglich.",
+     "hu": "Nem, a belépés teljesen ingyenes és bármikor lehetséges.",
+     "ro": "Nu, accesul este complet gratuit și posibil în orice moment.",
+     "en": "No, access is completely free and possible at any time."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann man dort Essen kaufen?",
+     "hu": "Lehet ott ételt venni?",
+     "ro": "Pot cumpăra mâncare de acolo?",
+     "en": "Can I buy food there?"
+    },
+    "a": {
+     "de": "Nein, es gibt keine Gastronomie. Bringen Sie alles selbst mit.",
+     "hu": "Nem, nincsenek büfék. Mindent magának kell hoznia.",
+     "ro": "Nu, nu există facilități de catering. Aduceți totul cu dumneavoastră.",
+     "en": "No, there are no catering facilities. Bring everything with you."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist das Schwimmen sicher?",
+     "hu": "Biztonságos a fürdés?",
+     "ro": "Este sigur pentru înot?",
+     "en": "Is it safe for swimming?"
+    },
+    "a": {
+     "de": "Es ist ein wilder Ort ohne Rettungsschwimmer; das Baden erfolgt auf eigene Gefahr.",
+     "hu": "Ez egy vad hely vízimentők nélkül; a vízbe lépés csak saját felelősségre ajánlott.",
+     "ro": "Este un loc sălbatic, fără salvamari; scăldatul este pe propriul risc.",
+     "en": "It is a wild place with no lifeguards; bathing is at your own risk."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist der Ort rollstuhlgerecht?",
+     "hu": "Kerekesszékkel megközelíthető?",
+     "ro": "Este accesibil pentru scaune cu rotile?",
+     "en": "Is the place wheelchair accessible?"
+    },
+    "a": {
+     "de": "Aufgrund der unbefestigten Wege ist der Ort leider nicht für Rollstühle geeignet.",
+     "hu": "A burkolatlan utak miatt a hely sajnos nem alkalmas kerekesszékesek számára.",
+     "ro": "Datorită cărărilor neasfaltate, locul nu este, din păcate, potrivit pentru scaune cu rotile.",
+     "en": "Due to the unpaved paths, the place is unfortunately not suitable for wheelchairs."
+    }
+   }
+  ]
+ }
+}

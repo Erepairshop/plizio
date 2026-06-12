@@ -1,0 +1,502 @@
+[
+ {
+  "slug": "praia-da-marinha",
+  "name": "Praia da Marinha",
+  "qid": "Q1626861",
+  "coord": "Point(-8.41202 37.0897)",
+  "sitelinks": 14,
+  "file": "pt-beach-praia-da-marinha.webp",
+  "commons_file": "Praia da Marinha (2012-09-27), by Klugschnacker in Wikipedia (86).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "benagil",
+  "name": "Benagil",
+  "qid": "Q2895643",
+  "coord": "Point(-8.42583 37.0875)",
+  "sitelinks": 11,
+  "file": "pt-beach-benagil.webp",
+  "commons_file": "02-05-2017 Praia de Benagil (2).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-rocha",
+  "name": "Praia da Rocha",
+  "qid": "Q1752037",
+  "coord": "Point(-8.53333333 37.11666667)",
+  "sitelinks": 10,
+  "file": "pt-beach-praia-da-rocha.webp",
+  "commons_file": "Praia da Rocha - Portugal (11747902275).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-do-burgau",
+  "name": "Praia do Burgau",
+  "qid": "Q7237784",
+  "coord": "Point(-8.775277777 37.071666666)",
+  "sitelinks": 7,
+  "file": "pt-beach-praia-do-burgau.webp",
+  "commons_file": "East Praia Burgau.png",
+  "credit": {}
+ },
+ {
+  "slug": "falesia-beach",
+  "name": "Falesia Beach",
+  "qid": "Q2107541",
+  "coord": "Point(-8.17 37.08666667)",
+  "sitelinks": 6,
+  "file": "pt-beach-falesia-beach.webp",
+  "commons_file": "Falesia Beach seen from sea.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "guincho-beach",
+  "name": "Guincho Beach",
+  "qid": "Q2107562",
+  "coord": "Point(-9.472696 38.733149)",
+  "sitelinks": 6,
+  "file": "pt-beach-guincho-beach.webp",
+  "commons_file": "Guincho June 2013-4.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-arrifana",
+  "name": "Praia da Arrifana",
+  "qid": "Q7237764",
+  "coord": "Point(-8.865 37.29277778)",
+  "sitelinks": 6,
+  "file": "pt-beach-praia-da-arrifana.webp",
+  "commons_file": "Arrifana.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-formosa",
+  "name": "Praia Formosa",
+  "qid": "Q10352428",
+  "coord": "Point(-16.95275 32.6405)",
+  "sitelinks": 5,
+  "file": "pt-beach-praia-formosa.webp",
+  "commons_file": "Praia Formosa - Black Pebble Beach in February Sunshine (32823123041).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "figueirinha-beach",
+  "name": "Figueirinha Beach",
+  "qid": "Q10352598",
+  "coord": "Point(-8.94556 38.48444)",
+  "sitelinks": 5,
+  "file": "pt-beach-figueirinha-beach.webp",
+  "commons_file": "Figueirinha.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "costa-nova-do-prado",
+  "name": "Costa Nova do Prado",
+  "qid": "Q3695282",
+  "coord": "Point(-8.75056667 40.61476667)",
+  "sitelinks": 5,
+  "file": "pt-beach-costa-nova-do-prado.webp",
+  "commons_file": "011293 - Costa Nova do Prado (21171782496).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "albarquel-beach",
+  "name": "Albarquel Beach",
+  "qid": "Q4709424",
+  "coord": "Point(-8.915 38.51111111)",
+  "sitelinks": 5,
+  "file": "pt-beach-albarquel-beach.webp",
+  "commons_file": "Arrábida.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "rio-alto-beach",
+  "name": "Rio Alto Beach",
+  "qid": "Q5405017",
+  "coord": "Point(-8.77938 41.4451)",
+  "sitelinks": 5,
+  "file": "pt-beach-rio-alto-beach.webp",
+  "commons_file": "Estela beach, povoa de varzim.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-grande",
+  "name": "Praia Grande",
+  "qid": "Q7237756",
+  "coord": "Point(-8.519444444 37.116111111)",
+  "sitelinks": 5,
+  "file": "pt-beach-praia-grande.webp",
+  "commons_file": "Ferragudo1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-adraga",
+  "name": "Praia da Adraga",
+  "qid": "Q7237760",
+  "coord": "Point(-9.485 38.803611111)",
+  "sitelinks": 5,
+  "file": "pt-beach-praia-da-adraga.webp",
+  "commons_file": "Praia da adraga 1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-rocha-baixinha",
+  "name": "Praia da Rocha Baixinha",
+  "qid": "Q7237770",
+  "coord": "Point(-8.1282 37.0737)",
+  "sitelinks": 5,
+  "file": "pt-beach-praia-da-rocha-baixinha.webp",
+  "commons_file": "View of Praia da Rocha Baixinha 24 September 2012.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "prainha",
+  "name": "Prainha",
+  "qid": "Q7237803",
+  "coord": "",
+  "sitelinks": 5,
+  "file": "pt-beach-prainha.webp",
+  "commons_file": "Prainha angra.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "santo-andre-beach",
+  "name": "Santo André Beach",
+  "qid": "Q7420473",
+  "coord": "Point(-8.7872 41.4167)",
+  "sitelinks": 5,
+  "file": "pt-beach-santo-andre-beach.webp",
+  "commons_file": "Praia da Aguçadoura.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-senhora-da-rocha",
+  "name": "Praia da Senhora da Rocha",
+  "qid": "Q10352668",
+  "coord": "Point(-8.388333333 37.096111111)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-senhora-da-rocha.webp",
+  "commons_file": "02-05-2017 Praia da Senhora da Rocha.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-monte-gordo",
+  "name": "Praia de Monte Gordo",
+  "qid": "Q10352829",
+  "coord": "Point(-7.44744 37.17665)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-monte-gordo.webp",
+  "commons_file": "Monte Gordo (3435107970).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-do-norte",
+  "name": "Praia do Norte",
+  "qid": "Q10353058",
+  "coord": "Point(-9.085583333 39.604416666)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-do-norte.webp",
+  "commons_file": "Nazare North at sunset 2021 -4 (wide with beach).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-do-tunel",
+  "name": "Praia do Túnel",
+  "qid": "Q10353071",
+  "coord": "Point(-8.25379 37.0864)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-do-tunel.webp",
+  "commons_file": "Albufeira-Strand in April.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "porto-santo-beach",
+  "name": "Porto Santo beach",
+  "qid": "Q10353089",
+  "coord": "Point(-16.34722222 33.04777778)",
+  "sitelinks": 4,
+  "file": "pt-beach-porto-santo-beach.webp",
+  "commons_file": "Ilha de Porto Santo - Portugal (2050189089).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "albandeira-beach",
+  "name": "Albandeira Beach",
+  "qid": "Q2107535",
+  "coord": "Point(-8.400075 37.09090833)",
+  "sitelinks": 4,
+  "file": "pt-beach-albandeira-beach.webp",
+  "commons_file": "Praia da Albandeira-CTH.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-ofir",
+  "name": "Praia de Ofir",
+  "qid": "Q2107546",
+  "coord": "Point(-8.78758889 41.51708889)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-ofir.webp",
+  "commons_file": "Praia de Ofir (36059861384).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-vieira",
+  "name": "Praia de Vieira",
+  "qid": "Q3332363",
+  "coord": "Point(-8.96969 39.88273)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-vieira.webp",
+  "commons_file": "Foz do Rio Liz - Portugal (13668269134).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "porto-dinheiro",
+  "name": "Porto Dinheiro",
+  "qid": "Q7232151",
+  "coord": "Point(-9.3447 39.2136)",
+  "sitelinks": 4,
+  "file": "pt-beach-porto-dinheiro.webp",
+  "commons_file": "20210804 160800 Praia de Porto Dinheiro.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-santa-eulalia",
+  "name": "Praia Santa Eulália",
+  "qid": "Q7237759",
+  "coord": "Point(-8.21444444 37.08805556)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-santa-eulalia.webp",
+  "commons_file": "Praia de Santa Eulalia 1 10 2012.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-amoreira",
+  "name": "Praia da Amoreira",
+  "qid": "Q7237761",
+  "coord": "Point(-8.84444444 37.35138889)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-amoreira.webp",
+  "commons_file": "Praia da Amoreira.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-carreagem",
+  "name": "Praia da Carreagem",
+  "qid": "Q7237766",
+  "coord": "Point(-8.84215 37.35817)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-carreagem.webp",
+  "commons_file": "Praia da Carriagem - Portugal (26294151383).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-granja",
+  "name": "Praia da Granja",
+  "qid": "Q7237768",
+  "coord": "Point(-8.64833 41.0363)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-granja.webp",
+  "commons_file": "Praia da Granja - Portugal (232970391).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-das-adegas",
+  "name": "Praia das Adegas",
+  "qid": "Q7237776",
+  "coord": "Point(-8.8012 37.4392)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-das-adegas.webp",
+  "commons_file": "Praia de Adegas ou Odeceixe Sul - Portugal (33105019432).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-baia-dos-tiros",
+  "name": "Praia da Baía dos Tiros",
+  "qid": "Q7237778",
+  "coord": "Point(-8.81277778 37.40611111)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-baia-dos-tiros.webp",
+  "commons_file": "Praia da Baía dos Tiros 11 November 2013 (3).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-odeceixe-mar",
+  "name": "Praia de Odeceixe Mar",
+  "qid": "Q7237779",
+  "coord": "Point(-8.79777778 37.44222222)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-odeceixe-mar.webp",
+  "commons_file": "Praia de Odeceixe Mar 11 November 2013 (2).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-do-evaristo",
+  "name": "Praia do Evaristo",
+  "qid": "Q7237787",
+  "coord": "Point(-8.30277778 37.07416667)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-do-evaristo.webp",
+  "commons_file": "Praia do Evaristo Albufeira24 09 2012.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-vale-dos-homens",
+  "name": "Praia de Vale dos Homens",
+  "qid": "Q7237791",
+  "coord": "Point(-8.82527778 37.3825)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-vale-dos-homens.webp",
+  "commons_file": "Praia de Vale dos Homens - Portugal (41005322322).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-monte-clerigo",
+  "name": "Praia de Monte Clérigo",
+  "qid": "Q7237792",
+  "coord": "Point(-8.85305556 37.34083333)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-monte-clerigo.webp",
+  "commons_file": "Praia do Monte Clérigo - I.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "quiao-beach",
+  "name": "Quião Beach",
+  "qid": "Q7272733",
+  "coord": "Point(-8.78301 41.40839)",
+  "sitelinks": 4,
+  "file": "pt-beach-quiao-beach.webp",
+  "commons_file": "Praia do Quião Cabo de Santo André Póvoa de Varzim.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "salgueira-beach",
+  "name": "Salgueira Beach",
+  "qid": "Q7404416",
+  "coord": "Point(-8.7713 41.38324)",
+  "sitelinks": 4,
+  "file": "pt-beach-salgueira-beach.webp",
+  "commons_file": "Praia Salgueira Ondas Povoa Varzim.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "fonte-da-telha-beach",
+  "name": "Fonte da Telha Beach",
+  "qid": "Q10283308",
+  "coord": "Point(-9.196194444 38.570972222)",
+  "sitelinks": 4,
+  "file": "pt-beach-fonte-da-telha-beach.webp",
+  "commons_file": "Praia da Fonte da Telha.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-coelha",
+  "name": "Praia da Coelha",
+  "qid": "Q16890473",
+  "coord": "Point(-8.3 37.066666666)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-coelha.webp",
+  "commons_file": "129PT 13 November 2013 Praia da Coelha.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-sao-rafael",
+  "name": "Praia de São Rafael",
+  "qid": "Q16899062",
+  "coord": "Point(-8.2815 37.0747)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-de-sao-rafael.webp",
+  "commons_file": "132PT 13 November 2013 Praia de São rafael.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-oura",
+  "name": "Praia da Oura",
+  "qid": "Q18129063",
+  "coord": "Point(-8.22244444 37.08525)",
+  "sitelinks": 4,
+  "file": "pt-beach-praia-da-oura.webp",
+  "commons_file": "P283 Praia da Oura Albufeira 1 May 2014.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-verde",
+  "name": "Praia Verde",
+  "qid": "Q10352522",
+  "coord": "Point(-7.48 37.173611111)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-verde.webp",
+  "commons_file": "Praiaverde2.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-aguda",
+  "name": "Praia da Aguda",
+  "qid": "Q10352532",
+  "coord": "Point(-9.455388 38.851991)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-da-aguda.webp",
+  "commons_file": "Praia da Aguda - Portugal (195659813).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "bordeira-s-beach",
+  "name": "Bordeira's beach",
+  "qid": "Q10352568",
+  "coord": "Point(-8.900277777 37.200277777)",
+  "sitelinks": 3,
+  "file": "pt-beach-bordeira-s-beach.webp",
+  "commons_file": "Bordeira, 8670, Portugal - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-cordoama",
+  "name": "Praia da Cordoama",
+  "qid": "Q10352582",
+  "coord": "Point(-8.9368 37.1089)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-da-cordoama.webp",
+  "commons_file": "Praia cordoama miradouro.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-dona-ana",
+  "name": "Praia da Dona Ana",
+  "qid": "Q10352590",
+  "coord": "Point(-8.6689 37.09209)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-da-dona-ana.webp",
+  "commons_file": "Praia de Dona Ana - Portugal (9068382051).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-foz-do-lizandro",
+  "name": "Praia da Foz do Lizandro",
+  "qid": "Q10352601",
+  "coord": "Point(-9.41664 38.94265)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-da-foz-do-lizandro.webp",
+  "commons_file": "Praia da Foz do Lizandro.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-gale",
+  "name": "Praia da Galé",
+  "qid": "Q10352602",
+  "coord": "Point(-8.31611111 37.08055556)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-da-gale.webp",
+  "commons_file": "Praia da Galé - Pequena.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "praia-da-ingrina",
+  "name": "Praia da Ingrina",
+  "qid": "Q10352614",
+  "coord": "Point(-8.878888888 37.046666666)",
+  "sitelinks": 3,
+  "file": "pt-beach-praia-da-ingrina.webp",
+  "commons_file": "Praia do Ingrina - Portugal (51036969221).jpg",
+  "credit": {}
+ }
+]

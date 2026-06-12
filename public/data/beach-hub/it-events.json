@@ -1,0 +1,277 @@
+{
+ "capocotta": {
+  "beach": "Torvaianica",
+  "town": "Torvaianica",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra della Vongola (Clam Festival), Torvaianica",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in summer (recent editions in July/August); typically spread over two weekends with seafood, music and stalls in the Torvaianica seafront area",
+    "date": "",
+    "blurb": "Long-running seafood food festival in Torvaianica dedicated to the local clam (vongola lupino), organised by the Pro Loco with the Municipality of Pomezia, featuring seafood dishes, live music, craft stalls and entertainment.",
+    "source_url": "https://www.pomeziaetorvajanica.it/calendario/sagra-della-vongola-e-dell-artigianato/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di Maria Assunta in Cielo & Sea Procession, Torvaianica",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually mid-August (around 14-17 August); the historic sea procession is on 15 August (Feast of the Assumption)",
+    "date": "2026-08-15",
+    "blurb": "Torvaianica's patronal feast, run by the Beata Vergine Immacolata parish with the Municipality of Pomezia. Its centerpiece is the historic sea procession on 15 August, when fishermen carry the Madonna's statue by boat off the Torvaianica coast, accompanied by concerts, food stands, fireworks and children's games.",
+    "source_url": "https://www.pomeziaoggi.it/torvaianica-la-festa-di-maria-assunta-in-cielo/",
+    "image_url": ""
+   },
+   {
+    "name": "Ostia Festival (Ostia in Rosa + Ostia Jazz Festival), Lido di Ostia",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late May to early June; 2026 edition 29 May - 2 June",
+    "date": "2026-05-29",
+    "blurb": "A multi-day festival on the Roman coast in Piazza Anco Marzio, Lido di Ostia. It pairs comedy evenings (Ostia in Rosa, 29-30 May 2026 with Gabriele Cirilli and Antonio Giuliani, tied to the Giro d'Italia passing through) with the Ostia Jazz Festival (31 May - 2 June 2026), promoted by the Alexanderplatz Jazz Club.",
+    "source_url": "https://www.sbircialanotizia.it/articoli/2026/05/28/ostiafestival-j3c9r/",
+    "image_url": ""
+   },
+   {
+    "name": "Ostia Summer Jam, Teatro del Lido di Ostia",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in spring (12th edition in 2026, on 16 May 2026 from 2 PM)",
+    "date": "2026-05-16",
+    "blurb": "A hip-hop culture festival at the Teatro del Lido di Ostia exploring breaking, battles and visual arts, with workshops, urban clothing and merchandise stands and a dedicated graffiti area. The 2026 edition is its 12th.",
+    "source_url": "https://www.teatrionline.it/2026/05/ostia-summer-jam-2026-al-via-la-12esima-edizione/",
+    "image_url": ""
+   }
+  ]
+ },
+ "san-leone": {
+  "beach": "Agrigento (San Leone)",
+  "town": "Agrigento (San Leone)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra del Mandorlo in Fiore (Almond Blossom Festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early-to-mid March; 2026 edition (78th) runs 7-15 March",
+    "date": "2026-03-07",
+    "blurb": "International folklore festival in Agrigento celebrating the almond blossom and themes of peace and friendship among peoples, with parades of folk groups from around the world through the city and the UNESCO-listed Valley of the Temples, including the lighting of the Friendship Tripod and a drone show.",
+    "source_url": "https://comune.agrigento.it/eventi/mandorlo-in-fiore-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Calogero",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually during the first two weeks of July",
+    "date": "",
+    "blurb": "Agrigento's major patron-saint festival honouring San Calogero (the 'Santo Nero'), with processions of the statue through the historic centre, the traditional throwing of sesame 'muffuletti' rolls, the Sagra del Grano with a parade of Sicilian carts, and the 'Ntinna' pole-climbing game held at Piazzale Giglia in San Leone.",
+    "source_url": "https://www.visitsicily.info/la-festa-di-san-calogero-ad-agrigento/",
+    "image_url": ""
+   },
+   {
+    "name": "FestiValle",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early August; 2026 edition (10th) runs 7-10 August",
+    "date": "2026-08-07",
+    "blurb": "International music and digital-arts festival staged across the Valley of the Temples, with concerts, DJ sets and site-specific performances. The companion 'FestiValle Beach' runs daily (around midday to 4 PM) on San Leone beach with DJ sets by the river and sea.",
+    "source_url": "https://festivalle.it/tickets/",
+    "image_url": ""
+   },
+   {
+    "name": "One May Village",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 1 May (Labour Day)",
+    "date": "2026-05-01",
+    "blurb": "Labour Day village event held at San Leone featuring live music, sport and other recreational activities along the seafront.",
+    "source_url": "",
+    "image_url": ""
+   },
+   {
+    "name": "Vela Day (Sailing Day) - Punta Piccola Nautical Club season opening",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early June, opening the summer season at San Leone",
+    "date": "",
+    "blurb": "Traditional sailing day organised by the Punta Piccola nautical club in San Leone under the Italian Sailing Federation, marking the official start of the summer season.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ },
+ "torre-mileto": {
+  "beach": "San Nicandro Garganico",
+  "town": "San Nicandro Garganico",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa Patronale di San Nicandro Garganico (Patron Saints Festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in June; 2026 edition 17-20 June",
+    "date": "2026-06-17",
+    "blurb": "The main patronal festival of San Nicandro Garganico, honouring patron saints San Nicandro, San Marciano and Santa Daria. Combines a solemn religious procession with the town band, plus concerts (2026 headliner Elettra Lamborghini) and pyromusical fireworks.",
+    "source_url": "https://www.sannicandro.org/notizie/spettacolo/8972-festa-patronale-2026-il-cartellone-ufficiale",
+    "image_url": ""
+   },
+   {
+    "name": "Carnevale Storico Sannicandrese (Historic Carnival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in February (Carnival season); 2026 edition ran 8-22 February with parades on 8, 15 and 17 Feb",
+    "date": "",
+    "blurb": "Long-running historic carnival of San Nicandro Garganico featuring large allegorical float parades and masked groups through the town, plus the traditional 'Pastore e Pacchiana' historic procession, food & wine route and the closing 'Quarantana' ritual.",
+    "source_url": "https://www.foggiatoday.it/eventi/san-nicandro-garganico-carnevale-storico-2026-programma.html",
+    "image_url": ""
+   },
+   {
+    "name": "Estate Sannicandrese (San Nicandro Summer Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually July-August; programme includes events at Torre Mileto",
+    "date": "",
+    "blurb": "Town-run summer programme of open-air concerts, theatre, art exhibitions and outdoor cinema, with several events staged at the Torre Mileto coastal locality and the floodlit Aragonese tower opened for visits.",
+    "source_url": "https://www.sannicandro.org/notizie/attualita/8026-estate-a-san-nicandro-il-programma-completo",
+    "image_url": ""
+   },
+   {
+    "name": "Festival itinerante dei Suonatori di Tarantelle del Gargano",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer; performances staged at Torre Mileto",
+    "date": "",
+    "blurb": "Itinerant festival of traditional Gargano tarantella players, with folk-music groups such as Tarantula Garganica and Cantatori del Gargano performing, including dates at Torre Mileto.",
+    "source_url": "https://www.sannicandro.org/notizie/eventi/2968-festival-itinerante-dei-suonatori-di-tarantelle-del-gargano",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra delle Anguille di Lesina (Lesina Eel Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually, typically December, in nearby Lesina on the Lesina lagoon",
+    "date": "",
+    "blurb": "Founded in 2004, this gastronomy festival in the nearby lagoon town of Lesina celebrates the local Slow Food presidium eel, served in many traditional preparations, drawing thousands of visitors. Held in the Lesina lagoon area adjacent to the Torre Mileto coastal strip.",
+    "source_url": "https://www.parcogargano.it/itinerario/sagra-delle-anguille/",
+    "image_url": ""
+   }
+  ]
+ },
+ "poetto": {
+  "beach": "Cagliari",
+  "town": "Cagliari",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Poetto Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late May / early June at the Opera Beach Arena on Poetto beach; 2026 edition 29 May - 1 June",
+    "date": "2026-05-29",
+    "blurb": "Music festival held directly on the sand of Poetto beach at the Opera Beach Arena, with several nights of Italian pop, urban, trap and Latin acts facing the sea. The 2026 (8th) edition runs 29 May to 1 June with headliners such as Ernia and Kid Yugi.",
+    "source_url": "https://www.poettofest.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di Sant'Efisio",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually 1-4 May in Cagliari; 2026 edition (370th) 1-4 May",
+    "date": "2026-05-01",
+    "blurb": "Sardinia's largest religious and folk celebration, dating from a 1652 vow against the plague. A multi-day procession brings thousands in traditional dress, folk groups, horsemen and decorated carts through Cagliari toward Nora. The 2026 edition is the 370th.",
+    "source_url": "https://www.festadisantefisio.it/",
+    "image_url": ""
+   },
+   {
+    "name": "Cagliari Triathlon (Poetto)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in May at Poetto beach; 2026 races held the weekend of 16-17 May",
+    "date": "2026-05-16",
+    "blurb": "Triathlon event that turns Poetto beach and the Marina Piccola area into an open-air arena, with swimming, cycling and running courses along the waterfront and hundreds of competing athletes.",
+    "source_url": "https://www.unicaradio.it/en/blog/2026/05/14/the-cagliari-triathlon-brings-poetto-to-life-this-weekend/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra Estiva di Nostra Signora di Bonaria (Sea Procession)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the first Sunday of July in Cagliari",
+    "date": "",
+    "blurb": "Summer feast of the patroness of Sardinia, held since 1866. After Mass at the Bonaria Basilica, the statue of the Madonna is carried to the port and taken out to sea in a procession of dozens of boats to Su Siccu, where a wreath is cast into the water in memory of lost sailors.",
+    "source_url": "https://bonaria.eu/feste/",
+    "image_url": ""
+   },
+   {
+    "name": "Marina Cafe Noir",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer in the Cagliari area (festival of applied literatures); 2026 edition 19-21 June",
+    "date": "2026-06-19",
+    "blurb": "Long-running festival of 'applied literatures' founded in Cagliari in 2003, blending literature, music and performance with free public events. Editions have been held in the historic Marina district and at Poetto; the 2026 edition is staged at Elmas, just outside Cagliari, from 19 to 21 June.",
+    "source_url": "https://www.marinacafenoir.it/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-goloritze": {
+  "beach": "Baunei",
+  "town": "Baunei",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Pietro al Golgo",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the last weekend of June (procession from Baunei up to the San Pietro church on the Golgo plateau); 2026 edition on 27-28 June",
+    "date": "2026-06-27",
+    "blurb": "Centuries-old religious feast where the faithful climb in procession from Baunei to the isolated San Pietro church on the Golgo plateau above Cala Goloritze, tied to the legend of Saint Peter and 'Sa Serpente', with traditional Sardinian rites.",
+    "source_url": "https://www.vistanet.it/ogliastra/2026/06/11/tra-fede-e-leggenda-nel-cuore-di-golgo-baunei-si-prepara-alla-secolare-festa-di-san-pietro/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra della Carne di Capra (Goat Meat Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in summer in Baunei / Santa Maria Navarrese (editions held in late June and again in August); long-running festival, over 40 editions",
+    "date": "",
+    "blurb": "Long-standing food festival in Baunei celebrating local goat meat, with tastings, the traditional wood-oven 'Pistoccu' bread, live music and Sardinian folk dancing in the square.",
+    "source_url": "https://visit-ogliastra.it/evento/sagra-della-carne-di-capra/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Maialetto (Sa Sagra de Coppieddu - Roast Suckling Pig Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in the last week of July, in Piazza Bingigedda, Baunei (typically a Saturday around 25-26 July)",
+    "date": "",
+    "blurb": "Baunei's traditional roast suckling pig (porceddu) festival, where visitors enjoy the slow-roasted pork with wine, pecorino cheese and carasau bread, accompanied by traditional Sardinian dances.",
+    "source_url": "https://www.arbataxpark.com/en/festival-of-suckling-pig-baunei-25th-july/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di Santa Maria Assunta",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 13-15 August at Santa Maria Navarrese (frazione of Baunei), centred on 15 August (Assumption)",
+    "date": "2026-08-15",
+    "blurb": "The main patronal feast of Santa Maria Navarrese: a three-day celebration with a procession of the Madonna from Baunei, a spectacular maritime procession of decorated boats across the Gulf of Arbatax, mass in the seaside stone amphitheatre, plus live music, folk dances and craft and food stalls.",
+    "source_url": "https://www.santamarianavarresesardegna.it/it/articles/9/la-festa-di-santa-maria-assunta-a-santa-maria-navarrese.html",
+    "image_url": ""
+   },
+   {
+    "name": "Baunei Hiking Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, typically in October, based in Baunei and along the Supramonte / Golfo di Orosei coast",
+    "date": "",
+    "blurb": "An autumn outdoor festival of guided hikes and treks exploring the rugged Supramonte mountains and the Gulf of Orosei coastline around Baunei, including trails toward Cala Goloritze.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ }
+}

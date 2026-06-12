@@ -1,0 +1,502 @@
+[
+ {
+  "slug": "navagio",
+  "name": "Navagio",
+  "qid": "Q2460851",
+  "coord": "Point(20.624872874 37.859598197)",
+  "sitelinks": 25,
+  "file": "gr-beach-navagio.webp",
+  "commons_file": "Navagio beach Zakynthos.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "palm-forest-of-vai",
+  "name": "palm forest of Vai",
+  "qid": "Q168548",
+  "coord": "Point(26.26472222 35.25416667)",
+  "sitelinks": 20,
+  "file": "gr-beach-palm-forest-of-vai.webp",
+  "commons_file": "Vai R06.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "leptokarya",
+  "name": "Leptokarya",
+  "qid": "Q3491767",
+  "coord": "Point(22.5612 40.06032)",
+  "sitelinks": 20,
+  "file": "gr-beach-leptokarya.webp",
+  "commons_file": "Leptokaria paralia.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "myrtos-beach",
+  "name": "Myrtos Beach",
+  "qid": "Q1259677",
+  "coord": "Point(20.53611111 38.34361111)",
+  "sitelinks": 13,
+  "file": "gr-beach-myrtos-beach.webp",
+  "commons_file": "Myrtos Beach, Kefalonia.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "preveli-beach",
+  "name": "Preveli Beach",
+  "qid": "Q25394719",
+  "coord": "Point(24.47388889 35.15222222)",
+  "sitelinks": 12,
+  "file": "gr-beach-preveli-beach.webp",
+  "commons_file": "Preveli beach 01.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "porto-katsiki",
+  "name": "Porto Katsiki",
+  "qid": "Q1132269",
+  "coord": "Point(20.54944444 38.6025)",
+  "sitelinks": 11,
+  "file": "gr-beach-porto-katsiki.webp",
+  "commons_file": "Lefkada kosta.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "olympiaki-akti",
+  "name": "Olympiaki Akti",
+  "qid": "Q3656317",
+  "coord": "Point(22.584 40.24)",
+  "sitelinks": 11,
+  "file": "gr-beach-olympiaki-akti.webp",
+  "commons_file": "OlympicBeach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "balos-lagoon",
+  "name": "Balos Lagoon",
+  "qid": "Q805498",
+  "coord": "Point(23.58853 35.582404)",
+  "sitelinks": 9,
+  "file": "gr-beach-balos-lagoon.webp",
+  "commons_file": "Aerial view of Balos Beach and Lagoon on Crete, Greece.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ftelia",
+  "name": "Ftelia",
+  "qid": "Q1472325",
+  "coord": "Point(25.3754219 37.4610014)",
+  "sitelinks": 8,
+  "file": "gr-beach-ftelia.webp",
+  "commons_file": "Ftelia Bay, Mykonos, 060363.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "paralia-skotinas",
+  "name": "Paralia Skotinas",
+  "qid": "Q3560574",
+  "coord": "Point(22.5873 40.0262)",
+  "sitelinks": 8,
+  "file": "gr-beach-paralia-skotinas.webp",
+  "commons_file": "Beach of Skotina.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "paralia-panteleimonos",
+  "name": "Paralia Panteleimonos",
+  "qid": "Q3565376",
+  "coord": "Point(22.5915 40.0174)",
+  "sitelinks": 8,
+  "file": "gr-beach-paralia-panteleimonos.webp",
+  "commons_file": "Panteleimon Paralia.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "koukounaries",
+  "name": "Koukounaries",
+  "qid": "Q6434546",
+  "coord": "Point(23.4 39.15)",
+  "sitelinks": 8,
+  "file": "gr-beach-koukounaries.webp",
+  "commons_file": "Koukounaries beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sarakiniko-beach",
+  "name": "Sarakiniko Beach",
+  "qid": "Q7423010",
+  "coord": "Point(24.45828 36.7427)",
+  "sitelinks": 8,
+  "file": "gr-beach-sarakiniko-beach.webp",
+  "commons_file": "Sarakiniko Beach on Milos Island, Greece with a view of the Aegean Sea.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "egremni",
+  "name": "Egremni",
+  "qid": "Q13569522",
+  "coord": "Point(20.5582 38.6365)",
+  "sitelinks": 8,
+  "file": "gr-beach-egremni.webp",
+  "commons_file": "Egremni, Lefkada 5 - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "agios-stefanos",
+  "name": "Agios Stefanos",
+  "qid": "Q4692667",
+  "coord": "Point(25.319444444 37.468888888)",
+  "sitelinks": 7,
+  "file": "gr-beach-agios-stefanos.webp",
+  "commons_file": "Agios Stefanos beach Mykonos.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kokkino-nero",
+  "name": "Kokkino Nero",
+  "qid": "Q6426671",
+  "coord": "Point(22.792777777 39.833333333)",
+  "sitelinks": 7,
+  "file": "gr-beach-kokkino-nero.webp",
+  "commons_file": "Kokkino-nero-strand-b.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kryoneri",
+  "name": "Kryoneri",
+  "qid": "Q12731735",
+  "coord": "Point(21.594484 38.345167)",
+  "sitelinks": 6,
+  "file": "gr-beach-kryoneri.webp",
+  "commons_file": "IMG Kryoneri Aitoloakarnania.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "richtis-gorge",
+  "name": "Richtis Gorge",
+  "qid": "Q7331108",
+  "coord": "Point(25.98888889 35.16416667)",
+  "sitelinks": 6,
+  "file": "gr-beach-richtis-gorge.webp",
+  "commons_file": "Richtis waterfall at Richtis gorge in Crete.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "agios-gordios",
+  "name": "Agios Gordios",
+  "qid": "Q21554987",
+  "coord": "Point(19.853 39.547)",
+  "sitelinks": 6,
+  "file": "gr-beach-agios-gordios.webp",
+  "commons_file": "Corfu Agios Gordis R02.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "schinaria",
+  "name": "Schinaria",
+  "qid": "Q2236035",
+  "coord": "Point(24.42166667 35.16611111)",
+  "sitelinks": 5,
+  "file": "gr-beach-schinaria.webp",
+  "commons_file": "Schinaria Beach Panorama 04.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "triopetra",
+  "name": "Triopetra",
+  "qid": "Q2453857",
+  "coord": "Point(24.54788889 35.11488889)",
+  "sitelinks": 5,
+  "file": "gr-beach-triopetra.webp",
+  "commons_file": "Triopetra 19.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "almyrida",
+  "name": "Almyrida",
+  "qid": "Q4734035",
+  "coord": "Point(24.20075556 35.44908056)",
+  "sitelinks": 5,
+  "file": "gr-beach-almyrida.webp",
+  "commons_file": "Waterfront of Almyrida on the Island of Crete, Greece 2009-04-12.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "lalaria",
+  "name": "Lalaria",
+  "qid": "Q18813985",
+  "coord": "Point(23.478929 39.20654)",
+  "sitelinks": 5,
+  "file": "gr-beach-lalaria.webp",
+  "commons_file": "Lalaria Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pefkari",
+  "name": "Pefkari",
+  "qid": "Q39321064",
+  "coord": "Point(24.597777777 40.617777777)",
+  "sitelinks": 5,
+  "file": "gr-beach-pefkari.webp",
+  "commons_file": "Pefkari 2 C.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ammoudi",
+  "name": "Ammoudi",
+  "qid": "Q473649",
+  "coord": "Point(24.42 35.17083333)",
+  "sitelinks": 4,
+  "file": "gr-beach-ammoudi.webp",
+  "commons_file": "Ammoudi 19.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "aghia-fotia-beach",
+  "name": "Aghia Fotia Beach",
+  "qid": "Q4692427",
+  "coord": "Point(25.87361813 35.02156202)",
+  "sitelinks": 4,
+  "file": "gr-beach-aghia-fotia-beach.webp",
+  "commons_file": "Пляж. Вид с горы. (Критский Новый Свет). Agia Fotia. Lasithi. Crete. Greece. Июль 2013 - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "xi-beach",
+  "name": "Xi Beach",
+  "qid": "Q8044038",
+  "coord": "Point(20.41662969 38.16054377)",
+  "sitelinks": 4,
+  "file": "gr-beach-xi-beach.webp",
+  "commons_file": "Xi Beach Shade Kefalonia.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "firiplaka",
+  "name": "Firiplaka",
+  "qid": "Q18160153",
+  "coord": "Point(24.46474 36.66641)",
+  "sitelinks": 4,
+  "file": "gr-beach-firiplaka.webp",
+  "commons_file": "Aerial view of Paralia Firiplaka on Milos Island, Greece.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "red-beach",
+  "name": "Red Beach",
+  "qid": "Q25161949",
+  "coord": "Point(25.39459 36.34732)",
+  "sitelinks": 4,
+  "file": "gr-beach-red-beach.webp",
+  "commons_file": "Red Beach - Panorama - Santorini - Grecia - agosto 2018.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kedrodasos-beach",
+  "name": "Kedrodasos Beach",
+  "qid": "Q25162315",
+  "coord": "Point(23.5619 35.26861)",
+  "sitelinks": 3,
+  "file": "gr-beach-kedrodasos-beach.webp",
+  "commons_file": "Aerial view of Kedrodasos beach on Crete, Greece.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "myrtiotissa-beach",
+  "name": "Myrtiotissa beach",
+  "qid": "Q25162436",
+  "coord": "Point(19.79801 39.59593)",
+  "sitelinks": 3,
+  "file": "gr-beach-myrtiotissa-beach.webp",
+  "commons_file": "Corfu September 2009 - Myrtiotissa - panoramio - maczopikczu (1).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "otzias",
+  "name": "Otzias",
+  "qid": "Q53630627",
+  "coord": "Point(24.35036749 37.67512528)",
+  "sitelinks": 3,
+  "file": "gr-beach-otzias.webp",
+  "commons_file": "Panorama otzia thresh floor 4.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gianiskari-beach",
+  "name": "Gianiskari beach",
+  "qid": "Q55885891",
+  "coord": "Point(21.366194444 38.176055555)",
+  "sitelinks": 3,
+  "file": "gr-beach-gianiskari-beach.webp",
+  "commons_file": "Gianiskari Beach, Achaia, GRE.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gerondolakkos",
+  "name": "Gerondolakkos",
+  "qid": "Q60848197",
+  "coord": "Point(26.231083333 35.038083333)",
+  "sitelinks": 3,
+  "file": "gr-beach-gerondolakkos.webp",
+  "commons_file": "Xerokambos Gerondolakkos 19.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kleftiko",
+  "name": "Kleftiko",
+  "qid": "Q109838831",
+  "coord": "Point(24.333526 36.65097)",
+  "sitelinks": 3,
+  "file": "gr-beach-kleftiko.webp",
+  "commons_file": "Sailing yachts near the caves at Kleftiko on Milos Island, Greece.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "anthony-quinn-bay",
+  "name": "Anthony Quinn Bay",
+  "qid": "Q572654",
+  "coord": "Point(28.21055556 36.3225)",
+  "sitelinks": 2,
+  "file": "gr-beach-anthony-quinn-bay.webp",
+  "commons_file": "Anthony-Quinn-Bay1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "vatsa-bay",
+  "name": "Vatsa Bay",
+  "qid": "Q7917175",
+  "coord": "Point(20.3767 38.165)",
+  "sitelinks": 2,
+  "file": "gr-beach-vatsa-bay.webp",
+  "commons_file": "Kephalonia 315.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "zacharo-beach",
+  "name": "Zacharo beach",
+  "qid": "Q8063926",
+  "coord": "Point(21.6167 37.4667)",
+  "sitelinks": 2,
+  "file": "gr-beach-zacharo-beach.webp",
+  "commons_file": "Zcharo beach.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "chiliadou-beach",
+  "name": "Chiliadou Beach",
+  "qid": "Q12883236",
+  "coord": "Point(23.925 38.669)",
+  "sitelinks": 2,
+  "file": "gr-beach-chiliadou-beach.webp",
+  "commons_file": "Χιλιαδού Εύβοια.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "paltsi",
+  "name": "Paltsi",
+  "qid": "Q16328682",
+  "coord": "Point(23.31097 39.23123)",
+  "sitelinks": 2,
+  "file": "gr-beach-paltsi.webp",
+  "commons_file": "Πάλτση.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "synaksi",
+  "name": "Synaksi",
+  "qid": "Q12885126",
+  "coord": "Point(25.55343333 40.86089167)",
+  "sitelinks": 2,
+  "file": "gr-beach-synaksi.webp",
+  "commons_file": "20100502 Sinaksis trikini palaixristianiki Church Maronia Rhodope Thrace Greece.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kolymbithres",
+  "name": "Kolymbithres",
+  "qid": "Q18692241",
+  "coord": "Point(25.214475 37.129972)",
+  "sitelinks": 2,
+  "file": "gr-beach-kolymbithres.webp",
+  "commons_file": "Naousa beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "mylopotamos-beach",
+  "name": "Mylopotamos Beach",
+  "qid": "Q25162335",
+  "coord": "Point(23.2033 39.37511)",
+  "sitelinks": 2,
+  "file": "gr-beach-mylopotamos-beach.webp",
+  "commons_file": "Milopotamos beach in Pills, Greece - 1.jpeg",
+  "credit": {}
+ },
+ {
+  "slug": "papa-nero-beach",
+  "name": "Papa Nero Beach",
+  "qid": "Q25162336",
+  "coord": "Point(23.16862 39.40921)",
+  "sitelinks": 2,
+  "file": "gr-beach-papa-nero-beach.webp",
+  "commons_file": "Papa Nero 1.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "mavra-volia",
+  "name": "Mavra Volia",
+  "qid": "Q25164037",
+  "coord": "Point(26.02562 38.18119)",
+  "sitelinks": 2,
+  "file": "gr-beach-mavra-volia.webp",
+  "commons_file": "Παραλία Χίος.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "karathona",
+  "name": "Karathona",
+  "qid": "Q53632512",
+  "coord": "Point(22.82227077 37.54343742)",
+  "sitelinks": 2,
+  "file": "gr-beach-karathona.webp",
+  "commons_file": "Plage de Karathṓna coté Ouest.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "langada-beach",
+  "name": "Langada Beach",
+  "qid": "Q60848073",
+  "coord": "Point(25.999722222 35.028333333)",
+  "sitelinks": 2,
+  "file": "gr-beach-langada-beach.webp",
+  "commons_file": "Langada 05.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "argilos",
+  "name": "Argilos",
+  "qid": "Q60848162",
+  "coord": "Point(26.231464 35.038569)",
+  "sitelinks": 2,
+  "file": "gr-beach-argilos.webp",
+  "commons_file": "Xerokambos Argilos 05.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "karoumes-beach",
+  "name": "Karoumes Beach",
+  "qid": "Q63148137",
+  "coord": "Point(26.276371 35.146267)",
+  "sitelinks": 2,
+  "file": "gr-beach-karoumes-beach.webp",
+  "commons_file": "Karoumes-Bucht am Ausgang der Chochlakies-Schlucht.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kondyli",
+  "name": "Kondyli",
+  "qid": "Q64580068",
+  "coord": "Point(22.937094 37.529238)",
+  "sitelinks": 2,
+  "file": "gr-beach-kondyli.webp",
+  "commons_file": "Vue de la baie de Vivári face au cap Ákra Chaïdári depuis les hauteurs dominant Kondyli.jpg",
+  "credit": {}
+ }
+]

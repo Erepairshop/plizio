@@ -1,0 +1,173 @@
+{
+ "pendine-sands": {
+  "beach": "Pendine",
+  "town": "Pendine",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Pendine Sands Hot Rod Races",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September; 2026 edition 12-13 September",
+    "date": "2026-09-12",
+    "blurb": "The UK's premier vintage hot rod meeting, run by the Vintage Hot Rod Association on the historic firm sands of Pendine. Two days of speed runs with pre-1949 cars and bikes reaching over 130 mph; free for spectators outside the pits.",
+    "source_url": "https://www.vhra.co.uk/pendine-sands-hot-rod-races",
+    "image_url": ""
+   },
+   {
+    "name": "Pendine Sands Races",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 5 April",
+    "date": "2026-04-05",
+    "blurb": "Running event held directly on the firm beach at Pendine, offering 5k, 10k, Half Marathon and Marathon distances on the famous land-speed-record sands.",
+    "source_url": "https://www.ultrarunningltd.co.uk/race/the-pendine-races/",
+    "image_url": ""
+   },
+   {
+    "name": "Babs Land Speed Record Centenary",
+    "type": "commemoration",
+    "recurring": false,
+    "when": "one-off centenary on 27 April 2026, with Babs on display at the Museum of Land Speed from May 2026",
+    "date": "2026-04-27",
+    "blurb": "Special centenary celebration marking 100 years since J.G. Parry-Thomas set the world land speed record at Pendine Sands in 1926. The legendary car 'Babs' returns to the beach and goes on display at the Museum of Land Speed.",
+    "source_url": "https://newsroom.carmarthenshire.gov.wales/2026/3/babs-returns-to-pendine-sands-for-historic-centenary-celebration/",
+    "image_url": ""
+   },
+   {
+    "name": "The Laugharne Weekend",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 20-22 March",
+    "date": "2026-03-20",
+    "blurb": "An intimate literary and arts festival in the nearby town of Laugharne (about 7 km from Pendine), celebrating the legacy of Dylan Thomas with leftfield literature, music and comedy from Welsh and international artists.",
+    "source_url": "https://www.tickettailor.com/events/thelaugharneweekend/1942095",
+    "image_url": ""
+   }
+  ]
+ },
+ "bedruthan-steps": {
+  "beach": "Mawgan Porth",
+  "town": "Mawgan Porth",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Bedruthan Christmas Fayre",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late November (Sat-Sun) at Bedruthan Hotel & Spa, Mawgan Porth; 2025 edition was 22-23 November, 2026 dates not yet confirmed",
+    "date": "",
+    "blurb": "Annual craft and gift fair at the Bedruthan Hotel & Spa in Mawgan Porth, featuring art, ceramics, textiles, jewellery, homewares and local food and drink stalls.",
+    "source_url": "https://www.bedruthan.com/events/christmas-fayre",
+    "image_url": ""
+   },
+   {
+    "name": "St Eval Church Flower Festival",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually, normally the last weekend in June, at St Eval Parish Church (about 3 km from the beach)",
+    "date": "",
+    "blurb": "Long-running community flower festival at the historic Grade I listed St Eval Church, with floral displays created by local volunteers and home-made refreshments.",
+    "source_url": "https://www.visitnewquay.org/whats-on/st-eval-church-annual-flower-festival-p1624543",
+    "image_url": ""
+   },
+   {
+    "name": "Falcon Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in June at The Falcon Inn, St Mawgan (about 5 km away); a weekend of live music, cider, ales and street food in the pub garden",
+    "date": "",
+    "blurb": "A weekend music and drink festival held in the garden of The Falcon Inn in the village of St Mawgan, with live bands, local ciders and ales, and street food.",
+    "source_url": "https://falconinnstmawgan.co.uk/whats-on/",
+    "image_url": ""
+   },
+   {
+    "name": "Boardmasters Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August at Watergate Bay and Fistral Beach, Newquay (Watergate Bay is roughly 6 km from the beach)",
+    "date": "",
+    "blurb": "Cornwall's largest music and surf festival, held on the cliffs above Watergate Bay near Newquay, with a major line-up of music acts plus surfing and skating competitions.",
+    "source_url": "https://www.boardmasters.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Bedruthan Live (RE:SET summer music series)",
+    "type": "music",
+    "recurring": true,
+    "when": "summer season at Bedruthan Steps campsite, Mawgan Porth, with an outdoor live music series alongside wellness workshops",
+    "date": "",
+    "blurb": "Summer programme of outdoor live music at the Bedruthan Steps campsite in Mawgan Porth, accompanied by yoga, sound baths and wellness sessions in the tipi field.",
+    "source_url": "https://www.bedruthansteps.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "seven-mile-beach": {
+  "beach": "George Town, Grand Cayman",
+  "town": "George Town, Grand Cayman",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "The Ritz-Carlton, Cayman Cookout",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually mid-January at The Ritz-Carlton on Seven Mile Beach; 2026 edition 14-18 January",
+    "date": "2026-01-14",
+    "blurb": "A world-renowned food and wine festival held at The Ritz-Carlton, Grand Cayman, directly on Seven Mile Beach, with celebrity-chef cooking demonstrations, tastings and beachside dinners.",
+    "source_url": "https://www.explorecayman.com/events/cayman-cookout-grand-cayman",
+    "image_url": ""
+   },
+   {
+    "name": "Flowers Sea Swim",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in June along Seven Mile Beach; 2026 edition 13 June",
+    "date": "2026-06-13",
+    "blurb": "A one-mile open-water swim race along Seven Mile Beach drawing over 1,000 competitors, from recreational swimmers to Olympic-level athletes.",
+    "source_url": "https://caymanresident.com/things-to-do/events",
+    "image_url": ""
+   },
+   {
+    "name": "One Cayman Carnival (Batabano & CayMAS)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in May; 2026 unified Road Parade on Saturday 23 May (Junior Parade 2 May), through George Town ending at Public Beach on Seven Mile Beach",
+    "date": "2026-05-23",
+    "blurb": "Grand Cayman's national carnival, in 2026 uniting Batabano and CayMAS into One Cayman Carnival, with soca music, mas bands, costumes and a road parade ending at Seven Mile Beach Public Beach.",
+    "source_url": "https://caymancarnival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Pirates Week Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in November (typically the second week)",
+    "date": "",
+    "blurb": "The Cayman Islands' signature maritime-heritage festival featuring a mock pirate invasion, parades, street dancing, local food, sports, Heritage Days and fireworks across Grand Cayman.",
+    "source_url": "https://www.explorecayman.com/events/pirates-week",
+    "image_url": ""
+   },
+   {
+    "name": "Cayman Art Week",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May; 2026 edition 19-24 May",
+    "date": "2026-05-19",
+    "blurb": "A week-long curated programme of gallery tours, open studios and exhibitions celebrating local visual artists across the Cayman Islands.",
+    "source_url": "https://www.explorecayman.com/events/annual-events",
+    "image_url": ""
+   },
+   {
+    "name": "Cayman Islands Agricultural Show",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on Ash Wednesday; 2026 edition 18 February",
+    "date": "2026-02-18",
+    "blurb": "A long-running agricultural fair showcasing the islands' livestock, produce and local food alongside live music and arts and crafts.",
+    "source_url": "https://caymanresident.com/things-to-do/events",
+    "image_url": ""
+   }
+  ]
+ }
+}

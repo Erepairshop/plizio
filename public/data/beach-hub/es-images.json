@@ -1,0 +1,502 @@
+[
+ {
+  "slug": "playa-del-ingles",
+  "name": "Playa del Inglés",
+  "qid": "Q1929363",
+  "coord": "Point(-15.58056 27.75)",
+  "sitelinks": 26,
+  "file": "es-beach-playa-del-ingles.webp",
+  "commons_file": "Playa des ingles shoppingbeach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "la-concha-beach",
+  "name": "La Concha Beach",
+  "qid": "Q2720154",
+  "coord": "Point(-1.991499999 43.315199999)",
+  "sitelinks": 26,
+  "file": "es-beach-la-concha-beach.webp",
+  "commons_file": "Donostia Kontxa Loretope gainetik2.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-blanca",
+  "name": "Playa Blanca",
+  "qid": "Q2000517",
+  "coord": "Point(-13.828483 28.863806)",
+  "sitelinks": 17,
+  "file": "es-beach-playa-blanca.webp",
+  "commons_file": "Yaiza Playa Blanca - Marina Rubicón (Mirador de Rubicón) 02 ies.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "costa-del-maresme",
+  "name": "Costa del Maresme",
+  "qid": "Q519659",
+  "coord": "Point(2.544731 41.576215)",
+  "sitelinks": 16,
+  "file": "es-beach-costa-del-maresme.webp",
+  "commons_file": "Catalonia-Mataro-Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-las-teresitas",
+  "name": "Playa de Las Teresitas",
+  "qid": "Q2414727",
+  "coord": "Point(-16.185833333 28.508611111)",
+  "sitelinks": 16,
+  "file": "es-beach-playa-de-las-teresitas.webp",
+  "commons_file": "At Tenerife 2019 116.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-gulpiyuri",
+  "name": "Playa de Gulpiyuri",
+  "qid": "Q3753808",
+  "coord": "Point(-4.886105 43.44756)",
+  "sitelinks": 16,
+  "file": "es-beach-playa-de-gulpiyuri.webp",
+  "commons_file": "Gulpiyuri.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "as-catedrais-beach",
+  "name": "As Catedrais beach",
+  "qid": "Q2561808",
+  "coord": "Point(-7.15722222 43.55388889)",
+  "sitelinks": 15,
+  "file": "es-beach-as-catedrais-beach.webp",
+  "commons_file": "As Catedrais - Mariña luguesa.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "el-medano",
+  "name": "El Médano",
+  "qid": "Q205081",
+  "coord": "Point(-16.537190871 28.045677395)",
+  "sitelinks": 14,
+  "file": "es-beach-el-medano.webp",
+  "commons_file": "Elmedano11.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sardinero",
+  "name": "Sardinero",
+  "qid": "Q2625348",
+  "coord": "Point(-3.7875 43.47416667)",
+  "sitelinks": 14,
+  "file": "es-beach-sardinero.webp",
+  "commons_file": "Santander.Gran.Casino.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "maspalomas-dunes",
+  "name": "Maspalomas Dunes",
+  "qid": "Q8770950",
+  "coord": "Point(-15.5853 27.7417)",
+  "sitelinks": 14,
+  "file": "es-beach-maspalomas-dunes.webp",
+  "commons_file": "Dunas de Maspalomas.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sant-sebastia",
+  "name": "Sant Sebastià",
+  "qid": "Q3331620",
+  "coord": "Point(2.18962778 41.37345833)",
+  "sitelinks": 12,
+  "file": "es-beach-sant-sebastia.webp",
+  "commons_file": "W Barcelona by Ricardo Bofill.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cofete",
+  "name": "Cofete",
+  "qid": "Q545972",
+  "coord": "Point(-14.389182966 28.102117209)",
+  "sitelinks": 11,
+  "file": "es-beach-cofete.webp",
+  "commons_file": "Playa de Cofete - El Cofete - Jandia - Fuerteventura - 08.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "barceloneta-beach",
+  "name": "Barceloneta Beach",
+  "qid": "Q1053014",
+  "coord": "Point(2.19241667 41.37841944)",
+  "sitelinks": 11,
+  "file": "es-beach-barceloneta-beach.webp",
+  "commons_file": "Barcelona (16877599244).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ondarreta-beach",
+  "name": "Ondarreta Beach",
+  "qid": "Q2032871",
+  "coord": "Point(-2.00187 43.3167)",
+  "sitelinks": 11,
+  "file": "es-beach-ondarreta-beach.webp",
+  "commons_file": "Ondarreta Donostia 2006-07-08.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-las-canteras",
+  "name": "Playa de Las Canteras",
+  "qid": "Q3426178",
+  "coord": "Point(-15.436111111 28.14)",
+  "sitelinks": 11,
+  "file": "es-beach-playa-de-las-canteras.webp",
+  "commons_file": "Canteras 5335 Pan (46886275114).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "platja-de-la-mar-bella",
+  "name": "Platja de la Mar Bella",
+  "qid": "Q3331605",
+  "coord": "Point(2.21188889 41.39852778)",
+  "sitelinks": 11,
+  "file": "es-beach-platja-de-la-mar-bella.webp",
+  "commons_file": "Platja de la Mar Bella (Barcelona) 01.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-la-arena",
+  "name": "Playa de la Arena",
+  "qid": "Q624423",
+  "coord": "Point(-16.839696 28.23061)",
+  "sitelinks": 10,
+  "file": "es-beach-playa-de-la-arena.webp",
+  "commons_file": "Black sand beach Playa de la Arena on Tenerife, Spain (48225289937).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "zurriola-beach",
+  "name": "Zurriola beach",
+  "qid": "Q2111043",
+  "coord": "Point(-1.975 43.3264)",
+  "sitelinks": 10,
+  "file": "es-beach-zurriola-beach.webp",
+  "commons_file": "San Sebastian Zurriola.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "beach-of-a-lanzada",
+  "name": "Beach of A Lanzada",
+  "qid": "Q3398218",
+  "coord": "Point(-8.8771 42.4494)",
+  "sitelinks": 10,
+  "file": "es-beach-beach-of-a-lanzada.webp",
+  "commons_file": "Playa de A Lanzada.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-riazor",
+  "name": "Praia de Riazor",
+  "qid": "Q3399382",
+  "coord": "Point(-8.411299999 43.368599999)",
+  "sitelinks": 10,
+  "file": "es-beach-praia-de-riazor.webp",
+  "commons_file": "Praia de Riazor.A Coruña Galicia.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-bogatell",
+  "name": "Playa de Bogatell",
+  "qid": "Q3329621",
+  "coord": "Point(2.20625 41.39388889)",
+  "sitelinks": 10,
+  "file": "es-beach-playa-de-bogatell.webp",
+  "commons_file": "Barcelona's lifeguard.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "monsul-beach",
+  "name": "Mónsul Beach",
+  "qid": "Q998997",
+  "coord": "Point(-2.145517946 36.730856651)",
+  "sitelinks": 9,
+  "file": "es-beach-monsul-beach.webp",
+  "commons_file": "Küste bei Monsul14.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "praia-de-samil",
+  "name": "Praia de Samil",
+  "qid": "Q3327655",
+  "coord": "Point(-8.776333333 42.209302777)",
+  "sitelinks": 9,
+  "file": "es-beach-praia-de-samil.webp",
+  "commons_file": "Playa samil.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "platja-de-la-nova-icaria",
+  "name": "Platja de la Nova Icària",
+  "qid": "Q3329630",
+  "coord": "Point(2.20180556 41.39033333)",
+  "sitelinks": 9,
+  "file": "es-beach-platja-de-la-nova-icaria.webp",
+  "commons_file": "Platja de la Nova Icària 01.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "cala-llombards-bay",
+  "name": "Cala Llombards (bay)",
+  "qid": "Q14906518",
+  "coord": "Point(3.13929 39.32409)",
+  "sitelinks": 9,
+  "file": "es-beach-cala-llombards-bay.webp",
+  "commons_file": "Cala Llombards 04.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-rodas",
+  "name": "Playa de Rodas",
+  "qid": "Q23993081",
+  "coord": "Point(-8.902591876 42.225228526)",
+  "sitelinks": 9,
+  "file": "es-beach-playa-de-rodas.webp",
+  "commons_file": "Cíes uharteak 1.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-del-silgar",
+  "name": "Playa del Silgar",
+  "qid": "Q24019722",
+  "coord": "Point(-8.81157 42.40073)",
+  "sitelinks": 9,
+  "file": "es-beach-playa-del-silgar.webp",
+  "commons_file": "Sanxenxo - Praia de Silgar.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "platja-de-la-nova-mar-bella",
+  "name": "Platja de la Nova Mar Bella",
+  "qid": "Q3329668",
+  "coord": "Point(2.21658333 41.40336111)",
+  "sitelinks": 8,
+  "file": "es-beach-platja-de-la-nova-mar-bella.webp",
+  "commons_file": "Volleyball at Platja de la Nova Mar Bella.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-la-malagueta",
+  "name": "Playa de La Malagueta",
+  "qid": "Q6078811",
+  "coord": "Point(-4.409811431 36.717197344)",
+  "sitelinks": 8,
+  "file": "es-beach-playa-de-la-malagueta.webp",
+  "commons_file": "La Malagueta, Málaga, Spain - panoramio (4).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-salada",
+  "name": "Cala Salada",
+  "qid": "Q5739606",
+  "coord": "Point(1.29916667 39.00972222)",
+  "sitelinks": 8,
+  "file": "es-beach-cala-salada.webp",
+  "commons_file": "Eivissa - Cala Salada.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-poniente-gijon",
+  "name": "Playa de Poniente, Gijón",
+  "qid": "Q9060716",
+  "coord": "Point(-5.673923 43.541642)",
+  "sitelinks": 8,
+  "file": "es-beach-playa-de-poniente-gijon.webp",
+  "commons_file": "Playa de poniente.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "san-lorenzo-beach",
+  "name": "San Lorenzo Beach",
+  "qid": "Q9060729",
+  "coord": "Point(-5.65487 43.5405)",
+  "sitelinks": 8,
+  "file": "es-beach-san-lorenzo-beach.webp",
+  "commons_file": "Gijon-playa san lorenzo y Cimadevilla.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "la-fosca",
+  "name": "La Fosca",
+  "qid": "Q20978066",
+  "coord": "Point(3.142699999 41.856899999)",
+  "sitelinks": 8,
+  "file": "es-beach-la-fosca.webp",
+  "commons_file": "La fosca - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-la-caleta",
+  "name": "Playa de la Caleta",
+  "qid": "Q24022072",
+  "coord": "Point(-6.30583333 36.53027778)",
+  "sitelinks": 8,
+  "file": "es-beach-playa-de-la-caleta.webp",
+  "commons_file": "Playa de la Caleta, Cádiz, España, 2015-12-08, DD 53.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "cala-agulla",
+  "name": "Cala Agulla",
+  "qid": "Q1026131",
+  "coord": "Point(3.45277778 39.72277778)",
+  "sitelinks": 7,
+  "file": "es-beach-cala-agulla.webp",
+  "commons_file": "Cala Agulla 01.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-vadella",
+  "name": "Cala Vadella",
+  "qid": "Q1026167",
+  "coord": "Point(1.22388889 38.91305556)",
+  "sitelinks": 7,
+  "file": "es-beach-cala-vadella.webp",
+  "commons_file": "Cala Vadella Front.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "platja-de-migjorn",
+  "name": "Platja de Migjorn",
+  "qid": "Q2098650",
+  "coord": "Point(1.5103 38.666)",
+  "sitelinks": 7,
+  "file": "es-beach-platja-de-migjorn.webp",
+  "commons_file": "Migjorn (625343774).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "platja-de-llevant",
+  "name": "Platja de Llevant",
+  "qid": "Q3380106",
+  "coord": "Point(-0.12162 38.53491)",
+  "sitelinks": 7,
+  "file": "es-beach-platja-de-llevant.webp",
+  "commons_file": "Benidorm (2023-02-14) 15.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-el-tarajal",
+  "name": "Playa El Tarajal",
+  "qid": "Q4806593",
+  "coord": "Point(-5.34345278 35.87178611)",
+  "sitelinks": 7,
+  "file": "es-beach-playa-el-tarajal.webp",
+  "commons_file": "ElTarajal-680x365.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "platja-des-niu-blau",
+  "name": "Platja des Niu Blau",
+  "qid": "Q4886017",
+  "coord": "Point(1.5525 38.9925)",
+  "sitelinks": 7,
+  "file": "es-beach-platja-des-niu-blau.webp",
+  "commons_file": "Niublau.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "montalvo-beach",
+  "name": "Montalvo Beach",
+  "qid": "Q6078910",
+  "coord": "Point(-8.85045 42.3976)",
+  "sitelinks": 7,
+  "file": "es-beach-montalvo-beach.webp",
+  "commons_file": "Playa de montalvo.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-rodiles",
+  "name": "Playa de Rodiles",
+  "qid": "Q6078968",
+  "coord": "Point(-5.38244 43.532527)",
+  "sitelinks": 7,
+  "file": "es-beach-playa-de-rodiles.webp",
+  "commons_file": "Rodiles.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-llonga",
+  "name": "Cala Llonga",
+  "qid": "Q5739586",
+  "coord": "Point(1.52 38.9528)",
+  "sitelinks": 7,
+  "file": "es-beach-cala-llonga.webp",
+  "commons_file": "Calallonga.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-la-barrosa",
+  "name": "Playa de la Barrosa",
+  "qid": "Q5945144",
+  "coord": "Point(-6.18194444 36.36861111)",
+  "sitelinks": 7,
+  "file": "es-beach-playa-de-la-barrosa.webp",
+  "commons_file": "VistaPlayaLaBarrosa2013 04.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "playa-de-los-bikinis",
+  "name": "Playa de los Bikinis",
+  "qid": "Q6079183",
+  "coord": "Point(-3.76986 43.46768)",
+  "sitelinks": 7,
+  "file": "es-beach-playa-de-los-bikinis.webp",
+  "commons_file": "Playa de los Bikinis.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "lerez-beach",
+  "name": "Lérez Beach",
+  "qid": "Q28119743",
+  "coord": "Point(-8.633333333 42.444722222)",
+  "sitelinks": 7,
+  "file": "es-beach-lerez-beach.webp",
+  "commons_file": "Pontevedra Capital Playa del Lérez Pontevedra.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-mitjana",
+  "name": "Cala Mitjana",
+  "qid": "Q1026154",
+  "coord": "Point(3.972388201 39.934396083)",
+  "sitelinks": 6,
+  "file": "es-beach-cala-mitjana.webp",
+  "commons_file": "Cala Mitjana.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-dhort",
+  "name": "Cala d’Hort",
+  "qid": "Q1850763",
+  "coord": "Point(1.224288888 38.890263888)",
+  "sitelinks": 6,
+  "file": "es-beach-cala-dhort.webp",
+  "commons_file": "Ibiza rock volcano (747230830).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cantabrian-coast",
+  "name": "Cantabrian coast",
+  "qid": "Q2836834",
+  "coord": "Point(-3.77089 43.48257)",
+  "sitelinks": 6,
+  "file": "es-beach-cantabrian-coast.webp",
+  "commons_file": "Desde la atalaya.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "zarautz",
+  "name": "Zarautz",
+  "qid": "Q2881871",
+  "coord": "Point(-2.16364 43.2888)",
+  "sitelinks": 6,
+  "file": "es-beach-zarautz.webp",
+  "commons_file": "Zarauzko hondartza Torreoitik 02.jpg",
+  "credit": {}
+ }
+]

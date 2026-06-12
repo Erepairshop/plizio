@@ -1,0 +1,132 @@
+[
+ {
+  "slug": "hamresanden",
+  "name": "Hamresanden",
+  "qid": "Q5479816",
+  "coord": "Point(8.07602389 58.19115694)",
+  "sitelinks": 6,
+  "file": "no-beach-hamresanden.webp",
+  "commons_file": "Hamresanden.png",
+  "credit": {}
+ },
+ {
+  "slug": "bystranda",
+  "name": "Bystranda",
+  "qid": "Q17402676",
+  "coord": "Point(8.0071 58.146)",
+  "sitelinks": 5,
+  "file": "no-beach-bystranda.webp",
+  "commons_file": "Bystranda 2014-07-21.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "paradisbukta",
+  "name": "Paradisbukta",
+  "qid": "Q11802977",
+  "coord": "Point(10.6653 59.9017)",
+  "sitelinks": 3,
+  "file": "no-beach-paradisbukta.webp",
+  "commons_file": "Paradisbukta - Oslo.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "refviksanden",
+  "name": "Refviksanden",
+  "qid": "Q11997353",
+  "coord": "Point(5.0852 62.0021)",
+  "sitelinks": 3,
+  "file": "no-beach-refviksanden.webp",
+  "commons_file": "Refvikstranda.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "akrehamn-beach",
+  "name": "Åkrehamn beach",
+  "qid": "Q97195092",
+  "coord": "Point(5.193 59.25)",
+  "sitelinks": 3,
+  "file": "no-beach-akrehamn-beach.webp",
+  "commons_file": "Beach chairs, Åkrehamn beach, Norway julesvernex2.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "mostranda",
+  "name": "Mostranda",
+  "qid": "Q19381929",
+  "coord": "Point(10.393333611 59.078611388)",
+  "sitelinks": 2,
+  "file": "no-beach-mostranda.webp",
+  "commons_file": "Mostranda Tjøme.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "boresanden",
+  "name": "Boresanden",
+  "qid": "Q11961915",
+  "coord": "Point(5.54733 58.79995)",
+  "sitelinks": 1,
+  "file": "no-beach-boresanden.webp",
+  "commons_file": "Bore Beach - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "bendiksbukta",
+  "name": "Bendiksbukta",
+  "qid": "Q20750879",
+  "coord": "Point(8.002222222 58.138888888)",
+  "sitelinks": 1,
+  "file": "no-beach-bendiksbukta.webp",
+  "commons_file": "Bendiksbukta strand0715.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "vra",
+  "name": "Vøra",
+  "qid": "Q33346490",
+  "coord": "Point(10.25848 59.07213)",
+  "sitelinks": 1,
+  "file": "no-beach-vra.webp",
+  "commons_file": "Vøra.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "hulvik-beach",
+  "name": "Hulvik beach",
+  "qid": "Q125537585",
+  "coord": "",
+  "sitelinks": 1,
+  "file": "no-beach-hulvik-beach.webp",
+  "commons_file": "2017.06 - Hulvik.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "bunes-beach",
+  "name": "Bunes Beach",
+  "qid": "Q123012698",
+  "coord": "Point(12.9636 67.9789)",
+  "sitelinks": 1,
+  "file": "no-beach-bunes-beach.webp",
+  "commons_file": "Quicksilver (28309537494).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "furustrand",
+  "name": "Furustrand",
+  "qid": "Q97625542",
+  "coord": "Point(10.4944962 59.277501)",
+  "sitelinks": 0,
+  "file": "no-beach-furustrand.webp",
+  "commons_file": "Furustrand.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "raura-beach",
+  "name": "Rauøra Beach",
+  "qid": "Q135491408",
+  "coord": "Point(9.392672997 62.696871191)",
+  "sitelinks": 0,
+  "file": "no-beach-raura-beach.webp",
+  "commons_file": "Rauøra Beach.jpg",
+  "credit": {}
+ }
+]

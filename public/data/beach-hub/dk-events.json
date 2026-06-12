@@ -1,0 +1,390 @@
+{
+ "den-permanente-badeanstalt": {
+  "beach": "Aarhus",
+  "town": "Aarhus",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Aarhus Festival (Aarhus Festuge)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, starting the last Friday of August for 10 days; 2026 edition 28 August - 6 September",
+    "date": "2026-08-28",
+    "blurb": "One of the largest cultural festivals in Scandinavia, filling Aarhus with music, art, theatre, gastronomy and public events across the whole city.",
+    "source_url": "https://www.aarhusfestuge.dk/en",
+    "image_url": ""
+   },
+   {
+    "name": "The Tall Ships Races Aarhus 2026",
+    "type": "cultural",
+    "recurring": false,
+    "when": "24-27 June 2026",
+    "date": "2026-06-24",
+    "blurb": "Aarhus serves as a host port for the international Tall Ships Races, with large sailing vessels in the harbour and four days of maritime festivities along the waterfront.",
+    "source_url": "https://sailtraininginternational.org/event/tall-ships-races-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "NorthSide Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early June; 2026 edition 4-6 June",
+    "date": "2026-06-04",
+    "blurb": "Major Aarhus open-air music festival held at Eskelunden, featuring Danish and international artists with a strong focus on sustainability.",
+    "source_url": "https://www.visitaarhus.com/aarhus-region/see-and-do/festivals",
+    "image_url": ""
+   },
+   {
+    "name": "Aarhus Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late June/early July; 2026 edition approx. 26 June - 5 July",
+    "date": "2026-06-26",
+    "blurb": "Annual jazz festival running since 1989, with hundreds of concerts at dozens of venues around Aarhus featuring local and international jazz artists.",
+    "source_url": "https://www.visitaarhus.com/aarhus-region/see-and-do/festivals",
+    "image_url": ""
+   },
+   {
+    "name": "Aarhus Food Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early September; 2026 edition 4-6 September",
+    "date": "2026-09-04",
+    "blurb": "Large Nordic food festival celebrating Danish and regional produce, cooking schools and food companies, held in Aarhus.",
+    "source_url": "https://www.visitaarhus.com/aarhus-region/events/highlights/event-highlights",
+    "image_url": ""
+   },
+   {
+    "name": "Sankt Hans Aften (Midsummer's Eve)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 23 June; bonfires lit across Aarhus including the harbour and waterfront near Risskov",
+    "date": "2026-06-23",
+    "blurb": "Traditional Danish Midsummer's Eve, marked with bonfires, singing and gatherings throughout Aarhus, including beachside and harbour locations near the bay.",
+    "source_url": "https://www.visitaarhus.com/aarhus-region/plan-your-trip/midsummers-eve-celebration-aarhus-gdk909505",
+    "image_url": ""
+   },
+   {
+    "name": "SPOT Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early May; 2026 edition 1-2 May",
+    "date": "2026-05-01",
+    "blurb": "Showcase festival for emerging Danish and Nordic music talent, held at venues across Aarhus.",
+    "source_url": "https://www.visitaarhus.com/aarhus-region/see-and-do/festivals",
+    "image_url": ""
+   }
+  ]
+ },
+ "bellevue-beach": {
+  "beach": "Dubrovnik",
+  "town": "Dubrovnik",
+  "events": [
+   {
+    "name": "Festivity of Saint Blaise (Festa svetog Vlaha)",
+    "type": "traditional/religious",
+    "recurring": true,
+    "when": "Early February each year, main day 3 February (preceded by the Dubrovnik Festa, 25 Jan-2 Feb)",
+    "date": "2026-02-03",
+    "blurb": "Dubrovnik's biggest traditional and religious celebration, honouring the city's patron saint, held continuously since 972 AD and inscribed on the UNESCO Intangible Cultural Heritage list. The day features holy mass, the release of white doves, a grand procession through the Old Town with reliquaries and parish banners, and the Trombunjeri firing their muskets at Pile Gate. A short walk from Bellevue Beach.",
+    "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
+    "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
+   },
+   {
+    "name": "Midsummer Scene Festival",
+    "type": "cultural/theatre",
+    "recurring": true,
+    "when": "Late June to early July each year",
+    "date": "2026-06-24",
+    "blurb": "International open-air theatre festival celebrating Shakespeare and English-language drama, staged each evening under the stars at the dramatic Fort Lovrijenac above the sea. The 2026 edition runs 24 June to 5 July with a new production, 'One for All', a fresh take on The Three Musketeers. An easy trip from Bellevue Beach near the Old Town.",
+    "source_url": "https://midsummer-scene.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "type": "cultural/music",
+    "recurring": true,
+    "when": "Mid-July to late August each year",
+    "date": "2026-07-10",
+    "blurb": "Dubrovnik's flagship cultural event, one of Croatia's most important festivals, turning the Old Town's squares, palaces and fortresses into open-air stages. The 77th edition runs 10 July to 25 August 2026 with over 70 drama, music and dance performances, including the Academy of St Martin in the Fields with Joshua Bell. Opens with the raising of the Libertas flag in front of St Blaise's Church.",
+    "source_url": "https://www.dubrovnik-festival.hr/en",
+    "image_url": ""
+   },
+   {
+    "name": "Good Food Festival",
+    "type": "food/gastronomy",
+    "recurring": true,
+    "when": "October each year (autumn)",
+    "date": "2026-10-05",
+    "blurb": "Dubrovnik's autumn gastronomy festival organised by the city tourist board, celebrating local Dalmatian flavours, tradition and contemporary cuisine. The 2026 edition runs 5 to 18 October with culinary events, workshops, tastings and special restaurant menus across the city. A flavourful reason to visit beyond beach season.",
+    "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Dubrovnik Winter Festival",
+    "type": "festive/seasonal",
+    "recurring": true,
+    "when": "Late November to early January each year",
+    "date": "",
+    "blurb": "Dubrovnik's advent and winter celebration filling the Old Town with festive lights, concerts, food and family programming, with more than 200 cultural and entertainment events including many for children. A lively off-season highlight in the historic centre near Bellevue Beach.",
+    "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
+    "image_url": ""
+   }
+  ]
+ },
+ "moesgard-beach": {
+  "beach": "Aarhus (Højbjerg)",
+  "town": "Aarhus (Højbjerg)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Moesgaard Viking Moot (Vikingedage)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on the last weekend of July; 2026 edition 23-26 July",
+    "date": "2026-07-23",
+    "blurb": "Scandinavia's largest and oldest Viking reenactment festival, held right at Moesgård Beach next to Moesgaard Museum. Features a Viking camp, market stalls, craftspeople, warriors, archery, music and sagas.",
+    "source_url": "https://www.vikingedage.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "The Snow Queen at Moesgaard (open-air theatre)",
+    "type": "cultural",
+    "recurring": false,
+    "when": "21 May - 27 June 2026, evening performances on the grounds of Moesgaard Museum",
+    "date": "2026-05-21",
+    "blurb": "The Royal Danish Theatre stages Hans Christian Andersen's The Snow Queen as a spectacular outdoor performance in the landscape around Moesgaard Museum, just above the beach.",
+    "source_url": "https://www.kglteater.dk/en/drama/2526/the-snow-queen/",
+    "image_url": ""
+   },
+   {
+    "name": "NorthSide Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in early June at Eskelunden, Aarhus; 2026 edition 4-6 June",
+    "date": "2026-06-04",
+    "blurb": "Major three-day music festival in Aarhus known for its sustainability focus, drawing large international and Danish line-ups each year.",
+    "source_url": "https://northside.dk/en/tickets/",
+    "image_url": ""
+   },
+   {
+    "name": "Aarhus Festival (Aarhus Festuge)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually late August to early September; 2026 edition 28 August - 6 September",
+    "date": "2026-08-28",
+    "blurb": "One of Northern Europe's largest cultural festivals, a 10-day citywide event in Aarhus with more than 1,000 music, art, theatre and street happenings.",
+    "source_url": "https://www.aarhusfestuge.dk/en",
+    "image_url": ""
+   }
+  ]
+ },
+ "amager-strandpark": {
+  "beach": "Copenhagen",
+  "town": "Copenhagen",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Gravity Beach Festival Copenhagen",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July; 2026 edition on 11 July",
+    "date": "2026-07-11",
+    "blurb": "One-day open-air electronic music festival held directly on Amager Strandpark beach, with a daytime-to-midnight lineup of house and techno acts including Kolsch.",
+    "source_url": "https://gravitycph.dk/beach-festival-cph/",
+    "image_url": ""
+   },
+   {
+    "name": "Neptune Challenge",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in June; 2026 edition 20-21 June",
+    "date": "2026-06-20",
+    "blurb": "Endurance open-water swim event at Amager Strandpark inspired by backyard-ultra format, with swimmers completing 1.5 km every hour over options from 6 up to 42 hours.",
+    "source_url": "https://neptunechallenge.dk/neptune-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Copenhagen Beach Swim",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early August (2025 edition was 9 August); 2026 date to be confirmed",
+    "date": "",
+    "blurb": "Annual open-water swim festival at Amager Strandpark with race distances from 1.25 km to 5 km starting and finishing at Helgoland, combined with music and a beach party.",
+    "source_url": "https://copenwater.dk/copenhagen-beach-swim/",
+    "image_url": ""
+   },
+   {
+    "name": "Copenhagen Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early/mid July (first two weeks); 2026 edition expected early July",
+    "date": "",
+    "blurb": "Major citywide Copenhagen jazz festival with over 1,000 concerts across more than 100 venues, within easy reach of the Amager Strandpark area.",
+    "source_url": "https://jazz.dk/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Distortion",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late May / early June; 2026 edition expected early June",
+    "date": "",
+    "blurb": "Large Copenhagen street and music festival drawing over 100,000 attendees, with neighbourhood street parties and a harbour rave near the city centre close to Amager.",
+    "source_url": "https://cphdistortion.dk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "bnnerup-strand": {
+  "beach": "Bønnerup Strand",
+  "town": "Bønnerup Strand",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Bønnerup Strand Havnefest og Kræmmermarked (Harbour Festival & Flea Market)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in early/mid July; 2026 edition 9-12 July",
+    "date": "2026-07-09",
+    "blurb": "The main annual event right at Bønnerup harbour: several festive days with live music, a large flea market, funfair, food trucks, fishing-boat sailing and a harbour show. Locals and visitors gather by the water in the fishing village of Bønnerup Strand.",
+    "source_url": "https://bonneruphavn.dk/en/foreninger/boennerup-strand-havnefest/",
+    "image_url": ""
+   },
+   {
+    "name": "Gjerrild Kram Rock Jazz (Festival & Flea Market)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late June; 2026 edition 25-28 June",
+    "date": "2026-06-25",
+    "blurb": "Held in Gjerrild, about 10 km from Bønnerup Strand on northern Djursland. Reportedly Denmark's only free-admission festival, with two stages and over 50 hours of live music, one of Djursland's largest flea markets, a funfair, football tournaments and family activities. On-site camping is available.",
+    "source_url": "https://www.gjerrildfestival.dk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "svanemlle-beach": {
+  "beach": "Copenhagen (Østerbro)",
+  "town": "Copenhagen (Østerbro)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "World Athletics Road Running Championships Copenhagen 2026",
+    "type": "sport",
+    "recurring": false,
+    "when": "19-20 September 2026; 5km and One Mile on Sat 19 Sep, half marathon on Sun 20 Sep",
+    "date": "2026-09-19",
+    "blurb": "Global road-running championships staged in the streets of Copenhagen, with the One Mile course running down Østerbrogade past Trianglen and Parken in Østerbro, very close to Svanemølle Beach. Tens of thousands of mass-participation runners also take part.",
+    "source_url": "https://worldathletics.org/en/competitions/world-athletics-road-running-championships/copenhagen26",
+    "image_url": ""
+   },
+   {
+    "name": "Copenhagen Carnival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually around Whitsun (Pentecost) in late May/early June; 2026 edition 5-14 June, with the main world carnival parade and celebrations centred on Fælledparken in Østerbro",
+    "date": "2026-06-05",
+    "blurb": "Denmark's largest world-music carnival, with around 120 bands, 2,000 dancers and over 100,000 spectators. Its main venue is Fælledparken in Østerbro, immediately inland from Svanemølle Beach.",
+    "source_url": "https://copenhagencarnival.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Copenhagen Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in early/mid July; 2026 edition 3-12 July",
+    "date": "2026-07-03",
+    "blurb": "Europe's largest jazz festival, with around 1,000 concerts at more than 100 venues across the whole city, including many free outdoor concerts in streets, parks and squares well within reach of Østerbro.",
+    "source_url": "https://jazz.dk/en/copenhagen-jazz-festival-2026/frontpage/",
+    "image_url": ""
+   },
+   {
+    "name": "Distortion",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in early June; 2026 edition 3-7 June, with daily street parties rotating through Copenhagen neighbourhoods and the Distortion Ø finale rave",
+    "date": "2026-06-03",
+    "blurb": "Citywide electronic-music and club-culture street festival with free daytime street parties moving through Copenhagen districts and a weekend finale rave at Refshaleøen. Draws over 100,000 visitors.",
+    "source_url": "https://www.cphdistortion.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Golden Days Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually in September, with events spread across Copenhagen including Østerbro and Frederiksberg",
+    "date": "",
+    "blurb": "Annual history and culture festival exploring Danish heritage through lectures, exhibitions, walks and creative events at many locations around Copenhagen, including Østerbro near Svanemølle Beach.",
+    "source_url": "https://www.visitcopenhagen.com/explore/events-cid58/events-cid59",
+    "image_url": ""
+   },
+   {
+    "name": "Culture Night (Kulturnatten)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually on the second Friday of October; 2026 edition 9 October",
+    "date": "2026-10-09",
+    "blurb": "City-wide evening when more than 250 museums, theatres, churches, parks, libraries and institutions across Copenhagen open their doors with special programmes, easily accessible from the Østerbro area.",
+    "source_url": "https://www.visitcopenhagen.com/explore/events-cid58/events-cid59",
+    "image_url": ""
+   },
+   {
+    "name": "Copenhagen Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually in May; the route runs through several districts including Østerbro near the beach",
+    "date": "",
+    "blurb": "Major annual city marathon whose course winds through central Copenhagen neighbourhoods including Østerbro, with spectators, music and DJs along the route.",
+    "source_url": "https://www.visitcopenhagen.com/explore/events-cid58/events-cid59",
+    "image_url": ""
+   }
+  ]
+ },
+ "dueodde": {
+  "beach": "Snogebæk",
+  "town": "Snogebæk",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Snogebæk Havnefest (Snogebæk Harbour Festival / Brofest)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in July (around week 30); one-day family harbour festival",
+    "date": "",
+    "blurb": "A long-running summer harbour festival held among the old fishermen's huts at the historic Snogebæk harbour, about 5 km north of Dueodde. Run by local volunteers with music, food and drink, games, raffles and family entertainment.",
+    "source_url": "https://xn--snogebkhavn-f9a.dk/brofest/",
+    "image_url": ""
+   },
+   {
+    "name": "Korpsfestival Bornholm",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late June; 2026 edition 20-28 June (core concerts 21-26 June)",
+    "date": "2026-06-20",
+    "blurb": "Festival bringing Norwegian school marching bands (around 1,000 musicians) to perform across Bornholm, with concerts and parades in towns including nearby Snogebæk and Nexø. In 2026 the bands also join the Midsummer celebrations on 23 June.",
+    "source_url": "https://bornholm.info/event/korpsfestival-bornholm-2026-flotte-koncerter-paa-hele-bornholm/",
+    "image_url": ""
+   },
+   {
+    "name": "Sankt Hans Aften (Midsummer Eve bonfire)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 23 June",
+    "date": "2026-06-23",
+    "blurb": "Danish Midsummer Eve celebrated on 23 June with bonfires, midsummer songs and bonfire speeches. Gatherings take place at beaches and harbours around southern Bornholm, including the Snogebæk and Nexø area near Dueodde (subject to local fire-ban rules in dry years).",
+    "source_url": "https://www.visitdenmark.com/denmark/plan-your-trip/sankt-hans-aften-midsummer-celebrations-gdk1100650",
+    "image_url": ""
+   },
+   {
+    "name": "Nexø Harbour Christmas Market (Julemarked)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on weekends in late November to December (around 25 Nov - 22 Dec)",
+    "date": "",
+    "blurb": "Christmas market at the harbour in Nexø, about 10 km north of Dueodde, featuring Bornholm food, crafts and a festive atmosphere over several weekends before Christmas.",
+    "source_url": "https://visit-bornholm.com/en/events-on-bornholm",
+    "image_url": ""
+   }
+  ]
+ }
+}

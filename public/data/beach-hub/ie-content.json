@@ -1,0 +1,2406 @@
+{
+ "ballybunion-ladies-beach": {
+  "slug": "ballybunion-ladies-beach",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "Der Ballybunion Ladies Beach liegt am spektakulären Wild Atlantic Way in der Grafschaft Kerry und ist einer der malerischsten Küstenabschnitte Irlands. Historisch gesehen war dieser Strand ausschließlich Frauen und Kindern vorbehalten, getrennt vom Männerstrand durch einen Felsvorsprung mit den Ruinen einer Burg aus dem 16. Jahrhundert. Heute ist jeder willkommen, den goldenen Sand zu genießen. Der Strand schmiegt sich unter hohe Klippen, die eine atemberaubende Kulisse und Schutz vor den Winden bieten.\n\nBei Ebbe offenbart sich die wahre Magie des Strandes. Das zurückweichende Wasser legt ein faszinierendes Netzwerk aus Meereshöhlen, Bögen und Felsenpools frei. Der berühmte Virgin Rock, eine markante Felsnadel, steht stolz im Ozean direkt vor der Küste. Der Sand hier ist fein und golden, perfekt für Spaziergänge, während das unruhige Wasser des Atlantiks von tiefblau bis smaragdgrün wechselt.\n\nÜber seine Naturwunder hinaus ist der Strand tief in der lokalen Kultur verwurzelt. Ein Besuch hier wird oft mit einem traditionellen Algenbad verbunden, einer echten Spezialität. Ob Sie surfen, die verborgenen geologischen Schätze erkunden oder einfach die frische Meeresluft auf den Klippenpfaden einatmen – der Ballybunion Ladies Beach bietet ein unvergessliches irisches Küstenerlebnis.",
+   "hu": "A Kerry megyében, a Vad Atlanti Út mentén található Ballybunion Ladies Beach Írország egyik legfestőibb tengerparti szakasza. Történelmileg ez a strand kizárólag a nők és gyermekek számára volt fenntartva, a Férfi strandtól egy drámai sziklás kiszögellés választotta el, amelyet egy 16. századi kastély romjai koronáznak. Ma már mindenkit szívesen látnak, hogy élvezze az aranyhomokot. A strand magasodó sziklák alatt fekszik, amelyek nemcsak lenyűgöző hátteret nyújtanak, hanem menedéket is adnak a tengeri szelek elől.\n\nA strand igazi varázsa apálykor mutatkozik meg. A visszahúzódó víz feltárja a tengeri barlangok, boltívek és sziklamedencék lenyűgöző hálózatát. A híres Virgin Rock, egy feltűnő tengeri sziklaoszlop büszkén áll az óceánban, a part mentén. A homok itt finom és aranyló, tökéletes a sétákhoz, míg az Atlanti-óceán nyughatatlan vize mélykékből smaragdzöldbe vált.\n\nTermészeti csodáin túl a strand beágyazódott a helyi kultúrába. Az itteni látogatást gyakran kötik össze egy hagyományos hínárfürdővel, amely igazi helyi különlegesség. Akár szörfölni szeretne, akár a rejtett geológiai kincseket felfedezni, vagy egyszerűen csak belélegezni a sós tengeri levegőt a sziklaösvényeken sétálva, ez a hely felejthetetlen ír élményt kínál.",
+   "ro": "Ballybunion Ladies Beach, situată pe ruta Wild Atlantic Way din comitatul Kerry, este una dintre cele mai pitorești porțiuni de coastă din Irlanda. Istoric, plaja a fost rezervată exclusiv femeilor și copiilor, fiind separată de plaja bărbaților de un promontoriu stâncos încununat de ruinele unui castel din secolul al XVI-lea. Astăzi, plaja întâmpină pe toată lumea să se bucure de nisipul auriu. Plaja este ascunsă sub stânci impunătoare, care oferă un fundal vizual uimitor și adăpost de vânt.\n\nLa reflux, adevărata magie a plajei Ladies Beach este dezvăluită. Apele care se retrag expun o rețea fascinantă de peșteri marine, arcade și piscine naturale. Faimoasa Virgin Rock, o stâncă marină impresionantă, se înalță mândră în ocean. Nisipul de aici este fin și auriu, perfect pentru plimbări, în timp ce apele neliniștite ale Oceanului Atlantic își schimbă nuanța de la albastru închis la verde smarald.\n\nDincolo de minunile naturale, plaja este ancorată în cultura locală. O vizită aici este adesea combinată cu o baie tradițională cu alge marine, o specialitate locală. Fie că faceți surf, explorați comorile geologice ascunse sau pur și simplu respirați aerul curat al mării în timp ce vă plimbați pe stânci, Ballybunion Ladies Beach oferă o experiență de coastă de neuitat.",
+   "en": "Ballybunion Ladies Beach, located on the spectacular Wild Atlantic Way in County Kerry, is one of Ireland's most picturesque stretches of coastline. Historically, the beach was exclusively reserved for women and children, separated from the Men's Beach by a rocky outcrop crowned by the ruins of a 16th-century castle. Today, it welcomes everyone to enjoy its golden sands and breathtaking natural beauty. The beach is nestled beneath towering cliffs that provide a stunning visual backdrop and shelter from the winds.\n\nAt low tide, the true magic of Ladies Beach is revealed. The retreating waters expose a fascinating network of sea caves, arches, and rock pools. The famous Virgin Rock, a striking sea stack, stands proudly in the ocean just off the shore. The sand here is fine and golden, perfect for walking, while the restless waters of the Atlantic Ocean shift from deep blue to emerald green.\n\nBeyond its natural wonders, the beach is deeply woven into the local culture. A visit here is often paired with a traditional seaweed bath, a local specialty. Whether you surf the rolling waves, explore the hidden geological treasures, or simply breathe in the crisp sea air along the cliff paths, Ballybunion Ladies Beach offers an unforgettable Irish coastal experience."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Die Wasserqualität ist ausgezeichnet, typisch für den rauen Atlantik, aber die Temperatur bleibt das ganze Jahr über frisch. Das Ufer fällt allmählich ab, obwohl Atlantikwellen und Strömungen Vorsicht erfordern.",
+   "hu": "A vízminőség kiváló, a vad Atlanti-óceánra jellemző módon, de a hőmérséklet egész évben hűvös marad. A part fokozatosan mélyül, bár az atlanti hullámok és áramlatok miatt a fürdőzőknek óvatosnak kell lenniük.",
+   "ro": "Calitatea apei este excelentă, tipică Oceanului Atlantic, dar temperatura rămâne rece pe tot parcursul anului. Malul se adâncește treptat, deși valurile și curenții necesită prudență din partea înotătorilor.",
+   "en": "The water quality is excellent, typical of the wild Atlantic, but the temperature remains brisk year-round. The shoreline deepens gradually, though Atlantic waves and undercurrents mean swimmers should remain cautious."
+  },
+  "access": {
+   "de": "Der Strand ist leicht zu Fuß vom Stadtzentrum von Ballybunion aus zu erreichen. Ein gepflasterter Weg und eine relativ steile Betonrampe führen an den Klippen hinunter zum Sand.",
+   "hu": "A strand könnyen megközelíthető gyalogosan Ballybunion városközpontjából. Egy burkolt ösvény és egy viszonylag meredek betonrámpa vezet le a sziklafalon a homokhoz.",
+   "ro": "Plaja este ușor accesibilă pe jos din centrul orașului Ballybunion. O cărare pavată și o rampă de beton relativ abruptă coboară pe stâncă până la nisip.",
+   "en": "The beach is easily accessed by walking from Ballybunion town center. A paved path and a relatively steep concrete ramp lead down the cliffside to the sand."
+  },
+  "parking": {
+   "de": "Auf der Klippe gibt es kostenlose und gebührenpflichtige Parkplätze, nur einen kurzen Spaziergang vom Strandeingang entfernt.",
+   "hu": "A szikla tetején ingyenes és fizetős parkolási lehetőség is van, csupán rövid sétára a strand bejáratától.",
+   "ro": "Există parcări gratuite și cu plată pe vârful stâncii, la o scurtă distanță de mers pe jos de intrarea pe plajă.",
+   "en": "There is free and paid parking available on the cliff top, just a short walking distance from the beach entrance."
+  },
+  "facilities": {
+   "de": [
+    "Toiletten",
+    "Rettungsschwimmer",
+    "Erste Hilfe",
+    "Nahegelegene Cafés",
+    "Surfschule",
+    "Klippenwanderwege"
+   ],
+   "hu": [
+    "WC",
+    "Vízimentő",
+    "Elsősegély",
+    "Közeli kávézók",
+    "Szörfiskola",
+    "Sziklaösvények"
+   ],
+   "ro": [
+    "Toalete",
+    "Salvamar",
+    "Prim ajutor",
+    "Cafenele în apropiere",
+    "Școală de surf",
+    "Trasee pe stânci"
+   ],
+   "en": [
+    "Toilets",
+    "Lifeguard",
+    "First aid",
+    "Nearby cafes",
+    "Surf school",
+    "Cliff walks"
+   ]
+  },
+  "family": {
+   "de": "Es ist ein sehr familienfreundliches Reiseziel mit weichem Sand, ideal zum Sandburgenbauen. Wegen der Meeresströmungen müssen Kinder im Wasser jedoch immer beaufsichtigt werden.",
+   "hu": "Nagyon családbarát úti cél, puha homokkal, amely tökéletes homokvárak építéséhez. Az óceáni áramlatok miatt azonban a gyerekekre mindig szorosan felügyelni kell a vízben.",
+   "ro": "Este o destinație foarte potrivită pentru familii, cu nisip fin perfect pentru castele de nisip. Totuși, din cauza curenților oceanici, copiii trebuie supravegheați îndeaproape în apă.",
+   "en": "It is a very family-friendly destination with soft sand perfect for building sandcastles and wide open spaces. However, due to the ocean currents, children must always be closely supervised in the water."
+  },
+  "kids": {
+   "de": "Kinder werden es lieben, bei Ebbe die Felsenpools und flachen Meereshöhlen zu erkunden. In der Nähe der Parkplätze auf den Klippen gibt es auch einen tollen Spielplatz.",
+   "hu": "A gyerekek imádni fogják a sziklamedencék és a sekély tengeri barlangok felfedezését apálykor. A szikla tetején lévő parkoló közelében egy nagyszerű játszótér is található.",
+   "ro": "Copiii vor adora să exploreze piscinele naturale și peșterile marine la reflux. Există, de asemenea, un loc de joacă grozav lângă zona de parcare de pe stâncă.",
+   "en": "Kids will absolutely love exploring the rock pools and shallow sea caves during low tide. There is also a great playground located near the cliff-top parking area."
+  },
+  "gastro": [
+   {
+    "name": "Seafood Chowder",
+    "tip": {
+     "de": "Genießen Sie eine herzhafte Schüssel der traditionellen irischen Meeresfrüchtesuppe in einem der gemütlichen Pubs im Ort.",
+     "hu": "Kóstoljon meg egy tányér sűrű, hagyományos ír tengeri gyümölcsei levest a város egyik hangulatos pubjában.",
+     "ro": "Savurați un bol consistent de supă tradițională irlandeză de fructe de mare la unul dintre pub-urile din oraș.",
+     "en": "Enjoy a hearty bowl of traditional Irish seafood soup at one of the cozy pubs in town."
+    }
+   },
+   {
+    "name": "Fish and Chips",
+    "tip": {
+     "de": "Holen Sie sich frischen, panierten Atlantikfisch mit Pommes frites aus den örtlichen Imbissen nahe dem Strand.",
+     "hu": "Vegyél friss, bundázott atlanti halat sült krumplival a parthoz közeli helyi gyorséttermekből.",
+     "ro": "Cumpărați pește proaspăt de Atlantic în aluat, cu cartofi prăjiți, de la localurile din apropierea plajei.",
+     "en": "Grab a fresh, battered Atlantic catch wrapped in paper from the local chippers near the beach."
+    }
+   },
+   {
+    "name": "99 Ice Cream Cone",
+    "tip": {
+     "de": "Der klassische irische Strandgenuss: Vanille-Softeis mit einem Schokoladenstückchen, erhältlich an den Strandkiosken.",
+     "hu": "A klasszikus ír tengerparti édesség: vaníliás csavart fagylalt csokidarabkával a parti bódékból.",
+     "ro": "Un deliciu clasic pe plajele irlandeze: înghețată de vanilie cu un baton de ciocolată, la chioșcurile de la malul mării.",
+     "en": "A quintessential Irish beach treat: vanilla soft serve with a chocolate flake, available at seaside kiosks."
+    }
+   }
+  ],
+  "entrance": {
+   "de": "Der Zugang zum Strand ist das ganze Jahr über völlig kostenlos.",
+   "hu": "A strandra a belépés egész évben teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit pe tot parcursul anului.",
+   "en": "Access to the beach is completely free of charge all year round."
+  },
+  "lifeguard": {
+   "de": "Während der Sommerbadesaison (typischerweise Juni bis August) sowie an den Wochenenden im Mai und September sind Rettungsschwimmer im Dienst.",
+   "hu": "A nyári strandszezonban (jellemzően júniustól augusztusig), valamint május és szeptember hétvégéin vízimentők szolgálnak.",
+   "ro": "Salvamarii sunt la datorie în timpul sezonului de baie de vară (de obicei din iunie până în august) și în weekendurile din mai și septembrie.",
+   "en": "Lifeguards are on duty during the summer bathing season (typically June to August) and at weekends in May and September."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Baumschatten oder Sonnenschirmverleih; Besucher verlassen sich zu bestimmten Tageszeiten auf den Schatten der hohen Klippen.",
+   "hu": "Nincs természetes faárnyék vagy napernyőbérlés; a látogatók a magas sziklák árnyékára támaszkodhatnak a nap bizonyos szakaszaiban.",
+   "ro": "Nu există umbră naturală de la copaci și nici închiriere de umbrele; vizitatorii se bazează pe umbra stâncilor impunătoare în anumite momente ale zilei.",
+   "en": "There is no natural tree shade or umbrella rental; visitors rely on the towering cliffs for shade during certain times of the day."
+  },
+  "best_time": {
+   "de": "Die beste Zeit für einen Besuch sind die Sommermonate zum Schwimmen oder jederzeit bei Ebbe, um die Meereshöhlen zu erkunden.",
+   "hu": "A legjobb idő a látogatásra a nyári hónapok a fürdéshez, vagy bármikor apály idején a tengeri barlangok felfedezéséhez.",
+   "ro": "Cel mai bun moment pentru a vizita este în lunile de vară pentru înot, sau oricând la reflux pentru a explora peșterile marine.",
+   "en": "The best time to visit is during the summer months for swimming, or at low tide anytime to explore the sea caves."
+  },
+  "nearby": {
+   "de": "Die Stadt Ballybunion grenzt direkt an und beherbergt den berühmten Ballybunion Golf Club. Sie können auch den benachbarten Men's Beach und den spektakulären Klippenwanderweg (Cliff Walk) erkunden.",
+   "hu": "Ballybunion városa közvetlenül szomszédos, ahol a híres Ballybunion Golf Club is található. Felfedezheti a szomszédos Men's Beach-et és a látványos sziklaösvényt (Cliff Walk) is.",
+   "ro": "Orașul Ballybunion este imediat adiacent, fiind gazda celebrului Ballybunion Golf Club. De asemenea, puteți explora plaja vecină Men's Beach și spectaculoasa plimbare pe stânci (Cliff Walk).",
+   "en": "Ballybunion town is immediately adjacent, featuring the famous Ballybunion Golf Club. You can also explore the adjacent Men's Beach and the spectacular Cliff Walk."
+  },
+  "tips": {
+   "de": [
+    "Überprüfen Sie vor der Ankunft immer die Gezeiten, um sicherzustellen, dass Sie die Meereshöhlen sicher erkunden können.",
+    "Bringen Sie eine Windjacke oder warme Kleidung mit, da die Atlantikbrise auch im Sommer kühl sein kann.",
+    "Gönnen Sie sich ein traditionelles heißes Algenbad in der Stadt nach einem Bad im kalten Ozean.",
+    "Schwimmen Sie aufgrund der starken Meeresströmungen nur zwischen den Flaggen, wenn die Rettungsschwimmer Dienst haben."
+   ],
+   "hu": [
+    "Érkezés előtt mindig ellenőrizze az árapály-táblázatot, hogy biztonságosan felfedezhesse a tengeri barlangokat.",
+    "Hozzon magával széldzsekit vagy meleg ruhát, mivel az atlanti szellő még nyáron is hűvös lehet.",
+    "Lepje meg magát egy hagyományos forró hínárfürdővel a városban a hideg óceánban való megmártózás után.",
+    "Csak a zászlók között ússzon, amikor a vízimentők szolgálatban vannak az erős óceáni áramlatok miatt."
+   ],
+   "ro": [
+    "Verificați întotdeauna orele mareei înainte de a sosi pentru a vă asigura că puteți explora în siguranță peșterile marine.",
+    "Aduceți o jachetă de vânt sau un strat călduros, deoarece briza Atlanticului poate fi rece chiar și vara.",
+    "Răsfățați-vă cu o baie tradițională fierbinte cu alge marine în oraș după o baie în oceanul rece.",
+    "Înotați doar între steaguri când salvamarii sunt la datorie din cauza curenților oceanici puternici."
+   ],
+   "en": [
+    "Always check the tide times before arriving to ensure you can safely explore the sea caves.",
+    "Bring a windbreaker or a warm layer, as the Atlantic breeze can be chilly even in summer.",
+    "Treat yourself to a traditional hot seaweed bath in town after a dip in the cold ocean.",
+    "Swim only between the flags when the lifeguards are on duty due to strong ocean currents."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist der Ladies Beach immer noch nur für Frauen?",
+     "hu": "Csak nők látogathatják ma is a Ladies Beach-et?",
+     "ro": "Plaja Ladies Beach este încă doar pentru femei?",
+     "en": "Is Ladies Beach still only for women?"
+    },
+    "a": {
+     "de": "Nein, der Name ist historisch. Heute sind alle willkommen.",
+     "hu": "Nem, a név történelmi eredetű. Ma már mindenki szabadon látogathatja a Ladies és a Men's strandot is.",
+     "ro": "Nu, numele este istoric. Astăzi, toată lumea este binevenită.",
+     "en": "No, the name is historical. Today, everyone is welcome to enjoy both Ladies and Men's beaches."
+    }
+   },
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Bevihetők kutyák a strandra?",
+     "ro": "Sunt permiși câinii pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Hunde sind in der Sommersaison (meist 11 bis 19 Uhr) stark eingeschränkt, außerhalb dieser Zeiten jedoch erlaubt.",
+     "hu": "A nyári fürdőszezonban (jellemzően 11 és 19 óra között) a kutyák bevitele szigorúan korlátozott, de azon kívül megengedett.",
+     "ro": "Câinii sunt restricționați în timpul sezonului de vară (de obicei 11:00 - 19:00), dar sunt permiși în rest.",
+     "en": "Dogs are heavily restricted during the summer bathing season (typically between 11 am and 7 pm), but are allowed during off-peak times."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist es sicher, die Meereshöhlen zu erkunden?",
+     "hu": "Biztonságos a tengeri barlangok felfedezése?",
+     "ro": "Este sigur să explorezi peșterile marine?",
+     "en": "Are the sea caves safe to explore?"
+    },
+    "a": {
+     "de": "Bei Ebbe sind sie zugänglich, aber Sie müssen die Flut im Auge behalten, um nicht eingeschlossen zu werden.",
+     "hu": "Apálykor megközelíthetők és viszonylag biztonságosak, de szorosan figyelni kell a bejövő dagályt, nehogy csapdába essünk.",
+     "ro": "Sunt accesibile la reflux, dar trebuie să fiți atenți la mareea în creștere pentru a nu fi prinși.",
+     "en": "They are accessible and relatively safe at low tide, but you must keep a close eye on the incoming tide to avoid getting trapped."
+    }
+   },
+   {
+    "q": {
+     "de": "Wie kalt ist das Wasser?",
+     "hu": "Milyen hideg a víz?",
+     "ro": "Cât de rece este apa?",
+     "en": "How cold is the water?"
+    },
+    "a": {
+     "de": "Das Atlantikwasser bleibt das ganze Jahr über frisch und erreicht im Spätsommer 14-16°C.",
+     "hu": "Az Atlanti-óceán vize egész évben hűvös marad, nyár végén jellemzően 14-16°C körül tetőzik.",
+     "ro": "Apa oceanului rămâne rece tot anul, atingând maximum 14-16°C la sfârșitul verii.",
+     "en": "The Atlantic water remains brisk all year, typically peaking around 14-16°C (57-61°F) in late summer."
+    }
+   }
+  ]
+ },
+ "banna-strand": {
+  "slug": "banna-strand",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": true,
+  "accessible": false,
+  "intro": {
+   "de": "Banna Strand ist einer der herrlichsten und beliebtesten Küstenabschnitte des County Kerry und liegt am berühmten Wild Atlantic Way. Dieser spektakuläre, goldene Sandstrand erstreckt sich meilenweit und wird von gewaltigen, bis zu 12 Meter hohen Sanddünen eingerahmt. Der atemberaubende Panoramablick umfasst die rauen Umrisse der Dingle-Halbinsel und die Slieve Mish Mountains in der Ferne, was eine wahrhaft dramatische irische Küstenlandschaft schafft.\n\nNeben seiner unbestreitbaren natürlichen Schönheit nimmt Banna Strand auch einen wichtigen Platz in der irischen Geschichte ein. Hier versuchte Sir Roger Casement 1916 vor dem Osteraufstand, Waffen von einem deutschen U-Boot anzulanden, ein Ereignis, an das ein Denkmal in der Nähe der Dünen erinnert. Heute ziehen die unberührte Natur und die belebende atlantische Brise das ganze Jahr über Besucher an, egal ob sie ein erfrischendes Sommerbad, eine aufregende Surf-Session oder einen friedlichen Winterspaziergang suchen.\n\nDie Wasserqualität ist außergewöhnlich und wird regelmäßig mit der prestigeträchtigen Blauen Flagge ausgezeichnet. Die Weitläufigkeit des Strandes bedeutet, dass man selbst an den belebtesten Sommertagen immer ein ruhiges Plätzchen finden kann. Das rhythmische Rauschen der rollenden Atlantikwellen, die salzige Luft und der weite Himmel machen Banna Strand zu einem regenerierenden Zufluchtsort, der die wilde Essenz der irischen Küste einfängt.",
+   "hu": "Banna Strand Kerry megye egyik legcsodálatosabb és legkedveltebb partszakasza, amely a híres Wild Atlantic Way (Vad Atlanti Út) mentén fekszik. Ez a látványos, aranyszínű homokos tengerpart mérföldeken át húzódik, és hatalmas, akár 12 méter magas homokdűnék szegélyezik. A lélegzetelállító panoráma magában foglalja a Dingle-félsziget zord körvonalait és a távolban magasodó Slieve Mish hegyeket, ami egy igazán drámai ír tengerparti tájat hoz létre.\n\nTagadhatatlan természeti szépsége mellett Banna Strand jelentős helyet foglal el az ír történelemben is. Sir Roger Casement 1916-ban itt próbált meg fegyvereket partra tenni egy német tengeralattjáróról a húsvéti felkelés előtt, mely eseménynek a dűnék közelében emelt emlékmű állít emléket. Napjainkban az érintetlen környezet és az élénkítő atlanti szellő egész évben vonzza a látogatókat, akár egy frissítő nyári úszásra, egy izgalmas szörfözésre, vagy egy békés téli sétára vágynak a part mentén.\n\nA vízminőség kiváló, a strand rendszeresen elnyeri a rangos Kék Zászló minősítést. A part hatalmas kiterjedése miatt még a legforgalmasabb nyári napokon is mindig lehet találni egy csendes helyet. A hömpölygő atlanti hullámok ritmikus hangja, a sós levegő és a hatalmas, nyílt égbolt Banna Strand-et egy olyan frissítő menedékké teszik, amely megragadja az ír partvidék vad, zabolátlan esszenciáját.",
+   "ro": "Banna Strand este una dintre cele mai magnifice și iubite întinderi de coastă din Comitatul Kerry, situată de-a lungul faimosului Wild Atlantic Way (Calea Sălbatică a Atlanticului). Această plajă spectaculoasă cu nisip auriu se întinde pe kilometri întregi, fiind încadrată de dune de nisip impunătoare care pot atinge până la 12 metri înălțime. Priveliștile panoramice care îți taie respirația cuprind conturul accidentat al Peninsulei Dingle și munții Slieve Mish în depărtare, oferind un peisaj de coastă irlandez cu adevărat dramatic.\n\nDincolo de frumusețea sa naturală incontestabilă, Banna Strand ocupă un loc semnificativ în istoria Irlandei. Aici, în 1916, Sir Roger Casement a încercat să descarce arme dintr-un submarin german înainte de Răscoala de Paști, eveniment comemorat de un monument situat lângă dune. Astăzi, mediul curat și briza revigorantă a Atlanticului atrag vizitatori pe tot parcursul anului, indiferent dacă aceștia caută o baie răcoroasă de vară, o sesiune antrenantă de surf sau o plimbare liniștită de iarnă de-a lungul țărmului.\n\nCalitatea apei este excepțională, plaja obținând adesea prestigiosul statut Blue Flag (Steagul Albastru). Natura vastă a plajei înseamnă că, chiar și în cele mai aglomerate zile de vară, poți găsi întotdeauna un loc liniștit. Sunetul ritmic al valurilor oceanului, aerul sărat și cerul vast fac din Banna Strand o evadare revitalizantă care surprinde esența sălbatică și neîmblânzită a coastei irlandeze.",
+   "en": "Banna Strand is one of County Kerry's most magnificent and beloved coastal stretches, situated along the famous Wild Atlantic Way. This spectacular golden sand beach extends for miles, framed by towering sand dunes that can reach up to 12 meters in height. The breathtaking panoramic views encompass the rugged outline of the Dingle Peninsula and the Slieve Mish mountains in the distance, providing a truly dramatic Irish coastal landscape.\n\nBeyond its undeniable natural beauty, Banna Strand holds a significant place in Irish history. It was here in 1916 that Sir Roger Casement attempted to land arms from a German submarine prior to the Easter Rising, an event commemorated by a monument near the dunes. Today, the pristine environment and the invigorating Atlantic breeze draw visitors year-round, whether they are looking for a refreshing summer swim, an exhilarating surf session, or a peaceful winter walk along the shoreline.\n\nThe water quality is exceptional, often earning the prestigious Blue Flag status. The expansive nature of the beach means that even on the busiest summer days, you can always find a quiet spot. The rhythmic sound of the rolling Atlantic waves, the salt-tinged air, and the vast, open skies make Banna Strand a revitalizing escape that captures the wild, untamed essence of the Irish coast."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "homokos",
+   "ro": "nisipoasă",
+   "en": "sandy"
+  },
+  "water": {
+   "de": "Das kristallklare Atlantikwasser ist unglaublich sauber, aber ganzjährig recht kalt. Der Meeresboden fällt allmählich ab, die Brandung kann stark sein, was an windigen Tagen Vorsicht erfordert.",
+   "hu": "A kristálytiszta atlanti víz rendkívül tiszta, de egész évben meglehetősen hideg. A meder fokozatosan mélyül, bár a hullámzás erős lehet, ami szeles napokon óvatosságot igényel.",
+   "ro": "Apa cristalină a Atlanticului este incredibil de curată, dar rece tot timpul anului. Fundul mării se adâncește treptat, dar valurile pot fi puternice, necesitând precauție în zilele cu vânt.",
+   "en": "The crystal-clear Atlantic water is incredibly clean but quite cold year-round. The seabed deepens gradually, though the surf can be strong, requiring caution on windy days."
+  },
+  "access": {
+   "de": "Mit dem Auto von Tralee aus leicht zu erreichen, wenn man den örtlichen Schildern folgt. Vom Parkplatz aus muss man über die Sanddünen laufen.",
+   "hu": "Autóval könnyen megközelíthető Tralee-ből a part felé mutató táblákat követve. A parkolóból a homokdűnéken keresztül kell átsétálni a strandhoz.",
+   "ro": "Ușor accesibil cu mașina din Tralee, urmând indicatoarele locale. Trebuie să traversați dunele de nisip de la parcare pentru a ajunge la plajă.",
+   "en": "Easily accessible by car from Tralee, following the local signs to the coast. You have to walk over the sand dunes from the car park to reach the beach."
+  },
+  "parking": {
+   "de": "Direkt hinter den Sanddünen befindet sich ein großer, kostenloser öffentlicher Parkplatz.",
+   "hu": "Közvetlenül a homokdűnék mögött egy nagy, ingyenes nyilvános parkoló található.",
+   "ro": "Există o parcare publică mare și gratuită, situată chiar în spatele dunelor de nisip.",
+   "en": "There is a large, free public car park located just behind the sand dunes."
+  },
+  "facilities": {
+   "de": [
+    "Öffentliche Toiletten",
+    "Surfschule",
+    "Saisonale Imbisswagen",
+    "Rettungsschwimmer (Sommer)",
+    "Großer Parkplatz"
+   ],
+   "hu": [
+    "Nyilvános WC",
+    "Szörfiskola",
+    "Szezonális büfékocsik",
+    "Vízimentő (nyáron)",
+    "Nagy parkoló"
+   ],
+   "ro": [
+    "Toalete publice",
+    "Școală de surf",
+    "Food truck-uri de sezon",
+    "Salvamar (vara)",
+    "Parcare mare"
+   ],
+   "en": [
+    "Public toilets",
+    "Surf school",
+    "Seasonal food trucks",
+    "Lifeguard (summer)",
+    "Large car park"
+   ]
+  },
+  "family": {
+   "de": "Dank des riesigen Platzes zum Sandburgenbauen und für Strandspiele sehr beliebt bei Familien. Wegen der Atlantikwellen sollten Eltern ihre Kinder im Wasser jedoch im Auge behalten.",
+   "hu": "A hatalmas tér miatt rendkívül népszerű a családok körében. Az atlanti hullámok miatt azonban a szülőknek szorosan figyelemmel kell kísérniük a vízben lévő gyermekeket.",
+   "ro": "Este foarte populară printre familii datorită spațiului imens pentru castele de nisip și jocuri. Părinții ar trebui totuși să supravegheze copiii în apă din cauza valurilor.",
+   "en": "It is highly popular with families due to the massive space for building sandcastles and playing beach games. However, parents should keep a close eye on children in the water due to the Atlantic waves."
+  },
+  "kids": {
+   "de": "Kinder werden es lieben, die riesigen Sanddünen zu erkunden und in den flachen Gezeitentümpeln zu planschen, die bei Ebbe zurückbleiben.",
+   "hu": "A gyerekek imádni fogják a hatalmas homokdűnék felfedezését és a sekély árapály-medencékben való pancsolást apálykor.",
+   "ro": "Copiii vor adora să exploreze dunele uriașe de nisip și să se bălăcească în bălțile de maree lăsate în urmă la reflux.",
+   "en": "Kids will love exploring the enormous sand dunes and splashing in the shallow tide pools left behind at low tide."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Fish and Chips",
+     "tip": "Klassischer, frisch panierter Fang des Tages, oft bei sommerlichen Imbisswagen in der Nähe des Parkplatzes erhältlich."
+    },
+    {
+     "name": "Irish Seafood Chowder",
+     "tip": "Reichhaltige, cremige Meeresfrüchtesuppe, perfekt zum Aufwärmen nach dem Schwimmen, zu finden in den Pubs von Tralee."
+    },
+    {
+     "name": "99 Flake Eiscreme",
+     "tip": "Eine typisch irische Strandleckerei; holen Sie sich eine Vanille-Eiswaffel mit Schokoladensplitter von den mobilen Eiswagen."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Fish and Chips",
+     "tip": "Klasszikus, frissen rántott napi fogás, amelyet gyakran a parkoló körüli nyári büfékocsik kínálnak."
+    },
+    {
+     "name": "Irish Seafood Chowder",
+     "tip": "Sűrű és krémes helyi tengergyümölcsei-leves, tökéletes felmelegedéshez egy hideg úszás után, a tralee-i pubokban kapható."
+    },
+    {
+     "name": "99 Flake fagyitölcsér",
+     "tip": "Jellegzetes ír tengerparti csemege; vegyen egy csokis rudacskával díszített vaníliafagyit a mozgó fagyisautóktól."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Fish and Chips",
+     "tip": "Captura zilei în aluat proaspăt, adesea disponibilă la food truck-urile de vară din apropierea parcării."
+    },
+    {
+     "name": "Irish Seafood Chowder",
+     "tip": "Supă locală cremoasă de fructe de mare, perfectă pentru a vă încălzi după o baie rece, găsită în pub-urile din Tralee."
+    },
+    {
+     "name": "Înghețată 99 Flake",
+     "tip": "Un deliciu de plajă irlandez; cumpărați un cornet de vanilie cu fulgi de ciocolată de la dubele mobile de înghețată."
+    }
+   ],
+   "en": [
+    {
+     "name": "Fish and Chips",
+     "tip": "Classic freshly battered catch of the day, often available from summer food trucks near the car park."
+    },
+    {
+     "name": "Irish Seafood Chowder",
+     "tip": "Rich and creamy local seafood soup, perfect to warm up after a cold swim, found in Tralee pubs."
+    },
+    {
+     "name": "99 Flake Ice Cream",
+     "tip": "A quintessential beach treat in Ireland; grab a vanilla cone with a chocolate flake from visiting ice cream vans."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist völlig kostenlos.",
+   "hu": "A strandra a belépés teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit.",
+   "en": "Access to the beach is completely free."
+  },
+  "lifeguard": {
+   "de": "In den Sommermonaten (Juni bis August) sind täglich Rettungsschwimmer im Einsatz.",
+   "hu": "A nyári hónapokban (júniustól augusztusig) naponta biztosítanak vízimentő szolgálatot.",
+   "ro": "Salvamarii sunt de serviciu zilnic în lunile de vară (iunie-august).",
+   "en": "Lifeguards are on duty daily during the summer months (June to August)."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten oder Sonnenschirmverleih, daher wird ein eigenes Strandzelt dringend empfohlen.",
+   "hu": "Nincs természetes árnyék, és napernyőbérlésre sincs lehetőség, így saját strandsátor hozatala ajánlott.",
+   "ro": "Nu există umbră naturală sau închiriere de umbrele de soare, așa că se recomandă să vă aduceți propriul cort de plajă.",
+   "en": "There is no natural shade or parasol rental, so bringing your own beach tent or windbreak is highly recommended."
+  },
+  "best_time": {
+   "de": "Spätfrühling und Sommer zum Schwimmen und Sonnenbaden oder der Winter für erfrischende, menschenleere Spaziergänge.",
+   "hu": "Késő tavasz és nyár az úszáshoz és napozáshoz, vagy tél a frissítő, tömeg nélküli sétákhoz.",
+   "ro": "Sfârșitul primăverii și vara pentru înot și plajă, sau iarna pentru plimbări revigorante și fără aglomerație.",
+   "en": "Late spring and summer for swimming and sunbathing, or winter for exhilarating, crowd-free walks."
+  },
+  "nearby": {
+   "de": "Die lebhafte Stadt Tralee ist nur 12 km entfernt und bietet Geschäfte, Restaurants und das Kerry County Museum. Der nördlich gelegene Ballyheigue Beach ist eine wunderschöne Fortsetzung der Sandküste.",
+   "hu": "A nyüzsgő Tralee városa mindössze 12 km-re található, tele üzletekkel, éttermekkel és a Kerry Megyei Múzeummal. Északra a Ballyheigue strand nyújt gyönyörű folytatást a homokos partvidéknek.",
+   "ro": "Orașul vibrant Tralee se află la doar 12 km distanță, oferind magazine, restaurante și Muzeul Comitatului Kerry. Plaja Ballyheigue din nord oferă o continuare frumoasă a țărmului nisipos.",
+   "en": "The vibrant town of Tralee is just 12 km away, offering shops, restaurants, and the Kerry County Museum. Ballyheigue Beach to the north provides a beautiful continuation of the sandy shoreline."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie einen Windschutz mit, um sich vor den starken Atlantikbrisen zu schützen.",
+    "Prüfen Sie vor der Ankunft die Gezeiten; bei Ebbe wird eine riesige Fläche freigelegt.",
+    "Die Dünen sind ein geschützter Lebensraum; bitte benutzen Sie die ausgewiesenen Wege.",
+    "Die Wassertemperaturen sind kühl, daher wird für längeres Schwimmen ein Neoprenanzug empfohlen."
+   ],
+   "hu": [
+    "Hozzon magával szélfogót, hogy megvédje magát az erős atlanti szellőktől.",
+    "Érkezés előtt ellenőrizze az árapály idejét; apálykor hatalmas terület válik szabaddá.",
+    "A dűnék védett élőhelyek; kérjük, a kijelölt ösvényeket használja a keresztezésükhöz.",
+    "A vízhőmérséklet hűvös, így hosszabb úszáshoz vagy szörfözéshez neoprén ruha ajánlott."
+   ],
+   "ro": [
+    "Aduceți un paravânt pentru a vă adăposti de briza puternică a Atlanticului.",
+    "Verificați orele mareei înainte de a ajunge; refluxul expune o zonă masivă.",
+    "Dunele sunt un habitat protejat; vă rugăm să folosiți cărările desemnate.",
+    "Temperaturile apei sunt scăzute, așa că se recomandă un costum de neopren."
+   ],
+   "en": [
+    "Bring a windbreak to shelter from the strong Atlantic breezes.",
+    "Check the tide times before arriving; low tide exposes a massive area perfect for walking.",
+    "The dunes are a protected habitat; please use the designated paths to cross them.",
+    "Water temperatures are cool even in summer, so a wetsuit is recommended for longer swims."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Kann ich meinen Hund mit an den Strand nehmen?",
+     "hu": "Vihetem a kutyámat a strandra?",
+     "ro": "Pot aduce câinele la plajă?",
+     "en": "Can I bring my dog to the beach?"
+    },
+    "a": {
+     "de": "Ja, aber in den Sommermonaten dürfen Hunde zwischen 11 und 19 Uhr nicht in die bewachten Bereiche.",
+     "hu": "Igen, de a nyári hónapokban 11:00 és 19:00 óra között a kutyák nem mehetnek a felügyelt területekre.",
+     "ro": "Da, dar în lunile de vară, accesul câinilor este restricționat în zonele cu salvamar între orele 11:00 și 19:00.",
+     "en": "Yes, but during summer months, dogs are restricted from the lifeguarded areas between 11 AM and 7 PM."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten?",
+     "hu": "Vannak nyilvános mosdók?",
+     "ro": "Există toalete publice?",
+     "en": "Are there public toilets available?"
+    },
+    "a": {
+     "de": "Ja, öffentliche Toiletten und Umkleidekabinen befinden sich direkt neben dem Hauptparkplatz.",
+     "hu": "Igen, a fő parkoló mellett nyilvános mosdók és öltözők találhatók.",
+     "ro": "Da, toalete publice și facilități de schimbare se află lângă parcarea principală.",
+     "en": "Yes, public toilets and changing facilities are located next to the main car park."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist der Strand gut zum Surfen?",
+     "hu": "Alkalmas a strand szörfözésre?",
+     "ro": "Este plaja bună pentru surf?",
+     "en": "Is the beach good for surfing?"
+    },
+    "a": {
+     "de": "Absolut. Der Atlantikswell bietet großartige Bedingungen zum Surfen, und es gibt lokale Surfschulen.",
+     "hu": "Abszolút. Az atlanti hullámzás nagyszerű feltételeket teremt a szörfözéshez, és helyi szörfiskolák is vannak.",
+     "ro": "Absolut. Valurile Atlanticului creează condiții excelente pentru surf și există școli locale de surf.",
+     "en": "Absolutely. The Atlantic swells create great conditions for surfing, and there are local surf schools offering lessons."
+    }
+   },
+   {
+    "q": {
+     "de": "Darf ich mit dem Auto auf den Strand fahren?",
+     "hu": "Ráhajthatok a strandra autóval?",
+     "ro": "Pot conduce pe plajă?",
+     "en": "Can I drive onto the beach?"
+    },
+    "a": {
+     "de": "Nein, Fahrzeuge sind auf dem Strand selbst nicht gestattet, um das empfindliche Ökosystem zu schützen.",
+     "hu": "Nem, a járművek nem hajthatnak fel magára a strandra az érzékeny ökoszisztéma védelme érdekében.",
+     "ro": "Nu, vehiculele nu au voie pe plajă pentru a proteja ecosistemul sensibil și dunele.",
+     "en": "No, vehicles are not permitted on the beach itself to protect the sensitive ecosystem and the sand dunes."
+    }
+   }
+  ]
+ },
+ "gurteen-beach": {
+  "slug": "gurteen-beach",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": true,
+  "accessible": false,
+  "intro": {
+   "de": "Der Gurteen Beach, gelegen an der atemberaubenden Küste von Connemara im County Galway, ist eines der spektakulärsten Naturwunder Irlands. Nur eine kurze Fahrt vom malerischen Dorf Roundstone entfernt, bildet er zusammen mit der benachbarten Dog's Bay einen spektakulären Tombolo. Diese einzigartige geografische Formation schafft eine schmale Landzunge, die die beiden Strände voneinander trennt und weite Ausblicke auf den wilden Atlantik sowie den schroffen Berg Errisbeg bietet.\n\nWas Gurteen Beach wirklich von anderen unterscheidet, ist sein strahlend weißer Sand und das kristallklare, türkisfarbene Wasser, das oft Vergleiche mit karibischen Küsten weckt. Der Sand hier besteht jedoch nicht aus Quarz oder Kalkstein, sondern vollständig aus Fragmenten von Muschelschalen, genauer gesagt aus den Überresten mikroskopisch kleiner Meereslebewesen namens Foraminiferen. Dies verleiht dem Strand sein markantes, fast leuchtendes Aussehen und eine bemerkenswert weiche Textur.\n\nDie geschützte Bucht macht Gurteen zu einem idealen Ort für eine Vielzahl von Wassersportaktivitäten. Die relativ ruhigen Gewässer sind bei Schwimmern, Windsurfern und Kitesurfern beliebt. Das umliegende Machair-Grasland bietet einen einzigartigen ökologischen Lebensraum, der reich an seltener Flora und Fauna ist, und macht den Ort zu einem Paradies für Naturliebhaber, die die unberührte Schönheit suchen.",
+   "hu": "A Gurteen strand, amely az írországi Galway megyében, a lenyűgöző Connemara partszakaszon található, az ország egyik legszebb természeti csodája. A festői Roundstone falutól mindössze egy rövid autóútra fekszik, és a szomszédos Dog's Bay stranddal együtt egy látványos tombolót, azaz egy homokturzást alkot. Ez az egyedülálló földrajzi képződmény egy keskeny földnyelvet hoz létre a két strand között, ahonnan csodálatos panoráma nyílik a vad Atlanti-óceánra és a zord Errisbeg-hegyre.\n\nAmi a Gurteen strandot igazán különlegessé teszi, az a ragyogóan fehér homok és a kristálytiszta, türkizkék víz, amelyet gyakran a karibi partokhoz hasonlítanak. Itt azonban a homok nem kvarcból vagy mészkőből áll, hanem teljes egészében tengeri kagylók töredékeiből, pontosabban apró tengeri élőlények, az úgynevezett foraminiferák maradványaiból. Ez adja a strand feltűnő, szinte világító megjelenését és rendkívül puha tapintását.\n\nA védett öböl ideális helyszíne a különböző vízi sportoknak is. Viszonylag nyugodt vize népszerű az úszók, a szörfösök és a kiteszörfösök körében. A környező machair füves területek egyedülálló ökológiai élőhelyet biztosítanak, amelyek gazdagok ritka növény- és állatfajokban, így ez a vidék valóságos paradicsom a természetkedvelők és a nyugati part érintetlen szépségét kereső túrázók számára.",
+   "ro": "Plaja Gurteen, situată pe uimitoarea coastă Connemara din comitatul Galway, este una dintre cele mai spectaculoase minuni naturale ale Irlandei. Aflată la doar o scurtă călătorie cu mașina de satul pitoresc Roundstone, aceasta formează un tombolo spectaculos alături de plaja vecină Dog's Bay. Această formațiune geografică unică creează o fâșie îngustă de pământ care separă cele două plaje, oferind vederi panoramice vaste asupra Oceanului Atlantic sălbatic și a muntelui accidentat Errisbeg.\n\nCeea ce diferențiază cu adevărat plaja Gurteen este nisipul său alb strălucitor și apele turcoaz, cristaline, care adesea atrag comparații cu țărmurile din Caraibe. Cu toate acestea, nisipul de aici nu este alcătuit din cuarț sau calcar, ci în întregime din fragmente de scoici, mai exact rămășițele unor creaturi marine microscopice numite foraminifere. Acest lucru conferă plajei aspectul său izbitor, aproape luminos și o textură remarcabil de fină la atingere.\n\nGolful adăpostit face din Gurteen un loc ideal pentru o varietate de activități nautice. Apele sale relativ calme sunt populare printre înotători, windsurferi și practicanții de kitesurfing. Iarba de tip machair din jur oferă un habitat ecologic unic, bogat în floră și faună rară, transformând zona într-un adevărat paradis pentru iubitorii de natură și pentru plimbăreții care caută frumusețea neatinsă a coastei de vest.",
+   "en": "Gurteen Beach, located on the stunning Connemara coast in County Galway, is one of Ireland's most breathtaking natural wonders. Situated just a short drive from the picturesque village of Roundstone, it forms a spectacular tombolo alongside the neighbouring Dog's Bay. This unique geographical formation creates a narrow spit of land separating the two beaches, offering sweeping views of the wild Atlantic Ocean and the rugged Errisbeg mountain.\n\nWhat truly sets Gurteen Beach apart is its brilliant white sand and crystal-clear turquoise waters, which often draw comparisons to Caribbean shores. However, the sand here is not made of quartz or limestone, but entirely of fragments of seashells, specifically the remains of microscopic marine creatures called foraminifera. This gives the beach its striking, almost luminous appearance and a remarkably soft texture underfoot.\n\nThe sheltered bay makes Gurteen an ideal spot for a variety of water-based activities. Its relatively calm waters are popular among swimmers, windsurfers, and kite surfers. The surrounding machair grass provides a unique ecological habitat, rich in rare flora and fauna, making it a haven for nature lovers and walkers seeking the unspoiled beauty of the west coast of Ireland."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Kristallklares, türkisfarbenes Atlantikwasser, das in der geschützten Bucht relativ ruhig bleibt und sanft abfällt.",
+   "hu": "Kristálytiszta, türkizkék atlanti víz, amely a védett öbölben viszonylag nyugodt és fokozatosan mélyül.",
+   "ro": "Ape atlantice cristaline și turcoaz, care rămân relativ calme în golful adăpostit, cu un fund de mare care coboară treptat.",
+   "en": "Crystal-clear, turquoise Atlantic waters that remain relatively calm in the sheltered bay, with a gently sloping seabed."
+  },
+  "access": {
+   "de": "Leicht mit dem Auto über die Straße R341 von Roundstone aus zu erreichen, gefolgt von einem kurzen Spaziergang vom nahegelegenen Parkplatz.",
+   "hu": "Autóval könnyen megközelíthető a Roundstone felől vezető R341-es úton, ahonnan a közeli parkolóból egy rövid sétával elérhető.",
+   "ro": "Ușor accesibil cu mașina pe drumul R341 din Roundstone, urmat de o scurtă plimbare de la parcarea din apropiere.",
+   "en": "Easily accessible by car via the R341 road from Roundstone, followed by a short walk from the nearby parking area."
+  },
+  "parking": {
+   "de": "Kostenlose Parkplätze stehen in Strandnähe zur Verfügung, können sich aber in den Hochsommermonaten schnell füllen.",
+   "hu": "Ingyenes parkolási lehetőség a strand közelében, amely a nyári főszezonban hamar megtelhet.",
+   "ro": "Parcare gratuită disponibilă în apropierea plajei, deși se poate ocupa rapid în lunile de vârf de vară.",
+   "en": "Free parking is available near the beach, though it can fill up quickly during the peak summer months."
+  },
+  "facilities": {
+   "de": [
+    "Parkplatz",
+    "Campingplatz in der Nähe",
+    "Toiletten (am Campingplatz)",
+    "Wanderwege"
+   ],
+   "hu": [
+    "Parkoló",
+    "Közeli kemping",
+    "Mosdók (a kempingnél)",
+    "Túraútvonalak"
+   ],
+   "ro": [
+    "Parcare",
+    "Camping în apropiere",
+    "Toalete (la camping)",
+    "Trasee de drumeție"
+   ],
+   "en": [
+    "Parking",
+    "Camping nearby",
+    "Toilets (at campsite)",
+    "Walking trails"
+   ]
+  },
+  "family": {
+   "de": "Sehr familienfreundlich aufgrund des weichen Sandes, der sanften Wellen und der weiten Flächen, die sich perfekt zum Sandburgenbauen und Spielen eignen.",
+   "hu": "Kifejezetten családbarát a puha homok, a szelíd hullámok és a hatalmas nyitott terek miatt, amelyek tökéletesek homokvár építésére és játékra.",
+   "ro": "Foarte potrivit pentru familii datorită nisipului moale, valurilor blânde și spațiilor largi perfecte pentru construirea castelelor de nisip și jocuri.",
+   "en": "Very family-friendly due to the soft sand, gentle waves, and wide open spaces perfect for building sandcastles and playing games."
+  },
+  "kids": {
+   "de": "Kinder werden es lieben, die kleinen Felsenpools zu erkunden, den einzigartigen Muschelsand zu sammeln und sicher in den flachen Rändern der Bucht zu planschen.",
+   "hu": "A gyerekek imádni fogják a kis sziklamedencék felfedezését, az egyedi kagylóhomok gyűjtését és a biztonságos pancsolást az öböl sekély szélein.",
+   "ro": "Copiii vor adora să exploreze micile bazine din stânci, să adune nisipul unic din scoici și să se bălăcească în siguranță la marginile puțin adânci ale golfului.",
+   "en": "Children will love exploring the small rock pools, collecting the unique seashell sand, and paddling safely in the shallow margins of the bay."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Seafood Chowder",
+     "tip": "Erhältlich in den nahegelegenen Pubs im Dorf Roundstone."
+    },
+    {
+     "name": "Frische Galway-Austern",
+     "tip": "Eine lokale Delikatesse, die oft in den Dorfrestaurants serviert wird."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Klassisches Strandgericht für die Zeit nach einem Tag am Strand."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Tenger gyümölcsei leves (Chowder)",
+     "tip": "Kapható a közeli Roundstone falu kocsmáiban."
+    },
+    {
+     "name": "Friss galwayi osztriga",
+     "tip": "Helyi ínyencség, amelyet gyakran szolgálnak fel a falusi éttermekben."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Klasszikus tengerparti étel egy strandolással töltött nap után."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Supă de fructe de mare (Chowder)",
+     "tip": "Disponibilă în pub-urile din satul apropiat Roundstone."
+    },
+    {
+     "name": "Stridii proaspete de Galway",
+     "tip": "O delicatesă locală servită adesea în restaurantele din sat."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Mâncare clasică de pe litoral de savurat după o zi la plajă."
+    }
+   ],
+   "en": [
+    {
+     "name": "Seafood Chowder",
+     "tip": "Available in the nearby pubs in Roundstone village."
+    },
+    {
+     "name": "Fresh Galway Oysters",
+     "tip": "A local delicacy often served in the village restaurants."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Classic seaside fare to enjoy after a day at the beach."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist völlig kostenlos und das ganze Jahr über für die Öffentlichkeit zugänglich.",
+   "hu": "A strandra a belépés teljesen ingyenes, és egész évben nyitva áll a nagyközönség számára.",
+   "ro": "Intrarea la plajă este complet gratuită și este deschisă publicului pe tot parcursul anului.",
+   "en": "The beach is completely free to enter and open to the public year-round."
+  },
+  "lifeguard": {
+   "de": "Normalerweise sind keine Rettungsschwimmer im Dienst, daher schwimmen die Besucher auf eigene Gefahr.",
+   "hu": "Általában nincs szolgálatot teljesítő vízimentő, így a fürdőzés saját felelősségre történik.",
+   "ro": "De obicei nu există salvamari de serviciu, așa că vizitatorii înoată pe propriul risc.",
+   "en": "There are typically no lifeguards on duty, so visitors swim at their own risk."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten am Strand, daher ist es sehr empfehlenswert, einen eigenen Windschutz oder Sonnenschirm mitzubringen.",
+   "hu": "A strandon nincs természetes árnyék, ezért szélfogó vagy napernyő hozatala erősen ajánlott.",
+   "ro": "Nu există umbră naturală pe plajă, deci este foarte recomandat să aduceți propriul paravan de vânt sau umbrelă de soare.",
+   "en": "There is no natural shade on the beach, so bringing your own windbreak or parasol is highly recommended."
+  },
+  "best_time": {
+   "de": "Die Sommermonate (Juni bis August) bieten das wärmste Wetter, aber der Frühling und der frühe Herbst eignen sich hervorragend für ruhige Spaziergänge.",
+   "hu": "A nyári hónapok (június-augusztus) kínálják a legmelegebb időt, de a tavasz és a kora ősz kiváló a csendes sétákhoz.",
+   "ro": "Lunile de vară (iunie-august) oferă cea mai caldă vreme, dar primăvara și începutul toamnei sunt excelente pentru plimbări liniștite.",
+   "en": "The summer months (June to August) offer the warmest weather, but spring and early autumn are excellent for quiet walks."
+  },
+  "nearby": {
+   "de": "Das lebhafte Fischerdorf Roundstone ist nur 3 Kilometer entfernt, und der atemberaubende Strand Dog's Bay liegt direkt daneben.",
+   "hu": "Roundstone élénk halászfaluja mindössze 3 kilométerre található, a lenyűgöző Dog's Bay strand pedig közvetlenül mellette fekszik.",
+   "ro": "Satul de pescari vibrant Roundstone este la doar 3 kilometri distanță, iar uimitoarea plajă Dog's Bay se află imediat alături.",
+   "en": "The vibrant fishing village of Roundstone is just 3 kilometres away, and the stunning Dog's Bay beach is immediately adjacent."
+  },
+  "tips": {
+   "de": [
+    "Bringen Sie einen Windschutz mit, da die Atlantikbrise stark sein kann.",
+    "Packen Sie warme Kleidung für nach dem Schwimmen ein, das Wasser ist kalt.",
+    "Besuchen Sie die benachbarte Dog's Bay für einen kontrastreichen Blick auf den Tombolo.",
+    "Kommen Sie im Sommer früh, um sich einen Parkplatz zu sichern."
+   ],
+   "hu": [
+    "Hozzon magával szélfogót, mivel az atlanti szellő erős lehet.",
+    "Csomagoljon meleg ruhát az úszás utánra, a víz hideg.",
+    "Látogasson el a szomszédos Dog's Bay strandra is a tombolo másik oldalának megtekintéséhez.",
+    "Nyáron érkezzen korán, hogy biztosítson parkolóhelyet."
+   ],
+   "ro": [
+    "Aduceți un paravan de vânt, deoarece briza atlantică poate fi puternică.",
+    "Împachetați haine călduroase pentru după înot, apa este rece.",
+    "Vizitați plaja alăturată Dog's Bay pentru o vedere contrastantă a tombolo-ului.",
+    "Ajungeți devreme vara pentru a vă asigura un loc de parcare."
+   ],
+   "en": [
+    "Bring a windbreak as the Atlantic breeze can be strong.",
+    "Pack warm layers for after your swim, the water is cold.",
+    "Visit the adjacent Dog's Bay for a contrasting view of the tombolo.",
+    "Arrive early in summer to secure a parking spot."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist das Wasser warm genug zum Schwimmen?",
+     "hu": "Elég meleg a víz az úszáshoz?",
+     "ro": "Apa este suficient de caldă pentru înot?",
+     "en": "Is the water warm enough for swimming?"
+    },
+    "a": {
+     "de": "Das Atlantikwasser ist erfrischend und relativ kalt, mit einem Höchstwert von etwa 15°C im Spätsommer, daher wird oft ein Neoprenanzug bevorzugt.",
+     "hu": "Az atlanti víz frissítő és viszonylag hideg, nyár végén is csak 15°C körüli a csúcshőmérséklete, így gyakran érdemes neoprén ruhát viselni.",
+     "ro": "Apa Atlanticului este revigorantă și relativ rece, atingând de obicei un maxim de 15°C la sfârșitul verii, deci un costum de neopren este adesea preferat.",
+     "en": "The Atlantic water is refreshing and relatively cold, usually peaking around 15°C in late summer, so a wetsuit is often preferred."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten?",
+     "hu": "Vannak nyilvános mosdók?",
+     "ro": "Există toalete publice disponibile?",
+     "en": "Are there public toilets available?"
+    },
+    "a": {
+     "de": "Es gibt keine speziellen öffentlichen Toiletten direkt am Sand, aber im angrenzenden Wohnwagen- und Campingpark stehen Einrichtungen zur Verfügung.",
+     "hu": "Közvetlenül a homokon nincsenek külön nyilvános mosdók, de a szomszédos lakókocsi- és kempingparkban vannak ilyen létesítmények.",
+     "ro": "Nu există toalete publice dedicate chiar pe nisip, dar facilitățile sunt disponibile la parcul de rulote și camping alăturat.",
+     "en": "There are no dedicated public toilets right on the sand, but facilities are available at the adjacent caravan and camping park."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann ich meinen Hund mit an den Strand bringen?",
+     "hu": "Vihetem a kutyámat a strandra?",
+     "ro": "Pot să-mi aduc câinele la plajă?",
+     "en": "Can I bring my dog to the beach?"
+    },
+    "a": {
+     "de": "Hunde sind grundsätzlich erlaubt, sollten aber an der Leine geführt werden, um die lokale Tierwelt und die weidenden Schafe in den umliegenden Dünen zu schützen.",
+     "hu": "A kutyák általában megengedettek, de pórázon kell őket tartani a helyi élővilág és a környező dűnéken legelésző birkák védelme érdekében.",
+     "ro": "Câinii sunt, în general, permiși, dar ar trebui ținuți în lesă pentru a proteja fauna locală și oile la păscut din dunele înconjurătoare.",
+     "en": "Dogs are generally allowed but should be kept on a lead to protect the local wildlife and grazing sheep in the surrounding dunes."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist es sicher für Wassersport?",
+     "hu": "Biztonságos a vízi sportokhoz?",
+     "ro": "Este sigur pentru sporturi nautice?",
+     "en": "Is it safe for water sports?"
+    },
+    "a": {
+     "de": "Ja, die Bucht ist etwas geschützt, was sie zu einem beliebten und relativ sicheren Ort zum Windsurfen, Kitesurfen und Stand-Up-Paddling macht.",
+     "hu": "Igen, az öböl némileg védett, így népszerű és viszonylag biztonságos hely a szörfözéshez, kiteszörfözéshez és a SUP-ozáshoz.",
+     "ro": "Da, golful este oarecum adăpostit, făcându-l o locație populară și relativ sigură pentru windsurfing, kite surfing și paddleboarding.",
+     "en": "Yes, the bay is somewhat sheltered, making it a popular and relatively safe location for windsurfing, kite surfing, and paddleboarding."
+    }
+   }
+  ]
+ },
+ "inch-beach": {
+  "slug": "inch-beach",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": true,
+  "accessible": true,
+  "intro": {
+   "de": "Inch Beach ist ein ununterbrochener Abschnitt aus goldenem Sand auf der Dingle-Halbinsel im irischen County Kerry. Dieser majestätische Strand, der sich über etwa 5 Kilometer erstreckt, ragt in die Dingle Bay hinein und bietet einen Panoramablick auf die Gebirgszüge MacGillycuddy's Reeks und Slieve Mish. Die Landschaft, in der sanfte grüne Hügel auf den wilden Atlantik treffen, schafft eine unvergessliche Atmosphäre, die Naturliebhaber, Surfer und Fotografen anzieht. Die enorme Größe des Strandes bedeutet, dass man selbst an besuchten Tagen immer ein ruhiges Plätzchen findet.\n\nDer Strand ist berühmt für seine hervorragenden Surfbedingungen und wird von konstanten Wellen des Atlantiks umspült, was ihn zu einem Paradies für Surfer macht. Die Wasserfarbe wechselt zwischen tiefem Blau und stürmischem Grau und spiegelt das ständig wechselnde irische Wetter wider. Abseits des Surfens eignet sich der feste, flache Sand perfekt für lange Strandspaziergänge, Kitesurfen und ausgiebige Erkundungstouren.\n\nWas Inch Beach besonders einzigartig macht, ist die Tatsache, dass Besucher mit ihren Fahrzeugen direkt auf den Sand fahren dürfen. Dies bietet einen unvergleichlichen Komfort, insbesondere für Familien mit viel Gepäck oder für Menschen mit eingeschränkter Mobilität. Der Strand bleibt jedoch wunderbar natürlich und behält seinen ungezähmten Charme. Egal, ob Sie Wellenreiten, einen spektakulären Sonnenuntergang bewundern oder einfach nur die atlantische Luft einatmen möchten, Inch Beach ist unvergesslich.",
+   "hu": "Az Inch Beach egy lenyűgöző, megszakítás nélküli, aranyhomokos partszakasz az írországi Kerry megyében, a Dingle-félszigeten. A mintegy 5 kilométer hosszan elnyúló, fenséges strand a Dingle-öbölbe nyúlik be, lélegzetelállító panorámát nyújtva a MacGillycuddy's Reeks és a Slieve Mish hegyvonulatokra. A drámai táj, ahol a zöldellő dombok találkoznak a vad Atlanti-óceánnal, felejthetetlen hangulatot teremt, amely vonzza a természet szerelmeseit, a szörfösöket és a fotósokat. A strand hatalmas mérete miatt még a forgalmas napokon is könnyen találhatunk békés helyet.\n\nA kiváló szörfözési feltételeiről híres partot az Atlanti-óceán folyamatos hullámai mossák, így igazi paradicsom mind a kezdő, mind a tapasztalt szörfösök számára. A víz színe a mélykék és a viharos szürke között váltakozik, visszatükrözve a folyton változó ír időjárást. A szörfözésen túl a szilárd, lapos homok tökéletes hosszú tengerparti sétákhoz, sárkányszörfözéshez és a kiterjedt partvidék felfedezéséhez.\n\nAmi az Inch Beach-et különösen egyedivé teszi, hogy ez azon kevés írországi strandok egyike, ahol a látogatók közvetlenül a homokra hajthatnak be a járműveikkel. Ez páratlan kényelmet kínál, különösen a sok felszerelést cipelő családok vagy a mozgásukban korlátozottak számára. A strand csodálatosan természetes és beépítetlen marad, megőrizve vad, érintetlen varázsát. Akár szörfözni jön, akár egy látványos naplementét megcsodálni, vagy csak belélegezni a tiszta atlanti levegőt, az Inch Beach felejthetetlen.",
+   "ro": "Plaja Inch este o întindere uluitoare și neîntreruptă de nisip auriu, situată pe Peninsula Dingle din Comitatul Kerry, Irlanda. Având o lungime de aproximativ 5 kilometri, această plajă maiestuoasă pătrunde în Golful Dingle, oferind vederi panoramice uluitoare asupra lanțurilor muntoase MacGillycuddy's Reeks și Slieve Mish. Peisajul dramatic, unde dealurile verzi întâlnesc Oceanul Atlantic, creează o atmosferă cu adevărat de neuitat, care atrage iubitorii de natură, surferii și fotografii. Dimensiunea uriașă a plajei înseamnă că, chiar și în zilele aglomerate, puteți găsi întotdeauna un loc liniștit.\n\nRenumită pentru condițiile sale excelente de surfing, plaja este scăldată de valurile constante ale Atlanticului, devenind un paradis atât pentru surferii începători, cât și pentru cei experimentați. Culoarea apei alternează între albastru profund și gri furtunos, reflectând vremea irlandeză în continuă schimbare. Dincolo de surfing, nisipul ferm și plat este perfect pentru plimbări lungi pe coastă, kitesurfing și explorarea țărmului vast.\n\nCeea ce face plaja Inch cu adevărat unică este faptul că reprezintă una dintre puținele plaje din Irlanda unde vizitatorilor li se permite să conducă vehiculele direct pe nisip. Acest lucru oferă un confort de neegalat, în special pentru familiile cu multe bagaje sau pentru persoanele cu mobilitate redusă. Plaja rămâne minunat de naturală și nedezvoltată, păstrându-și farmecul sălbatic. Indiferent dacă veniți să prindeți un val, să admirați un apus spectaculos sau pur și simplu să respirați aerul pur al Atlanticului, experiența este una de neuitat.",
+   "en": "Inch Beach is a stunning, uninterrupted stretch of golden sand located on the Dingle Peninsula in County Kerry, Ireland. Spanning approximately 5 kilometers, this majestic beach extends into Dingle Bay, offering breathtaking panoramic views of the MacGillycuddy's Reeks and the Slieve Mish mountain ranges. The dramatic landscape, where rolling green hills meet the wild Atlantic Ocean, creates a truly unforgettable atmosphere that draws nature lovers, surfers, and photographers. The sheer scale of the beach means that even on busy days, you can always find a quiet, peaceful spot.\n\nRenowned for its excellent surf conditions, the beach is pounded by consistent Atlantic swells, making it a paradise for both beginner and experienced surfers. The water color shifts between deep blues and stormy greys, reflecting the ever-changing Irish weather. Beyond surfing, the firm, flat sand is perfect for long coastal walks, kite surfing, and exploring the expansive shoreline.\n\nWhat makes Inch Beach particularly unique is that it is one of the few beaches in Ireland where visitors are permitted to drive their vehicles directly onto the sand. This offers unparalleled convenience, especially for families carrying gear or those with mobility issues. The beach remains wonderfully natural and undeveloped, retaining its wild, untamed charm. Whether you come to catch a wave, admire a spectacular sunset, or simply breathe in the pure Atlantic air, Inch Beach is unforgettable."
+  },
+  "type": {
+   "de": "Sandig",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Das Wasser des Atlantischen Ozeans ist generell kalt und fällt sehr flach ab, weist jedoch oft starke Wellen und Strömungen auf, die ideal zum Surfen sind.",
+   "hu": "Az Atlanti-óceán vize általában hideg, a part fokozatosan és lassan mélyül, bár a szörfözéshez tökéletes, erős hullámok és áramlatok is jellemzőek.",
+   "ro": "Apa Oceanului Atlantic este în general rece și se adâncește foarte treptat, deși prezintă adesea valuri puternice și curenți excelenți pentru surfing.",
+   "en": "The water of the Atlantic Ocean is generally cold and features a very gradual slope, ideal for wading, though it can have strong waves and currents perfect for surfing."
+  },
+  "access": {
+   "de": "Leicht mit dem Auto über die Straße R561 zu erreichen, mit der Besonderheit, dass man direkt auf den festen Sand des Strandes fahren kann.",
+   "hu": "Autóval könnyen megközelíthető az R561-es útról, és különlegessége, hogy közvetlenül a part szilárd homokjára is rá lehet hajtani.",
+   "ro": "Ușor accesibil cu mașina de pe drumul R561, având caracteristica unică de a putea conduce și parca direct pe nisipul ferm al plajei.",
+   "en": "Easily accessible by car from the R561 road, with the unique feature of being able to drive and park directly on the firm sand of the beach."
+  },
+  "parking": {
+   "de": "Das Parken erfolgt kostenlos direkt auf dem Strandsand, jedoch müssen Autofahrer die Gezeiten genau im Auge behalten, um nicht stecken zu bleiben.",
+   "hu": "A parkolás ingyenes, közvetlenül a tengerparti homokon történik, de a dagályra nagyon kell ügyelni, nehogy a víz fogságába essen az autó.",
+   "ro": "Parcarea este gratuită, direct pe nisipul plajei, dar șoferii trebuie să fie foarte atenți la flux pentru a nu rămâne împotmoliți.",
+   "en": "Parking is directly on the beach sand for free, but drivers must be extremely careful of the incoming tides to avoid getting their cars stuck."
+  },
+  "facilities": {
+   "de": [
+    "Café",
+    "Toiletten",
+    "Surfschule",
+    "Wassersportverleih",
+    "Neoprenanzugverleih"
+   ],
+   "hu": [
+    "Kávézó",
+    "Mosdók",
+    "Szörfiskola",
+    "Vízisport-eszköz bérlés",
+    "Neoprén ruha bérlés"
+   ],
+   "ro": [
+    "Cafenea",
+    "Toalete",
+    "Școală de surf",
+    "Închiriere echipament nautic",
+    "Închiriere costume neopren"
+   ],
+   "en": [
+    "Cafe",
+    "Toilets",
+    "Surf school",
+    "Watersports rental",
+    "Wetsuit rental"
+   ]
+  },
+  "family": {
+   "de": "Ein hervorragender Strand für Familien aufgrund des enormen Platzangebots für Spiele und dem bequemen Parken direkt auf dem Sand.",
+   "hu": "Kiváló strand családok számára a hatalmas tér miatt, ráadásul nagyon kényelmes, hogy minden felszereléssel együtt a homokon lehet parkolni.",
+   "ro": "O plajă excelentă pentru familii datorită spațiului imens pentru joacă și a confortului de a parca direct pe nisip cu tot echipamentul.",
+   "en": "An excellent beach for families due to the vast amounts of space for games and the convenience of parking right on the sand with all your gear."
+  },
+  "kids": {
+   "de": "Kinder lieben den festen Sand, der sich perfekt zum Sandburgenbauen eignet; im Wasser sollten sie jedoch wegen der Strömungen stets beaufsichtigt werden.",
+   "hu": "A gyerekek imádják a végtelen, homokvár-építésre alkalmas partot, de az óceáni áramlatok miatt a vízben állandó szülői felügyelet szükséges.",
+   "ro": "Copiii adoră nisipul ferm, perfect pentru construirea de castele, deși trebuie supravegheați cu atenție în apropierea apei din cauza curenților.",
+   "en": "Children love the miles of firm sand perfect for building sandcastles, though they should be constantly supervised near the water due to ocean currents."
+  },
+  "gastro": [
+   {
+    "name": "Sammy's Cafe",
+    "tip": {
+     "de": "Direkt am Strand gelegen, berühmt für seine frische Meeresfrüchtesuppe (Chowder) und Fish and Chips.",
+     "hu": "Közvetlenül a tengerparton található, híres a friss tenger gyümölcsei leveséről (chowder) és a fish and chips-ről.",
+     "ro": "Situată chiar pe plajă, este renumită pentru supa sa de fructe de mare (chowder) și fish and chips.",
+     "en": "Located right on the beach, it's famous for its fresh seafood chowder and fish and chips."
+    }
+   },
+   {
+    "name": "Dingle Town",
+    "tip": {
+     "de": "Eine kurze Fahrt nach Dingle bietet frische Atlantikaustern und traditionelles irisches Pub-Essen.",
+     "hu": "Rövid autóútra, Dingle városában friss atlanti osztrigát és hagyományos ír pub-ételeket kóstolhatunk.",
+     "ro": "La o scurtă călătorie cu mașina, orașul Dingle oferă stridii proaspete din Atlantic și mâncare tradițională de pub.",
+     "en": "Just a short drive away, head to Dingle town for fresh Atlantic oysters and traditional Irish pub food."
+    }
+   },
+   {
+    "name": "Local Bakeries",
+    "tip": {
+     "de": "Probieren Sie warmes irisches Sodabrot und Scones mit Butter in den nahegelegenen Cafés der Region.",
+     "hu": "Próbálja ki a meleg ír szódás kenyeret és a pogácsákat (scone) vajjal a környékbeli kávézókban.",
+     "ro": "Încercați pâinea caldă irlandeză cu sodă și scone cu unt, disponibile în cafenelele din apropiere.",
+     "en": "Try warm Irish soda bread and scones with butter, easily found in nearby coastal cafes."
+    }
+   }
+  ],
+  "entrance": {
+   "de": "Der Zugang zum Strand und das Parken auf dem Sand sind völlig kostenlos.",
+   "hu": "A strand belépése és a homokon való parkolás teljesen ingyenes.",
+   "ro": "Accesul la plajă și parcarea pe nisip sunt complet gratuite.",
+   "en": "Access to the beach and parking on the sand is completely free of charge."
+  },
+  "lifeguard": {
+   "de": "Rettungsschwimmer sind in den Sommermonaten (meist Juni bis August) und an Septemberwochenenden im Einsatz.",
+   "hu": "A nyári hónapokban (általában júniustól augusztusig) és szeptemberi hétvégéken vízimentők teljesítenek szolgálatot.",
+   "ro": "Salvamarii sunt de serviciu în lunile de vară (de obicei din iunie până în august) și în weekendurile din septembrie.",
+   "en": "Lifeguards are on duty during the summer months (usually June to August) and on weekends in September."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten am Strand, daher sollten Besucher eigene Sonnenschirme oder Windschutze mitbringen.",
+   "hu": "A tengerparton nincs természetes árnyék, ezért a látogatóknak érdemes saját napernyőt vagy szélfogót hozniuk.",
+   "ro": "Nu există umbră naturală pe plajă, așa că vizitatorii trebuie să își aducă propriile umbrele sau apărători de vânt.",
+   "en": "There is no natural shade on the beach, so visitors must bring their own windbreaks or umbrellas."
+  },
+  "best_time": {
+   "de": "Die Sommermonate Juli und August bieten das wärmste Wetter, während der September oft tolle Wellen zum Surfen bringt.",
+   "hu": "A júliusi és augusztusi nyári hónapok kínálják a legmelegebb időt, míg a szeptember gyakran remek hullámokat hoz a szörfözéshez.",
+   "ro": "Lunile de vară, iulie și august, oferă cea mai caldă vreme, în timp ce septembrie aduce adesea valuri excelente pentru surfing.",
+   "en": "The summer months of July and August offer the warmest weather, while September often brings great waves for surfing."
+  },
+  "nearby": {
+   "de": "Die lebhafte Stadt Dingle ist etwa 25 Autominuten entfernt und bietet bunte Pubs, Bootstouren und Zugang zum malerischen Slea Head Drive.",
+   "hu": "A nyüzsgő Dingle városa körülbelül 25 perces autóútra található, színes kocsmákkal, hajótúrákkal és a festői Slea Head Drive útvonalával.",
+   "ro": "Orașul vibrant Dingle se află la aproximativ 25 de minute de mers cu mașina, oferind pub-uri colorate, excursii cu barca și acces la traseul pitoresc Slea Head Drive.",
+   "en": "The vibrant town of Dingle is about a 25-minute drive away, offering colorful pubs, boat tours, and access to the scenic Slea Head Drive."
+  },
+  "tips": {
+   "de": [
+    "Überprüfen Sie die Gezeiten, bevor Sie auf dem Sand parken.",
+    "Bringen Sie auch im Sommer eine warme, winddichte Jacke mit.",
+    "Mieten Sie einen Neoprenanzug, wenn Sie baden möchten.",
+    "Besuchen Sie den Strand früh morgens für einen ruhigen Spaziergang."
+   ],
+   "hu": [
+    "Mielőtt a homokon parkolna, mindig ellenőrizze a dagály idejét.",
+    "Még nyáron is hozzon magával meleg, szélálló kabátot.",
+    "Béreljen neoprén ruhát, ha hosszabb időt tölt a vízben.",
+    "Látogasson el kora reggel egy békés és csendes sétára."
+   ],
+   "ro": [
+    "Verificați orele mareei înainte de a parca pe nisip.",
+    "Aduceți o jachetă caldă, rezistentă la vânt, chiar și vara.",
+    "Închiriați un costum de neopren dacă plănuiți să intrați în apă.",
+    "Vizitați dis-de-dimineață pentru o plimbare liniștită."
+   ],
+   "en": [
+    "Check the tide times before parking on the sand.",
+    "Bring a warm, windproof jacket even in the summer.",
+    "Rent a wetsuit if you plan to stay in the water.",
+    "Visit early in the morning for a peaceful, empty beach walk."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Darf man auf dem Inch Beach Auto fahren?",
+     "hu": "Rá lehet hajtani autóval az Inch Beach-re?",
+     "ro": "Se poate conduce pe plaja Inch?",
+     "en": "Can you drive on Inch Beach?"
+    },
+    "a": {
+     "de": "Ja, man kann direkt auf den Sand fahren und dort parken, aber achten Sie immer auf die Flut.",
+     "hu": "Igen, autóval rá lehet hajtani és a homokon lehet parkolni, de nagyon kell ügyelni a dagályra.",
+     "ro": "Da, puteți conduce și parca direct pe nisip, dar fiți extrem de atenți la flux.",
+     "en": "Yes, you can drive and park directly on the sand, but be cautious of the incoming tide."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist das Schwimmen am Inch Beach sicher?",
+     "hu": "Biztonságos a fürdőzés az Inch Beach-en?",
+     "ro": "Este plaja Inch sigură pentru înot?",
+     "en": "Is Inch Beach safe for swimming?"
+    },
+    "a": {
+     "de": "Ja, aber schwimmen Sie nur in den überwachten Bereichen, da es starke Strömungen geben kann.",
+     "hu": "Igen, de csak a vízimentők által felügyelt területeken fürödjön, mert erős óceáni áramlatok lehetnek.",
+     "ro": "Da, dar înotați doar în zonele supravegheate de salvamari, deoarece pot exista curenți puternici.",
+     "en": "Yes, but only swim in the designated areas patrolled by lifeguards, as there can be strong currents."
+    }
+   },
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Kutyát lehet vinni a strandra?",
+     "ro": "Sunt permiși câinii pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Ja, Hunde sind willkommen, müssen aber im Sommer und in den überwachten Zonen an der Leine geführt werden.",
+     "hu": "Igen, a kutyákat szívesen látják, de a forgalmas nyári hónapokban és a felügyelt részeken pórázon kell tartani őket.",
+     "ro": "Da, câinii sunt bineveniți, dar trebuie ținuți în lesă în lunile de vară aglomerate și în zonele supravegheate.",
+     "en": "Yes, dogs are welcome but must be kept on a lead during the busy summer months and in lifeguard-patrolled areas."
+    }
+   },
+   {
+    "q": {
+     "de": "Werden Surfkurse angeboten?",
+     "hu": "Vannak szörfoktatási lehetőségek?",
+     "ro": "Sunt disponibile lecții de surfing?",
+     "en": "Are there surfing lessons available?"
+    },
+    "a": {
+     "de": "Ja, direkt am Strand gibt es Surfschulen, die Kurse und Ausrüstungsverleih für alle Niveaus anbieten.",
+     "hu": "Igen, közvetlenül a strandon működnek szörfiskolák, amelyek oktatást és eszközbérlést is kínálnak.",
+     "ro": "Da, chiar pe plajă există școli de surf care oferă lecții și închiriere de echipament pentru toate nivelurile.",
+     "en": "Yes, there are surf schools right at the beach offering lessons and equipment rental for all levels."
+    }
+   }
+  ]
+ },
+ "owenahincha": {
+  "slug": "owenahincha",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "Owenahincha ist ein wunderschöner, weitläufiger Sandstrand an der malerischen Küste von West Cork, Irland, nur eine kurze Fahrt vom charmanten Dorf Rosscarbery entfernt. Begrenzt von sanften Sanddünen und den üppigen, weitläufigen Wäldern des Castlefreke-Anwesens, bietet er einen faszinierenden Kontrast zwischen rauer Küstenschönheit und grüner Natur. Der Strand ist direkt dem Atlantischen Ozean zugewandt, was ihn zu einem beliebten Ort für beeindruckende Wellen macht, bedeutet aber auch, dass das Meer hier wild und ungezähmt sein kann.\n\nBei Ebbe entlang des breiten Strandes spazierend, können Besucher die Weite der Keltischen See und die zerklüftete Küste Südirlands schätzen. Die Gegend ist seit langem ein traditionelles Urlaubsziel, mit nahegelegenen Wohnwagenparks, die in den Sommermonaten belebt sind. Trotz seiner Beliebtheit sorgt die schiere Größe von Owenahincha dafür, dass es sich selten überfüllt anfühlt und friedliche Spaziergänge ermöglicht, besonders am frühen Morgen oder in der Nebensaison.\n\nDie Verbindung zur Natur ist hier spürbar. Ein kurzer Spaziergang entlang der Küstenpfade oder durch die nahegelegenen Wälder bietet atemberaubende Panoramablicke und Möglichkeiten zur Tierbeobachtung. Ob Sie die atlantischen Dünungen surfen, einen erfrischenden Strandspaziergang genießen oder einfach die dramatische Küstenlandschaft der Grafschaft Cork auf sich wirken lassen möchten, Owenahincha dient als perfekter, typisch irischer Küstenurlaubsort.",
+   "hu": "Owenahincha egy gyönyörű, kiterjedt homokos strand Nyugat-Cork festői partvidékén, Írországban, csupán egy rövid autóútra Rosscarbery bájos falujától. A hullámzó homokdűnék és a Castlefreke birtok buja, hatalmas erdei által határolt terület lenyűgöző kontrasztot kínál a nyers tengerparti szépség és a zöldellő természet között. A strand közvetlenül az Atlanti-óceánra néz, így népszerű hely a lenyűgöző hullámok meglovaglására, bár ez azt is jelenti, hogy a tenger itt vad és szeszélyes lehet.\n\nApály idején a széles parton sétálva a látogatók megcsodálhatják a Kelta-tenger végtelenségét és Dél-Írország zord partvonalát. A környék régóta hagyományos nyaralóhely, a közeli lakókocsiparkok a nyári hónapokban megtelnek élettel. Népszerűsége ellenére Owenahincha puszta mérete biztosítja, hogy ritkán érződik túlzsúfoltnak, így békés sétákat tesz lehetővé, különösen kora reggel vagy az utószezonban.\n\nA természettel való kapcsolat itt kézzelfogható. Egy rövid séta a part menti ösvényeken vagy a közeli erdőkben lenyűgöző panorámát és vadvilág-megfigyelési lehetőségeket kínál. Akár szörfözni szeretne az atlanti hullámokon, akár egy frissítő tengerparti sétára vágyik, vagy egyszerűen csak élvezni akarja Cork megye drámai parti tájait, Owenahincha tökéletes, hamisítatlan ír tengerparti menedéket nyújt.",
+   "ro": "Owenahincha este o plajă vastă și frumoasă cu nisip, situată pe coasta pitorească din West Cork, Irlanda, la doar o scurtă călătorie cu mașina de satul fermecător Rosscarbery. Mărginită de dune de nisip ondulate și de pădurile luxuriante și întinse ale domeniului Castlefreke, plaja oferă un contrast izbitor între frumusețea brută a coastei și natura înverzită. Plaja este orientată direct spre Oceanul Atlantic, ceea ce o face un loc popular pentru prinderea valurilor impresionante, deși acest lucru înseamnă, de asemenea, că marea aici poate fi sălbatică și neîmblânzită.\n\nPlimbându-se de-a lungul țărmului lat la reflux, vizitatorii pot aprecia imensitatea Mării Celtice și coasta accidentată a sudului Irlandei. Zona a fost mult timp o destinație tradițională de vacanță, parcurile de rulote din apropiere fiind pline de viață în lunile de vară. În ciuda popularității sale, dimensiunea uriașă a plajei Owenahincha asigură că rareori se simte supraaglomerată, permițând plimbări pașnice, în special dimineața devreme sau în extrasezon.\n\nConexiunea cu natura este palpabilă aici. O scurtă plimbare pe potecile de coastă sau prin pădurile din apropiere oferă vederi panoramice uimitoare și oportunități de a observa fauna sălbatică. Fie că doriți să faceți surf pe valurile atlantice, să vă bucurați de o plimbare revigorantă pe malul mării sau pur și simplu să admirați peisajul de coastă dramatic al comitatului Cork, Owenahincha servește ca o evadare perfectă, tipic irlandeză la mare.",
+   "en": "Owenahincha is a beautiful, expansive sandy beach located on the scenic coast of West Cork, Ireland, just a short drive from the picturesque village of Rosscarbery. Backed by rolling sand dunes and the lush, sprawling woodlands of the Castlefreke estate, it offers a striking contrast between raw coastal beauty and verdant nature. The beach faces directly into the Atlantic Ocean, making it a popular spot for catching impressive waves, though this also means the sea here can be wild and untamed.\n\nWalking along the wide strand at low tide, visitors can appreciate the vastness of the Celtic Sea and the rugged coastline of Southern Ireland. The area has long been a traditional holiday destination, with nearby caravan parks bustling during the summer months. Despite its popularity, the sheer size of Owenahincha ensures that it rarely feels overcrowded, allowing for peaceful walks, especially in the early mornings or during the off-season.\n\nThe connection to nature is palpable here. A short walk along the coastal paths or through the nearby woods provides stunning panoramic views and opportunities for wildlife spotting. Whether you are looking to surf the Atlantic swells, enjoy a bracing seaside walk, or simply take in the dramatic coastal scenery of County Cork, Owenahincha serves as a perfect, quintessentially Irish seaside getaway."
+  },
+  "type": {
+   "de": "Sandig",
+   "hu": "Homokos",
+   "ro": "Cu nisip",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Das Wasser des Atlantiks ist hier erfrischend, weist aber oft eine starke Brandung und Strömungen auf. Der Einstieg über den sandigen Hang ist sanft, aber Schwimmer müssen wegen der Wellen vorsichtig sein.",
+   "hu": "Az Atlanti-óceán vize itt frissítő, de gyakran erős a hullámzás és a hasadóáramlás. A homokos lejtőn a bejutás fokozatos, de a fürdőzőknek óvatosnak kell lenniük a hullámok miatt.",
+   "ro": "Apele Oceanului Atlantic de aici sunt răcoritoare, dar adesea prezintă valuri puternice și curenți de retur. Intrarea pe panta de nisip este treptată, dar înotătorii trebuie să fie prudenți din cauza valurilor.",
+   "en": "The waters of the Atlantic Ocean here are refreshing but often feature strong surf and rip currents. Entry is gradual on the sandy slope, but swimmers must exercise caution due to the waves."
+  },
+  "access": {
+   "de": "Leicht mit dem Auto über lokale Straßen von Rosscarbery aus erreichbar, mit direkter Zufahrt bis zum Strandbereich.",
+   "hu": "Autóval könnyen megközelíthető Rosscarbery felől a helyi utakon, közvetlen rálátással és hozzáféréssel a partra.",
+   "ro": "Ușor accesibil cu mașina pe drumurile locale din Rosscarbery, cu acces direct la zona plajei.",
+   "en": "Easily accessible by car via local roads from Rosscarbery, with direct road access leading straight to the beachfront."
+  },
+  "parking": {
+   "de": "Es gibt kostenlose öffentliche Parkplätze direkt hinter dem Strand, die einen bequemen Zugang bieten.",
+   "hu": "Közvetlenül a strand mögött ingyenes nyilvános parkolók találhatók, amelyek kényelmes hozzáférést biztosítanak.",
+   "ro": "Există parcări publice gratuite situate direct în spatele plajei, oferind un acces convenabil.",
+   "en": "There are free public parking areas located directly behind the beach, offering convenient access."
+  },
+  "facilities": {
+   "de": [
+    "Toiletten",
+    "Parkplatz",
+    "Mülleimer",
+    "Rettungsschwimmer (Sommer)",
+    "Camping in der Nähe"
+   ],
+   "hu": [
+    "Mosdók",
+    "Parkoló",
+    "Szemetesek",
+    "Vízimentő (nyáron)",
+    "Közeli kemping"
+   ],
+   "ro": [
+    "Toalete",
+    "Parcare",
+    "Coșuri de gunoi",
+    "Salvamar (vara)",
+    "Camping în apropiere"
+   ],
+   "en": [
+    "Toilets",
+    "Parking",
+    "Bins",
+    "Lifeguard (summer)",
+    "Nearby camping"
+   ]
+  },
+  "family": {
+   "de": "Es ist ein traditionelles Familienurlaubsziel mit viel Platz für Strandspiele, aber wegen der Wellen müssen Eltern ihre Kinder im Wasser genau beaufsichtigen.",
+   "hu": "Hagyományos családi nyaralóhely, ahol rengeteg hely van a parti játékokhoz, de az erős hullámok miatt a szülőknek szorosan felügyelniük kell a gyerekeket a vízben.",
+   "ro": "Este o destinație tradițională de vacanță în familie, cu mult spațiu pentru jocuri pe plajă, deși valurile puternice înseamnă că părinții trebuie să supravegheze copiii în apă.",
+   "en": "It is a traditional family holiday destination with plenty of space for beach games, though the strong waves mean parents must closely supervise children in the water."
+  },
+  "kids": {
+   "de": "Kinder lieben es, die weitläufigen Sanddünen hinter dem Strand zu erkunden und bei Ebbe Sandburgen an der breiten Küste zu bauen.",
+   "hu": "A gyerekek imádják felfedezni a strand mögötti kiterjedt homokdűnéket és homokvárakat építeni a széles parton apály idején.",
+   "ro": "Copiii adoră să exploreze dunele vaste de nisip din spatele plajei și să construiască castele de nisip pe țărmul lat la reflux.",
+   "en": "Kids love exploring the extensive sand dunes backing the beach and building sandcastles on the wide shore at low tide."
+  },
+  "gastro": [
+   {
+    "name": "Seafood Chowder",
+    "tip": "Erhältlich in traditionellen Pubs im nahegelegenen Rosscarbery."
+   },
+   {
+    "name": "Fish and Chips",
+    "tip": "Am besten frisch von lokalen Imbissen in der Gegend zu genießen."
+   },
+   {
+    "name": "Handwerkliches Eis",
+    "tip": "Halten Sie an belebten Sommerwochenenden Ausschau nach mobilen Eiswagen in Strandnähe."
+   }
+  ],
+  "entrance": {
+   "de": "Der Zugang zum Strand ist das ganze Jahr über völlig kostenlos.",
+   "hu": "A strand látogatása egész évben teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit pe tot parcursul anului.",
+   "en": "Access to the beach is completely free of charge year-round."
+  },
+  "lifeguard": {
+   "de": "Rettungsschwimmer sind in der Regel während der Hochsommermonate Juli und August im Dienst.",
+   "hu": "A vízimentők jellemzően a főszezonban, júliusban és augusztusban teljesítenek szolgálatot.",
+   "ro": "Salvamarii sunt de obicei de serviciu în lunile de vârf de vară, iulie și august.",
+   "en": "Lifeguards are typically on duty during the peak summer months of July and August."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten am Strand, daher wird dringend empfohlen, einen eigenen Windschutz oder ein Strandzelt mitzubringen.",
+   "hu": "A strandon nincs természetes árnyék, ezért saját szélfogó vagy strandsátor hozatala erősen ajánlott.",
+   "ro": "Nu există umbră naturală pe plajă, așa că se recomandă aducerea propriului paravanț sau cort de plajă.",
+   "en": "There is no natural shade on the beach itself, so bringing your own windbreak or beach tent is highly recommended."
+  },
+  "best_time": {
+   "de": "Die beste Zeit für einen Besuch sind die Sommermonate zum Schwimmen oder frische Herbsttage zum Surfen und Spazierengehen.",
+   "hu": "A legjobb időszak a látogatásra a nyári hónapok fürdőzéshez, vagy a friss őszi napok szörfözéshez és sétához.",
+   "ro": "Cel mai bun moment pentru a vizita este în lunile de vară pentru înot, sau în zilele răcoroase de toamnă pentru surfing și plimbări.",
+   "en": "The best time to visit is during the summer months for swimming, or brisk autumn days for surfing and walking."
+  },
+  "nearby": {
+   "de": "Die historische Stadt Rosscarbery und der ruhige Warren Beach sind nur eine kurze Strecke entfernt und über einen malerischen Klippenpfad verbunden.",
+   "hu": "A történelmi Rosscarbery városa és a békés Warren Beach csak rövid távolságra van, amelyeket egy festői sziklaösvény köt össze.",
+   "ro": "Orașul istoric Rosscarbery și liniștita plajă Warren sunt la o distanță scurtă, legate printr-o potecă pitorească pe stânci.",
+   "en": "The historic town of Rosscarbery and the serene Warren Beach are just a short distance away, linked by a picturesque cliff walk."
+  },
+  "tips": {
+   "de": [
+    "Überprüfen Sie vor dem Besuch die Gezeiten, um den breitesten Sandstrand zu genießen.",
+    "Schwimmen Sie immer zwischen den Flaggen, wenn Rettungsschwimmer im Dienst sind, da starke Strömungen herrschen können.",
+    "Machen Sie einen Spaziergang zu den nahegelegenen Castlefreke-Wäldern für einen Tapetenwechsel.",
+    "Bringen Sie einen Windschutz mit, da die Atlantikbrise recht stark sein kann."
+   ],
+   "hu": [
+    "Látogatás előtt ellenőrizze az árapálytáblázatot, hogy élvezhesse a legszélesebb homokos partot.",
+    "Mindig a zászlók között ússzon, amikor a vízimentők szolgálatban vannak az erős áramlatok miatt.",
+    "Tegyen egy sétát a közeli Castlefreke erdőkbe a tájváltozatosság kedvéért.",
+    "Hozzon magával szélfogót, mivel az atlanti szél meglehetősen erős lehet."
+   ],
+   "ro": [
+    "Verificați orele mareelor înainte de a vizita pentru a vă bucura de cea mai lată întindere de nisip.",
+    "Înotați întotdeauna între steaguri atunci când salvamarii sunt de serviciu din cauza curenților puternici.",
+    "Faceți o plimbare spre pădurile Castlefreke din apropiere pentru o schimbare de peisaj.",
+    "Aduceți un paravan de vânt, deoarece briza atlantică poate fi destul de puternică."
+   ],
+   "en": [
+    "Check the tide times before visiting to enjoy the widest stretch of sand.",
+    "Always swim between the flags when lifeguards are on duty due to strong currents.",
+    "Take a walk to the nearby Castlefreke woods for a change of scenery.",
+    "Bring a windbreak, as the Atlantic breeze can be quite strong."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Sind die Bedingungen zum Surfen hier gut?",
+     "hu": "Jó hely ez a szörfözésre?",
+     "ro": "Este bun surfingul aici?",
+     "en": "Is surfing good here?"
+    },
+    "a": {
+     "de": "Ja, es ist ein beliebter Ort zum Surfen, obwohl die Bedingungen für Anfänger eine Herausforderung sein können.",
+     "hu": "Igen, népszerű hely a szörfösök körében, bár a körülmények kezdők számára kihívást jelenthetnek.",
+     "ro": "Da, este un loc popular pentru surfing, deși condițiile pot fi provocatoare pentru începători.",
+     "en": "Yes, it is a popular spot for surfing, though conditions can be challenging for beginners."
+    }
+   },
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Kutyák bevihetők a strandra?",
+     "ro": "Sunt permiși câinii pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Hunde sind in den Sommermonaten, wenn die Rettungsschwimmer im Dienst sind, eingeschränkt.",
+     "hu": "A kutyák bevitele a nyári hónapokban korlátozott, amikor a vízimentők szolgálatban vannak.",
+     "ro": "Câinii sunt restricționați în lunile de vară, când salvamarii sunt de serviciu.",
+     "en": "Dogs are restricted during the summer months when lifeguards are on duty."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es ein Café direkt am Strand?",
+     "hu": "Van kávézó közvetlenül a parton?",
+     "ro": "Există o cafenea direct pe plajă?",
+     "en": "Is there a cafe directly on the beach?"
+    },
+    "a": {
+     "de": "Es gibt keine permanenten Cafés direkt im Sand, aber es gibt Optionen in den nahegelegenen Ferienparks oder in Rosscarbery.",
+     "hu": "Közvetlenül a homokon nincsenek állandó kávézók, de a közeli üdülőparkokban vagy Rosscarberyben vannak lehetőségek.",
+     "ro": "Nu există cafenele permanente direct pe nisip, dar opțiunile sunt disponibile în parcurile de vacanță din apropiere sau în Rosscarbery.",
+     "en": "There are no permanent cafes directly on the sand, but options are available in nearby holiday parks or Rosscarbery."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann ich am Strand zelten?",
+     "hu": "Lehet kempingezni a strandon?",
+     "ro": "Pot campa pe plajă?",
+     "en": "Can I camp on the beach?"
+    },
+    "a": {
+     "de": "Wildes Zelten am Strand ist nicht gestattet, aber es gibt angrenzend etablierte Wohnwagen- und Campingplätze.",
+     "hu": "A vadkempingezés a strandon nem engedélyezett, de a közvetlen közelben kialakított lakókocsi- és kempingparkok találhatók.",
+     "ro": "Camparea sălbatică pe plajă nu este permisă, dar există parcuri stabilite pentru rulote și camping adiacente acesteia.",
+     "en": "Wild camping on the beach is not permitted, but there are established caravan and camping parks adjacent to it."
+    }
+   }
+  ]
+ },
+ "rossbeigh": {
+  "slug": "rossbeigh",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": true,
+  "accessible": true,
+  "intro": {
+   "de": "Der Rossbeigh Beach, am malerischen Ring of Kerry nahe dem Dorf Glenbeigh gelegen, ist ein spektakulärer, sieben Kilometer langer goldener Sandstrand, der weit in die Dingle Bay hineinragt. Gesäumt von ausgedehnten Sanddünen und mit einem atemberaubenden Panoramablick auf die Slieve Mish Mountains sowie die gegenüberliegende Dingle-Halbinsel, gilt er als eines der schönsten Küstenziele Irlands. Diese wilde, dramatische Landschaft macht ihn zu einem perfekten Zwischenstopp für Naturliebhaber und Roadtrip-Reisende.\n\nDer Strand ist berühmt für seine erfrischende atlantische Atmosphäre. Die tosenden Wellen und die weite Sandfläche schaffen eine Umgebung von ungezähmter Schönheit, in der die Luft klar und die Meeresbrise allgegenwärtig ist. Egal, ob Sie einen friedlichen Morgenspaziergang machen, um die Gezeiten zu beobachten, oder einen dramatischen Sonnenuntergang erleben möchten, der den Himmel über Kerry in Flammen setzt – Rossbeigh bietet ein sinnliches Erlebnis, das die wahre Essenz des Wild Atlantic Way einfängt.\n\nÜber seine natürliche Schönheit hinaus ist Rossbeigh ein Zentrum für Outdoor-Aktivitäten. Besonders berühmt ist der Strand für Ausritte entlang der Brandung, ein ikonisches Erlebnis in Kerry, das Reiter aus aller Welt anzieht. Auch bei Surfern, Kitesurfern und Schwimmern ist der Strand in den Sommermonaten sehr beliebt. Die Kombination aus rauer Natur, der reichen Artenvielfalt in den Dünen und der atemberaubenden Aussicht macht Rossbeigh unvergesslich.",
+   "hu": "A festői Ring of Kerry útvonalon, Glenbeigh falu közelében fekvő Rossbeigh Beach egy lenyűgöző, hét kilométer hosszú aranyhomokos partszakasz, amely hosszan nyúlik be a Dingle-öbölbe. A kiterjedt homokdűnékkel övezett tengerpartról lélegzetelállító panoráma nyílik a Slieve Mish-hegységre és a szemközti Dingle-félszigetre. Ezt a vad, drámai tájat Írország egyik legszebb tengerparti célpontjaként tartják számon, amely tökéletes megállóhely a természet szerelmeseinek és az utazóknak egyaránt.\n\nA strand híres élénkítő atlanti atmoszférájáról. A robajló hullámok és a hatalmas homokos térség a zabolátlan szépség környezetét teremti meg, ahol a levegő mindig friss és az óceáni szellő folyamatos. Akár egy békés reggeli sétára vágyik a dagályt figyelve, akár egy drámai naplementére, amely lángba borítja a kerry-i eget, Rossbeigh olyan érzékszervi élményt nyújt, amely megragadja a Wild Atlantic Way igazi lényegét.\n\nTermészeti szépségén túl Rossbeigh a szabadtéri tevékenységek központja is. Különösen híres a hullámok menti lovaglásról, amely egy ikonikus helyi élmény, és mindenhonnan vonzza a lovasokat. A strand a nyári hónapokban népszerű a szörfösök, kiteszörfösök és fürdőzők körében is. A nyers természeti környezet, a dűnék gazdag helyi biológiai sokfélesége és a lélegzetelállító kilátás kombinációja teszi Rossbeigh-t felejthetetlenné.",
+   "ro": "Plaja Rossbeigh, situată pe pitorescul traseu Ring of Kerry, lângă satul Glenbeigh, este o întindere spectaculoasă de șapte kilometri de nisip auriu care înaintează în Golful Dingle. Mărginită de dune de nisip extinse și oferind o priveliște panoramică uimitoare asupra Munților Slieve Mish și a Peninsulei Dingle, este considerată pe scară largă drept una dintre cele mai frumoase destinații de coastă din Irlanda. Peisajul sălbatic și dramatic face din această plajă o oprire perfectă pentru iubitorii de natură și pasionații de călătorii rutiere.\n\nPlaja este renumită pentru atmosfera sa atlantică revigorantă. Valurile care se sparg la mal și vasta întindere de nisip creează un mediu de o frumusețe neîmblânzită, unde aerul este proaspăt, iar briza oceanului este constantă. Fie că sunteți în căutarea unei plimbări pașnice dimineața pentru a privi mareea, fie că doriți să admirați un apus de soare dramatic care aprinde cerul din Kerry, Rossbeigh oferă o experiență senzorială care surprinde adevărata esență a rutei Wild Atlantic Way.\n\nDincolo de frumusețea sa naturală, Rossbeigh este un centru al activităților în aer liber. Este renumită pentru călăria de-a lungul apei, o experiență emblematică în Kerry, care atrage călăreți de pretutindeni. Plaja este, de asemenea, populară pentru surfing, kite-surfing și înot în timpul lunilor de vară. Combinația dintre mediul natural brut, bogata biodiversitate locală din dune și priveliștile uluitoare face din Rossbeigh o oprire de neuitat.",
+   "en": "Rossbeigh Beach, located on the picturesque Ring of Kerry near the village of Glenbeigh, is a spectacular seven-kilometre-long stretch of golden sand protruding into Dingle Bay. Backed by extensive sand dunes and offering stunning panoramic views of the Slieve Mish Mountains and the Dingle Peninsula across the bay, it is widely considered one of Ireland's most beautiful coastal destinations. The wild, dramatic scenery makes it a perfect stop for nature lovers and road-trippers alike.\n\nThe beach is renowned for its invigorating Atlantic atmosphere. The crashing waves and the vast expanse of sand create an environment of untamed beauty, where the air is crisp and the ocean breeze is constant. Whether you are looking for a peaceful morning walk to watch the tide or a dramatic sunset setting the Kerry sky ablaze, Rossbeigh delivers a sensory experience that captures the true essence of the Wild Atlantic Way.\n\nBeyond its natural beauty, Rossbeigh is a hub of outdoor activity. It is famous for horse riding along the surf, an iconic Kerry experience that attracts riders from all over. The beach is also popular for surfing, kite-surfing, and swimming during the summer months. The combination of its raw natural environment, the rich local biodiversity in the dunes, and the breathtaking views makes Rossbeigh an unforgettable stop on the Irish coast."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Nisipos",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Die Wasserqualität ist in der Regel ausgezeichnet, typisch für die Atlantikküste. Das Ufer fällt flach ab, aber die Brandung kann je nach Wetterlage stark sein.",
+   "hu": "A vízminőség általában kiváló, ami jellemző az atlanti partvidékre. A part lassan mélyül, de az időjárástól függően erős hullámzás alakulhat ki.",
+   "ro": "Calitatea apei este în general excelentă, specifică coastei atlantice. Malul coboară lin, dar valurile pot fi puternice în funcție de vreme.",
+   "en": "The water quality is generally excellent, typical of the Atlantic coast. The shoreline shelves gently, but the surf can be strong depending on the weather."
+  },
+  "access": {
+   "de": "Leicht mit dem Auto direkt vom Ring of Kerry (N70) über eine kurze lokale Straße durch Glenbeigh zu erreichen. Ein gepflasterter Weg führt bis an den Rand des Strandes.",
+   "hu": "Könnyen megközelíthető autóval közvetlenül a Ring of Kerry (N70) útvonalról, egy rövid helyi úton Glenbeigh falun keresztül. A strand széléhez burkolt út vezet.",
+   "ro": "Ușor accesibil cu mașina direct de pe Ring of Kerry (N70) printr-un scurt drum local prin Glenbeigh. Există o cale pavată care duce chiar până la marginea plajei.",
+   "en": "Easily accessible by car directly from the Ring of Kerry (N70) via a short local road through Glenbeigh. There is a paved path leading right up to the edge of the beach."
+  },
+  "parking": {
+   "de": "Direkt am Eingang des Strandes gibt es einen großen, kostenlosen Parkplatz.",
+   "hu": "Közvetlenül a strand bejáratánál egy nagy, ingyenes parkoló található.",
+   "ro": "Există o parcare mare, gratuită, situată chiar la intrarea pe plajă.",
+   "en": "There is a large, free car park located right at the entrance of the beach."
+  },
+  "facilities": {
+   "de": [
+    "Kostenlose Parkplätze",
+    "Öffentliche Toiletten",
+    "Kinderspielplatz",
+    "Rettungsschwimmer (Sommer)",
+    "Nahegelegener Pub",
+    "Surfen"
+   ],
+   "hu": [
+    "Ingyenes parkoló",
+    "Nyilvános WC",
+    "Gyermekjátszótér",
+    "Vízimentő (nyáron)",
+    "Közeli pub/étterem",
+    "Szörfözés"
+   ],
+   "ro": [
+    "Parcare gratuită",
+    "Toalete publice",
+    "Teren de joacă",
+    "Salvamar (vara)",
+    "Pub/restaurant în apropiere",
+    "Surfing"
+   ],
+   "en": [
+    "Free parking",
+    "Public toilets",
+    "Children's playground",
+    "Lifeguard (summer)",
+    "Nearby pub/restaurant",
+    "Surfing"
+   ]
+  },
+  "family": {
+   "de": "Ein sehr familienfreundlicher Strand mit unendlich viel Platz zum Sandburgenbauen und Herumtollen. Die hervorragenden Einrichtungen direkt am Parkplatz machen es für Eltern sehr bequem.",
+   "hu": "Kiválóan alkalmas családok számára, végtelen területtel a homokvár-építéshez és a szaladgáláshoz. A parkolónál lévő nagyszerű létesítmények nagyon kényelmessé teszik a szülők számára.",
+   "ro": "O plajă foarte potrivită pentru familii, cu spațiu nesfârșit pentru a construi castele de nisip și a alerga. Facilitățile excelente aflate chiar la parcare o fac foarte convenabilă pentru părinți.",
+   "en": "A highly family-friendly beach with endless space for building sandcastles and running around. The excellent facilities right at the car park make it very convenient for parents."
+  },
+  "kids": {
+   "de": "Kinder werden den großen, gut ausgestatteten Spielplatz direkt hinter dem Strand lieben. Die weite Sandfläche eignet sich perfekt für Strandspiele, und das flache Uferwasser lädt zum Planschen ein.",
+   "hu": "A gyerekek imádni fogják a hatalmas, jól felszerelt játszóteret közvetlenül a strand mögött. A végtelen homokos part tökéletes tengerparti játékokhoz, a sekély vízszél pedig ideális pancsoláshoz.",
+   "ro": "Copiii vor adora terenul de joacă mare și bine dotat, situat chiar în spatele plajei. Vasta întindere de nisip este perfectă pentru jocuri, în timp ce marginea puțin adâncă a apei este excelentă pentru a se bălăci.",
+   "en": "Kids will absolutely love the large, well-equipped playground situated just behind the beach. The vast sandy expanse is perfect for beach games, while the shallow edge of the water is great for paddling."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Seafood Chowder",
+     "tip": "Erhältlich im nahegelegenen Pub direkt am Strandeingang."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Ein klassisches Küstengericht, das in den Restaurants in Glenbeigh serviert wird."
+    },
+    {
+     "name": "Irisches Pint (Guinness)",
+     "tip": "Genießen Sie ein gut gezapftes Pint mit Blick auf den Ozean in der lokalen Bar."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Tenger gyümölcsei krémleves (Seafood Chowder)",
+     "tip": "Kapható a strand bejáratánál lévő helyi pubban."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Klasszikus tengerparti étel, amelyet gyakran kínálnak a helyi éttermekben Glenbeigh-ben."
+    },
+    {
+     "name": "Ír sör (Guinness)",
+     "tip": "Élvezzen egy jól csapolt korsó sört óceáni kilátással a helyi bárban."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Seafood Chowder (Supă de fructe de mare)",
+     "tip": "Disponibilă la pubul din apropiere, chiar lângă intrarea pe plajă."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Masă clasică de pe litoral, adesea servită în restaurantele locale din Glenbeigh."
+    },
+    {
+     "name": "O halbă irlandeză (Guinness)",
+     "tip": "Bucurați-vă de o halbă bine turnată, cu vedere la ocean, la barul local."
+    }
+   ],
+   "en": [
+    {
+     "name": "Seafood Chowder",
+     "tip": "Available at the nearby pub right next to the beach entrance."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Classic seaside meal often served in local Glenbeigh restaurants."
+    },
+    {
+     "name": "Irish Pint (Guinness)",
+     "tip": "Enjoy a well-poured pint with ocean views at the local bar."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist völlig kostenlos.",
+   "hu": "A strand belépése teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit.",
+   "en": "Access to the beach is completely free of charge."
+  },
+  "lifeguard": {
+   "de": "Rettungsschwimmer sind während der Hochsommermonate (in der Regel von Juni bis August) im Einsatz.",
+   "hu": "A nyári főszezonban (általában júniustól augusztusig) vízimentők teljesítenek szolgálatot.",
+   "ro": "Salvamarii sunt la datorie în lunile de vârf ale verii (de obicei din iunie până în august).",
+   "en": "Lifeguards are on duty during the peak summer months (usually June to August)."
+  },
+  "shade": {
+   "de": "Am Strand selbst gibt es keinen natürlichen Schatten, daher ist es ratsam, einen eigenen Windschutz oder Sonnenschirm mitzubringen.",
+   "hu": "Magán a strandon nincs természetes árnyék, így érdemes saját szélfogót vagy napernyőt hozni.",
+   "ro": "Nu există umbră naturală pe plajă, deci este recomandabil să vă aduceți propria umbrelă sau un paravan.",
+   "en": "There is no natural shade on the beach itself, so it is advisable to bring your own windbreak or parasol."
+  },
+  "best_time": {
+   "de": "Vom späten Frühling bis zum frühen Herbst für angenehmes Wetter, wobei ein Strandspaziergang im Winter ein dramatisches, wildes Erlebnis ist.",
+   "hu": "Késő tavasztól kora őszig a kellemes időjárás miatt, bár a téli tengerparti séták drámai, vad élményt nyújtanak.",
+   "ro": "De la sfârșitul primăverii până la începutul toamnei pentru o vreme plăcută, deși o plimbare iarna oferă o experiență dramatică și sălbatică.",
+   "en": "Late spring to early autumn for pleasant weather, though walking the beach in winter offers a dramatic, wild experience."
+  },
+  "nearby": {
+   "de": "Das Dorf Glenbeigh ist nur wenige Minuten entfernt. Der Strand ist ein beliebter Stopp am berühmten Ring of Kerry und am Wanderweg Kerry Way.",
+   "hu": "Glenbeigh falu mindössze néhány percre van. A strand népszerű megálló a híres Ring of Kerry autós útvonalon és a Kerry Way túraútvonalon.",
+   "ro": "Satul Glenbeigh este la doar câteva minute distanță. Plaja este o oprire populară pe celebrul traseu rutier Ring of Kerry și pe traseul de drumeții Kerry Way.",
+   "en": "The village of Glenbeigh is just a few minutes away. The beach is a popular stop on the famous Ring of Kerry and the Kerry Way walking trail."
+  },
+  "tips": {
+   "de": [
+    "Buchen Sie einen Ausritt am Strand für ein unvergessliches Kerry-Erlebnis.",
+    "Bringen Sie eine Windjacke mit, da die atlantische Brise auch im Sommer kühl sein kann.",
+    "Überprüfen Sie die Gezeiten, bevor Sie zu einem langen Spaziergang ans Ende der Landzunge aufbrechen.",
+    "Bleiben Sie bis zum Sonnenuntergang; die Aussicht über die Dingle Bay ist spektakulär."
+   ],
+   "hu": [
+    "Foglaljon le egy lovaglást a strandon egy felejthetetlen kerry-i élményért.",
+    "Hozzon magával széldzsekit, mert az atlanti szél még nyáron is hűvös lehet.",
+    "Ellenőrizze az árapály idejét, mielőtt hosszú sétára indul a földnyelv vége felé.",
+    "Várja meg a naplementét; a Dingle-öböl feletti kilátás látványos."
+   ],
+   "ro": [
+    "Rezervați o plimbare călare pe plajă pentru o experiență de neuitat în Kerry.",
+    "Aduceți o jachetă de vânt, deoarece briza atlantică poate fi răcoroasă chiar și vara.",
+    "Verificați orele mareelor înainte de a porni într-o plimbare lungă spre capătul peninsulei.",
+    "Rămâneți pentru apusul soarelui; priveliștile peste Golful Dingle sunt spectaculoase."
+   ],
+   "en": [
+    "Book a horseback ride along the beach for an unforgettable Kerry experience.",
+    "Bring a windbreaker jacket, as the Atlantic breeze can be chilly even in summer.",
+    "Check the tide times before setting out for a long walk towards the spit's end.",
+    "Stick around for sunset; the views over Dingle Bay are spectacular."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist das Schwimmen in Rossbeigh sicher?",
+     "hu": "Biztonságos az úszás Rossbeigh strandján?",
+     "ro": "Este sigur înotul la Rossbeigh?",
+     "en": "Is Rossbeigh safe for swimming?"
+    },
+    "a": {
+     "de": "Ja, das Schwimmen in den ausgewiesenen Bereichen ist im Sommer bei Anwesenheit der Rettungsschwimmer sicher, jedoch sollte man auf Strömungen achten.",
+     "hu": "Igen, a nyári szezonban a kijelölt helyeken biztonságos az úszás, amikor vízimentők dolgoznak, de vigyázni kell az áramlatokkal.",
+     "ro": "Da, înotul este în general sigur în zonele desemnate pe timpul verii, când salvamarii sunt prezenți, dar aveți grijă la curenți.",
+     "en": "Yes, swimming is generally safe in designated areas during the summer when lifeguards are on duty, but beware of currents."
+    }
+   },
+   {
+    "q": {
+     "de": "Darf ich meinen Hund mit an den Strand nehmen?",
+     "hu": "Sétáltathatom a kutyámat a strandon?",
+     "ro": "Pot să-mi plimb câinele pe plajă?",
+     "en": "Can I walk my dog on the beach?"
+    },
+    "a": {
+     "de": "Ja, Hunde sind erlaubt, sollten aber an der Leine geführt werden, besonders während der geschäftigen Sommermonate und in den Dünengebieten.",
+     "hu": "Igen, a kutyák megengedettek, de pórázon kell tartani őket, különösen a forgalmas nyári hónapokban és a dűnék környékén.",
+     "ro": "Da, câinii sunt permiși, dar ar trebui ținuți în lesă, în special în lunile aglomerate de vară și în zonele cu dune.",
+     "en": "Yes, dogs are allowed, but they should be kept on a lead, especially during the busy summer months and in the dune areas."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es Orte zum Essen in der Nähe?",
+     "hu": "Vannak étkezési lehetőségek a közelben?",
+     "ro": "Există locuri de luat masa în apropiere?",
+     "en": "Are there places to eat nearby?"
+    },
+    "a": {
+     "de": "Ja, es gibt einen Pub/Restaurant direkt am Strandeingang und weitere Möglichkeiten im nahegelegenen Dorf Glenbeigh.",
+     "hu": "Igen, közvetlenül a strand bejáratánál található egy pub/étterem, és további lehetőségek vannak a közeli Glenbeigh faluban.",
+     "ro": "Da, există un pub/restaurant situat chiar la intrarea pe plajă și mai multe opțiuni în satul Glenbeigh din apropiere.",
+     "en": "Yes, there is a pub/restaurant located right by the beach entrance, and more options in the nearby village of Glenbeigh."
+    }
+   },
+   {
+    "q": {
+     "de": "Kann man in Rossbeigh surfen?",
+     "hu": "Lehet szörfözni Rossbeigh-ben?",
+     "ro": "Se poate face surf la Rossbeigh?",
+     "en": "Can you surf at Rossbeigh?"
+    },
+    "a": {
+     "de": "Ja, Rossbeigh ist aufgrund seiner Lage zum Atlantik ein beliebter Ort für Surfer, Kitesurfer und Windsurfer.",
+     "hu": "Igen, Rossbeigh népszerű hely a szörfösök, kiteszörfösök és széllovaglók körében, mivel ki van téve az atlanti hullámoknak.",
+     "ro": "Da, Rossbeigh este un loc popular pentru surferi, kite-surferi și windsurferi datorită expunerii sale la valurile atlantice.",
+     "en": "Yes, Rossbeigh is a popular spot for surfers, kite-surfers, and windsurfers due to its exposure to Atlantic swells."
+    }
+   }
+  ]
+ },
+ "sandymount-strand": {
+  "slug": "sandymount-strand",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": true,
+  "accessible": true,
+  "intro": {
+   "de": "Sandymount Strand ist ein riesiger, ikonischer Strand, der nur wenige Kilometer vom Dubliner Stadtzentrum entfernt liegt. Bekannt für seine unglaublichen Gezeitenunterschiede, zieht sich das Meer hier dramatisch zurück und offenbart kilometerlangen, geriffelten Sand, der sich perfekt für lange, erfrischende Spaziergänge eignet. Der Strand bietet einen atemberaubenden Panoramablick auf die Dublin Bay, einschließlich des berühmten Poolbeg-Leuchtturms und seiner markanten rot-weiß gestreiften Schornsteine, die die Skyline dominieren. Auch literarisch ist der Ort von Bedeutung, da er in James Joyces epischem Roman 'Ulysses' eine berühmte Rolle spielt.\n\nDer Strand wird von einer beliebten, gut gepflasterten Promenade gesäumt, die sich entlang der Küste erstreckt und unabhängig von der Jahreszeit ein beliebter Treffpunkt für Einheimische, Jogger und Hundeausführer ist. Obwohl er aufgrund des extrem flachen Wassers und der Gezeiten traditionell nicht als erstklassiges Badeziel gilt, liegt sein Charme in der Weite des Himmels und der ruhigen, belebenden irischen Meeresluft. Der Strand wirkt wie ein friedlicher Rückzugsort und liegt doch direkt am Rande einer pulsierenden Hauptstadt.\n\nBesucher lieben es, Muscheln zu suchen, die spektakulären Sonnenaufgänge über der Bucht zu beobachten oder einfach die salzige Brise zu genießen. Das nahe gelegene Dorf Sandymount bietet mit seinen gemütlichen Cafés, traditionellen Pubs und lokalen Boutiquen eine charmante Kulisse und ist der perfekte Ort, um sich nach einem windigen Strandspaziergang aufzuwärmen.",
+   "hu": "A Sandymount Strand egy hatalmas, ikonikus tengerpart, amely mindössze néhány kilométerre található Dublin belvárosától. A lenyűgöző árapály-ingadozásairól ismert területen a tenger drámaian visszahúzódik apálykor, mérföldnyi hullámos homokot tárva fel, amely tökéletes a hosszú, frissítő sétákhoz. A partról lenyűgöző panoráma nyílik a dublini öbölre, beleértve a híres Poolbeg világítótornyot és annak jellegzetes piros-fehér csíkos kéményeit, amelyek meghatározzák a látképet. Irodalmi jelentősége is van, hiszen James Joyce epikus regényében, az 'Ulysses'-ben is híres szerepet kapott.\n\nA strandot egy népszerű, jól burkolt sétány szegélyezi, amely a part mentén húzódik, így a helyiek, a kocogók és a kutyasétáltatók kedvenc helye, évszaktól függetlenül. Bár a rendkívül sekély víz és az árapály jellege miatt hagyományosan nem elsődleges fürdőhelyként tartják számon, varázsa a tágas égboltban és a csendes, frissítő ír tengeri levegőben rejlik. A part békés menedéknek tűnik, miközben egy nyüzsgő főváros szélén fekszik.\n\nA látogatók imádnak kagylókat keresgélni, megcsodálni a látványos napfelkeltéket az öböl felett, vagy egyszerűen csak élvezni a sós szelet. A közeli Sandymount falu hangulatos kávézóival, hagyományos pubjaival és helyi butikjaival tökéletes hátteret biztosít, és ideális hely a felmelegedésre egy szeles tengerparti séta után.",
+   "ro": "Sandymount Strand este o vastă și emblematică întindere de plajă, situată la doar câțiva kilometri de centrul orașului Dublin. Cunoscută pentru variațiile sale incredibile de maree, marea se retrage dramatic, dezvăluind kilometri de nisip ondulat, perfect pentru plimbări lungi și revigorante. Plaja oferă o vedere panoramică uimitoare asupra Golfului Dublin, incluzând faimosul Far Poolbeg și coșurile sale distincte cu dungi roșii și albe, care domină orizontul. Este, de asemenea, un loc cu o mare semnificație literară, fiind menționat în celebrul roman epic 'Ulise' al lui James Joyce.\n\nPlaja este mărginită de o promenadă populară și bine pavată care se întinde de-a lungul coastei, făcând-o un loc preferat pentru localnici, alergători și cei care își plimbă câinii, indiferent de sezon. Deși nu este recunoscută în mod tradițional ca o destinație principală pentru înot din cauza apelor extrem de puțin adânci și a naturii mareelor, farmecul său constă în cerul vast și aerul liniștit și revigorant al Mării Irlandeze. Plaja se simte ca o evadare senină, deși se află chiar la marginea unei capitale pline de viață.\n\nVizitatorilor le place să caute scoici, să privească răsăriturile spectaculoase peste golf sau pur și simplu să se bucure de briza sărată. Satul din apropiere, Sandymount, oferă un fundal fermecător cu cafenelele sale confortabile, pub-urile tradiționale și buticurile locale, fiind locul perfect pentru a vă încălzi după o plimbare răcoroasă pe litoral.",
+   "en": "Sandymount Strand is a vast, iconic stretch of beach located just a few kilometers from Dublin's city center. Known for its incredible tidal shifts, the sea retreats dramatically at low tide, revealing miles of rippled sand perfect for long, refreshing walks. The beach offers stunning panoramic views of Dublin Bay, including the famous Poolbeg Lighthouse and its distinctive red-and-white striped chimneys, which dominate the skyline. It is a place of significant literary importance as well, famously featuring in James Joyce's epic novel 'Ulysses'.\n\nThe strand is bordered by a popular, well-paved promenade that stretches along the coast, making it a favorite spot for locals, joggers, and dog walkers regardless of the season. While not traditionally known as a prime swimming destination due to the extremely shallow waters and tidal nature, its charm lies in the expansive skies and the tranquil, bracing Irish Sea air. The beach feels like a serene escape while being right on the edge of a bustling capital city.\n\nVisitors love to search for seashells, watch the spectacular sunrises over the bay, or simply enjoy the salty breeze. The nearby Sandymount Village provides a charming backdrop with its cozy cafes, traditional pubs, and local boutiques, offering the perfect place to warm up after a breezy seaside stroll."
+  },
+  "type": {
+   "de": "Sandig mit einigen Schlamm- und Kiesflächen",
+   "hu": "Homokos, helyenként iszapos és kavicsos",
+   "ro": "Nisipos, cu zone de nămol și pietriș",
+   "en": "Sandy with mudflats and shingle"
+  },
+  "water": {
+   "de": "Das Wasser ist extrem flach und bei Ebbe zieht sich das Meer sehr weit zurück. Nicht ideal zum tiefen Schwimmen, aber großartig zum Waten.",
+   "hu": "A víz rendkívül sekély, és a tenger apálykor nagyon messzire visszahúzódik. Mélyvízi úszásra nem ideális, de gázolásra tökéletes.",
+   "ro": "Apa este extrem de puțin adâncă, iar marea se retrage foarte departe. Nu este ideală pentru înot adânc, dar excelentă pentru a merge prin apă.",
+   "en": "The water is extremely shallow, and the tide goes out very far. Not ideal for deep swimming, but great for wading."
+  },
+  "access": {
+   "de": "Leicht zu Fuß, mit dem Fahrrad oder dem Auto von Dublin aus erreichbar. Der DART-Zug (Station Sydney Parade) ist nur einen kurzen Spaziergang entfernt.",
+   "hu": "Könnyen megközelíthető gyalog, kerékpárral vagy autóval Dublin városából. A DART vonat (Sydney Parade állomás) csak egy rövid sétára van.",
+   "ro": "Ușor accesibil pe jos, cu bicicleta sau cu mașina din orașul Dublin. Trenul DART (stația Sydney Parade) se află la o scurtă plimbare.",
+   "en": "Easily accessible by foot, bicycle, or car from Dublin city. The DART train (Sydney Parade station) is just a short walk away."
+  },
+  "parking": {
+   "de": "Kostenlose Parkplätze stehen im Allgemeinen entlang der Strand Road zur Verfügung, können aber an sonnigen Wochenenden belegt sein.",
+   "hu": "Ingyenes parkolás általában a Strand Road mentén lehetséges, bár napos hétvégéken forgalmas lehet.",
+   "ro": "Parcarea gratuită este în general disponibilă de-a lungul Strand Road, deși poate fi aglomerată în weekendurile însorite.",
+   "en": "Free parking is generally available along Strand Road, though it can get busy on sunny weekends."
+  },
+  "facilities": {
+   "de": [
+    "Promenade",
+    "Bänke",
+    "Toiletten (in der Nähe)",
+    "Cafés (in der Nähe)"
+   ],
+   "hu": [
+    "Sétány",
+    "Padok",
+    "Mosdók (a közelben)",
+    "Kávézók (a közelben)"
+   ],
+   "ro": [
+    "Promenadă",
+    "Bănci",
+    "Toalete (în apropiere)",
+    "Cafenele (în apropiere)"
+   ],
+   "en": [
+    "Promenade",
+    "Benches",
+    "Toilets (nearby)",
+    "Cafes (nearby)"
+   ]
+  },
+  "family": {
+   "de": "Ein sehr familienfreundlicher, offener Raum, ideal für lange Spaziergänge, Drachensteigen und um Kinder sicher auf dem weiten Sand laufen zu lassen.",
+   "hu": "Nagyon családbarát nyitott tér, amely tökéletes hosszú sétákhoz, sárkányeregetéshez, és ahol a gyerekek biztonságosan futkározhatnak a hatalmas homokos területen.",
+   "ro": "Un spațiu deschis foarte potrivit pentru familii, perfect pentru plimbări lungi, înălțarea zmeielor și lăsarea copiilor să alerge în siguranță pe nisipul vast.",
+   "en": "A very family-friendly open space perfect for long walks, flying kites, and letting children run safely on the expansive sand."
+  },
+  "kids": {
+   "de": "Kinder werden es lieben, nach Muscheln zu suchen, Seevögel zu beobachten und in den flachen Gezeitentümpeln zu planschen, die das zurückweichende Meer hinterlassen hat.",
+   "hu": "A gyerekek imádni fogják a kagylókeresést, a tengeri madarak megfigyelését és a visszahúzódó tenger által hátrahagyott sekély árapály-medencékben való pancsolást.",
+   "ro": "Copiii vor adora să caute scoici, să observe păsările de mare și să se bălăcească în bălțile de maree lăsate în urmă de marea în retragere.",
+   "en": "Kids will love searching for seashells, spotting seabirds, and splashing in the shallow tidal pools left behind by the retreating sea."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Fish and Chips",
+     "tip": "Ein klassisches Küsten-Takeaway, das man auf der Promenade genießen kann, erhältlich im nahe gelegenen Dorf Sandymount."
+    },
+    {
+     "name": "Meeresfrüchte-Chowder",
+     "tip": "Wärmen Sie sich mit einer herzhaften Schüssel Meeresfrüchtesuppe in einem traditionellen irischen Pub im Dorf auf."
+    },
+    {
+     "name": "Irish Coffee",
+     "tip": "Perfekt, um die Kälte nach einem flotten, windigen Spaziergang am Strand zu vertreiben."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Fish and Chips",
+     "tip": "Klasszikus tengerparti elviteles étel, amelyet a sétányon élvezhet, és a közeli Sandymount faluban kapható."
+    },
+    {
+     "name": "Tenger gyümölcsei leves (Chowder)",
+     "tip": "Melegedjen fel egy tál kiadós tengeri krémlevessel egy hagyományos ír pubban a faluban."
+    },
+    {
+     "name": "Ír kávé",
+     "tip": "Tökéletes a hideg elűzésére egy frissítő, szeles séta után a parton."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Pește cu cartofi prăjiți (Fish and Chips)",
+     "tip": "Un preparat clasic de litoral de luat la pachet, de savurat pe promenadă, disponibil în satul Sandymount."
+    },
+    {
+     "name": "Supă de fructe de mare (Chowder)",
+     "tip": "Încălziți-vă cu un bol consistent de supă de fructe de mare într-un pub irlandez tradițional din sat."
+    },
+    {
+     "name": "Cafea irlandeză",
+     "tip": "Perfectă pentru a alunga frigul după o plimbare rapidă și vântoasă de-a lungul plajei."
+    }
+   ],
+   "en": [
+    {
+     "name": "Fish and Chips",
+     "tip": "A classic seaside takeaway to enjoy on the promenade, available in nearby Sandymount village."
+    },
+    {
+     "name": "Seafood Chowder",
+     "tip": "Warm up with a hearty bowl of seafood chowder in a traditional Irish pub in the village."
+    },
+    {
+     "name": "Irish Coffee",
+     "tip": "Perfect for chasing away the chill after a brisk, windy walk along the strand."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand und zur Promenade ist völlig kostenlos.",
+   "hu": "A strand és a sétány látogatása teljesen ingyenes.",
+   "ro": "Accesul la plajă și promenadă este complet gratuit.",
+   "en": "Access to the beach and the promenade is completely free."
+  },
+  "lifeguard": {
+   "de": "Es sind im Allgemeinen keine Rettungsschwimmer im Dienst, da es sich in erster Linie um einen Spazierstrand und nicht um einen Badeort handelt.",
+   "hu": "Általában nincs vízimentő szolgálat, mivel ez elsősorban sétálásra, és nem úszásra alkalmas partszakasz.",
+   "ro": "În general, nu există salvamari la datorie, deoarece este în principal o plajă de plimbare, nu un loc de înot.",
+   "en": "There are generally no lifeguards on duty, as it is primarily a walking beach rather than a swimming spot."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten am Strand; er ist den Elementen völlig ausgesetzt.",
+   "hu": "A parton nincs természetes árnyék; teljesen ki van téve az időjárás viszontagságainak.",
+   "ro": "Nu există umbră naturală pe plajă; este complet deschisă la elementele naturii.",
+   "en": "There is no natural shade on the beach; it is completely open to the elements."
+  },
+  "best_time": {
+   "de": "Ebbe ist die beste Zeit für einen Besuch, um den weiten Sand vollständig zu erleben, besonders bei Sonnenaufgang.",
+   "hu": "Az apály a legjobb időszak a látogatásra, hogy teljes mértékben megtapasztalhassa a kiterjedt homokot, különösen napkeltekor.",
+   "ro": "Timpul ideal de vizitare este la reflux pentru a experimenta pe deplin nisipurile vaste, mai ales la răsărit.",
+   "en": "Low tide is the best time to visit to fully experience the expansive sands, especially at sunrise."
+  },
+  "nearby": {
+   "de": "Die pulsierende Stadt Dublin ist nur wenige Kilometer entfernt und der ikonische Poolbeg-Leuchtturm bietet eine fantastische Wanderroute in der Nähe.",
+   "hu": "Dublin pezsgő városa mindössze néhány kilométerre található, és az ikonikus Poolbeg világítótorony fantasztikus közeli sétaútvonalat kínál.",
+   "ro": "Orașul vibrant Dublin este la doar câțiva kilometri distanță, iar iconicul Far Poolbeg oferă un traseu de plimbare fantastic în apropiere.",
+   "en": "The vibrant city of Dublin is just a few kilometers away, and the iconic Poolbeg Lighthouse offers a fantastic nearby walking route."
+  },
+  "tips": {
+   "de": [
+    "Überprüfen Sie vor Ihrem Besuch die Gezeitenzeiten.",
+    "Tragen Sie Schichtenkleidung und eine Windjacke, da es ziemlich windig werden kann.",
+    "Wasserdichte Schuhe oder Gummistiefel werden empfohlen, wenn Sie weit auf dem nassen Sand laufen möchten.",
+    "Bringen Sie Ihre Kamera für fantastische Aufnahmen der Poolbeg-Schornsteine mit."
+   ],
+   "hu": [
+    "Látogatás előtt ellenőrizze az árapály-táblázatot.",
+    "Öltözzön rétegesen, és hozzon széldzsekit, mivel meglehetősen szeles lehet.",
+    "Vízálló cipő vagy gumicsizma ajánlott, ha messze be akar sétálni a nedves homokon.",
+    "Hozza magával fényképezőgépét, hogy fantasztikus képeket készíthessen a Poolbeg kéményeiről."
+   ],
+   "ro": [
+    "Verificați orele mareelor înainte de vizită.",
+    "Îmbrăcați-vă în straturi și purtați o jachetă de vânt, deoarece poate fi destul de răcoros.",
+    "Se recomandă încălțăminte impermeabilă sau cizme de cauciuc dacă intenționați să mergeți departe pe nisipul umed.",
+    "Aduceți aparatul foto pentru fotografii fantastice cu coșurile Poolbeg."
+   ],
+   "en": [
+    "Check the tide times before you visit.",
+    "Wear layers and a windbreaker, as it can get quite breezy.",
+    "Waterproof shoes or wellies are recommended if you plan to walk far out on the wet sand.",
+    "Bring your camera for fantastic shots of the Poolbeg chimneys."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Kann man am Sandymount Strand schwimmen?",
+     "hu": "Lehet úszni a Sandymount strandon?",
+     "ro": "Se poate înota la Sandymount Strand?",
+     "en": "Can I swim at Sandymount Strand?"
+    },
+    "a": {
+     "de": "Es wird im Allgemeinen wegen extrem flachem Wasser und gelegentlichen Wasserverschmutzungswarnungen nicht zum Schwimmen empfohlen.",
+     "hu": "Általában nem ajánlott úszásra a rendkívül sekély víz és az időszakos vízszennyezési figyelmeztetések miatt.",
+     "ro": "În general, nu este recomandat pentru înot din cauza apei extrem de puțin adânci și a avertismentelor ocazionale privind poluarea apei.",
+     "en": "It is generally not recommended for swimming due to extremely shallow water and occasional water quality warnings."
+    }
+   },
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Kutyák bevihetők a strandra?",
+     "ro": "Sunt permiși câinii pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Ja, Hunde sind erlaubt, müssen jedoch zu bestimmten Zeiten und in den Sommermonaten an der Leine geführt werden, um die lokale Tierwelt zu schützen.",
+     "hu": "Igen, a kutyák megengedettek, de bizonyos órákban és a nyári hónapokban pórázon kell tartani őket a helyi vadvilág védelme érdekében.",
+     "ro": "Da, câinii sunt permiși, dar trebuie ținuți în lesă în anumite ore și în lunile de vară pentru a proteja viața sălbatică locală.",
+     "en": "Yes, dogs are allowed, but they must be kept on a lead during certain hours and summer months to protect local wildlife."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es einen Parkplatz in der Nähe?",
+     "hu": "Van parkoló a közelben?",
+     "ro": "Există o parcare în apropiere?",
+     "en": "Is there a car park nearby?"
+    },
+    "a": {
+     "de": "Ja, es gibt kostenlose Parkplätze entlang der Strand Road neben der Promenade.",
+     "hu": "Igen, van ingyenes parkolási lehetőség a Strand Road mentén a sétány mellett.",
+     "ro": "Da, există parcare gratuită de-a lungul Strand Road, lângă promenadă.",
+     "en": "Yes, there is free parking along Strand Road next to the promenade."
+    }
+   },
+   {
+    "q": {
+     "de": "Wie komme ich vom Dubliner Stadtzentrum dorthin?",
+     "hu": "Hogyan jutok el oda Dublin belvárosából?",
+     "ro": "Cum ajung acolo din centrul orașului Dublin?",
+     "en": "How do I get there from Dublin city center?"
+    },
+    "a": {
+     "de": "Sie können den DART-Zug zur Station Sydney Parade oder einen lokalen Bus nehmen, was etwa 15-20 Minuten dauert.",
+     "hu": "A DART vonattal a Sydney Parade állomásra, vagy helyi busszal mehet, ami körülbelül 15-20 percet vesz igénybe.",
+     "ro": "Puteți lua trenul DART până la stația Sydney Parade sau un autobuz local, călătoria durând aproximativ 15-20 de minute.",
+     "en": "You can take the DART train to Sydney Parade station or take a local bus, which takes about 15-20 minutes."
+    }
+   }
+  ]
+ },
+ "the-silver-strand": {
+  "slug": "the-silver-strand",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "The Silver Strand, lokal als An Trá Bhán bekannt, ist eine atemberaubend schöne, hufeisenförmige Bucht in Malin Beg im County Donegal. Umgeben von hoch aufragenden, dramatisch steilen Klippen bietet dieser abgelegene Strand eine der spektakulärsten Küstenlandschaften in Irland. Der markante Kontrast zwischen dem unberührten, silbrig-goldenen Sand und dem tiefen, azurblauen Wasser des Atlantiks schafft eine wahrhaft faszinierende Szene, die von modernen Bebauungen völlig unberührt geblieben ist.\n\nWas diesen Strand wirklich unvergesslich macht, ist sein dramatischer Zugang. Besucher müssen etwa 170 steile, in die Felswand gehauene Stufen hinabsteigen. Dieses Erlebnis bietet an jeder Kehre atemberaubende Panoramablicke. Unten angekommen, vermittelt die geschützte Natur der Bucht ein Gefühl von absoluter Ruhe und Isolation. Dies macht sie zu einem perfekten Rückzugsort für Naturliebhaber, Fotografen und all jene, die abseits der überfüllten Touristenhochburgen Frieden suchen.\n\nTrotz seiner abgelegenen Lage entlang des berühmten Wild Atlantic Way belohnt The Silver Strand jeden Reisenden, der die Fahrt auf sich nimmt. Die umliegenden Klippen werden oft von Seevögeln bevölkert, und gelegentlich können Delfine oder Robben vor der Küste gesichtet werden. Ob Sie barfuß über den feinen Sand spazieren, sich für ein erfrischendes Bad in die kühlen Fluten des Atlantiks wagen oder einfach nur die raue, ungezähmte Schönheit der irischen Küste auf sich wirken lassen – The Silver Strand bleibt ein magisches, unverzichtbares Reiseziel.",
+   "hu": "A helyiek által An Trá Bhán néven ismert Silver Strand (Ezüstpart) egy lélegzetelállítóan gyönyörű, patkó alakú öböl a Donegal megyei Malin Beg településen. A magasba tornyosuló, drámaian meredek sziklákkal övezett, eldugott strand Írország egyik leglátványosabb tengerparti táját kínálja. Az érintetlen, ezüstösen aranyló homok és az Atlanti-óceán mélykék vizének feltűnő kontrasztja igazán lenyűgöző látványt nyújt, amely megőrizte a modern fejlesztésektől mentes, ősi jellegét.\n\nAmi igazán felejthetetlenné teszi ezt a strandot, az a drámai megközelítés. A látogatóknak mintegy 170 meredek, a sziklafalba vájt lépcsőfokon kell leereszkedniük, ami minden kanyarban lenyűgöző panorámát nyújt. Leérve az öböl védett jellege az abszolút nyugalom és elszigeteltség érzését kelti. Ezáltal tökéletes menedéket jelent a természetkedvelők, a fotósok és mindazok számára, akik a zsúfolt turistaközpontoktól távol keresnek békét és csendet.\n\nBár a híres Wild Atlantic Way (Vad Atlanti Út) mentén, eldugott helyen fekszik, a Silver Strand minden utazót megjutalmaz, aki megteszi ezt az utat. A környező sziklákat gyakran tengeri madarak népesítik be, és a part mentén alkalmanként delfinek vagy fókák is felbukkannak. Akár mezítláb sétál a finom homokban, akár megmártózik a frissítő, hűvös atlanti vizekben, vagy egyszerűen csak magába szívja az ír partvidék nyers, megszelídíthetetlen szépségét, a Silver Strand varázslatos, kihagyhatatlan úti cél marad.",
+   "ro": "Silver Strand, cunoscută la nivel local sub numele de An Trá Bhán, este un golf în formă de potcoavă, de o frumusețe uluitoare, situat în Malin Beg, în comitatul Donegal. Înconjurată de stânci înalte și dramatic de abrupte, această plajă retrasă oferă unul dintre cele mai spectaculoase peisaje de coastă din Irlanda. Contrastul izbitor dintre nisipul virgin, auriu-argintiu, și apele de un albastru intens ale Oceanului Atlantic creează o scenă cu adevărat fermecătoare, care pare neatinsă de dezvoltarea modernă.\n\nCeea ce face această plajă cu adevărat de neuitat este abordarea sa dramatică. Vizitatorii trebuie să coboare aproximativ 170 de trepte abrupte, săpate în peretele stâncii, o experiență care oferă vederi panoramice uimitoare la fiecare pas. Odată ajunși jos, natura adăpostită a golfului oferă un sentiment de liniște și izolare absolută. Acest lucru o face un refugiu perfect pentru iubitorii de natură, fotografi și pentru cei care caută pace departe de zonele turistice aglomerate.\n\nÎn ciuda locației sale izolate de-a lungul faimosului Wild Atlantic Way, Silver Strand răsplătește fiecare călător care face drumul până aici. Stâncile din jur sunt adesea populate de păsări marine, iar ocazional pot fi observați delfini sau foci în larg. Fie că vă plimbați desculț pe nisipul fin, fie că înfruntați apele reci ale Atlanticului pentru o baie răcoritoare, sau pur și simplu absorbiți frumusețea brută și neîmblânzită a coastei irlandeze, Silver Strand rămâne o destinație magică, ce nu trebuie ratată.",
+   "en": "The Silver Strand, locally known as An Trá Bhán, is a breathtakingly beautiful, horseshoe-shaped bay located at Malin Beg in County Donegal. Enclosed by towering, dramatically steep cliffs, this secluded beach offers one of the most spectacular coastal landscapes in Ireland. The striking contrast between the pristine, silvery-golden sand and the deep azure waters of the Atlantic Ocean creates a truly mesmerizing scene that feels untouched by modern development.\n\nWhat makes this beach truly unforgettable is its dramatic approach. Visitors must descend approximately 170 steep steps built into the cliff face, an experience that provides stunning panoramic views at every turn. Once at the bottom, the sheltered nature of the cove offers a sense of absolute tranquility and isolation, making it a perfect retreat for nature lovers, photographers, and those seeking peace away from crowded tourist hotspots.\n\nDespite its remote location along the famous Wild Atlantic Way, the Silver Strand rewards every traveler who makes the journey. The surrounding cliffs are often populated by seabirds, and dolphins or seals can occasionally be spotted offshore. Whether you are walking barefoot along the fine sand, braving the crisp Atlantic waters for a refreshing dip, or simply absorbing the raw, untamed beauty of the Irish coastline, the Silver Strand remains a magical, must-visit destination."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Nisip",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Kristallklares Wasser des Atlantiks, das allmählich tiefer wird, aber auch im Hochsommer recht frisch bleibt.",
+   "hu": "Kristálytiszta atlanti óceáni víz, amely fokozatosan mélyül, bár a vízhőmérséklet még nyár közepén is meglehetősen friss.",
+   "ro": "Ape atlantice cristaline care se adâncesc treptat, deși temperaturile rămân destul de reci chiar și în mijlocul verii.",
+   "en": "Crystal-clear Atlantic waters that deepen gradually, though temperatures remain quite brisk even in mid-summer."
+  },
+  "access": {
+   "de": "Erreichbar über eine schmale Küstenstraße nach Malin Beg, gefolgt von einem Abstieg über etwa 170 steile Stufen von der Klippe.",
+   "hu": "Egy keskeny tengerparti úton közelíthető meg Malin Beg felé, majd mintegy 170 meredek lépcsőn kell leereszkedni a magas szikláról.",
+   "ro": "Accesibil printr-un drum de coastă îngust către Malin Beg, urmat de o coborâre de aproximativ 170 de trepte abrupte de pe stâncă.",
+   "en": "Reached via a narrow coastal road to Malin Beg, followed by a descent of about 170 steep steps down the cliff face."
+  },
+  "parking": {
+   "de": "Es gibt einen kostenlosen Parkplatz direkt oben auf den Klippen mit Blick auf den Strand.",
+   "hu": "Ingyenes parkoló található közvetlenül a sziklák tetején, fantasztikus kilátással a strandra.",
+   "ro": "Există o parcare gratuită situată direct pe stânci, cu vedere spectaculoasă la plajă.",
+   "en": "There is a free car park located directly at the top of the cliffs overlooking the beach."
+  },
+  "facilities": {
+   "de": [
+    "Parkplatz",
+    "Aussichtspunkt",
+    "Mülleimer",
+    "Keine Toiletten",
+    "Kein Kiosk"
+   ],
+   "hu": [
+    "Parkoló",
+    "Kilátó",
+    "Szemetes",
+    "Nincs WC",
+    "Nincs büfé"
+   ],
+   "ro": [
+    "Parcare",
+    "Punct de belvedere",
+    "Coșuri de gunoi",
+    "Fără toalete",
+    "Fără cafenea"
+   ],
+   "en": [
+    "Car park",
+    "Viewing point",
+    "Trash bins",
+    "No toilets",
+    "No cafes"
+   ]
+  },
+  "family": {
+   "de": "Ältere Kinder werden das Abenteuer und die Sandbucht lieben, aber die steilen Stufen machen es für Kinderwagen völlig ungeeignet.",
+   "hu": "Az idősebb gyerekek imádni fogják a kalandot és a homokos öblöt, de a meredek lépcsők miatt babakocsival egyáltalán nem látogatható.",
+   "ro": "Copiilor mai mari le va plăcea aventura și golful de nisip, dar treptele abrupte îl fac complet nepotrivit pentru cărucioare.",
+   "en": "Older children will love the adventure and the sandy cove, but the very steep steps make it unsuitable for pushchairs and toddlers."
+  },
+  "kids": {
+   "de": "Der weiche Sand eignet sich perfekt zum Sandburgenbauen, und die geschützte Bucht bietet sichere flache Bereiche zum Planschen am Ufer.",
+   "hu": "A puha homok tökéletes homokvár építésére, a védett öböl pedig biztonságos, sekély részeket kínál a parti pancsoláshoz.",
+   "ro": "Nisipul moale este perfect pentru castele de nisip, iar golful adăpostit oferă zone sigure și puțin adânci pentru bălăceală pe mal.",
+   "en": "The soft sand is perfect for building sandcastles, and the sheltered bay provides a protected area for paddling in the shallow edges."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Frische Meeresfrüchte",
+     "tip": "Probieren Sie lokale Meeresfrüchtesuppe in den Pubs von Glencolmcille oder Carrick."
+    },
+    {
+     "name": "Traditioneller Irish Stew",
+     "tip": "Ein wärmendes Gericht in traditionellen Restaurants nach kurzer Fahrt."
+    },
+    {
+     "name": "Picknick",
+     "tip": "Bringen Sie Ihre eigenen Snacks mit, da es am Strand keinerlei Verkäufer gibt."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Friss tengeri ételek",
+     "tip": "Kóstolja meg a helyi tengeri ragulevest Glencolmcille vagy Carrick pubjaiban."
+    },
+    {
+     "name": "Hagyományos ír pörkölt",
+     "tip": "Laktató és melegítő étel a közeli települések hagyományos éttermeiben."
+    },
+    {
+     "name": "Saját piknik",
+     "tip": "Hozzon saját élelmet és italt a strandra, mivel nincsenek árusok vagy büfék."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Fructe de mare proaspete",
+     "tip": "Încercați supa locală de fructe de mare în pub-urile din Glencolmcille sau Carrick."
+    },
+    {
+     "name": "Tocană tradițională irlandeză",
+     "tip": "Un preparat cald disponibil în restaurantele tradiționale la o scurtă călătorie cu mașina."
+    },
+    {
+     "name": "Picnic propriu",
+     "tip": "Aduceți propriile gustări, deoarece nu există vânzători sau cafenele pe plajă."
+    }
+   ],
+   "en": [
+    {
+     "name": "Fresh Seafood",
+     "tip": "Try local seafood chowder in the nearby pubs of Glencolmcille or Carrick."
+    },
+    {
+     "name": "Traditional Irish Stew",
+     "tip": "A warming dish available in traditional eateries just a short drive away."
+    },
+    {
+     "name": "Beach Picnic",
+     "tip": "Pack your own picnic and water for the beach, as there are no vendors on site."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist das ganze Jahr über völlig kostenlos.",
+   "hu": "A strand látogatása egész évben teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit pe tot parcursul anului.",
+   "en": "Access to the beach and the parking area is completely free of charge all year round."
+  },
+  "lifeguard": {
+   "de": "An diesem Strand gibt es keinen Rettungsschwimmerdienst, beim Schwimmen ist daher große Vorsicht geboten.",
+   "hu": "Ezen a strandon nincs vízimentő szolgálat, így úszáskor rendkívüli óvatosság javasolt.",
+   "ro": "Nu există serviciu de salvamar la această plajă, așa că se recomandă prudență extremă la înot.",
+   "en": "There is no lifeguard service at this beach, so extreme caution is advised when swimming."
+  },
+  "shade": {
+   "de": "Natürlicher Schatten wird je nach Tageszeit von den hohen Klippen gespendet, Schirme gibt es keine.",
+   "hu": "A magas sziklák a napszaktól függően természetes árnyékot nyújtanak, de napernyő bérlésre nincs lehetőség.",
+   "ro": "Umbra naturală este oferită de stâncile înalte în funcție de momentul zilei, dar nu pot fi închiriate umbrele.",
+   "en": "Natural shade is provided by the high cliffs depending on the time of day, but no umbrellas are available to rent."
+  },
+  "best_time": {
+   "de": "Besuchen Sie uns zwischen Juni und August für das beste Wetter oder am frühen Morgen für absolute Ruhe.",
+   "hu": "A legkedvezőbb időjárásért június és augusztus között érdemes jönni, vagy kora reggel a teljes nyugalomért.",
+   "ro": "Vizitați între iunie și august pentru cea mai bună vreme, sau dis-de-dimineață pentru liniște absolută.",
+   "en": "Visit between June and August for the best weather, or early in the morning to have the bay entirely to yourself."
+  },
+  "nearby": {
+   "de": "Das nächste Dorf ist Glencolmcille, reich an Folklore. Die spektakulären Klippen von Slieve League sind ebenfalls nur eine kurze Fahrt entfernt.",
+   "hu": "A legközelebbi falu a folklórban gazdag Glencolmcille. A látványos Slieve League sziklák is csak egy rövid autóútra vannak.",
+   "ro": "Cel mai apropiat sat este Glencolmcille, bogat în folclor. Spectaculoasele stânci Slieve League se află la o scurtă călătorie cu mașina.",
+   "en": "The nearest village is Glencolmcille, rich in folklore and history. The spectacular Slieve League cliffs are also just a short drive away."
+  },
+  "tips": {
+   "de": [
+    "Tragen Sie festes Schuhwerk für die Stufen",
+    "Bringen Sie eigenes Wasser und Essen mit",
+    "Prüfen Sie vor dem Besuch die Gezeiten",
+    "Fahren Sie vorsichtig auf den engen Straßen"
+   ],
+   "hu": [
+    "Viseljen masszív cipőt a lépcsők miatt",
+    "Hozzon magával elegendő ivóvizet és ételt",
+    "Látogatás előtt ellenőrizze az árapály-táblázatot",
+    "Vezessen óvatosan a keskeny bekötőutakon"
+   ],
+   "ro": [
+    "Purtați încălțăminte robustă pentru trepte",
+    "Aduceți propria apă și mâncare",
+    "Verificați orele mareei înainte de vizită",
+    "Conduceți cu atenție pe drumurile înguste"
+   ],
+   "en": [
+    "Wear sturdy shoes for the steep steps",
+    "Bring your own water and food supplies",
+    "Check the tide times before visiting",
+    "Drive carefully on the narrow rural access roads"
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten am Strand?",
+     "hu": "Vannak nyilvános mosdók vagy egyéb szolgáltatások a strandon?",
+     "ro": "Există toalete publice sau facilități pe plajă?",
+     "en": "Are there public toilets or facilities at the beach?"
+    },
+    "a": {
+     "de": "Nein, der Strand ist völlig naturbelassen. Die nächsten Einrichtungen befinden sich in nahegelegenen Dörfern wie Glencolmcille.",
+     "hu": "Nem, a strand teljesen természetes és kiépítetlen. A legközelebbi mosdók a közeli falvakban, például Glencolmcille-ben találhatók.",
+     "ro": "Nu, plaja este complet naturală și neamenajată. Cele mai apropiate facilități se află în satele din apropiere, precum Glencolmcille.",
+     "en": "No, the beach is completely natural and undeveloped. The nearest facilities are in nearby villages like Glencolmcille."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist es sicher zu schwimmen?",
+     "hu": "Biztonságos az úszás?",
+     "ro": "Este sigur pentru înot?",
+     "en": "Is it safe for swimming?"
+    },
+    "a": {
+     "de": "Schwimmen geschieht auf eigene Gefahr. Es gibt keine Rettungsschwimmer, und die Strömungen des Atlantiks können unerwartet stark sein.",
+     "hu": "Az úszás csak saját felelősségre ajánlott. Nincs szolgálatban vízimentő, és az atlanti áramlatok váratlanul erősek lehetnek.",
+     "ro": "Înotul este pe propriul risc. Nu există salvamari de serviciu, iar curenții atlantici pot fi neașteptat de puternici.",
+     "en": "Swimming is at your own risk. There are no lifeguards on duty, and Atlantic currents can be unexpectedly strong."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist der Strand für Rollstühle oder Kinderwagen zugänglich?",
+     "hu": "Akadálymentesített a strand kerekesszékek vagy babakocsik számára?",
+     "ro": "Este plaja accesibilă pentru scaune cu rotile sau cărucioare?",
+     "en": "Is the beach accessible for wheelchairs or pushchairs?"
+    },
+    "a": {
+     "de": "Leider nein. Der Zugang ist nur über etwa 170 steile Stufen an der Klippenwand möglich.",
+     "hu": "Sajnos nem. A lejutás csak a sziklafalba vájt mintegy 170 meredek lépcsőfokon keresztül lehetséges.",
+     "ro": "Din păcate, nu. Accesul este posibil doar prin intermediul a aproximativ 170 de trepte abrupte pe peretele stâncii.",
+     "en": "Unfortunately no. Access is only possible via approximately 170 steep steps down the cliff face."
+    }
+   },
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Kutyák bevihetők a strandra?",
+     "ro": "Sunt permiși câinii pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Ja, aber sie sollten an der Leine geführt werden, um die lokale Tierwelt zu schützen. Es gibt keine Mülleimer für Hundekot, bitte nehmen Sie den Müll wieder mit.",
+     "hu": "Igen, de pórázon kell tartani őket a helyi vadvilág és a többi látogató védelme érdekében. Nincsenek kutyapiszok-gyűjtők, így a hulladékot el kell vinni.",
+     "ro": "Da, dar trebuie ținuți în lesă pentru a proteja fauna locală și a respecta ceilalți vizitatori. Nu există coșuri de gunoi speciale, așa că vă rugăm să luați deșeurile cu dumneavoastră.",
+     "en": "Yes, but they should be kept on a lead to protect local wildlife and respect other visitors. There are no dog waste bins, so please take rubbish with you."
+    }
+   }
+  ]
+ },
+ "tragumna": {
+  "slug": "tragumna",
+  "naturist": false,
+  "blue_flag": true,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "Tragumna, in der Region West Cork gelegen, ist ein malerischer Küstenort, der einen echten Eindruck der irischen Küste vermittelt. Versteckt in einer kleinen Bucht, nur eine kurze Fahrt von Skibbereen entfernt, ist dieser kompakte Strand ein beliebter Geheimtipp. Die ruhige Atmosphäre wird durch Drishane Island ergänzt, die vor der Küste liegt und dem Atlantik eine dramatische Kulisse verleiht. Der Strand ist eine reizvolle Mischung aus Sand und Kieseln, eingerahmt von grünen Hügeln und felsigen Vorsprüngen.\n\nBesucher werden von sauberem Wasser begrüßt, das oft mit der Blauen Flagge ausgezeichnet wurde. Dies macht ihn im Sommer zu einem beliebten Ziel für Schwimmer. Trotz seiner geringen Größe wirkt der Strand durch den weiten Blick auf den Ozean weitläufig. Die frische Meeresbrise und das Geräusch der Wellen, die gegen die felsigen Ufer krachen, schaffen eine entspannende Umgebung, perfekt für Ruhesuchende.\n\nNeben der Natur ist Tragumna eng mit dem lokalen Leben verwurzelt. Der nahegelegene traditionelle Pub bietet einen einladenden Ort, an dem sich Besucher nach einem Bad mit einer Mahlzeit aufwärmen können. Die Umgebung ist reich an Artenvielfalt. Egal, ob Sie einen Winterspaziergang, ein Familienpicknick oder einen ruhigen Ort am Meer suchen, Tragumna bietet ein unvergessliches Erlebnis.",
+   "hu": "Tragumna, az írországi West Cork régióban, egy festői tengerparti helyszín, amely igazi ízelítőt nyújt a zord ír partvidékből. Ez a védett öbölben fekvő strand, amely rövid autóútra van Skibbereen városától, a helyiek kedvelt menedéke. A nyugodt atmoszférát kiegészíti a Drishane-sziget látványa, amely a part mentén fekszik, és drámai hátteret ad az atlanti kilátásnak. Maga a strand az aranyhomok és a sima kavicsok elragadó keveréke, amelyet zöld dombok és sziklás kiemelkedések ölelnek körül.\n\nA látogatókat kivételesen tiszta víz fogadja, amely már többször kiérdemelte a Kék Zászló minősítést. Ez rendkívül népszerű célponttá teszi az úszók számára a nyári hónapokban. Kis mérete ellenére a strand tágas érzetet nyújt a nyílt óceánra nyíló pazar kilátásnak köszönhetően. A friss tengeri szellő és a szikláknak csapódó hullámok hangja hihetetlenül pihentető környezetet teremt, amely ideális a nyugalomra vágyóknak.\n\nTermészeti szépségén túl Tragumna összefonódik a helyi élettel. A tengerparti hagyományos kocsma barátságos menedéket kínál, ahol a látogatók úszás után egy kiadós étel mellett melegedhetnek fel. A környék biodiverzitása gazdag, így a természetkedvelők sokat csodálhatnak a parti ösvényeken. Akár egy téli sétára, akár egy nyári családi piknikre vágyik, Tragumna hiteles és emlékezetes élményt nyújt.",
+   "ro": "Tragumna, situată în West Cork, este o locație de coastă pitorească ce oferă un gust autentic al litoralului irlandez accidentat. Ascunsă într-un mic golf protejat, la o scurtă călătorie cu mașina de Skibbereen, această plajă compactă este un refugiu local iubit. Atmosfera liniștită este completată de prezența Insulei Drishane, aflată în larg, adăugând un fundal dramatic priveliștilor atlantice. Plaja în sine este un amestec de nisip auriu și pietricele, încadrată de dealuri verzi caracteristice și aflorimente stâncoase.\n\nVizitatorii sunt întâmpinați de ape extrem de curate, care au câștigat frecvent statutul Blue Flag. Acest lucru o transformă într-o destinație populară printre înotători în timpul verii. În ciuda dimensiunilor mici, plaja oferă o senzație de spațiu vast datorită priveliștilor către oceanul deschis. Briza proaspătă a mării și sunetul valurilor care se sparg de țărmul stâncos creează un mediu incredibil de relaxant, perfect pentru evadarea din cotidian.\n\nDincolo de frumusețea naturală, Tragumna este împletită cu viața comunității. Pubul tradițional din apropiere oferă un refugiu primitor unde vizitatorii se pot încălzi cu o masă copioasă după o baie. Zona înconjurătoare este bogată în biodiversitate, iar iubitorii de natură au multe de admirat pe potecile de coastă. Fie că doriți o plimbare de iarnă sau un picnic de vară, Tragumna vă oferă o experiență irlandeză memorabilă.",
+   "en": "Tragumna, located in West Cork, Ireland, is a charming coastal spot offering a true taste of the rugged Irish coastline. Nestled in a small, sheltered bay just a short drive from the market town of Skibbereen, this compact beach is a beloved local haven. The tranquil atmosphere is complemented by the striking presence of Drishane Island, lying just offshore and adding a dramatic backdrop to the scenic Atlantic views. The beach itself is a delightful mix of golden sand and pebbles, framed by characteristic green hills and rocky outcrops.\n\nVisitors to Tragumna are greeted by exceptionally clean waters, which frequently earn the prestigious Blue Flag status. This makes it a highly popular destination for swimmers and water enthusiasts during the summer months. Despite its relatively small size, the beach provides an expansive feel thanks to the sweeping views of the open ocean. The crisp, invigorating sea breeze and the rhythmic sound of waves crashing against the rocks create a relaxing environment, perfect for escaping the busy tourist trails.\n\nBeyond its natural beauty, Tragumna is deeply intertwined with local community life. The nearby traditional pub offers a welcoming haven where visitors can warm up with a hearty meal after a refreshing swim. The surrounding area is rich in biodiversity, offering plenty for nature lovers to admire along the coastal paths. Whether looking for a brisk winter walk, a summer family picnic, or a peaceful spot to watch the sea, Tragumna provides an authentic and memorable West Cork experience."
+  },
+  "type": {
+   "de": "gemischt",
+   "hu": "vegyes",
+   "ro": "mixtă",
+   "en": "mixed"
+  },
+  "water": {
+   "de": "Das Wasser ist unberührt und belebend, mit einem sanft abfallenden Ufer, das den Einstieg relativ einfach macht. Da es sich zum Atlantik öffnet, kann das Wasser kalt sein, ist aber aufgrund seiner Sauberkeit hervorragend zum Schwimmen geeignet.",
+   "hu": "A víz kristálytiszta és élénkítő, a part pedig lassan mélyül, ami megkönnyíti a bemenetelt. Mivel az Atlanti-óceánra nyílik, a víz meglehetősen hideg lehet, de tisztasága miatt kiválóan alkalmas az úszásra.",
+   "ro": "Apa este imaculată și revigorantă, cu o intrare lină în mare care face scăldatul relativ ușor. Deoarece se deschide spre Atlantic, apa poate fi rece, dar curățenia sa o face excelentă pentru înot.",
+   "en": "The water is pristine and refreshing, with a gently sloping shoreline that makes entering the sea relatively easy. As it opens to the Atlantic, the water can be cold, but its cleanliness makes it excellent for swimming."
+  },
+  "access": {
+   "de": "Der Strand ist mit dem Auto über schmale, kurvenreiche Landstraßen (R596) von Skibbereen aus zu erreichen. Es ist eine malerische, aber langsame Fahrt, die Sie direkt ans Ufer führt.",
+   "hu": "A strand autóval közelíthető meg Skibbereen felől délre tartó keskeny, kanyargós utakon (R596). Ez egy festői, de lassú útvonal, amely egészen a partig visz.",
+   "ro": "Plaja este accesibilă cu mașina pe drumuri de țară înguste și sinuoase (R596) care merg spre sud din Skibbereen. Este o călătorie pitorească, dar lentă, care te duce chiar până la mal.",
+   "en": "The beach is accessible by car via narrow, winding country roads (R596) leading south from Skibbereen. It is a scenic but slow drive that takes you right down to the shoreline."
+  },
+  "parking": {
+   "de": "Es gibt einen kleinen, kostenlosen öffentlichen Parkplatz direkt am Strand, der sich an sonnigen Sommerwochenenden schnell füllen kann.",
+   "hu": "A strand közvetlen közelében található egy kis, ingyenes nyilvános parkoló, amely azonban a napos nyári hétvégéken hamar megtelhet.",
+   "ro": "Există o parcare publică mică și gratuită situată imediat lângă plajă, dar aceasta se poate umple rapid în weekendurile însorite de vară.",
+   "en": "There is a small, free public parking area situated immediately adjacent to the beach, but it can fill up quickly on sunny summer weekends."
+  },
+  "facilities": {
+   "de": [
+    "Öffentliche Toiletten",
+    "Parkplatz",
+    "Nahegelegener Pub",
+    "Rettungsringe",
+    "Slipanlage"
+   ],
+   "hu": [
+    "Nyilvános WC",
+    "Parkoló",
+    "Közeli pub",
+    "Mentőöv",
+    "Csónakleeresztő rámpa"
+   ],
+   "ro": [
+    "Toalete publice",
+    "Parcare",
+    "Pub în apropiere",
+    "Colaci de salvare",
+    "Rampă pentru bărci"
+   ],
+   "en": [
+    "Public toilets",
+    "Parking",
+    "Nearby pub",
+    "Lifebuoys",
+    "Slipway"
+   ]
+  },
+  "family": {
+   "de": "Tragumna ist dank seiner kompakten Größe, der geschützten Lage und dem Parkplatz direkt am Strand ein sehr familienfreundliches Reiseziel.",
+   "hu": "Tragumna nagyon családbarát úti cél kis mérete, védett jellege és a homokos parthoz közeli parkolási lehetőség miatt.",
+   "ro": "Tragumna este o destinație foarte prietenoasă cu familiile datorită dimensiunii sale compacte, naturii protejate și confortului parcării chiar lângă nisip.",
+   "en": "Tragumna is a very family-friendly destination thanks to its compact size, sheltered nature, and the convenience of having parking right next to the sand."
+  },
+  "kids": {
+   "de": "Kinder lieben es, bei Ebbe die faszinierenden Felsenpools an den Rändern des Strandes zu erkunden, um kleine Krabben zu finden. Die geschützte Bucht bietet zudem flaches Wasser, in dem die Kleinen sicher planschen können.",
+   "hu": "A gyerekek imádják felfedezni a strand szélein lévő sziklamedencéket, ahol apálykor rákokat és kis halakat találhatnak. A védett öböl viszonylag biztonságos környezetet nyújt a kicsiknek a sekély vízben való pancsoláshoz.",
+   "ro": "Copiii adoră să exploreze micile bazine formate printre stânci la marginile plajei la reflux, pentru a găsi crabi. Golful adăpostit oferă, de asemenea, un mediu relativ sigur pentru ca cei mici să se bălăcească în apele puțin adânci.",
+   "en": "Children love exploring the fascinating rock pools at the edges of the beach to find crabs and small fish when the tide goes out. The sheltered bay provides a relatively safe environment for kids to splash in the shallow waters."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Seafood Chowder",
+     "tip": "Genießen Sie eine warme, herzhafte Schüssel traditioneller irischer Meeresfrüchtesuppe im lokalen Pub direkt gegenüber dem Strand."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Frisch panierter lokaler Fisch mit Pommes frites ist ein Grundnahrungsmittel in den traditionellen Lokalen im nahegelegenen Skibbereen."
+    },
+    {
+     "name": "Irish Soda Bread",
+     "tip": "Oft zusammen mit Suppen serviert, ist dieses frisch gebackene Brot eine lokale Spezialität, die man probieren muss."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Seafood Chowder (tenger gyümölcsei leves)",
+     "tip": "A stranddal szemben lévő helyi pubban érdemes megkóstolni ezt a sűrű, hagyományos ír levest."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Friss, helyi hal bundában, sült krumplival, amely a közeli Skibbereen hagyományos éttermeinek alapvető fogása."
+    },
+    {
+     "name": "Ír szódás kenyér",
+     "tip": "A levesek mellé gyakran felszolgált, frissen sült kenyér kihagyhatatlan helyi specialitás."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Chowder de fructe de mare",
+     "tip": "Bucurați-vă de un bol cald și consistent de supă tradițională irlandeză de fructe de mare la pubul local situat chiar vizavi de plajă."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Peștele local proaspăt învelit în aluat și servit cu cartofi prăjiți este un preparat de bază în localurile din apropiere de Skibbereen."
+    },
+    {
+     "name": "Pâine irlandeză cu bicarbonat",
+     "tip": "Adesea servită alături de supe, această pâine proaspăt coaptă este o specialitate locală ce trebuie neapărat încercată."
+    }
+   ],
+   "en": [
+    {
+     "name": "Seafood Chowder",
+     "tip": "Enjoy a warm, hearty bowl of traditional Irish seafood chowder at the local pub situated just across from the beach."
+    },
+    {
+     "name": "Fish and Chips",
+     "tip": "Freshly battered local fish served with chips is a staple in nearby Skibbereen's traditional eateries."
+    },
+    {
+     "name": "Irish Soda Bread",
+     "tip": "Often served alongside soups and chowders, this freshly baked bread is a must-try local specialty."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Zugang zum Strand ist das ganze Jahr über völlig kostenlos.",
+   "hu": "A strand látogatása egész évben teljesen ingyenes.",
+   "ro": "Accesul la plajă este complet gratuit pe tot parcursul anului.",
+   "en": "Access to the beach is completely free of charge all year round."
+  },
+  "lifeguard": {
+   "de": "Rettungsschwimmer sind in der Regel in den Hochsommermonaten (Juli und August) sowie an den Wochenenden im Juni im Dienst.",
+   "hu": "A főszezonban (júliusban és augusztusban), valamint a júniusi hétvégéken általában vízimentők teljesítenek szolgálatot.",
+   "ro": "Salvamarii sunt de obicei prezenți la datorie în lunile de vârf ale verii (iulie și august) și în weekendurile din iunie.",
+   "en": "Lifeguards are typically on duty during the peak summer months (July and August) and on weekends in June."
+  },
+  "shade": {
+   "de": "Es gibt keinen natürlichen Schatten am Strand, und aufgrund des wechselhaften Wetters bringen Besucher oft eher einen Windschutz als Sonnenschirme mit.",
+   "hu": "A strandon nincs természetes árnyék, és az időjárás miatt a látogatók napernyő helyett gyakran szélfogót hoznak magukkal.",
+   "ro": "Nu există umbră naturală pe plajă, iar vizitatorii aduc adesea paravânturi în loc de umbrele de soare din cauza vremii schimbătoare.",
+   "en": "There is no natural shade on the beach, and the weather can be changeable, so visitors often bring windbreaks rather than sun umbrellas."
+  },
+  "best_time": {
+   "de": "Die beste Zeit ist im Juli und August, wenn das Wasser am wärmsten ist, obwohl kühle Frühlings- und Herbsttage perfekte einsame Spaziergänge bieten.",
+   "hu": "A legjobb időszak július és augusztus, amikor a legmelegebb az idő, bár a tavaszi és őszi napok gyönyörű, magányos sétákat kínálnak.",
+   "ro": "Cel mai bun moment este în iulie și august, când vremea este cea mai caldă, deși zilele de primăvară sau toamnă oferă plimbări frumoase și solitare.",
+   "en": "The best time to visit is during July and August when the weather is warmest, though crisp spring or autumn days offer beautiful solitary walks."
+  },
+  "nearby": {
+   "de": "Die lebhafte Stadt Skibbereen ist nur 6 Kilometer entfernt. Auch der Lough Hyne, Irlands erstes Meeresnaturschutzgebiet, ist nur eine kurze Autofahrt entfernt.",
+   "hu": "A nyüzsgő Skibbereen városa mindössze 6 kilométerre található. A híres Lough Hyne tengeri természetvédelmi terület szintén csak egy rövid autóútra van.",
+   "ro": "Orașul vibrant Skibbereen este la doar 6 kilometri distanță. Celebrul Lough Hyne, o rezervație marină, este, de asemenea, la o scurtă călătorie cu mașina.",
+   "en": "The vibrant town of Skibbereen is just 6 kilometers away. The famous Lough Hyne marine nature reserve is also a short drive from Tragumna."
+  },
+  "tips": {
+   "de": [
+    "Packen Sie einen Windschutz ein, um sich vor der frischen Atlantikbrise zu schützen.",
+    "Kommen Sie an sonnigen Sommerwochenenden früh, um sich einen Platz auf dem kleinen Parkplatz zu sichern.",
+    "Bringen Sie Wasserschuhe mit, wenn Sie die felsigen Gebiete und Gezeitentümpel erkunden möchten.",
+    "Überprüfen Sie die lokalen Gezeiten, bevor Sie kommen, um Ihre Zeit auf den sandigen Abschnitten zu maximieren."
+   ],
+   "hu": [
+    "Hozzon magával szélfogót, amely védelmet nyújt a hűvös atlanti szél ellen.",
+    "A napos nyári hétvégéken érkezzen korán, hogy biztosan kapjon helyet a kis parkolóban.",
+    "Csomagoljon vízicipőt, ha fel szeretné fedezni a sziklás részeket és a sziklamedencéket.",
+    "Látogatás előtt ellenőrizze az árapály-táblázatot, hogy maximalizálja a homokos részen tölthető időt."
+   ],
+   "ro": [
+    "Împachetați un paravânt pentru a vă proteja împotriva brizei răcoroase a Atlanticului.",
+    "Ajungeți devreme în weekendurile însorite de vară pentru a vă asigura un loc în parcarea mică.",
+    "Aduceți pantofi de apă dacă intenționați să explorați zonele stâncoase și bazinele cu apă.",
+    "Verificați orele mareelor înainte de a vizita pentru a vă maximiza timpul petrecut pe secțiunile nisipoase."
+   ],
+   "en": [
+    "Pack a windbreak to protect against the brisk Atlantic breeze.",
+    "Arrive early on sunny summer weekends to secure a spot in the small car park.",
+    "Bring water shoes if you plan to explore the rocky areas and rock pools.",
+    "Check the local tide times before visiting to maximize your time on the sandy sections."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Ist das Schwimmen am Strand von Tragumna sicher?",
+     "hu": "Biztonságos az úszás Tragumna strandján?",
+     "ro": "Este plaja Tragumna sigură pentru înot?",
+     "en": "Is Tragumna beach safe for swimming?"
+    },
+    "a": {
+     "de": "Ja, die Wasserqualität ist ausgezeichnet und im Sommer unter Aufsicht im Allgemeinen sicher, aber achten Sie immer auf atlantische Strömungen.",
+     "hu": "Igen, a víz minősége kiváló, és nyáron vízimentők felügyelete mellett biztonságos, de mindig figyeljen az óceáni áramlatokra.",
+     "ro": "Da, calitatea apei este excelentă și în general sigură vara sub supraveghere, dar fiți atenți la curenții atlantici.",
+     "en": "Yes, the water quality is excellent and generally safe during the summer under supervision, but always be mindful of Atlantic currents."
+    }
+   },
+   {
+    "q": {
+     "de": "Sind Hunde am Strand erlaubt?",
+     "hu": "Kutyákat be lehet vinni a strandra?",
+     "ro": "Sunt câinii permiși pe plajă?",
+     "en": "Are dogs allowed on the beach?"
+    },
+    "a": {
+     "de": "Hunde unterliegen Einschränkungen, insbesondere während der Blaue-Flagge-Saison im Sommer, und müssen an der Leine geführt werden.",
+     "hu": "A kutyákra korlátozások vonatkoznak, különösen a nyári, Kék Zászlós szezonban, és pórázon kell tartani őket.",
+     "ro": "Câinii sunt supuși unor restricții, mai ales în sezonul de vară Blue Flag, și trebuie ținuți în lesă.",
+     "en": "Dogs are subject to restrictions, especially during the summer Blue Flag season, and must be kept on a lead."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Verkehrsmittel zum Strand?",
+     "hu": "Van tömegközlekedés a strandhoz?",
+     "ro": "Există transport public către plajă?",
+     "en": "Is there public transport to the beach?"
+    },
+    "a": {
+     "de": "Nein, es gibt keine direkten öffentlichen Verkehrsmittel; das Auto oder das Fahrrad von Skibbereen aus sind die besten Optionen.",
+     "hu": "Nem, nincs közvetlen tömegközlekedés; autóval vagy kerékpárral Skibbereenből a legkönnyebb megközelíteni.",
+     "ro": "Nu, nu există transport public direct; mașina sau bicicleta din Skibbereen sunt cele mai bune opțiuni.",
+     "en": "No, there is no direct public transport; driving or cycling from Skibbereen are the best ways to reach it."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es Geschäfte direkt am Strand?",
+     "hu": "Vannak boltok közvetlenül a parton?",
+     "ro": "Există magazine direct pe plajă?",
+     "en": "Are there shops directly on the beach?"
+    },
+    "a": {
+     "de": "Nein, es gibt nur einen Pub. Bringen Sie Ihre eigenen Snacks und Strandutensilien aus Skibbereen mit.",
+     "hu": "Nem, csak egy helyi pub található itt. Rágcsálnivalót és felszerelést Skibbereenből érdemes hozni.",
+     "ro": "Nu, există doar un pub. Aduceți-vă propriile gustări și provizii de plajă din Skibbereen.",
+     "en": "No, there is only a local pub nearby. You should bring your own snacks and beach supplies from Skibbereen."
+    }
+   }
+  ]
+ },
+ "uggool-beach": {
+  "slug": "uggool-beach",
+  "naturist": false,
+  "blue_flag": false,
+  "dog_friendly": false,
+  "accessible": false,
+  "intro": {
+   "de": "Der Uggool Beach ist ein spektakuläres, verborgenes Juwel an der rauen Küste der Grafschaft Mayo und wird oft als eines der bestgehüteten Geheimnisse Irlands bezeichnet. Eingebettet an der Mündung des Killary-Fjords und flankiert von den majestätischen Mweelrea-Bergen, wirkt dieser unberührte, weiße Sandstrand an einem sonnigen Tag fast tropisch. Der dramatische Kontrast zwischen dem tiefblauen Wasser des Atlantiks, dem leuchtenden Sand und den saftig grünen Bergen schafft eine unvergessliche, geradezu filmreife Landschaft.\n\nWas Uggool so besonders macht, ist seine extreme Abgeschiedenheit und die unberührte Natur. Der Strand ist in erster Linie über das 'Lost Valley', eine historische, noch bewirtschaftete Farm, oder bei Ebbe durch die Überquerung der Flussmündung vom benachbarten Silver Strand aus erreichbar. Aufgrund dieses eingeschränkten Zugangs bleibt der Strand außergewöhnlich friedlich und völlig frei von Kommerzialisierung, was ein raues und authentisches irisches Küstenerlebnis garantiert.\n\nBesucher, die die Reise nach Uggool auf sich nehmen, werden mit einem weiten Blick auf die umliegenden Inseln und den offenen Ozean belohnt. Es ist ein Ort der absoluten Ruhe und von großer historischer Bedeutung, wo verlassene Dörfer aus der Zeit der großen Hungersnot die ergreifende Geschichte der Region erzählen. Ob Sie am Ufer spazieren gehen, die majestätischen Gipfel fotografieren oder einfach die frische, salzige Atlantikluft einatmen – Uggool Beach ist ein atemberaubender Rückzugsort in das wilde Herz im Westen Irlands.",
+   "hu": "Az Uggool Beach egy látványos, rejtett kincs Mayo megye zord partvidékén, amelyet gyakran Írország egyik legjobban őrzött titkaként emlegetnek. A Killary-fjord torkolatánál fekvő, a fenséges Mweelrea-hegység által körülölelt, érintetlen, fehér homokos partszakasz napsütéses napokon szinte trópusi hangulatot áraszt. A mélykék Atlanti-óceán, a csillogó homok és a buja zöld hegyek drámai kontrasztja felejthetetlen, filmszerű tájat hoz létre.\n\nAmi Uggoolt igazán különlegessé teszi, az a rendkívüli elzártság és az érintetlen természet. A strandra elsősorban a 'The Lost Valley' (Az Elveszett Völgy) nevű történelmi, működő farmon keresztül lehet eljutni, vagy a szomszédos Silver Strand felől, a torkolaton átkelve, szigorúan csak apály idején. Ennek a korlátozott megközelíthetőségnek köszönhetően a part megőrzi kivételes békéjét, teljesen mentes a kereskedelmi hatásoktól, így nyers és hiteles ír tengerparti élményt nyújt.\n\nAzok az utazók, akik vállalják az Uggoolhoz vezető utat, a környező szigetekre és a nyílt óceánra nyíló pazar kilátással gazdagodnak. Ez az abszolút nyugalom és a történelmi jelentőség helyszíne, ahol a közeli, romos éhínségfalvak mesélnek a terület drámai múltjáról. Legyen szó a part menti sétáról, a lenyűgöző csúcsok fotózásáról, vagy egyszerűen csak a friss, sós atlanti levegő belélegzéséről, az Uggool Beach egy lélegzetelállító menedék az ír vadnyugat szívében.",
+   "ro": "Plaja Uggool este o bijuterie spectaculoasă și ascunsă pe coasta accidentată a comitatului Mayo, fiind adesea descrisă drept unul dintre cele mai bine păstrate secrete ale Irlandei. Situată la gura fiordului Killary și flancată de maiestuoșii munți Mweelrea, această porțiune imaculată de nisip alb capătă un aspect aproape tropical într-o zi însorită. Contrastul dramatic dintre apele albastre și adânci ale Atlanticului, nisipul strălucitor și munții de un verde luxuriant creează un peisaj de neuitat, cu adevărat cinematografic.\n\nCeea ce face ca Uggool să fie cu adevărat specială este izolarea sa extremă și natura neatinsă. Plaja este accesibilă în principal prin 'Valea Pierdută' (The Lost Valley), o fermă istorică funcțională, sau prin traversarea estuarului de la plaja vecină Silver Strand, strict la reflux. Din cauza acestui acces limitat, plaja își păstrează o liniște excepțională și este complet lipsită de comercializare, oferind o experiență de coastă irlandeză crudă și autentică.\n\nVizitatorii care fac călătoria până la Uggool sunt răsplătiți cu priveliști panoramice asupra insulelor din jur și a oceanului deschis. Este un loc al liniștii absolute și cu o mare semnificație istorică, unde satele ruinate din perioada Marii Foamete spun povestea tragică a trecutului zonei. Fie că vă plimbați pe țărm, fotografiați vârfurile maiestuoase sau pur și simplu respirați aerul proaspăt și sărat al Atlanticului, plaja Uggool este o evadare uluitoare în inima sălbatică a vestului Irlandei.",
+   "en": "Uggool Beach is a spectacular, hidden gem located on the rugged coastline of County Mayo, often described as one of Ireland's best-kept secrets. Nestled at the mouth of Killary Fjord and backed by the majestic Mweelrea Mountains, this pristine stretch of white sand looks almost tropical on a sunny day. The dramatic contrast between the deep blue Atlantic waters, the gleaming sand, and the lush green mountains creates an unforgettable, cinematic landscape.\n\nWhat makes Uggool truly special is its extreme remoteness and untouched nature. The beach is primarily accessed through 'The Lost Valley', a historic working farm, or by crossing the tidal estuary from the neighboring Silver Strand at low tide. Because of this restricted access, the beach remains exceptionally peaceful and completely free from commercialization, offering a raw and authentic Irish coastal experience.\n\nVisitors who make the journey to Uggool are rewarded with sweeping views of the surrounding islands and the open ocean. It is a place of absolute tranquility and historical significance, where ruined famine villages nearby tell the poignant story of the area's past. Whether you are walking along the shoreline, photographing the majestic peaks, or simply breathing in the fresh, salty Atlantic air, Uggool Beach is a breathtaking escape into the wild heart of the west of Ireland."
+  },
+  "type": {
+   "de": "Sandstrand",
+   "hu": "Homokos",
+   "ro": "Cu nisip",
+   "en": "Sandy"
+  },
+  "water": {
+   "de": "Das kristallklare, türkisfarbene Wasser des Atlantiks ist atemberaubend schön, bleibt aber ganzjährig kalt. Das Ufer fällt allmählich ab, jedoch können Meeresströmungen und Gezeiten unvorhersehbar sein, was Vorsicht erfordert.",
+   "hu": "A kristálytiszta, türkizkék atlanti vizek lélegzetelállítóan szépek, de egész évben hidegek maradnak. A part lassan mélyül, bár az óceáni áramlatok és az árapály kiszámíthatatlanok lehetnek, így óvatosságra van szükség.",
+   "ro": "Apele limpezi, de un turcoaz impresionant ale Atlanticului sunt uluitor de frumoase, dar rămân reci tot anul. Țărmul se adâncește treptat, însă curenții oceanici și mareele pot fi imprevizibile, necesitând prudență.",
+   "en": "The crystal-clear, turquoise Atlantic waters are breathtakingly beautiful but remain cold year-round. The shoreline deepens gradually, though ocean currents and tides can be unpredictable, requiring caution."
+  },
+  "access": {
+   "de": "Der Zugang ist bekanntermaßen schwierig; man kann entweder eine geführte Tour durch die private Farm 'Lost Valley' buchen oder nur bei Ebbe von Silver Strand aus die Flussmündung überqueren. Der Weg führt über unebenes, raues Gelände.",
+   "hu": "A megközelítés köztudottan nehéz; vagy egy vezetett túrát kell foglalni a privát 'Lost Valley' farmon keresztül, vagy a Silver Strand felől kell átkelni a torkolaton, kizárólag apály idején. Az út egyenetlen, zord terepen vezet.",
+   "ro": "Accesul este renumit de dificil; fie rezervați un tur ghidat prin ferma privată 'Lost Valley', fie traversați estuarul de la Silver Strand exclusiv în timpul refluxului. Traseul implică un teren accidentat și neuniform.",
+   "en": "Access is famously difficult; you can either book a guided walk through the private 'Lost Valley' farm or cross the tidal estuary from Silver Strand only during low tide. The walk involves rugged, uneven terrain."
+  },
+  "parking": {
+   "de": "Es gibt keine direkten Parkplätze am Uggool Beach; Besucher parken meist am Parkplatz des Silver Strand oder nutzen die ausgewiesenen Parkplätze der Lost Valley Touren.",
+   "hu": "Nincs közvetlen parkolási lehetőség az Uggool Beach-nél; a látogatók általában a Silver Strand parkolójában állnak meg és onnan sétálnak, vagy a Lost Valley túrák kijelölt parkolóját használják.",
+   "ro": "Nu există parcare directă la plaja Uggool; vizitatorii parchează de obicei la parcarea Silver Strand și merg pe jos, sau folosesc parcarea desemnată pentru tururile din Lost Valley.",
+   "en": "There is no direct parking at Uggool Beach; visitors usually park at the Silver Strand car park and walk, or use the designated parking for the Lost Valley tours."
+  },
+  "facilities": {
+   "de": [
+    "Keine Einrichtungen",
+    "Unberührte Natur",
+    "Keine Toiletten",
+    "Keine Cafés"
+   ],
+   "hu": [
+    "Nincsenek szolgáltatások",
+    "Érintetlen természet",
+    "Nincs mosdó",
+    "Nincs büfé"
+   ],
+   "ro": [
+    "Fără facilități",
+    "Natură neatinsă",
+    "Fără toalete",
+    "Fără cafenele"
+   ],
+   "en": [
+    "No facilities",
+    "Untouched nature",
+    "No toilets",
+    "No cafes"
+   ]
+  },
+  "family": {
+   "de": "Aufgrund des schwierigen Zugangs, fehlender Einrichtungen und unvorhersehbarer Gezeiten ist dieser Strand nicht ideal für Familien mit kleinen Kindern oder Kinderwagen. Er eignet sich besser für ältere, abenteuerlustige Kinder, die gerne wandern.",
+   "hu": "A nehézkes megközelítés, a szolgáltatások hiánya és a kiszámíthatatlan árapály miatt ez a strand nem ideális kisgyermekes vagy babakocsis családok számára. Inkább a túrázást kedvelő, idősebb, kalandvágyó gyerekeknek ajánlott.",
+   "ro": "Din cauza accesului dificil, a lipsei de facilități și a mareelor imprevizibile, această plajă nu este ideală pentru familiile cu copii mici sau cărucioare. Este mai potrivită pentru copiii mai mari, aventuroși, cărora le place drumeția.",
+   "en": "Due to the challenging access, lack of facilities, and unpredictable tides, this beach is not ideal for families with young children or strollers. It is better suited for older, adventurous children who enjoy hiking."
+  },
+  "kids": {
+   "de": "Es gibt keine speziellen Kindereinrichtungen oder Spielplätze. Die Hauptattraktion für Kinder ist der wilde, weite Raum zum Muschelnsammeln, Laufen im endlosen Sand und das Beobachten von lokalen Schafen aus der Ferne.",
+   "hu": "Kifejezetten gyermekeknek szóló létesítmények vagy játszóterek nincsenek. A fő vonzerőt a hatalmas nyílt tér, a kagylók gyűjtése, a végtelen homokon való futkározás és a távolban legelésző helyi juhok megfigyelése jelenti.",
+   "ro": "Nu există facilități specifice sau locuri de joacă pentru copii. Atracția principală este spațiul sălbatic și deschis pentru a explora scoici, a alerga pe nisipul nesfârșit și a observa oile locale de la distanță.",
+   "en": "There are no specific kids' facilities or playgrounds available. The main attraction for children is the wild, open space for exploring shells, running on the vast sand, and spotting local sheep from a distance."
+  },
+  "gastro": {
+   "de": [
+    {
+     "name": "Frische Meeresfrüchte aus dem Atlantik",
+     "tip": "Erhältlich in den traditionellen Pubs und Restaurants im nahegelegenen Louisburgh."
+    },
+    {
+     "name": "Irisches Schwarzbrot mit Suppe",
+     "tip": "Ein wärmender, herzhafter lokaler Klassiker, perfekt nach einem windigen Strandspaziergang in den Cafés von Louisburgh."
+    },
+    {
+     "name": "Lokale Lammgerichte",
+     "tip": "Probieren Sie Lammfleisch aus der Region in den traditionellen Lokalen von Mayo, das das landwirtschaftliche Erbe widerspiegelt."
+    }
+   ],
+   "hu": [
+    {
+     "name": "Friss atlanti tenger gyümölcsei",
+     "tip": "Megtalálhatóak a közeli Louisburgh városka hagyományos pubjaiban és éttermeiben."
+    },
+    {
+     "name": "Ír barna kenyér és leves",
+     "tip": "Kiadós, melegítő helyi klasszikus, amely tökéletes egy szeles tengerparti séta után a louisburghi kávézókban."
+    },
+    {
+     "name": "Helyi bárányételek",
+     "tip": "A régió mezőgazdasági örökségét tükröző ételek, amelyeket Mayo megye hagyományos vendéglőiben érdemes megkóstolni."
+    }
+   ],
+   "ro": [
+    {
+     "name": "Fructe de mare proaspete din Atlantic",
+     "tip": "Disponibile în pub-urile și restaurantele tradiționale din orașul din apropiere, Louisburgh."
+    },
+    {
+     "name": "Pâine neagră irlandeză și supă",
+     "tip": "Un preparat local sățios și încălzitor, perfect după o plimbare pe plaja bătută de vânt, găsit în cafenelele din Louisburgh."
+    },
+    {
+     "name": "Mâncăruri locale din carne de miel",
+     "tip": "Evidențiind moștenirea agricolă a regiunii, încercați mielul local în restaurantele tradiționale din Mayo."
+    }
+   ],
+   "en": [
+    {
+     "name": "Fresh Atlantic Seafood",
+     "tip": "Available in the traditional pubs and restaurants in the nearby town of Louisburgh."
+    },
+    {
+     "name": "Irish Brown Bread and Soup",
+     "tip": "A hearty, warming local staple perfect after a windy beach walk, found in Louisburgh cafes."
+    },
+    {
+     "name": "Local Lamb Dishes",
+     "tip": "Highlighting the region's agricultural heritage, try local lamb in Mayo's traditional eateries."
+    }
+   ]
+  },
+  "entrance": {
+   "de": "Der Strand selbst ist kostenlos, aber bei Zugang über die 'Lost Valley'-Tour fällt eine Eintrittsgebühr für das geführte Erlebnis an.",
+   "hu": "Maga a strand ingyenes, de ha a 'The Lost Valley' túrán keresztül közelítjük meg, a vezetett élményért belépődíjat kell fizetni.",
+   "ro": "Plaja în sine este gratuită, dar dacă accesul se face prin turul 'Lost Valley', se percepe o taxă de intrare pentru experiența ghidată.",
+   "en": "The beach itself is free, but if accessing via 'The Lost Valley' tour, an admission fee applies for the guided experience."
+  },
+  "lifeguard": {
+   "de": "Am Uggool Beach gibt es zu keiner Jahreszeit einen Rettungsschwimmer.",
+   "hu": "Az Uggool Beach-en az év egyik szakában sincs vízimentő-szolgálat.",
+   "ro": "Nu există salvamar la datorie pe plaja Uggool în nicio perioadă a anului.",
+   "en": "There is no lifeguard on duty at Uggool Beach at any time of the year."
+  },
+  "shade": {
+   "de": "Es gibt absolut keinen natürlichen Schatten und keine Möglichkeit, Sonnenschirme zu mieten. Besucher müssen ihren eigenen Schutz vor den Elementen mitbringen.",
+   "hu": "Egyáltalán nincs természetes árnyék, és napernyőt sem lehet bérelni, így a látogatóknak maguknak kell gondoskodniuk az időjárás elleni védelemről.",
+   "ro": "Nu există deloc umbră naturală sau facilități pentru închirierea umbrelelor, așa că vizitatorii trebuie să își aducă propria protecție împotriva intemperiilor.",
+   "en": "There is absolutely no natural shade or facilities to rent umbrellas, so visitors must bring their own protection from the elements."
+  },
+  "best_time": {
+   "de": "Die späten Frühlings- und Sommermonate (Mai bis August) bieten das beste Wetter, aber überprüfen Sie vor einem Besuch immer die Gezeiten.",
+   "hu": "A késő tavaszi és nyári hónapok (májustól augusztusig) kínálják a legjobb időjárást, de látogatás előtt mindig ellenőrizni kell az árapály-táblázatot.",
+   "ro": "Lunile de primăvară târzie și vară (mai - august) oferă cea mai bună vreme, dar verificați întotdeauna orele mareelor înainte de vizită.",
+   "en": "The late spring and summer months (May to August) offer the best weather, but always check the tide times before visiting."
+  },
+  "nearby": {
+   "de": "Die nächste Stadt ist Louisburgh, etwa 30 Autominuten entfernt. In der Nähe können Sie den atemberaubenden Silver Strand oder die raue Schönheit des Killary-Fjords erkunden.",
+   "hu": "A legközelebbi város Louisburgh, amely körülbelül 30 perces autóútra található. A közelben felfedezheti a lenyűgöző Silver Strandet vagy a Killary-fjord zord szépségét.",
+   "ro": "Cel mai apropiat oraș este Louisburgh, situat la aproximativ 30 de minute de mers cu mașina. În apropiere, puteți explora impresionanta plajă Silver Strand sau frumusețea sălbatică a fiordului Killary.",
+   "en": "The nearest town is Louisburgh, located about a 30-minute drive away. Nearby, you can explore the stunning Silver Strand or the rugged beauty of the Killary Fjord."
+  },
+  "tips": {
+   "de": [
+    "Überprüfen Sie unbedingt die Gezeiten; überqueren Sie den Weg vom Silver Strand nur bei Ebbe, um nicht eingeschlossen zu werden.",
+    "Tragen Sie wasserfestes, festes Schuhwerk und kleiden Sie sich im Zwiebellook, da das Atlantikwetter schnell umschlägt.",
+    "Packen Sie alle notwendigen Lebensmittel und Wasser ein, da es in der Nähe keine Einrichtungen gibt.",
+    "Hinterlassen Sie keine Spuren; nehmen Sie Ihren gesamten Müll mit nach Hause, um die unberührte Umwelt zu schützen."
+   ],
+   "hu": [
+    "Szigorúan ellenőrizze az árapály idejét; a Silver Strand felől csak apálykor keljen át, hogy ne rekedjen ott.",
+    "Hozzon vízálló, masszív lábbelit és öltözzön rétegesen, mivel az atlanti időjárás gyorsan változik.",
+    "Csomagoljon elegendő ételt és vizet, mivel a közelben semmilyen szolgáltatás nincs.",
+    "Ne hagyjon nyomot; vigye haza az összes szemetet, hogy megóvja az érintetlen környezetet."
+   ],
+   "ro": [
+    "Verificați cu strictețe orele mareelor; traversați de la Silver Strand doar la reflux pentru a nu rămâne blocat.",
+    "Aduceți încălțăminte impermeabilă robustă și îmbrăcați-vă în straturi, deoarece vremea atlantică se schimbă rapid.",
+    "Împachetați toate alimentele, apa și proviziile necesare, deoarece nu există facilități în apropiere.",
+    "Nu lăsați urme; luați-vă tot gunoiul acasă pentru a proteja mediul imaculat."
+   ],
+   "en": [
+    "Strictly check tide times; only cross from Silver Strand at low tide to avoid being stranded.",
+    "Bring robust waterproof footwear and dress in layers, as the Atlantic weather changes rapidly.",
+    "Pack all necessary food, water, and supplies since there are zero facilities nearby.",
+    "Leave no trace; take all your rubbish home to protect the pristine environment."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "de": "Kann ich direkt zum Uggool Beach fahren?",
+     "hu": "Közvetlenül az Uggool Beach-hez tudok autózni?",
+     "ro": "Pot merge cu mașina direct la plaja Uggool?",
+     "en": "Can I drive directly to Uggool Beach?"
+    },
+    "a": {
+     "de": "Nein, der Uggool Beach ist abgelegen und befindet sich auf Privatgrundstück. Sie müssen bei Ebbe vom Silver Strand aus gehen oder eine geführte Tour machen.",
+     "hu": "Nem, az Uggool Beach elzárt területen és magánbirtokon található. A Silver Strand felől apálykor sétálva, vagy vezetett túrával érhető el.",
+     "ro": "Nu, plaja Uggool este izolată și situată pe un teren privat. Trebuie să mergeți pe jos de la Silver Strand la reflux sau să faceți un tur ghidat.",
+     "en": "No, Uggool Beach is secluded and located on private land. You must walk from Silver Strand at low tide or take a guided tour."
+    }
+   },
+   {
+    "q": {
+     "de": "Gibt es öffentliche Toiletten am Strand?",
+     "hu": "Vannak nyilvános mosdók a strandon?",
+     "ro": "Există toalete publice pe plajă?",
+     "en": "Are there public toilets at the beach?"
+    },
+    "a": {
+     "de": "In der Nähe des Uggool Beach gibt es weder öffentliche Toiletten noch andere Einrichtungen.",
+     "hu": "Nincsenek nyilvános mosdók vagy más szolgáltatások az Uggool Beach közelében.",
+     "ro": "Nu există toalete publice sau orice alte facilități în apropierea plajei Uggool.",
+     "en": "There are no public toilets or any other facilities anywhere near Uggool Beach."
+    }
+   },
+   {
+    "q": {
+     "de": "Ist es sicher, am Uggool Beach zu schwimmen?",
+     "hu": "Biztonságos úszni az Uggool Beach-en?",
+     "ro": "Este sigur să înot la plaja Uggool?",
+     "en": "Is it safe to swim at Uggool Beach?"
+    },
+    "a": {
+     "de": "Vom Schwimmen wird generell abgeraten, da es keine Rettungsschwimmer gibt, das Wasser kalt ist und unvorhersehbare Meeresströmungen auftreten können.",
+     "hu": "Az úszás általában nem ajánlott a vízimentők hiánya, a hideg víz és az esetlegesen erős, kiszámíthatatlan óceáni áramlatok miatt.",
+     "ro": "Înotul nu este, în general, recomandat din cauza lipsei salvamarilor, a apei reci și a curenților oceanici puternici și imprevizibili.",
+     "en": "Swimming is generally not advised due to the lack of lifeguards, cold water, and potentially strong, unpredictable ocean currents."
+    }
+   },
+   {
+    "q": {
+     "de": "Muss ich für den Zugang zum Strand bezahlen?",
+     "hu": "Fizetnem kell a strandra való belépésért?",
+     "ro": "Trebuie să plătesc pentru a accesa plaja?",
+     "en": "Do I have to pay to access the beach?"
+    },
+    "a": {
+     "de": "Der Zugang über Silver Strand ist kostenlos, aber wenn Sie sich für den Weg durch die private Farm 'Lost Valley' entscheiden, fällt eine Gebühr für die geführte Tour an.",
+     "hu": "A Silver Strand felőli megközelítés ingyenes, de ha a privát 'Lost Valley' farmon keresztül megy, a vezetett túráért fizetni kell.",
+     "ro": "Accesul prin Silver Strand este gratuit, dar dacă alegeți să mergeți prin ferma privată 'Lost Valley', se percepe o taxă pentru turul ghidat.",
+     "en": "Accessing via Silver Strand is free, but if you choose to go through the private 'Lost Valley' farm, there is a fee for the guided tour."
+    }
+   }
+  ]
+ }
+}

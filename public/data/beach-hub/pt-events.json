@@ -1,0 +1,240 @@
+{
+ "praia-do-burgau": {
+  "beach": "Burgau",
+  "town": "Burgau",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival do Perceve de Vila do Bispo",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in June; 2026 edition 7-9 June",
+    "date": "2026-06-07",
+    "blurb": "Annual seafood festival in nearby Vila do Bispo celebrating the perceve (gooseneck barnacle) harvested along the Costa Vicentina, with local shellfish, food stalls and live concerts. Organised by the Camara Municipal de Vila do Bispo.",
+    "source_url": "https://www.cm-viladobispo.pt/pt/25322/festival-do-perceve-de-vila-do-bispo-comeca-esta-sexta-feira.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Festival dos Descobrimentos (Lagos)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late April to early May; 2026 edition (12th) 30 April-4 May",
+    "date": "2026-04-30",
+    "blurb": "Lagos' flagship historical festival commemorating Portugal's Age of Discoveries, with a large costumed procession, a 16th-century fair, historical reenactments, crafts, music and food. The 2026 theme is From Lagos to Japan.",
+    "source_url": "https://www.cm-lagos.pt/municipio/noticias/13691-ja-abriram-as-inscricoes-para-o-xii-festival-dos-descobrimentos",
+    "image_url": ""
+   },
+   {
+    "name": "Banho 29 (Lagos and Praia da Luz)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 29 August (with weekend programme); 2026 around 29 August",
+    "date": "2026-08-29",
+    "blurb": "Traditional Algarve end-of-summer celebration centred on a midnight sea swim, held in Lagos (Meia Praia, Praia da Batata) and nearby Praia da Luz, now a multi-day event with music, exercise classes and entertainment.",
+    "source_url": "https://www.myguidealgarve.com/events/lagos-bathing-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Carvoeiro Black & White Night",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-to-late June around the summer solstice; 2026 edition 20 June",
+    "date": "2026-06-20",
+    "blurb": "Large open-air street party in the wider western Algarve marking the start of summer, with multiple live-music stages, food stands and entertainment, and a black-and-white dress code. Note this is in Carvoeiro, toward the eastern edge of the Lagos region.",
+    "source_url": "https://portugalconfidential.com/carvoeiro-black-white-party/",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-marinha": {
+  "beach": "Carvoeiro (Lagoa)",
+  "town": "Carvoeiro (Lagoa)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Carvoeiro Black & White Night",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June (opens the summer season); 2026 edition on 20 June",
+    "date": "2026-06-20",
+    "blurb": "One of the Algarve's biggest street parties, held in Carvoeiro village and on the beach. Tens of thousands of visitors dress head-to-toe in black and white; multiple stages host live acts and DJs from evening until the early hours, with the beach becoming a giant open-air dance floor at midnight. Free entry.",
+    "source_url": "https://eventos.visitalgarve.pt/en/16392/carvoeiro-black-white-night",
+    "image_url": ""
+   },
+   {
+    "name": "FATACIL",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in late August; 2026 edition (45th) on 21-30 August",
+    "date": "2026-08-21",
+    "blurb": "Lagoa's flagship Fair of Handicrafts, Tourism, Agriculture, Commerce and Industry, one of the Algarve's largest summer fairs. Around 700 exhibitors, regional gastronomy, agriculture and handicraft stands, plus dozens of concerts across three stages over ten days at the Parque Municipal de Feiras e Exposicoes de Lagoa.",
+    "source_url": "https://www.fatacil.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa de Nossa Senhora da Encarnacao (Carvoeiro patron saint festival)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the last Sunday of August",
+    "date": "",
+    "blurb": "Traditional religious festivities honouring the patron saint of Carvoeiro, held in the fishing village with a procession and local celebrations.",
+    "source_url": "https://www.cm-lagoa.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Lagoa Jazz Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July; 2026 edition on 17-19 July",
+    "date": "2026-07-17",
+    "blurb": "Annual jazz festival staged in the town of Lagoa, featuring live performances over a long weekend as part of the municipality's summer cultural programme.",
+    "source_url": "https://www.cm-lagoa.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Mercado de Culturas a Luz das Velas (Candlelit Market)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early July; 2026 edition on 2-5 July",
+    "date": "2026-07-02",
+    "blurb": "Lagoa's atmospheric candlelit market in the historic town centre, with the streets lit by candles, music, crafts, food and a cultural programme over several evenings.",
+    "source_url": "https://www.cm-lagoa.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Lagoa Wine Show (Mostra de Vinhos)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early June; 2026 edition on 5-9 June",
+    "date": "2026-06-05",
+    "blurb": "Regional wine fair in Lagoa showcasing Algarve wines and local producers, with tastings, food and entertainment.",
+    "source_url": "https://www.cm-lagoa.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festas de Nossa Senhora da Luz / Lagoa Municipal Holiday",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early-mid September; 2026 edition on 6-9 September",
+    "date": "2026-09-06",
+    "blurb": "Lagoa's patron-saint festivities coinciding with the municipal holiday, featuring religious celebrations, music and community events.",
+    "source_url": "https://www.cm-lagoa.pt/",
+    "image_url": ""
+   }
+  ]
+ },
+ "benagil": {
+  "beach": "Carvoeiro",
+  "town": "Carvoeiro",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Carvoeiro Black & White Night (Noite Branca e Preta)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June; 2026 edition on 20 June (8:30 PM to 3:00 AM)",
+    "date": "2026-06-20",
+    "blurb": "Iconic street party in Carvoeiro where the village dresses in black and white, with live music, DJs and dance performances spread across several stages near the beach.",
+    "source_url": "https://www.myguidealgarve.com/events/carvoeiro-black-and-white-night",
+    "image_url": ""
+   },
+   {
+    "name": "FATACIL",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late August; 2026 edition 21-30 August",
+    "date": "2026-08-21",
+    "blurb": "Lagoa's flagship fair (Feira de Artesanato, Turismo, Agricultura, Comercio e Industria), one of southern Portugal's largest events, with ten days of concerts, handicrafts, agriculture and regional promotion. 2026 line-up includes Tony Carreira and Festa M80.",
+    "source_url": "https://www.algarveactivities.com/en/fatacil-2025-algarve-lagoa/",
+    "image_url": ""
+   },
+   {
+    "name": "Lagoa Wine Show (Mostra de Vinhos de Lagoa)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early June; 2026 edition 5-9 June",
+    "date": "2026-06-05",
+    "blurb": "Annual wine fair in Lagoa celebrating the region's wines with tastings, food and live entertainment.",
+    "source_url": "https://eventos.visitalgarve.pt/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Lagoa Jazz Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July; 2026 edition 17-19 July",
+    "date": "2026-07-17",
+    "blurb": "Three-day jazz festival held in Lagoa featuring live jazz performances.",
+    "source_url": "https://eventos.visitalgarve.pt/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Mercado de Culturas a Luz das Velas (Candlelit Cultures Market)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early July; 2026 edition 2-5 July",
+    "date": "2026-07-02",
+    "blurb": "Atmospheric candlelit market in Lagoa's historic centre with crafts, music, food and cultural performances by candlelight.",
+    "source_url": "https://eventos.visitalgarve.pt/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Mostra de Doce Conventual (Conventual Sweets Show)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually late July to early August; 2026 edition 29 July - 2 August",
+    "date": "2026-07-29",
+    "blurb": "Gastronomy fair in Lagoa dedicated to traditional Portuguese conventual sweets, with tastings and regional pastry producers.",
+    "source_url": "https://eventos.visitalgarve.pt/en/events",
+    "image_url": ""
+   },
+   {
+    "name": "Festivities of Nossa Senhora da Luz / Lagoa Municipal Holiday",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early September; 2026 edition 6-9 September",
+    "date": "2026-09-06",
+    "blurb": "Traditional religious and civic festivities marking Lagoa's municipal holiday, honouring the patron Nossa Senhora da Luz.",
+    "source_url": "https://eventos.visitalgarve.pt/en/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-rocha": {
+  "beach": "Portimão",
+  "town": "Portimão",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Afro Nation Portugal",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early July on the beach at Praia da Rocha; 2026 edition 3-5 July",
+    "date": "2026-07-03",
+    "blurb": "The world's largest Afrobeats festival, staged directly on Praia da Rocha beach in Portimão with hip hop, R&B, dancehall and Afrobeats acts. Headliners for 2026 include Wizkid, Burna Boy, Asake and Tyla.",
+    "source_url": "https://www.myguidealgarve.com/events/afro-nation",
+    "image_url": ""
+   },
+   {
+    "name": "Festival da Sardinha (Portimão Sardine Festival)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in early-to-mid August at Portimão's riverside (Zona Ribeirinha), about 3 km from Praia da Rocha; typically runs around 5 days in the first half of August",
+    "date": "",
+    "blurb": "The Algarve's most famous gastronomic festival, celebrating Portimão's fishing heritage with grilled sardines, regional food and craft stalls, plus free nightly concerts by Portuguese artists. Free entry.",
+    "source_url": "https://www.visitportugal.com/en/content/sardine-festival-portim%C3%A3o",
+    "image_url": ""
+   },
+   {
+    "name": "Réveillon Portimão (New Year's Eve celebrations)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually 30-31 December at the Portimão riverside, with free concerts from 22:00 and a midnight pyromusical fireworks show launched from the riverside, Alvor and the Praia da Rocha pier",
+    "date": "2026-12-31",
+    "blurb": "Two evenings of free open-air concerts at Portimão's riverside culminating in a multimedia pyromusical fireworks display over the Arade River, with fireworks also launched from the Praia da Rocha pier at midnight.",
+    "source_url": "https://visitportimao.com/en/eventos/new-years-eve-portimao-2025-26/",
+    "image_url": ""
+   }
+  ]
+ }
+}

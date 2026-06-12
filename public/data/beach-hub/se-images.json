@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "bla-lagunen-munson",
+  "name": "Blå lagunen, Munsön",
+  "qid": "Q31856686",
+  "coord": "Point(17.622222222 59.373611111)",
+  "sitelinks": 3,
+  "file": "se-beach-bla-lagunen-munson.webp",
+  "commons_file": "Blå lagunen, Munsön, 2016.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "laholm-bay-beach",
+  "name": "Laholm Bay Beach",
+  "qid": "Q6470375",
+  "coord": "Point(12.9457 56.5276)",
+  "sitelinks": 2,
+  "file": "se-beach-laholm-bay-beach.webp",
+  "commons_file": "Bathing platform between Hemmeslövsstrand and Eskilstorpsstrand.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "apelviken",
+  "name": "Apelviken",
+  "qid": "Q10414417",
+  "coord": "Point(12.255582 57.083663)",
+  "sitelinks": 2,
+  "file": "se-beach-apelviken.webp",
+  "commons_file": "Apelviken 1960-talet.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "fagelouddebadet",
+  "name": "Fågelöuddebadet",
+  "qid": "Q10500964",
+  "coord": "Point(18.23249722 59.37676389)",
+  "sitelinks": 2,
+  "file": "se-beach-fagelouddebadet.webp",
+  "commons_file": "Fagelaoudde.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sigsarve-strand",
+  "name": "Sigsarve strand",
+  "qid": "Q10667701",
+  "coord": "Point(18.614561111 57.853269444)",
+  "sitelinks": 2,
+  "file": "se-beach-sigsarve-strand.webp",
+  "commons_file": "Sigarvestrand fiskeläge - KMB - 16000300024526.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "vatterstranden",
+  "name": "Vätterstranden",
+  "qid": "Q10718503",
+  "coord": "Point(14.206135234 57.782694675)",
+  "sitelinks": 2,
+  "file": "se-beach-vatterstranden.webp",
+  "commons_file": "Sweden 2016-05-07 (27516035672).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "norsta-aurar",
+  "name": "Norsta Aurar",
+  "qid": "Q18331468",
+  "coord": "Point(19.33835 57.977580555)",
+  "sitelinks": 2,
+  "file": "se-beach-norsta-aurar.webp",
+  "commons_file": "Norsta Aurar at Fårö, Gotland in August 2014.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sudersand",
+  "name": "Sudersand",
+  "qid": "Q21044846",
+  "coord": "Point(19.25443 57.95213)",
+  "sitelinks": 2,
+  "file": "se-beach-sudersand.webp",
+  "commons_file": "Sudersand July 2019 02.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "laxsjon-ekero-kommun",
+  "name": "Laxsjön, Ekerö kommun",
+  "qid": "Q26212850",
+  "coord": "Point(17.5725 59.428611)",
+  "sitelinks": 2,
+  "file": "se-beach-laxsjon-ekero-kommun.webp",
+  "commons_file": "Laxsjön, Ekerö, 2016g.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gorvalnsbadet",
+  "name": "Görvälnsbadet",
+  "qid": "Q31856616",
+  "coord": "Point(17.76995274 59.42748)",
+  "sitelinks": 2,
+  "file": "se-beach-gorvalnsbadet.webp",
+  "commons_file": "Görvälnsbadet, bryggor, 2015b.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "public-beach-galo-skalaker",
+  "name": "public beach Gålö, Skälåker",
+  "qid": "Q49099077",
+  "coord": "Point(18.321806 59.098228)",
+  "sitelinks": 2,
+  "file": "se-beach-public-beach-galo-skalaker.webp",
+  "commons_file": "Gålö havsbad, strand, 2017.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kallhallsbadet",
+  "name": "Kallhällsbadet",
+  "qid": "Q60968907",
+  "coord": "Point(17.792832 59.4522295)",
+  "sitelinks": 2,
+  "file": "se-beach-kallhallsbadet.webp",
+  "commons_file": "Kallhällsbadet okt 2018a.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "public-beach-lillsjon",
+  "name": "public beach Lillsjön",
+  "qid": "Q56641316",
+  "coord": "Point(17.716859868 59.490771621)",
+  "sitelinks": 1,
+  "file": "se-beach-public-beach-lillsjon.webp",
+  "commons_file": "Lillsjöbadet, Bro, 2018c.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "las-palmas-gotska-sandon",
+  "name": "Las Palmas, Gotska sandön",
+  "qid": "Q66132387",
+  "coord": "Point(19.267875 58.385358)",
+  "sitelinks": 1,
+  "file": "se-beach-las-palmas-gotska-sandon.webp",
+  "commons_file": "Arriving at Gotska Sandön.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ardrestranden",
+  "name": "Ardrestranden",
+  "qid": "Q106687430",
+  "coord": "Point(18.752446 57.362476)",
+  "sitelinks": 1,
+  "file": "se-beach-ardrestranden.webp",
+  "commons_file": "Ardrestranden.jpg",
+  "credit": {}
+ }
+]

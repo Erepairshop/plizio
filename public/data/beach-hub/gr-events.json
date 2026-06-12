@@ -1,0 +1,864 @@
+{
+ "paralia-skotinas": {
+  "beach": "Skotina (Leptokarya), Pieria",
+  "town": "Skotina (Leptokarya), Pieria",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Dormition of the Theotokos Festival (Ano Skotina)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Religious feast celebrating the Dormition of the Virgin Mary at the church in Ano Skotina, the historic village above the beach, with a traditional panigyri (festival) each year on 15 August.",
+    "source_url": "https://en.wikipedia.org/wiki/Ano_Skotina",
+    "image_url": ""
+   },
+   {
+    "name": "Olympus Festival (Dion Ancient Theatre & Platamonas Castle)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually throughout July, August and September",
+    "date": "",
+    "blurb": "Long-running summer arts festival of music and theatre staged at the ancient theatre of Dion and at Platamonas Castle in Pieria, both a short drive from Skotina beach.",
+    "source_url": "https://en.wikipedia.org/wiki/Olympus_Festival",
+    "image_url": ""
+   },
+   {
+    "name": "Prometheia Festival",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early July near the summer solstice; 2026 edition 2-5 July",
+    "date": "2026-07-02",
+    "blurb": "Multi-day festival on Mount Olympus near Litochoro reviving the ancient Greek spirit, with torchlight processions, ceremonies, dance, music and discussions honouring the myth of Prometheus.",
+    "source_url": "https://prometheia.wordpress.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Olympus Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late June; 2026 edition on 27 June",
+    "date": "2026-06-27",
+    "blurb": "International 44 km mountain running race on Mount Olympus, starting from the archaeological site of Dion and finishing in nearby Litochoro.",
+    "source_url": "https://www.olympus-marathon.com/en",
+    "image_url": ""
+   },
+   {
+    "name": "Olympus Mythical Trail",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early July; 2026 edition on 4 July",
+    "date": "2026-07-04",
+    "blurb": "Demanding mountain ultra-trail race set on Mount Olympus, based around Litochoro, aimed at experienced endurance athletes.",
+    "source_url": "https://ultraracecalendar.com/events/1069/olympus-mythical-trail/",
+    "image_url": ""
+   },
+   {
+    "name": "Olympus Adrenaline & Nature Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in early October (established 2024)",
+    "date": "",
+    "blurb": "Outdoor-activities festival across the Dion-Olympos area featuring hiking, climbing, cycling, gastronomic workshops and cultural and experiential programmes around Litochoro.",
+    "source_url": "https://www.cavoolympo.gr/en/local-events",
+    "image_url": ""
+   },
+   {
+    "name": "Revolution of Olympus Commemoration (Litochoro)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 22 February",
+    "date": "2026-02-22",
+    "blurb": "Litochoro commemorates the 1878 Revolution of Olympus with festive events including a parade, traditional dances and a race in the town park.",
+    "source_url": "https://www.litochoro.info/en/litochoro/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "paralia-panteleimonos": {
+  "beach": "Neos Panteleimonas (Platamonas), Pieria",
+  "town": "Neos Panteleimonas (Platamonas), Pieria",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Olympus Festival at Platamon Castle",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (July-September); concerts and theatrical performances staged inside the medieval Platamon Castle, a short distance south of the beach",
+    "date": "",
+    "blurb": "Northern Greece's major music-and-theatre festival stages a series of summer concerts, ancient and modern theatre, and dance performances within the floodlit medieval Platamon Castle near the beach.",
+    "source_url": "https://festivalolympou.gr/en/locations/kastro-platamona/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Saint Panteleimon (Panigiri)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 27 July (with vespers the evening before); the village of Panteleimonas is named after the saint and marks the day with a church liturgy and a traditional panigiri with food, music and dancing",
+    "date": "2026-07-27",
+    "blurb": "The community of Panteleimonas honours its patron, the great-martyr and healer Saint Panteleimon, with a Divine Liturgy followed by a traditional Greek panigiri of feasting, live music and folk dancing.",
+    "source_url": "https://www.goarch.org/-/feast-of-the-great-martyr-and-healer-saint-panteleimon",
+    "image_url": ""
+   },
+   {
+    "name": "International Cultural Festival 'FolkWay' (South Pieria / Olympus Riviera)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer in the Leptokarya-Platamonas area of South Pieria; folklore dance and music groups from many countries perform over several days",
+    "date": "",
+    "blurb": "An international folklore festival held in the South Pieria / Olympus Riviera area around Leptokarya and Platamonas, bringing together dance and music ensembles from around the world under the auspices of the regional unit of Pieria.",
+    "source_url": "https://folk-way.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "navagio": {
+  "beach": "Anafonitria",
+  "town": "Anafonitria",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Panagia Anafonitria Monastery Feast (Dormition of the Virgin Mary)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August (the monastery also holds celebrations around 23 August); 2026 edition 15 August",
+    "date": "2026-08-15",
+    "blurb": "Religious panigiri at the 15th-century Byzantine Monastery of Panagia Anafonitria, just inland from Navagio beach, honouring the Dormition of the Virgin Mary with liturgy, hymns and traditional gathering. The monastery is linked to Zakynthos patron Saint Dionysios.",
+    "source_url": "https://www.monastiria.gr/monastery-of-panagia-anafonitria-of-zakinthos-zante/?lang=en",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Paraskevi Festival (Volimes)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 26 July; 2026 edition 26 July",
+    "date": "2026-07-26",
+    "blurb": "Village panigiri in Volimes (and Agios Leon) celebrating the feast of Agia Paraskevi, with religious ceremony followed by a lively fair of folk music, dancing and local food and wine.",
+    "source_url": "https://www.greeka.com/ionian/zakynthos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Agios Dimitrios Feast (Volimes)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 26 October; 2026 edition 26 October",
+    "date": "2026-10-26",
+    "blurb": "Religious festival in the village of Volimes celebrating the feast day of Agios Dimitrios (Saint Demetrius), one of the local panigiria of northern Zakynthos near Navagio beach.",
+    "source_url": "https://www.greeka.com/ionian/zakynthos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Saint Dionysios (Patron Saint of Zakynthos)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 24 August (main island celebration, with procession around 25 Aug) and again on 17 December; 2026 summer edition 24 August",
+    "date": "2026-08-24",
+    "blurb": "The island's most important religious celebration honours its patron saint. The sacred relics of Saint Dionysios are carried in a grand procession through Zakynthos Town with psalms and the local philharmonic orchestra. The saint spent his last years at the nearby Anafonitria Monastery.",
+    "source_url": "https://www.greeka.com/ionian/zakynthos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Zakynthos Carnival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in February–March, in the two weeks before Orthodox Lent (seven weeks before Greek Orthodox Easter)",
+    "date": "",
+    "blurb": "A colourful two-week pre-Lenten carnival with Venetian-influenced Zakynthian traditions, including a town crier proclaiming the programme and a street procession with characters from Commedia dell'arte.",
+    "source_url": "https://www.greeka.com/ionian/zakynthos/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sarakiniko-beach": {
+  "beach": "Adamas (Adamantas), Milos",
+  "town": "Adamas (Adamantas), Milos",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Milos Festival (Festival of Milos)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in July (typically a multi-day program of cultural events organised by the Municipality of Milos); some years extending into August",
+    "date": "",
+    "blurb": "The island's premier summer cultural festival, with concerts, theatre, dance, art exhibitions and children's activities staged across Milos, including the village of Plaka and the ancient theatre of Klima.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Panagia Korfiatissa Panigyri (Feast of the island's patron saint)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in early May; week-long celebration centred in Plaka village with a religious procession",
+    "date": "",
+    "blurb": "Religious festival honouring Panagia Korfiatissa, the patron of Milos, with an icon procession through Plaka plus traditional music and dance.",
+    "source_url": "https://travel-greece.org/festivals-events-milos-island-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Dormition of the Virgin Mary (Dekapentavgoustos)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August; celebrated at the Church of the Assumption in Adamas and with a major panigyri in the village of Zefyria",
+    "date": "2026-08-15",
+    "blurb": "Greece's biggest summer religious feast, marked on Milos with church services and village panigyria featuring food, wine, music and dancing, including in Adamas near Sarakiniko.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Summer performances at the Ancient Theatre of Milos (Klima)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually during the summer (July-August); occasional free musical and theatrical performances at the restored Hellenistic-Roman theatre",
+    "date": "",
+    "blurb": "The restored ancient theatre at Klima/Tripiti hosts musical and theatrical evenings in summer, prized for its acoustics and sea views over the Aegean.",
+    "source_url": "https://diazoma.gr/en/theaters/ancient-theater-milos/",
+    "image_url": ""
+   },
+   {
+    "name": "Milos Seafood Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in summer; held in the port town of Adamas (Adamantas)",
+    "date": "",
+    "blurb": "A local food festival in the port of Adamas celebrating Milos's maritime heritage with fresh fish and seafood.",
+    "source_url": "https://travel-greece.org/festivals-and-events-to-experience-in-milos-island",
+    "image_url": ""
+   }
+  ]
+ },
+ "preveli-beach": {
+  "beach": "Plakias",
+  "town": "Plakias",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Plakias Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually throughout August, nightly events in the town square and waterfront",
+    "date": "",
+    "blurb": "A month-long summer festival in the seaside village of Plakias with nightly performances mixing traditional Cretan lyra and lute music, modern Greek pop, and international acts. Most events are free.",
+    "source_url": "https://www.greeka.com/crete/rethymno/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agios Georgios (Saint George) in Plakias",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 23 April (or Easter Monday)",
+    "date": "",
+    "blurb": "Religious feast day celebrated in Plakias honouring Saint George, with church services and local festivities.",
+    "source_url": "https://www.greeka.com/crete/rethymno/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "World Tourism Day Celebration in Plakias",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September (around 27 September)",
+    "date": "",
+    "blurb": "Evening festival in the main square of Plakias with free street food, traditional Cretan music, songs and dancing performances to mark World Tourism Day.",
+    "source_url": "https://iridaplakias.com/events",
+    "image_url": ""
+   },
+   {
+    "name": "Preveli Monastery Commemoration (Battle of Crete remembrance)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually around the Battle of Crete anniversary (late May)",
+    "date": "",
+    "blurb": "Commemoration at the Preveli Monastery, which sheltered Allied soldiers after the 1941 Battle of Crete. The Preveli International Memorial for Resistance and Peace honours Greek, Australian, New Zealand and British troops and Cretan civilians.",
+    "source_url": "https://www.cretetravel.com/en/guide/30/The_Preveli_Monastery_&_Beach",
+    "image_url": ""
+   }
+  ]
+ },
+ "balos-lagoon": {
+  "beach": "Kissamos",
+  "town": "Kissamos",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Kissamos Festival of Taste and Art (Festival Geuseon kai Technon)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in mid/late August; recent editions ran roughly 16-24 August on the seaside road west of the Kissamos Municipal Stadium",
+    "date": "",
+    "blurb": "The Municipality of Kissamos's flagship annual festival celebrating local Cretan products, food, crafts and culture, with stalls, music and performances along the coastal road in Kissamos town, the nearest town to Balos Lagoon.",
+    "source_url": "https://www.kissamosnews.com/events-in-kissamos/",
+    "image_url": ""
+   },
+   {
+    "name": "Vlatos Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annual summer series; 2026 edition runs every Sunday from 28 June to 27 September 2026 (14 candlelit acoustic concerts), concerts approx. 21:00-23:00",
+    "date": "2026-06-28",
+    "blurb": "Intimate candlelit jazz, world music and Cretan-fusion concerts held inside the historic mountain church of Vlatos in the Kissamos region, southwest of Balos Lagoon. The 2026 season features tributes to Herbie Hancock, Bill Evans, Chick Corea and a Rebetiko night.",
+    "source_url": "https://www.vlatos.gr/jazz/",
+    "image_url": ""
+   },
+   {
+    "name": "Anariza Fest",
+    "type": "cultural",
+    "recurring": true,
+    "when": "early-to-mid June (a short multi-evening series); 2026 edition closed on 13 June 2026 at 20:00",
+    "date": "2026-06-13",
+    "blurb": "A West Crete arts festival on memory, identity and contemporary expression, blending traditional Cretan music with rock, jazz and electronic sounds. Held at the Ergo_stasio old woodcarving venue in Trachilos, about 1 km west of Kissamos Port, with live performances and the documentary 'Chronicles of Kissamos'.",
+    "source_url": "https://www.kissamosnews.com/2026/06/festival-anariza-fest-kissamos-until-13th-june/",
+    "image_url": ""
+   },
+   {
+    "name": "Elos Chestnut Festival (Giorti Kastanou)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the third Sunday of October, in Elos village, Innachorion area of the Kissamos municipality",
+    "date": "2026-10-18",
+    "blurb": "A cherished autumn harvest festival in the chestnut-tree village of Elos in the Kissamos region. Visitors enjoy chestnut-based dishes, tsikoudia spirit, live music, traditional folk dancing and costumes. It is the best-known traditional festival near Kissamos, though Elos lies inland some distance from the Balos coast.",
+    "source_url": "https://www.cretetravel.com/en/event/1/Chestnut_Festival_Elos",
+    "image_url": ""
+   }
+  ]
+ },
+ "palm-forest-of-vai": {
+  "beach": "Palekastro",
+  "town": "Palekastro",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Kornaria Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually from early July to mid-August; 2026 edition runs July-August (full program announced by the Municipality of Sitia in the weeks before July)",
+    "date": "",
+    "blurb": "Eastern Crete's main summer arts festival, organised by the Municipality of Sitia. Concerts of Cretan and Greek music, dance, theatre, art and photography exhibitions, talks, and sports events including the Kornarios road race and beach volleyball. Main venue is the Venetian Kazarma fortress in Sitia, with additional events staged in surrounding villages such as Palekastro, the nearest town to Vai.",
+    "source_url": "https://www.cretesitia.gr/index.php/en/entertainment-sitia/cultural-events",
+    "image_url": ""
+   },
+   {
+    "name": "Panagia Festival (Dormition of the Virgin) at Palekastro",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Religious panigiri held every 15 August in Palekastro (the nearest village to Vai) for the Dormition of the Virgin Mary, with a church service followed by a traditional feast of food, raki, live Cretan music and dancing into the night.",
+    "source_url": "https://www.cretesitia.gr/index.php/en/entertainment-sitia/cultural-events",
+    "image_url": ""
+   },
+   {
+    "name": "Holy Trinity / Carnival Festival at Palekastro",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on the last Sunday of the Carnival season (late winter, before Lent)",
+    "date": "",
+    "blurb": "A local Palekastro festival in honour of the Holy Trinity, organised each year on the final Sunday of Carnival with traditional Cretan music, dance and village festivities.",
+    "source_url": "https://www.cretesitia.gr/index.php/en/entertainment-sitia/cultural-events",
+    "image_url": ""
+   },
+   {
+    "name": "Metamorphosis tou Sotiros Festival at Zakros",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 6 August",
+    "date": "2026-08-06",
+    "blurb": "Village panigiri for the Transfiguration of the Saviour held every 6 August in the Zakros area, southeast of Vai, featuring a church liturgy followed by a traditional feast with Cretan lyra music and dancing.",
+    "source_url": "https://www.cretesitia.gr/index.php/en/entertainment-sitia/cultural-events",
+    "image_url": ""
+   }
+  ]
+ },
+ "myrtos-beach": {
+  "beach": "Assos",
+  "town": "Assos",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Barcarolle (Varkarola) Festival in Assos",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 24 August; 2026 edition expected 24 August 2026",
+    "date": "2026-08-24",
+    "blurb": "Traditional Venetian-derived serenade festival held in the port of Assos, the closest village to Myrtos Beach. Local musicians sing folk songs from a decorated fishing boat surrounded by smaller boats and lit torches, followed by a fireworks display. Combined with the religious commemoration of Saint Cosmas of Aetolia, with a morning litany and icon procession.",
+    "source_url": "https://www.greeka.com/ionian/kefalonia/news/events/varkarola-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Dormition of the Virgin Mary in Assos",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Assos holds a traditional celebration on the Dormition of the Virgin Mary, with a church service in honour of the Panagia followed by a local feast (panigiri) featuring traditional food, music and dancing in the village square.",
+    "source_url": "https://amarivilla.com/kefalonia-festivals-and-events",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of the Olive and Olive Oil, Kastro (Pylaros)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in October during the olive harvest season",
+    "date": "",
+    "blurb": "Annual gastronomy festival in the village of Kastro in the Pylaros area near Myrtos Beach, celebrating Kefalonia's olive-growing tradition with olive oil tasting and traditional production demonstrations.",
+    "source_url": "https://travel-greece.org/festivals-and-events-to-experience-in-kefalonia-island",
+    "image_url": ""
+   },
+   {
+    "name": "Feast at the Monastery of Adeliko, Pylaros",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 14 August",
+    "date": "2026-08-14",
+    "blurb": "A religious celebration and traditional feast held at the Monastery of Adeliko in the Pylaros region near Myrtos Beach, with food, music and dancing.",
+    "source_url": "https://amarivilla.com/kefalonia-festivals-and-events",
+    "image_url": ""
+   }
+  ]
+ },
+ "ftelia": {
+  "beach": "Ano Mera (Mykonos)",
+  "town": "Ano Mera (Mykonos)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Panigiri of Panagia Tourliani (Dormition of the Virgin)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around 15 August (Dormition of the Theotokos), with celebrations continuing to the monastery's main feast on 23 August; held in Ano Mera village square",
+    "date": "2026-08-15",
+    "blurb": "The most important religious panigiri on Mykonos, centred on the 16th-century Panagia Tourliani monastery in Ano Mera (~2.5 km from Ftelia). A procession, all-night feasting with traditional food, wine, music and dancing in the village square.",
+    "source_url": "https://en.wikipedia.org/wiki/Panagia_Tourliani,_Mykonos",
+    "image_url": ""
+   },
+   {
+    "name": "Panigiri of Agia Marina, Ano Mera",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 17 July",
+    "date": "2026-07-17",
+    "blurb": "Traditional summer name-day feast held in Ano Mera, the inland village nearest to Ftelia beach, with local food, wine, music and dancing.",
+    "source_url": "https://www.greeka.com/cyclades/mykonos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Mykonos Summer Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late June through August; open-air concerts, theatre, art exhibitions and film screenings around Mykonos Town",
+    "date": "",
+    "blurb": "Island-wide summer cultural programme of open-air concerts, theatre, folk-music nights, art exhibitions and film screenings at venues such as the windmills and the Archaeological Museum courtyard in Mykonos Town (~6 km from Ftelia).",
+    "source_url": "https://www.greeka.com/cyclades/mykonos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Mykonos Running Festival (Half Marathon, 10K, 5K)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annual road-running festival on Mykonos (recent editions held in September/October); routes start and finish in Mykonos Town",
+    "date": "",
+    "blurb": "Annual running festival on Mykonos with half marathon, 10K and 5K races for all abilities, based around Mykonos Town within ~10 km of Ftelia beach.",
+    "source_url": "https://mykonosrunningfestival.org/en/home-english/",
+    "image_url": ""
+   },
+   {
+    "name": "XLSIOR Mykonos Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late August; 2026 edition 20-25 August across various Mykonos beaches and venues",
+    "date": "2026-08-20",
+    "blurb": "Large international summer music and party festival staged across Mykonos beaches, terraces and waterfront venues over several days in late August.",
+    "source_url": "https://islandsevents.com/island/mykonos/xlsior-festival-mykonos-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Mykonos Antanaclasis Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in September and October; series of classical, jazz and world-music concerts",
+    "date": "",
+    "blurb": "Annual late-season concert series on Mykonos featuring world-class soloists performing classical, jazz and world music in island venues.",
+    "source_url": "https://www.festivalfinder.eu/festivals/mykonos-antanaclasis-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "egremni": {
+  "beach": "Athani",
+  "town": "Athani",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Dragano Honey Festival",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in mid-August (typically around 12 August)",
+    "date": "",
+    "blurb": "Traditional honey festival in the village of Dragano (about 12 km from Egremni, between Komili and Athani), celebrating southwestern Lefkada's renowned honey. Visitors taste honeycombs, honey pie and pasteli, watch honey-harvesting demonstrations, and enjoy folk music and dancing.",
+    "source_url": "https://nikana.gr/en/tourist-guide/lefkada/places/2504/dragano-honey-village-on-lefkada",
+    "image_url": ""
+   },
+   {
+    "name": "Vasiliki Sea Feast",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in summer (August)",
+    "date": "",
+    "blurb": "Maritime festival in the coastal village of Vasiliki (about 16 km from Egremni) celebrating the village's seafaring heritage with boat races, swimming competitions, fresh seafood, traditional dances by the sea and festivities lasting into the night.",
+    "source_url": "https://travel-greece.org/festivals-and-events-to-experience-in-lefkada-island",
+    "image_url": ""
+   },
+   {
+    "name": "Englouvi Lentil Festival (Feast of Agios Donatos)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually on 6 August",
+    "date": "2026-08-06",
+    "blurb": "Festival in the mountain village of Englouvi honouring Lefkada's famous local lentils, with free lentil soup, wine and sardines followed by live music and traditional dancing. Held elsewhere on the island, roughly 30 km from Egremni.",
+    "source_url": "https://www.yadesvillas.gr/index.php/en/blog/301-lefkada-summer.html",
+    "image_url": ""
+   },
+   {
+    "name": "Lefkas International Folklore Festival (LIFF)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late summer; the 2026 edition is scheduled for 26-30 September 2026 (held in Lefkada town)",
+    "date": "2026-09-26",
+    "blurb": "Long-running international folk music and dance festival founded in 1962, bringing groups from many countries to Lefkada town (about 35-39 km from Egremni) for performances promoting peace and cultural exchange.",
+    "source_url": "https://liff.gr/",
+    "image_url": ""
+   }
+  ]
+ },
+ "olympiaki-akti": {
+  "beach": "Katerini",
+  "town": "Katerini",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "TRIMAN Triathlon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 8-10 May 2026 at Olympiaki Akti, Katerini",
+    "date": "2026-05-08",
+    "blurb": "International triathlon (swim, bike, run) held right at Olympic Beach, with Mount Olympus and the Thermaic Gulf as the backdrop. Organised by the TRIAS triathlon club with support from the Pieria Tourism Organization.",
+    "source_url": "https://tornosnews.gr/en/featured/the-tourism-organization-of-pieria-supports-the-international-triathlon-event-tr.html",
+    "image_url": ""
+   },
+   {
+    "name": "Paralia Summer Fest (International Music & Dance Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually each summer (typically June-August); a 2026 edition runs 11-15 June 2026 in Paralia and Olympic Beach",
+    "date": "2026-06-11",
+    "blurb": "International folk dance and music festival staged on the main squares and streets of Paralia and Olympic Beach, with folklore groups, choirs, orchestras and majorette teams performing traditional and modern dances. Several editions are held across the summer season.",
+    "source_url": "https://eaff.eu/en/festivals/922-5500-international-folk-dance-and-music-festival-paralia-summer-fest",
+    "image_url": ""
+   },
+   {
+    "name": "International Cultural Festival 'Folkway' (Olympus Riviera, Central Pieria)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (late June to late August depending on edition); held in the seaside towns of Paralia and Olympic Beach",
+    "date": "",
+    "blurb": "Multi-day international cultural festival organised by the Municipality of Katerini together with Folkway/Open Ways, bringing folklore ensembles and cultural groups to the seaside resorts of Paralia and Olympic Beach on the Olympus Riviera.",
+    "source_url": "https://www.festivalfinder.eu/festivals/7th-international-cultural-festival-municipality-of-katerini-olympus-riviera-central-pieria-greece",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Days in Greece (Paralia Katerini)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in summer; a 2026 edition runs 8-12 July 2026 in Paralia, Katerini",
+    "date": "2026-07-08",
+    "blurb": "International folklore festival of music and dance in Paralia Katerini, gathering ensembles, choirs and dance groups from various countries for non-competitive performances of traditional dances and songs.",
+    "source_url": "https://mioff.org/booking/xxii-festival-days-in-greece/",
+    "image_url": ""
+   },
+   {
+    "name": "Children and Youth Festival of Central Macedonia & Thessaly (S.Po.S.)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late spring; the 15th edition was held on 30 May 2026 in Katerini",
+    "date": "2026-05-30",
+    "blurb": "Regional children's and youth folk-dance festival in Katerini gathering hundreds of young dancers from groups across Central Macedonia and Thessaly.",
+    "source_url": "https://www.pierianews.gr/2026/05/26/15o-paidiko-efiviko-festival-s-po-s-kentrikis-makedonias-thessalias-katerini-savvato-30-maiou-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "porto-katsiki": {
+  "beach": "Athani",
+  "town": "Athani",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Dragano Honey Festival (Giorti Meliou)",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "Annually in mid-August (typically around 12 August); village of Dragano, next to Athani",
+    "date": "",
+    "blurb": "Festival in the village of Dragano (adjacent to Athani, just inland from Porto Katsiki) celebrating the region's renowned thyme honey, with honey tastings and exhibitions of local products alongside traditional music and folk dancing.",
+    "source_url": "https://ioniananthology.com/exploring-the-vibrant-summer-feasts-of-lefkada/",
+    "image_url": ""
+   },
+   {
+    "name": "Assumption of the Virgin Mary Festival, Kalamitsi (Dekapentavgoustos)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on 15 August; Kalamitsi village (southwest Lefkada)",
+    "date": "2026-08-15",
+    "blurb": "One of Lefkada's most important panigiria, celebrated with particular grandeur in the southwest village of Kalamitsi. The day begins with a church service and is followed by a community feast of homemade dishes and local wine, with traditional music and dancing into the night.",
+    "source_url": "https://ioniananthology.com/exploring-the-vibrant-summer-feasts-of-lefkada/",
+    "image_url": ""
+   },
+   {
+    "name": "Vasiliki International Sailing Regatta",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually in summer (a Wildwind regatta week is scheduled around mid-September); Vasiliki bay, the nearest port to Porto Katsiki",
+    "date": "",
+    "blurb": "An annual international sailing regatta held in the windsurfing and sailing hub of Vasiliki bay, the closest port to Porto Katsiki, drawing athletes and visitors to one of the Ionian's premier watersports venues.",
+    "source_url": "https://wildwind.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Vasiliki Watersports Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually each summer; Vasiliki and Ai Gianni beaches",
+    "date": "",
+    "blurb": "A summer watersports festival in Vasiliki, world-famous for its afternoon thermal winds, featuring windsurfing and sailing activities that draw hundreds of athletes and thousands of spectators to the bay.",
+    "source_url": "https://blog.lefkadaslowguide.gr/en/article-list/discover-vasiliki-beloved-beach-windsurfers/",
+    "image_url": ""
+   }
+  ]
+ },
+ "leptokarya": {
+  "beach": "Leptokarya",
+  "town": "Leptokarya",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "International Festival \"Paralia and Leptokarya Fest\"",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late August to early September; 2025 edition 29 August - 3 September",
+    "date": "",
+    "blurb": "International folklore festival hosted partly in Leptokarya, bringing together folk and modern dance ensembles, choirs, majorette teams and orchestras from many countries for performances of songs, dances, music and traditional costumes.",
+    "source_url": "https://eaff.eu/en/festivals/1393-5057-international-festival-paralia-and-leptokarya-fest",
+    "image_url": ""
+   },
+   {
+    "name": "International Cultural Festival \"FOLKWAY\" (Olympus Riviera / South Pieria)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (typically late June to early September), staged across Leptokarya and Platamonas",
+    "date": "",
+    "blurb": "International cultural and folklore festival of the Olympus Riviera / South Pieria, with editions held in the seaside towns of Leptokarya and Platamonas, featuring folk dance, choral and orchestral groups from around the world.",
+    "source_url": "https://folk-way.com/event/5th-international-cultural-festival-folkway-olympus-riviera-south-pieria-greece-leptokarya-platamonas-august-31st-september-4th-2023/",
+    "image_url": ""
+   },
+   {
+    "name": "Olympus Festival (Festival Olympou)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually July to end of August",
+    "date": "",
+    "blurb": "Major annual arts festival of the Pieria region running since 1972, with ancient and modern theatre, dance, music and visual arts by Greek and international artists. Performances are staged at historic venues including the Castle of Platamon, a short distance up the coast from Leptokarya.",
+    "source_url": "https://en.wikipedia.org/wiki/Olympus_Festival",
+    "image_url": ""
+   },
+   {
+    "name": "Platamon Castle Summer Concerts",
+    "type": "music",
+    "recurring": true,
+    "when": "annually during summer (July-August), as part of the Olympus Festival",
+    "date": "",
+    "blurb": "Open-air summer concerts and theatrical performances staged inside the Byzantine Platamon Castle, just up the coast from Leptokarya, forming part of the regional Olympus Festival programme.",
+    "source_url": "https://visitpieria.gr/platamon-castle/",
+    "image_url": ""
+   }
+  ]
+ },
+ "koukounaries": {
+  "beach": "Skiathos Town",
+  "town": "Skiathos Town",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Bourtzi Cultural Events (Summer Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually every July and August, open-air theatre at the Bourtzi peninsula and Skiathos cultural centre",
+    "date": "",
+    "blurb": "Municipality of Skiathos summer cultural programme at the Bourtzi open-air theatre, featuring concerts, theatrical performances, dance shows, art exhibitions and Karagiozis shadow theatre.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/cultural-events/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agia Paraskevi",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 26 July",
+    "date": "2026-07-26",
+    "blurb": "Traditional religious feast (panigiri) on Skiathos honouring Agia Paraskevi, with folk dances, traditional music and local costumes.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Dormition of the Virgin Mary Feast (Dekapentavgoustos)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Major Greek Orthodox feast celebrated across Skiathos with church services, festive gatherings and traditional celebrations honouring the Dormition of the Virgin Mary.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Papadiamantis Days",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Annual literary and philological symposium in Skiathos dedicated to the island's famous writer Alexandros Papadiamantis, with narrations, musical evenings, exhibitions and walking routes.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/history/alexandros-papadiamantis/",
+    "image_url": ""
+   },
+   {
+    "name": "Skiathos Fest (International Folk-Dance & Music Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late June / early July; 2026 edition 28 June - 2 July",
+    "date": "2026-06-28",
+    "blurb": "International folk-dance and music festival held in Skiathos, bringing together folklore dance and music groups for performances and cultural exchange.",
+    "source_url": "https://festival-association.eu/fest/508",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agios Ioannis Kleidonas",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 23-24 June (Midsummer / St John's celebration)",
+    "date": "2026-06-23",
+    "blurb": "Traditional Midsummer celebration on Skiathos tied to the feast of St John, featuring the Kleidonas custom, bonfires and folk festivities.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kokkino-nero": {
+  "beach": "Stomio",
+  "town": "Stomio",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Sardine Festival (Sardelas Day), Stomio",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in late July (typically 26 July); coastal fishing-village celebration in Stomio",
+    "date": "",
+    "blurb": "Gastronomy festival on the Stomio seafront celebrating the local fishing tradition, with free roasted sardines, cultural activities about fishing and live music. Co-organised by the Municipality of Agia and the Region of Thessaly.",
+    "source_url": "https://tornosnews.gr/en/tourism-businesses/gastronomy/52469-sardine-festival-at-stomio-larissa.html",
+    "image_url": ""
+   },
+   {
+    "name": "Kissavos Marathon Race",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in April, starting/finishing at the Central Square of Agia; 2026 edition 26 April",
+    "date": "2026-04-26",
+    "blurb": "Mountain trail running event on Mount Kissavos (Ossa) above Agia, with several distances (around 40 km marathon, ~20 km trail and ~12 km path races) attracting hundreds of runners each spring.",
+    "source_url": "https://kissavosmarathonrace.gr/",
+    "image_url": ""
+   },
+   {
+    "name": "Filoktiteia Cultural Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "every summer (July-August) across the Municipality of Agia, with musical and theatrical events",
+    "date": "",
+    "blurb": "Annual summer cultural festival organised by the Municipality of Agia, featuring musical and theatrical performances, alongside the 'With a View of the Sea' seafront events programme.",
+    "source_url": "https://daysofart.gr/en/municipalities/municipality-of-agia/",
+    "image_url": ""
+   },
+   {
+    "name": "Chestnut Festival, Karitsa",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in late October (e.g. weekend of 25-26 October) in Karitsa, on the slopes of Mount Ossa",
+    "date": "",
+    "blurb": "Autumn harvest festival in Karitsa honouring the local chestnut crop, with traditional dances, a hike in the Kalypso Gorge, talks on chestnut cultivation, children's activities and free roasted chestnuts.",
+    "source_url": "https://daysofart.gr/en/news/beyond-the-city/the-chestnut-festival-is-coming-to-the-municipality-of-agia/",
+    "image_url": ""
+   }
+  ]
+ },
+ "agios-stefanos": {
+  "beach": "Mykonos Town (Chora)",
+  "town": "Mykonos Town (Chora)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "XLSIOR Festival Mykonos",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in the second half of August; 2026 edition 20-25 August",
+    "date": "2026-08-20",
+    "blurb": "One of the world's largest LGBTQ+ dance and party festivals, held across multiple Mykonos venues over roughly five to six days. Running since 2009, it draws tens of thousands of visitors to the island.",
+    "source_url": "https://xlsiorfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Panigiri of Panagia Tourliani (Feast of the Assumption)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 15 August; 2026 on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Traditional religious feast honoring the patron saint of Mykonos at the Panagia Tourliani Monastery in Ano Mera village (about 8 km from Mykonos Town), with processions, services, music, dancing and communal food.",
+    "source_url": "https://en.wikipedia.org/wiki/Panagia_Tourliani,_Mykonos",
+    "image_url": ""
+   },
+   {
+    "name": "Mykonos Summer Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually from late June through August",
+    "date": "",
+    "blurb": "A month-long cultural celebration featuring open-air concerts, theater performances, art exhibitions and film screenings, held at iconic venues such as the windmills of Mykonos Town and the Archaeological Museum courtyard.",
+    "source_url": "",
+    "image_url": ""
+   },
+   {
+    "name": "Greek Orthodox Easter (Epitaphios processions)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around Orthodox Easter (April); solemn candlelit Good Friday Epitaphios processions through Mykonos Town and villages",
+    "date": "",
+    "blurb": "During Holy Week, candlelit Epitaphios processions wind through the alleys of Mykonos Town and the villages on Good Friday, with local bands and communities walking behind flower-adorned biers.",
+    "source_url": "",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Dormition Apodosis at Panagia Tourliani Monastery",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 23 August (the monastery's principal feast day)",
+    "date": "2026-08-23",
+    "blurb": "The main feast day of the Panagia Tourliani Monastery in Ano Mera, marking the Apodosis (leave-taking) of the Dormition of the Theotokos, with religious services and traditional celebration.",
+    "source_url": "https://en.wikipedia.org/wiki/Panagia_Tourliani,_Mykonos",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Saints Barnabas and Bartholomew (Tragonisi)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 11 June",
+    "date": "2026-06-11",
+    "blurb": "A traditional feast held each year at the church of Panagia on the islet of Tragonisi off Mykonos, on the feast of Saints Barnabas and Bartholomew, with a religious service followed by communal celebration.",
+    "source_url": "https://www.greekgastronomyguide.gr/en/item/panigiri-panagias-mykonos/",
+    "image_url": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "strandbad-wannsee": {
+  "beach": "Berlin (Wannsee)",
+  "town": "Berlin (Wannsee)",
+  "country": "Germany",
+  "events": [
+   {
+    "name": "Energy Music Tour",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late August; 2025 edition held 30 August at Strandbad Wannsee",
+    "date": "",
+    "blurb": "Large free open-air pop/dance festival held directly on the beach at Strandbad Wannsee, with a food court, beach chill-out and swimming area. It returns to the lido where it began in 2003 and typically features major chart acts.",
+    "source_url": "https://www.berlinerbaeder.de/events/detail/energy-music-tour-2025-das-gratis-open-air-am-wannsee-am-30082025/",
+    "image_url": ""
+   },
+   {
+    "name": "Wannsee in Flammen (Saisonende / season finale)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late September; traditional season-end fireworks over the Wannsee, visible from the Strandbad shore",
+    "date": "",
+    "blurb": "Traditional Berlin fireworks event marking the end of the bathing and passenger-ship season, with illuminated boat parades by Stern und Kreisschiffahrt and fireworks over Lake Wannsee. The display can be watched from the shore of Strandbad Wannsee.",
+    "source_url": "https://www.facebook.com/events/berliner-b%C3%A4der/saisonende-im-strandbad-mit-wannsee-in-flammen/2700261763327613/",
+    "image_url": ""
+   },
+   {
+    "name": "Start of the Bathing Season at Strandbad Wannsee",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually in spring (around Easter / May), opening the summer lido season",
+    "date": "",
+    "blurb": "Seasonal opening of Berlin's historic 1920s lido, one of Europe's largest inland beaches, marking the start of the summer swimming season on Lake Wannsee.",
+    "source_url": "https://www.berlinerbaeder.de/news/detail/sommersaison-2026-starttermine-der-sommerbaeder/",
+    "image_url": ""
+   },
+   {
+    "name": "Malle Open Air at Loretta am Wannsee",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late spring; 2026 edition on 23 May at Loretta am Wannsee",
+    "date": "2026-05-23",
+    "blurb": "Mallorca-style open-air party by the water at the Loretta am Wannsee beer garden near the Wannsee waterfront, with German pop/Schlager acts such as Julian Sommer and Lorenz Buffel.",
+    "source_url": "https://www.eventim-light.com/de/a/6845620a7664391d2f997b59/e/69442b7b89cf6b6acbc8696d",
+    "image_url": ""
+   },
+   {
+    "name": "Oktoberfest at Loretta am Wannsee",
+    "type": "gastronomy",
+    "recurring": true,
+    "when": "annually in September/October; 2026 dates include 18 September at Loretta am Wannsee",
+    "date": "2026-09-18",
+    "blurb": "Bavarian-style Oktoberfest celebration at the Loretta am Wannsee beer garden with live music, beer and traditional food near the Wannsee waterfront.",
+    "source_url": "https://loretta-wannsee.berlin/veranstaltungen/",
+    "image_url": ""
+   }
+  ]
+ }
+}

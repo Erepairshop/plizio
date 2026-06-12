@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "nissi-beach",
+  "name": "Nissi beach",
+  "qid": "Q7041122",
+  "coord": "Point(33.969 34.988)",
+  "sitelinks": 9,
+  "file": "cy-beach-nissi-beach.webp",
+  "commons_file": "Nissi-Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "golden-beach",
+  "name": "Golden Beach",
+  "qid": "Q106241437",
+  "coord": "Point(34.54285 35.640948)",
+  "sitelinks": 8,
+  "file": "cy-beach-golden-beach.webp",
+  "commons_file": "Karpaz Coast 3.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "governor-s-beach",
+  "name": "Governor's Beach",
+  "qid": "Q22991922",
+  "coord": "Point(33.2712 34.7123)",
+  "sitelinks": 6,
+  "file": "cy-beach-governor-s-beach.webp",
+  "commons_file": "Governor's Beach, Cyprus - panoramio (4).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "fig-tree-bay",
+  "name": "Fig Tree Bay",
+  "qid": "Q15217662",
+  "coord": "Point(34.0589 35.0128)",
+  "sitelinks": 4,
+  "file": "cy-beach-fig-tree-bay.webp",
+  "commons_file": "Fig Tree Bay.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "lighthouse-beach",
+  "name": "Lighthouse Beach",
+  "qid": "Q116795175",
+  "coord": "Point(32.4067033 34.7643794)",
+  "sitelinks": 2,
+  "file": "cy-beach-lighthouse-beach.webp",
+  "commons_file": "Paphos, Cyprus - panoramio (108).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "faros-beach",
+  "name": "Faros Beach",
+  "qid": "Q5436159",
+  "coord": "Point(33.6024553 34.8206934)",
+  "sitelinks": 1,
+  "file": "cy-beach-faros-beach.webp",
+  "commons_file": "Faros beach in Pervolia village Larnaca in summer.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "alykes-beach-paphos",
+  "name": "Alykes Beach, Paphos",
+  "qid": "Q139069340",
+  "coord": "Point(32.4168314 34.7547697)",
+  "sitelinks": 1,
+  "file": "cy-beach-alykes-beach-paphos.webp",
+  "commons_file": "Alykes Beach, Paphos, Cyprus 02.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "vrysoudia-beach-paphos",
+  "name": "Vrysoudia Beach, Paphos",
+  "qid": "Q139070400",
+  "coord": "Point(32.4215925 34.7498858)",
+  "sitelinks": 1,
+  "file": "cy-beach-vrysoudia-beach-paphos.webp",
+  "commons_file": "Vrysoudia Beach, Paphos, Cyprus 2.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "blue-coral-beach-cyprus",
+  "name": "Blue Coral Beach, Cyprus",
+  "qid": "Q139071206",
+  "coord": "Point(32.3910592 34.8340781)",
+  "sitelinks": 1,
+  "file": "cy-beach-blue-coral-beach-cyprus.webp",
+  "commons_file": "Blue Coral Beach, Kissonerga, Kypr 01.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "white-river-beach",
+  "name": "White River Beach",
+  "qid": "Q117000911",
+  "coord": "Point(32.3261169 34.9120147)",
+  "sitelinks": 1,
+  "file": "cy-beach-white-river-beach.webp",
+  "commons_file": "White River Beach, Peyia, Cyprus 03.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "landa-golden-beach",
+  "name": "Landa Golden Beach",
+  "qid": "Q109558840",
+  "coord": "Point(33.959 34.9873)",
+  "sitelinks": 0,
+  "file": "cy-beach-landa-golden-beach.webp",
+  "commons_file": "Landa Golden Beach - Ayia Napa - panoramio (1).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "vathia-gonia-beach",
+  "name": "Vathia Gonia Beach",
+  "qid": "Q109587776",
+  "coord": "Point(33.9798 34.987)",
+  "sitelinks": 0,
+  "file": "cy-beach-vathia-gonia-beach.webp",
+  "commons_file": "Vathia Gonia Beach in November 2021.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pernera-beach",
+  "name": "Pernera Beach",
+  "qid": "Q109588939",
+  "coord": "Point(33.9834 34.98485)",
+  "sitelinks": 0,
+  "file": "cy-beach-pernera-beach.webp",
+  "commons_file": "Pernera Beach in November 2021 from West.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "katsarka-beach",
+  "name": "Katsarka Beach",
+  "qid": "Q109588972",
+  "coord": "Point(33.9903 34.9849)",
+  "sitelinks": 0,
+  "file": "cy-beach-katsarka-beach.webp",
+  "commons_file": "Katsarka Beach in November 2021.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "konnos-beach",
+  "name": "Konnos Beach",
+  "qid": "Q109590319",
+  "coord": "Point(34.0696 34.9838)",
+  "sitelinks": 0,
+  "file": "cy-beach-konnos-beach.webp",
+  "commons_file": "Κοννος - panoramio.jpg",
+  "credit": {}
+ }
+]

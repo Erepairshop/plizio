@@ -1,0 +1,502 @@
+[
+ {
+  "slug": "bedruthan-steps",
+  "name": "Bedruthan Steps",
+  "qid": "Q813950",
+  "coord": "Point(-5.03333333 50.48583333)",
+  "sitelinks": 9,
+  "file": "gb-beach-bedruthan-steps.webp",
+  "commons_file": "Bedruthan steps - geograph.org.uk - 1407815.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "seven-mile-beach",
+  "name": "Seven Mile Beach",
+  "qid": "Q7457330",
+  "coord": "Point(-81.383333333 19.35)",
+  "sitelinks": 8,
+  "file": "gb-beach-seven-mile-beach.webp",
+  "commons_file": "Resorts on Seven Mile Beach, Grand Cayman.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pendine-sands",
+  "name": "Pendine Sands",
+  "qid": "Q1800335",
+  "coord": "Point(-4.4975 51.7325)",
+  "sitelinks": 7,
+  "file": "gb-beach-pendine-sands.webp",
+  "commons_file": "Pendine Sands in September 2008.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cefn-sidan",
+  "name": "Cefn Sidan",
+  "qid": "Q1194493",
+  "coord": "Point(-4.3746 51.7024)",
+  "sitelinks": 6,
+  "file": "gb-beach-cefn-sidan.webp",
+  "commons_file": "Cefn Sidan beach - geograph.org.uk - 1023573.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "camber-sands",
+  "name": "Camber Sands",
+  "qid": "Q5025038",
+  "coord": "Point(0.796083 50.9332)",
+  "sitelinks": 6,
+  "file": "gb-beach-camber-sands.webp",
+  "commons_file": "Camber Sands at Low Tide.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "crosby-beach",
+  "name": "Crosby Beach",
+  "qid": "Q5188026",
+  "coord": "Point(-3.046 53.47)",
+  "sitelinks": 6,
+  "file": "gb-beach-crosby-beach.webp",
+  "commons_file": "Crosby Beach ship.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "horseshoe-bay",
+  "name": "Horseshoe Bay",
+  "qid": "Q5905967",
+  "coord": "Point(-64.82166667 32.25222222)",
+  "sitelinks": 6,
+  "file": "gb-beach-horseshoe-bay.webp",
+  "commons_file": "Horseshoebay.Bermuda.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "the-baths",
+  "name": "The Baths",
+  "qid": "Q7715805",
+  "coord": "Point(-64.4454 18.4294)",
+  "sitelinks": 6,
+  "file": "gb-beach-the-baths.webp",
+  "commons_file": "TheBaths VirginGorda BVI.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "eastern-beach",
+  "name": "Eastern Beach",
+  "qid": "Q4251048",
+  "coord": "Point(-5.33978 36.14893)",
+  "sitelinks": 5,
+  "file": "gb-beach-eastern-beach.webp",
+  "commons_file": "Eastern Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "freshwater-west",
+  "name": "Freshwater West",
+  "qid": "Q5503127",
+  "coord": "Point(-5.0594 51.6565)",
+  "sitelinks": 5,
+  "file": "gb-beach-freshwater-west.webp",
+  "commons_file": "Access path to Freshwater West beach - geograph.org.uk - 5427785.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "langland-bay",
+  "name": "Langland Bay",
+  "qid": "Q6486177",
+  "coord": "Point(-4.0 51.566666666)",
+  "sitelinks": 5,
+  "file": "gb-beach-langland-bay.webp",
+  "commons_file": "Langland Bay.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "saunton-sands",
+  "name": "Saunton Sands",
+  "qid": "Q7427501",
+  "coord": "Point(-4.22583 51.1)",
+  "sitelinks": 5,
+  "file": "gb-beach-saunton-sands.webp",
+  "commons_file": "Saunton Sands - Panorama-8453-54.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "st-mary-s-bay",
+  "name": "St. Mary's Bay",
+  "qid": "Q7590092",
+  "coord": "Point(-3.5 50.388)",
+  "sitelinks": 5,
+  "file": "gb-beach-st-mary-s-bay.webp",
+  "commons_file": "St Mary's Bay, Brixham - geograph.org.uk - 806472.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "vault-beach",
+  "name": "Vault Beach",
+  "qid": "Q7917408",
+  "coord": "Point(-4.79442 50.2319)",
+  "sitelinks": 5,
+  "file": "gb-beach-vault-beach.webp",
+  "commons_file": "Vault Beach near Gorran Haven - geograph.org.uk - 1802880.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "weymouth-beach",
+  "name": "Weymouth Beach",
+  "qid": "Q7990355",
+  "coord": "Point(-2.4525 50.6113)",
+  "sitelinks": 5,
+  "file": "gb-beach-weymouth-beach.webp",
+  "commons_file": "Weymouth beach in July 2011.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "whitesands-bay",
+  "name": "Whitesands Bay",
+  "qid": "Q7996233",
+  "coord": "Point(-5.29583 51.8944)",
+  "sitelinks": 5,
+  "file": "gb-beach-whitesands-bay.webp",
+  "commons_file": "Porth Mawr (Whitesands Bay) near Tyddewi (St David's), Sir Benfro, Cymru, Wales 15.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "goodrington-sands",
+  "name": "Goodrington Sands",
+  "qid": "Q20711943",
+  "coord": "Point(-3.557 50.424)",
+  "sitelinks": 5,
+  "file": "gb-beach-goodrington-sands.webp",
+  "commons_file": "Goodrington Sands - geograph.org.uk - 34344.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "paul-beach",
+  "name": "Paul Beach",
+  "qid": "Q2815393",
+  "coord": "Point(-37.4 -54.0667)",
+  "sitelinks": 4,
+  "file": "gb-beach-paul-beach.webp",
+  "commons_file": "King Penguins (Aptenodytes patagonicus) - Salisbury Plains - Flickr - Gregory \"Slobirdr\" Smith.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "barafundle-bay",
+  "name": "Barafundle Bay",
+  "qid": "Q4858166",
+  "coord": "Point(-4.90425 51.6182)",
+  "sitelinks": 4,
+  "file": "gb-beach-barafundle-bay.webp",
+  "commons_file": "BarafundleBeach StackpoleEstate WalesUK.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "broad-haven-south",
+  "name": "Broad Haven South",
+  "qid": "Q4971888",
+  "coord": "Point(-4.92072 51.60821)",
+  "sitelinks": 4,
+  "file": "gb-beach-broad-haven-south.webp",
+  "commons_file": "Broadhavensouth.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "fistral-beach",
+  "name": "Fistral Beach",
+  "qid": "Q5455353",
+  "coord": "Point(-5.10235 50.4165)",
+  "sitelinks": 4,
+  "file": "gb-beach-fistral-beach.webp",
+  "commons_file": "Fistral Beach (1).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "oddicombe-beach",
+  "name": "Oddicombe Beach",
+  "qid": "Q7077494",
+  "coord": "Point(-3.513 50.482)",
+  "sitelinks": 4,
+  "file": "gb-beach-oddicombe-beach.webp",
+  "commons_file": "Oddicombe.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "traeth-bychan",
+  "name": "Traeth Bychan",
+  "qid": "Q7832393",
+  "coord": "Point(-4.2316 53.3391)",
+  "sitelinks": 4,
+  "file": "gb-beach-traeth-bychan.webp",
+  "commons_file": "Traeth Bychan beach from the south - geograph.org.uk - 1347609.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "hemmick-beach",
+  "name": "Hemmick Beach",
+  "qid": "Q28402997",
+  "coord": "Point(-4.81364 50.22969)",
+  "sitelinks": 4,
+  "file": "gb-beach-hemmick-beach.webp",
+  "commons_file": "Hemmick Beach - geograph.org.uk - 1472551.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "gyllyngvase-beach",
+  "name": "Gyllyngvase Beach",
+  "qid": "Q31844950",
+  "coord": "Point(-5.068525 50.14407)",
+  "sitelinks": 4,
+  "file": "gb-beach-gyllyngvase-beach.webp",
+  "commons_file": "Gyllyngvase Beach, Falmouth.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "dail-mor",
+  "name": "Dail Mòr",
+  "qid": "Q430366",
+  "coord": "Point(-6.75 58.3028)",
+  "sitelinks": 3,
+  "file": "gb-beach-dail-mor.webp",
+  "commons_file": "Picnic Area and Cemetery, Dail Mor - geograph.org.uk - 568187.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "whiteford-sands",
+  "name": "Whiteford Sands",
+  "qid": "Q1482078",
+  "coord": "Point(-4.25361111 51.63611111)",
+  "sitelinks": 3,
+  "file": "gb-beach-whiteford-sands.webp",
+  "commons_file": "Whiteford sands view 072006 rb.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "blackpool-sands",
+  "name": "Blackpool Sands",
+  "qid": "Q4923269",
+  "coord": "Point(-3.60944 50.3194)",
+  "sitelinks": 3,
+  "file": "gb-beach-blackpool-sands.webp",
+  "commons_file": "Blackpool Sands - geograph.org.uk - 24244.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pedn-vounder",
+  "name": "Pedn Vounder",
+  "qid": "Q7159323",
+  "coord": "Point(-5.64229 50.04358)",
+  "sitelinks": 3,
+  "file": "gb-beach-pedn-vounder.webp",
+  "commons_file": "Pednvounder Beach - geograph.org.uk - 15820.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sinky-bay",
+  "name": "Sinky Bay",
+  "qid": "Q7524619",
+  "coord": "Point(-64.834 32.249)",
+  "sitelinks": 3,
+  "file": "gb-beach-sinky-bay.webp",
+  "commons_file": "Bermuda South.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "traigh-mhor",
+  "name": "Tràigh Mhòr",
+  "qid": "Q7832702",
+  "coord": "Point(-7.43444 57.0244)",
+  "sitelinks": 3,
+  "file": "gb-beach-traigh-mhor.webp",
+  "commons_file": "Tràigh Mhór - geograph.org.uk - 200602.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "wallog",
+  "name": "Wallog",
+  "qid": "Q7963171",
+  "coord": "Point(-4.074 52.455)",
+  "sitelinks": 3,
+  "file": "gb-beach-wallog.webp",
+  "commons_file": "Descending towards Wallog - geograph.org.uk - 1168066.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "elberry-cove",
+  "name": "Elberry Cove",
+  "qid": "Q20711987",
+  "coord": "Point(-3.54559994 50.40250015)",
+  "sitelinks": 3,
+  "file": "gb-beach-elberry-cove.webp",
+  "commons_file": "Elberry Cove in June - geograph.org.uk - 358278.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "marros-sands",
+  "name": "Marros Sands",
+  "qid": "Q28401555",
+  "coord": "Point(-4.6 51.737222222)",
+  "sitelinks": 3,
+  "file": "gb-beach-marros-sands.webp",
+  "commons_file": "Marros Sands, Marros - geograph.org.uk - 468808.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "criccieth-beach",
+  "name": "Criccieth Beach",
+  "qid": "Q31845064",
+  "coord": "Point(-4.22922 52.91897)",
+  "sitelinks": 3,
+  "file": "gb-beach-criccieth-beach.webp",
+  "commons_file": "Foreshore, Criccieth - geograph.org.uk - 11369.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "thurstaston-beach",
+  "name": "Thurstaston Beach",
+  "qid": "Q31845081",
+  "coord": "Point(-3.14235 53.33731)",
+  "sitelinks": 3,
+  "file": "gb-beach-thurstaston-beach.webp",
+  "commons_file": "Thurstaston beach - IMG 0859.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "formby-beach",
+  "name": "Formby Beach",
+  "qid": "Q31845082",
+  "coord": "Point(-3.09716 53.56522)",
+  "sitelinks": 3,
+  "file": "gb-beach-formby-beach.webp",
+  "commons_file": "Formby beach 1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "holkham-beach",
+  "name": "Holkham Beach",
+  "qid": "Q41271758",
+  "coord": "Point(0.806583333 52.975388888)",
+  "sitelinks": 3,
+  "file": "gb-beach-holkham-beach.webp",
+  "commons_file": "Holkham Beach - geograph.org.uk - 269838.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "aberavon-beach",
+  "name": "Aberavon Beach",
+  "qid": "Q4666774",
+  "coord": "Point(-3.82639 51.5964)",
+  "sitelinks": 2,
+  "file": "gb-beach-aberavon-beach.webp",
+  "commons_file": "Aberavon Beach view to Swansea Bay.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "aberdeen-beach-and-queens-links",
+  "name": "Aberdeen Beach and Queens Links",
+  "qid": "Q4666890",
+  "coord": "Point(-2.07722 57.1531)",
+  "sitelinks": 2,
+  "file": "gb-beach-aberdeen-beach-and-queens-links.webp",
+  "commons_file": "AberdeenEsplanade.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "abermawr",
+  "name": "Abermawr",
+  "qid": "Q4667129",
+  "coord": "Point(-5.0853 51.9694)",
+  "sitelinks": 2,
+  "file": "gb-beach-abermawr.webp",
+  "commons_file": "Abermawr.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "camp-bay-gibraltar",
+  "name": "Camp Bay, Gibraltar",
+  "qid": "Q5026991",
+  "coord": "Point(-5.351 36.119)",
+  "sitelinks": 2,
+  "file": "gb-beach-camp-bay-gibraltar.webp",
+  "commons_file": "Camp Bay - panoramic.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "church-ope-cove",
+  "name": "Church Ope Cove",
+  "qid": "Q5116655",
+  "coord": "Point(-2.4273 50.5377)",
+  "sitelinks": 2,
+  "file": "gb-beach-church-ope-cove.webp",
+  "commons_file": "Church Ope Cove - geograph.org.uk - 1038763.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ffrith-beach",
+  "name": "Ffrith Beach",
+  "qid": "Q5446238",
+  "coord": "Point(-3.441 53.3354)",
+  "sitelinks": 2,
+  "file": "gb-beach-ffrith-beach.webp",
+  "commons_file": "The Wales Coast Path at Ffrith Beach (geograph 4963077).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "horsey-beach",
+  "name": "Horsey Beach",
+  "qid": "Q5906144",
+  "coord": "Point(1.6531 52.7561)",
+  "sitelinks": 2,
+  "file": "gb-beach-horsey-beach.webp",
+  "commons_file": "Horsey Gap (17566865835).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "horton-beach",
+  "name": "Horton Beach",
+  "qid": "Q5906822",
+  "coord": "Point(-4.20083 51.5478)",
+  "sitelinks": 2,
+  "file": "gb-beach-horton-beach.webp",
+  "commons_file": "Port-Eynon Bay - geograph.org.uk - 1481683.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "marloes-sands",
+  "name": "Marloes Sands",
+  "qid": "Q6771906",
+  "coord": "Point(-5.20891 51.7212)",
+  "sitelinks": 2,
+  "file": "gb-beach-marloes-sands.webp",
+  "commons_file": "Marloes Sands MMc.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "readymoney-cove",
+  "name": "Readymoney Cove",
+  "qid": "Q7300723",
+  "coord": "Point(-4.64556 50.3288)",
+  "sitelinks": 2,
+  "file": "gb-beach-readymoney-cove.webp",
+  "commons_file": "Readymoney Cove.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sandymouth-beach",
+  "name": "Sandymouth Beach",
+  "qid": "Q7417545",
+  "coord": "Point(-4.555 50.861)",
+  "sitelinks": 2,
+  "file": "gb-beach-sandymouth-beach.webp",
+  "commons_file": "Shipwreck remains at Menachurch Point - geograph.org.uk - 404689.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "treen-cove",
+  "name": "Treen Cove",
+  "qid": "Q7837701",
+  "coord": "Point(-5.59482 50.189)",
+  "sitelinks": 2,
+  "file": "gb-beach-treen-cove.webp",
+  "commons_file": "Coastline between Gurnard's Head and Boswednack Cliff - geograph.org.uk - 40825.jpg",
+  "credit": {}
+ }
+]

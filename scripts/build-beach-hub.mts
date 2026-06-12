@@ -14,25 +14,49 @@ const LANGS = ["de", "hu", "ro", "en"] as const;
 type Lang = (typeof LANGS)[number];
 const DATA = path.resolve(process.cwd(), "public", "data", "beach-hub");
 
-const COUNTRY = {
-  key: "croatia",
-  iso: "HR", // public/data/pois/<ISO>.json
-  name: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" } as Record<Lang, string>,
-  mapSlug: "croatia-map", // our own static country map (public/<slug>/{lang}/)
-};
+type CountryCfg = { cc: string; key: string; iso: string; mapSlug: string; name: Record<Lang, string> };
+const COUNTRIES: CountryCfg[] = [
+  { cc: "hr", key: "croatia", iso: "HR", mapSlug: "croatia-map", name: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" } },
+  { cc: "es", key: "spain", iso: "ES", mapSlug: "spain-map", name: { de: "Spanien", hu: "Spanyolország", ro: "Spania", en: "Spain" } },
+  { cc: "fr", key: "france", iso: "FR", mapSlug: "france-map", name: { de: "Frankreich", hu: "Franciaország", ro: "Franța", en: "France" } },
+  { cc: "it", key: "italy", iso: "IT", mapSlug: "italy-map", name: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" } },
+  { cc: "pt", key: "portugal", iso: "PT", mapSlug: "portugal-map", name: { de: "Portugal", hu: "Portugália", ro: "Portugalia", en: "Portugal" } },
+  { cc: "gb", key: "united-kingdom", iso: "GB", mapSlug: "unitedkingdom-map", name: { de: "Großbritannien", hu: "Egyesült Királyság", ro: "Marea Britanie", en: "United Kingdom" } },
+  { cc: "gr", key: "greece", iso: "GR", mapSlug: "greece-map", name: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece" } },
+  { cc: "dk", key: "denmark", iso: "DK", mapSlug: "denmark-map", name: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" } },
+  { cc: "de", key: "germany", iso: "DE", mapSlug: "deutschland-map", name: { de: "Deutschland", hu: "Németország", ro: "Germania", en: "Germany" } },
+  { cc: "se", key: "sweden", iso: "SE", mapSlug: "sweden-map", name: { de: "Schweden", hu: "Svédország", ro: "Suedia", en: "Sweden" } },
+  { cc: "cy", key: "cyprus", iso: "CY", mapSlug: "cyprus-map", name: { de: "Zypern", hu: "Ciprus", ro: "Cipru", en: "Cyprus" } },
+  { cc: "no", key: "norway", iso: "NO", mapSlug: "norway-map", name: { de: "Norwegen", hu: "Norvégia", ro: "Norvegia", en: "Norway" } },
+  { cc: "ie", key: "ireland", iso: "IE", mapSlug: "ireland-map", name: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" } },
+  { cc: "tr", key: "turkey", iso: "TR", mapSlug: "turkey-map", name: { de: "Türkei", hu: "Törökország", ro: "Turcia", en: "Turkey" } },
+  { cc: "ee", key: "estonia", iso: "EE", mapSlug: "estonia-map", name: { de: "Estland", hu: "Észtország", ro: "Estonia", en: "Estonia" } },
+  { cc: "pl", key: "poland", iso: "PL", mapSlug: "poland-map", name: { de: "Polen", hu: "Lengyelország", ro: "Polonia", en: "Poland" } },
+  { cc: "fi", key: "finland", iso: "FI", mapSlug: "finland-map", name: { de: "Finnland", hu: "Finnország", ro: "Finlanda", en: "Finland" } },
+];
+// Current-country context (reassigned per country in the main loop).
+let COUNTRY: CountryCfg = COUNTRIES[0];
 // Our map URL, lang-aware: hu lives at root, other langs in a subfolder.
 function ourMapUrl(l: Lang) {
   return `/${COUNTRY.mapSlug}/${l === "hu" ? "" : l + "/"}`;
 }
 const BSLUG: Record<Lang, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
+// Hub title/intro are templated from the country name (avoids per-country copy).
+function hubTitle(l: Lang): string {
+  const n = COUNTRY.name[l];
+  return l === "de" ? `Die schönsten Strände in ${n}`
+    : l === "hu" ? `${n} legszebb strandjai`
+    : l === "ro" ? `Cele mai frumoase plaje din ${n}`
+    : `The most beautiful beaches in ${n}`;
+}
+function hubIntro(l: Lang, count: number): string {
+  const n = COUNTRY.name[l];
+  return l === "de" ? `Die ${count} schönsten Strände in ${n} – mit allen praktischen Infos, Veranstaltungen und Tipps.`
+    : l === "hu" ? `${n} ${count} legszebb strandja – minden praktikus információval, eseménnyel és tippel.`
+    : l === "ro" ? `Cele mai frumoase ${count} de plaje din ${n} – cu toate informațiile practice, evenimente și sfaturi.`
+    : `The ${count} most beautiful beaches in ${n} – with all the practical info, events and tips.`;
+}
 const I: Record<string, Record<Lang, string>> = {
-  hubTitle: { de: "Die schönsten Strände Kroatiens", hu: "Horvátország legszebb strandjai", ro: "Cele mai frumoase plaje din Croația", en: "The most beautiful beaches in Croatia" },
-  hubIntro: {
-    de: "Von der goldenen Landzunge Zlatni Rat bis zur versteckten Bucht Stiniva: die 45 schönsten Strände Kroatiens mit allen praktischen Infos, Veranstaltungen und Tipps.",
-    hu: "A Zlatni Rat aranyszarvától a rejtett Stiniva-öbölig: Horvátország 45 legszebb strandja minden praktikus információval, eseménnyel és tippel.",
-    ro: "De la limba de nisip Zlatni Rat până la golful ascuns Stiniva: cele mai frumoase 45 de plaje din Croația cu toate informațiile practice, evenimente și sfaturi.",
-    en: "From the golden horn of Zlatni Rat to the hidden cove of Stiniva: Croatia's 45 most beautiful beaches with all the practical info, events and tips.",
-  },
   home: { de: "Start", hu: "Főoldal", ro: "Acasă", en: "Home" },
   beaches: { de: "Strände", hu: "Strandok", ro: "Plaje", en: "Beaches" },
   type: { de: "Strandtyp", hu: "Strand típusa", ro: "Tip de plajă", en: "Beach type" },
@@ -75,35 +99,55 @@ const L = <T,>(o: Record<string, T> | undefined, l: Lang): T | undefined => (o ?
 const Lstr = (v: any, l: Lang): string =>
   v && typeof v === "object" && !Array.isArray(v) ? String(v[l] ?? v.en ?? "") : String(v ?? "");
 
-const content = JSON.parse(fs.readFileSync(path.join(DATA, "hr-content.json"), "utf-8")) as Record<string, any>;
-const events = JSON.parse(fs.readFileSync(path.join(DATA, "hr-events.json"), "utf-8")) as Record<string, any>;
-const images = JSON.parse(fs.readFileSync(path.join(DATA, "hr-images.json"), "utf-8")) as any[];
-const imgBySlug = new Map(images.map((m) => [m.slug, m]));
-// rank by fame (sitelinks) desc for hub ordering
-const beaches = images
-  .filter((m) => content[m.slug])
-  .sort((a, b) => (b.sitelinks || 0) - (a.sitelinks || 0));
-
-// --- Nearby internal links: real POI place-pages near the beach (like the POI HTML) ---
-// Country POIs (id, name{4}, coords[lon,lat]) + the per-lang URL index for their pages.
+// --- Per-country data (reassigned by loadCountry in the main loop) ---
 type NearPoi = { id: string; name: Record<string, string>; lat: number; lon: number; type?: string };
+let content: Record<string, any> = {};
+let events: Record<string, any> = {};
+let images: any[] = [];
+let imgBySlug = new Map<string, any>();
+let beaches: any[] = [];
+let COUNTRY_POIS: NearPoi[] = [];
+const _countrySlugCache: Record<string, Record<Lang, string>> = {};
+
+// Global POI url-index (shared across countries).
 const POI_URLS: Record<string, Record<Lang, string>> = (() => {
   try { return JSON.parse(fs.readFileSync(path.resolve("public/data/_poi-url-index.json"), "utf-8")); }
   catch { return {}; }
 })();
-const COUNTRY_POIS: NearPoi[] = (() => {
+
+function loadCountry(cfg: CountryCfg): boolean {
+  const cdir = (suffix: string) => path.join(DATA, `${cfg.cc}-${suffix}.json`);
+  if (!fs.existsSync(cdir("content")) || !fs.existsSync(cdir("images"))) return false;
+  COUNTRY = cfg;
+  content = JSON.parse(fs.readFileSync(cdir("content"), "utf-8"));
+  events = fs.existsSync(cdir("events")) ? JSON.parse(fs.readFileSync(cdir("events"), "utf-8")) : {};
+  images = JSON.parse(fs.readFileSync(cdir("images"), "utf-8"));
+  imgBySlug = new Map(images.map((m) => [m.slug, m]));
+  beaches = images.filter((m) => content[m.slug]).sort((a, b) => (b.sitelinks || 0) - (a.sitelinks || 0));
+  // Country POIs for nearby links.
+  COUNTRY_POIS = [];
   try {
-    const raw = JSON.parse(fs.readFileSync(path.resolve(`public/data/pois/${COUNTRY.iso}.json`), "utf-8"));
+    const raw = JSON.parse(fs.readFileSync(path.resolve(`public/data/pois/${cfg.iso}.json`), "utf-8"));
     const arrays = Array.isArray(raw) ? [raw] : Object.values(raw).filter(Array.isArray) as any[][];
-    const out: NearPoi[] = [];
     for (const arr of arrays) for (const p of arr) {
       const c = p?.coords;
       if (!p?.id || !Array.isArray(c) || c.length < 2 || !POI_URLS[p.id]) continue;
-      out.push({ id: p.id, name: p.name || {}, lat: c[1], lon: c[0], type: p.type });
+      COUNTRY_POIS.push({ id: p.id, name: p.name || {}, lat: c[1], lon: c[0], type: p.type });
     }
-    return out;
-  } catch { return []; }
-})();
+  } catch {}
+  return beaches.length > 0;
+}
+// Localized country slug (e.g. de→"kroatien") derived from a POI url; falls back to key.
+function countrySlug(l: Lang): string {
+  const cache = _countrySlugCache[COUNTRY.cc] || (_countrySlugCache[COUNTRY.cc] = {} as Record<Lang, string>);
+  if (cache[l]) return cache[l];
+  let slug = COUNTRY.key;
+  const sample = COUNTRY_POIS.find((p) => POI_URLS[p.id]?.[l]);
+  const u = sample && POI_URLS[sample.id][l];
+  if (u) { const parts = u.split("/").filter(Boolean); if (parts.length >= 2) slug = parts[1]; }
+  cache[l] = slug;
+  return slug;
+}
 function haversineKm(la1: number, lo1: number, la2: number, lo2: number): number {
   const R = 6371, dLa = (la2 - la1) * Math.PI / 180, dLo = (lo2 - lo1) * Math.PI / 180;
   const a = Math.sin(dLa / 2) ** 2 + Math.cos(la1 * Math.PI / 180) * Math.cos(la2 * Math.PI / 180) * Math.sin(dLo / 2) ** 2;
@@ -270,7 +314,7 @@ function beachPage(l: Lang, slug: string) {
         description: intro.slice(0, 500),
         image: SITE + imgUrl,
         ...(lat ? { geo: { "@type": "GeoCoordinates", latitude: Number(lat), longitude: Number(lng) } } : {}),
-        address: { "@type": "PostalAddress", addressCountry: "HR" },
+        address: { "@type": "PostalAddress", addressCountry: COUNTRY.iso },
       },
       ...(faqs.length
         ? [{
@@ -285,7 +329,7 @@ function beachPage(l: Lang, slug: string) {
         "@type": "BreadcrumbList",
         itemListElement: [
           { "@type": "ListItem", position: 1, name: t("home", l), item: `${SITE}/${l}/` },
-          { "@type": "ListItem", position: 2, name: COUNTRY.name[l], item: `${SITE}/${l}/${COUNTRY.key}/` },
+          { "@type": "ListItem", position: 2, name: COUNTRY.name[l], item: `${SITE}/${l}/${countrySlug(l)}/` },
           { "@type": "ListItem", position: 3, name: t("beaches", l), item: SITE + hubUrl(l) },
           { "@type": "ListItem", position: 4, name },
         ],
@@ -297,7 +341,7 @@ function beachPage(l: Lang, slug: string) {
     head(title, metaDesc, canonical, hreflang((ll) => beachUrl(ll, slug)), jsonld).replace("__L__", l) +
     header(l, (ll) => beachUrl(ll, slug)) +
     `<main class="bh-main">
-<nav class="plz-breadcrumb"><a href="/${l}/">${esc(t("home", l))}</a><span>›</span><a href="/${l}/${COUNTRY.key}/">${esc(COUNTRY.name[l])}</a><span>›</span><a href="${hubUrl(l)}">${esc(t("beaches", l))}</a><span>›</span><span>${esc(name)}</span></nav>
+<nav class="plz-breadcrumb"><a href="/${l}/">${esc(t("home", l))}</a><span>›</span><a href="/${l}/${countrySlug(l)}/">${esc(COUNTRY.name[l])}</a><span>›</span><a href="${hubUrl(l)}">${esc(t("beaches", l))}</a><span>›</span><span>${esc(name)}</span></nav>
 <figure class="bh-hero"><img src="${imgUrl}" alt="${esc(name)}" width="1600" height="1066" loading="eager"/>
 ${credit.artist || credit.license ? `<figcaption>${esc(t("photoBy", l))}: ${esc((credit.artist || "").replace(/<[^>]+>/g, "").slice(0, 80))}${credit.license ? " · " + esc(credit.license) : ""}${credit.descurl ? ` · <a href="${esc(credit.descurl)}" target="_blank" rel="nofollow noopener">Wikimedia Commons</a>` : ""}</figcaption>` : ""}</figure>
 <div class="bh-title-row"><h1>${esc(name)}</h1>${badges ? `<div class="bh-badges">${badges}</div>` : ""}</div>
@@ -321,8 +365,8 @@ ${nearBeachHtml ? `<section class="bh-block"><h2>${esc(t("nearbyBeaches", l))}</
 }
 
 function hubPage(l: Lang) {
-  const title = `${t("hubTitle", l)} | Plizio`;
-  const desc = t("hubIntro", l);
+  const title = `${hubTitle(l)} | Plizio`;
+  const desc = hubIntro(l, beaches.length);
   const canonical = SITE + hubUrl(l);
   const cards = beaches
     .map((m) => {
@@ -334,7 +378,7 @@ function hubPage(l: Lang) {
   const itemList = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: t("hubTitle", l),
+    name: hubTitle(l),
     itemListElement: beaches.map((m, i) => ({
       "@type": "ListItem", position: i + 1, name: m.name, url: SITE + beachUrl(l, m.slug),
     })),
@@ -343,9 +387,9 @@ function hubPage(l: Lang) {
     head(title, desc, canonical, hreflang(hubUrl), itemList).replace("__L__", l) +
     header(l, hubUrl) +
     `<main class="bh-main">
-<nav class="plz-breadcrumb"><a href="/${l}/">${esc(t("home", l))}</a><span>›</span><a href="/${l}/${COUNTRY.key}/">${esc(COUNTRY.name[l])}</a><span>›</span><span>${esc(t("beaches", l))}</span></nav>
-<h1>${esc(t("hubTitle", l))}</h1>
-<p class="bh-lead">${esc(t("hubIntro", l))}</p>
+<nav class="plz-breadcrumb"><a href="/${l}/">${esc(t("home", l))}</a><span>›</span><a href="/${l}/${countrySlug(l)}/">${esc(COUNTRY.name[l])}</a><span>›</span><span>${esc(t("beaches", l))}</span></nav>
+<h1>${esc(hubTitle(l))}</h1>
+<p class="bh-lead">${esc(hubIntro(l, beaches.length))}</p>
 <div class="bh-cards">${cards}</div>
 </main>` +
     footer(l) +
@@ -353,29 +397,29 @@ function hubPage(l: Lang) {
   );
 }
 
-let n = 0;
-for (const l of LANGS) {
-  // hub
-  const hubDir = path.join(OUT_DIR, l, COUNTRY.key, BSLUG[l]);
-  fs.mkdirSync(hubDir, { recursive: true });
-  fs.writeFileSync(path.join(hubDir, "index.html"), hubPage(l), "utf8");
-  n++;
-  for (const m of beaches) {
-    const dir = path.join(hubDir, m.slug);
-    fs.mkdirSync(dir, { recursive: true });
-    fs.writeFileSync(path.join(dir, "index.html"), beachPage(l, m.slug), "utf8");
-    n++;
-  }
-}
-console.log(`beach-hub: ${n} HTML (${LANGS.length} langs × (1 hub + ${beaches.length} beaches)) -> ${OUT_DIR}`);
-
-// sitemap-beach.xml — included by build-sitemap-index.mjs
-const urls: string[] = [];
-for (const l of LANGS) {
-  urls.push(SITE + hubUrl(l));
-  for (const m of beaches) urls.push(SITE + beachUrl(l, m.slug));
-}
 const today = process.env.SITEMAP_DATE || "2026-06-12";
+const urls: string[] = [];
+let n = 0, countriesDone = 0;
+for (const cfg of COUNTRIES) {
+  if (!loadCountry(cfg)) { console.log(`  skip ${cfg.cc} (no data)`); continue; }
+  countriesDone++;
+  for (const l of LANGS) {
+    const hubDir = path.join(OUT_DIR, l, COUNTRY.key, BSLUG[l]);
+    fs.mkdirSync(hubDir, { recursive: true });
+    fs.writeFileSync(path.join(hubDir, "index.html"), hubPage(l), "utf8");
+    urls.push(SITE + hubUrl(l)); n++;
+    for (const m of beaches) {
+      const dir = path.join(hubDir, m.slug);
+      fs.mkdirSync(dir, { recursive: true });
+      fs.writeFileSync(path.join(dir, "index.html"), beachPage(l, m.slug), "utf8");
+      urls.push(SITE + beachUrl(l, m.slug)); n++;
+    }
+  }
+  console.log(`  ${cfg.cc} → ${beaches.length} beaches × ${LANGS.length} langs`);
+}
+console.log(`beach-hub: ${n} HTML across ${countriesDone} countries -> ${OUT_DIR}`);
+
+// sitemap-beach.xml — included by build-sitemap-index.mjs (all countries incl. HR)
 const sm =
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map((u) => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join("\n") +

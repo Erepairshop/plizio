@@ -1,0 +1,59 @@
+{
+ "hietaniemi-beach": {
+  "beach": "Helsinki",
+  "town": "Helsinki",
+  "country": "Finland",
+  "events": [
+   {
+    "name": "Hietsu Open Beach Volley Tournament",
+    "type": "sport",
+    "recurring": true,
+    "when": "Annually one weekend in early August at Hietaniemi beach; organised by Hietsu Beach Volley (HBV) since 1995",
+    "date": "",
+    "blurb": "National beach volleyball tournament held directly on Hietaniemi beach (Hietsu), featuring top domestic and international pairs. It is HBV's main annual event, run by over 100 volunteers.",
+    "source_url": "https://hbv.fi/hietsu-open/",
+    "image_url": ""
+   },
+   {
+    "name": "Seurasaari Midsummer Bonfires (Juhannus)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on Midsummer Eve (Juhannus), typically the Friday closest to the summer solstice; 2026 edition on 19 June",
+    "date": "2026-06-19",
+    "blurb": "Traditional Finnish Midsummer festival on Seurasaari island, about 2 km from Hietaniemi beach. Folk dancers, folk musicians, the raising of the Midsummer pole and bonfires lit on the shore. A beloved Helsinki tradition since 1956.",
+    "source_url": "https://www.myhelsinki.fi/events/seurasaari-midsummer-bonfire-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Flow Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in mid-August at the Suvilahti district (about 3-4 km from the beach); 2026 edition 14-16 August",
+    "date": "2026-08-14",
+    "blurb": "Major three-day urban music and arts festival drawing around 90,000 visitors. 2026 line-up includes Florence + The Machine, Nick Cave & The Bad Seeds and Turnstile.",
+    "source_url": "https://www.visitfinland.com/en/product/1a4b41d2-6ae3-4d1c-94bc-37a57864e0bd/flow-festival-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Helsinki Festival (Helsingin juhlaviikot)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually from mid-August into early September across central Helsinki venues; 2026 edition 18 August - 5 September",
+    "date": "2026-08-18",
+    "blurb": "Finland's largest multidisciplinary arts festival spanning music, dance, film and theatre at venues across central Helsinki, a short distance from the beach.",
+    "source_url": "https://helsinkifestival.fi/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Weekend Festival Finland",
+    "type": "music",
+    "recurring": true,
+    "when": "Annually in summer in the Helsinki area; previously hosted at Hietaniemi beach (2018) before moving to other Helsinki sites",
+    "date": "",
+    "blurb": "Large electronic dance music festival in the Helsinki region. It was held at Hietaniemi beach in 2018 as a three-day event before relocating to Suvilahti.",
+    "source_url": "https://en.wikipedia.org/wiki/Weekend_Festival",
+    "image_url": ""
+   }
+  ]
+ }
+}

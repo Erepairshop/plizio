@@ -1,0 +1,202 @@
+[
+ {
+  "slug": "amager-strandpark",
+  "name": "Amager Strandpark",
+  "qid": "Q452470",
+  "coord": "Point(12.63921261 55.65764036)",
+  "sitelinks": 16,
+  "file": "dk-beach-amager-strandpark.webp",
+  "commons_file": "Amager Strandpark - kite surfers.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "bnnerup-strand",
+  "name": "Bønnerup Strand",
+  "qid": "Q957702",
+  "coord": "Point(10.721111111 56.528888888)",
+  "sitelinks": 9,
+  "file": "dk-beach-bnnerup-strand.webp",
+  "commons_file": "Bønnerup Strand - havnevejen 'Havet'.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "dueodde",
+  "name": "Dueodde",
+  "qid": "Q2189435",
+  "coord": "Point(15.07941 54.9877)",
+  "sitelinks": 9,
+  "file": "dk-beach-dueodde.webp",
+  "commons_file": "Bornholm Dueodde asv2024-07 img08.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "bellevue-beach",
+  "name": "Bellevue Beach",
+  "qid": "Q3375957",
+  "coord": "Point(12.5923 55.778)",
+  "sitelinks": 9,
+  "file": "dk-beach-bellevue-beach.webp",
+  "commons_file": "Bellevue Beach (Copenhagen).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "den-permanente-badeanstalt",
+  "name": "Den Permanente Badeanstalt",
+  "qid": "Q5256478",
+  "coord": "Point(10.23166667 56.17666667)",
+  "sitelinks": 6,
+  "file": "dk-beach-den-permanente-badeanstalt.webp",
+  "commons_file": "Aarhusbugten.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "svanemlle-beach",
+  "name": "Svanemølle Beach",
+  "qid": "Q3966675",
+  "coord": "Point(12.5831 55.7206)",
+  "sitelinks": 6,
+  "file": "dk-beach-svanemlle-beach.webp",
+  "commons_file": "Svanemølle Beach (Copenahgen).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "moesgard-beach",
+  "name": "Moesgård Beach",
+  "qid": "Q23753270",
+  "coord": "Point(10.2489 56.0879)",
+  "sitelinks": 6,
+  "file": "dk-beach-moesgard-beach.webp",
+  "commons_file": "Moesgaard Strand set mod nord.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "ballehage",
+  "name": "Ballehage",
+  "qid": "Q23753262",
+  "coord": "Point(10.22565 56.12096)",
+  "sitelinks": 5,
+  "file": "dk-beach-ballehage.webp",
+  "commons_file": "Broen ved Ballehage.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "grenaa-beach",
+  "name": "Grenaa Beach",
+  "qid": "Q15917528",
+  "coord": "Point(10.8833 56.3333)",
+  "sitelinks": 4,
+  "file": "dk-beach-grenaa-beach.webp",
+  "commons_file": "Grenå Strand.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "glatved-beach",
+  "name": "Glatved Beach",
+  "qid": "Q15956974",
+  "coord": "Point(10.8667 56.3)",
+  "sitelinks": 4,
+  "file": "dk-beach-glatved-beach.webp",
+  "commons_file": "Glatved Strand total.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "albuen",
+  "name": "Albuen",
+  "qid": "Q12300907",
+  "coord": "Point(9.5803 55.7047)",
+  "sitelinks": 2,
+  "file": "dk-beach-albuen.webp",
+  "commons_file": "Albuen Badestrand 2.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kjrsgaard-strand",
+  "name": "Kjærsgaard Strand",
+  "qid": "Q12323355",
+  "coord": "Point(9.876492 57.522481)",
+  "sitelinks": 2,
+  "file": "dk-beach-kjrsgaard-strand.webp",
+  "commons_file": "LIVER AAS UDLOEB I JULI 2012 (ubt)-001.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "blokhus-beach",
+  "name": "Blokhus beach",
+  "qid": "Q17489404",
+  "coord": "Point(9.5813 57.2564)",
+  "sitelinks": 2,
+  "file": "dk-beach-blokhus-beach.webp",
+  "commons_file": "På en sommerdag - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "palm-beach",
+  "name": "Palm Beach",
+  "qid": "Q17489408",
+  "coord": "Point(10.5401 57.4613)",
+  "sitelinks": 2,
+  "file": "dk-beach-palm-beach.webp",
+  "commons_file": "Palmestranden 3.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "hornbk-strand",
+  "name": "Hornbæk Strand",
+  "qid": "Q17489415",
+  "coord": "Point(12.4539 56.0944)",
+  "sitelinks": 2,
+  "file": "dk-beach-hornbk-strand.webp",
+  "commons_file": "Hornbæk Beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "sdding-beach",
+  "name": "Sædding Beach",
+  "qid": "Q20496625",
+  "coord": "Point(8.394805555 55.496611111)",
+  "sitelinks": 2,
+  "file": "dk-beach-sdding-beach.webp",
+  "commons_file": "Sædding Strand 1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "snekkersten-strand",
+  "name": "Snekkersten Strand",
+  "qid": "Q110189711",
+  "coord": "Point(12.5816 56.0058)",
+  "sitelinks": 2,
+  "file": "dk-beach-snekkersten-strand.webp",
+  "commons_file": "Snekkersten strand.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "brsmose-strand",
+  "name": "Børsmose Strand",
+  "qid": "Q12304896",
+  "coord": "Point(8.14338 55.6709)",
+  "sitelinks": 1,
+  "file": "dk-beach-brsmose-strand.webp",
+  "commons_file": "Børsmose Strand, Denmark.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "havsand",
+  "name": "Havsand",
+  "qid": "Q23747361",
+  "coord": "Point(8.5 55.083333333)",
+  "sitelinks": 1,
+  "file": "dk-beach-havsand.webp",
+  "commons_file": "Sport activity on Sønderstrand.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "aabenraa-strand",
+  "name": "Aabenraa Strand",
+  "qid": "Q113549770",
+  "coord": "Point(9.4216 55.0333)",
+  "sitelinks": 1,
+  "file": "dk-beach-aabenraa-strand.webp",
+  "commons_file": "Åbenrå Strand 2022a.jpg",
+  "credit": {}
+ }
+]

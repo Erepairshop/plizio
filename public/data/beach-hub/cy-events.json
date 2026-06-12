@@ -1,0 +1,153 @@
+{
+ "golden-beach": {
+  "beach": "Dipkarpaz (Rizokarpaso)",
+  "town": "Dipkarpaz (Rizokarpaso)",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Apostolos Andreas Monastery Pilgrimage (St Andrew's Day)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "Annually on 30 November (feast of Saint Andrew); a second major pilgrimage falls on 15 August (Dormition of the Virgin)",
+    "date": "2026-11-30",
+    "blurb": "Thousands of Greek Cypriot pilgrims travel to the Apostolos Andreas Monastery near Cape Apostolos Andreas, about 6-7 km from Golden Beach, for the feast of Saint Andrew. The day is marked by prayers, bells, incense and music at one of the island's most important religious sites.",
+    "source_url": "https://en.wikipedia.org/wiki/Apostolos_Andreas_Monastery",
+    "image_url": ""
+   },
+   {
+    "name": "Sea Turtle Hatchling Releases at Golden Beach",
+    "type": "cultural",
+    "recurring": true,
+    "when": "Annually during the late-summer hatching season, roughly August to September (evening releases after dark)",
+    "date": "",
+    "blurb": "Golden Beach is one of the most important loggerhead and green turtle nesting beaches in the Mediterranean. The Society for the Protection of Turtles (SPOT) and the North Cyprus environmental authorities run monitored conservation work and public hatchling-release evenings during the hatching season, where visitors can watch baby turtles released to the sea.",
+    "source_url": "https://cyprusturtles.org/marine-turtle-conservation-project-mctp",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Saint Synesios, Rizokarpaso (Dipkarpaz)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually during Orthodox Bright Week (the week after Orthodox Easter), in the town of Rizokarpaso/Dipkarpaz",
+    "date": "",
+    "blurb": "Saint Synesios is the patron saint of Rizokarpaso (Dipkarpaz), the nearest town to Golden Beach. His feast is traditionally celebrated during the Orthodox Bright Week following Easter, when worshippers gather to venerate the saint at the local church.",
+    "source_url": "https://www.mystagogyresourcecenter.com/2025/05/saint-synesios-patron-of-rizokarpaso.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "nissi-beach": {
+  "beach": "Ayia Napa",
+  "town": "Ayia Napa",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Kataklysmos (Flood) Festival",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually around Orthodox Pentecost (late May / early June); 2026 edition 30 May - 1 June",
+    "date": "2026-05-30",
+    "blurb": "Traditional three-day seaside festival at Ayia Napa Harbour and Saint George Square, with the holy cross immersion ceremony, water-themed games, fish grilling, poetry and love-song contests, music and a lively waterfront atmosphere. Free entry.",
+    "source_url": "https://www.agianapa.org.cy/en/information/events/kataklysmos",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa Youth Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August at Ayia Napa Harbour; 2026 edition (9th) on 9-10 August",
+    "date": "2026-08-09",
+    "blurb": "Open-air concert festival at Ayia Napa Harbour featuring popular Greek and international performers (2026 line-up includes Panos Kiamos, Super Sako and Eleni Foureira).",
+    "source_url": "https://mycyprustravel.com/event/ayia-napa-youth-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa International Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually the 3rd weekend of September at the main square and monastery; 2026 edition (42nd) on 25-27 September",
+    "date": "2026-09-25",
+    "blurb": "Cyprus' folklore and cultural festival with visiting dance and music groups, Cypriot and Greek concerts, traditional craft demonstrations and food and drink stalls celebrating local traditions.",
+    "source_url": "https://www.agianapa.org.cy/en/information/events/ayia-napa-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa Medieval Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in October; 2026 edition (19th) on 14-18 October",
+    "date": "2026-10-14",
+    "blurb": "Town-centre medieval festival with theatrical plays, street theatre, music concerts and dance performances by European groups, transforming Ayia Napa into a medieval setting.",
+    "source_url": "https://events.visitfamagusta.com.cy/events/19th-medieval-ayia-napa-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "McDonald's Ayia Napa International Youth Soccer Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring; 2026 edition 4-9 April",
+    "date": "2026-04-04",
+    "blurb": "International youth football tournament hosting teams from across Europe at venues in and around Ayia Napa.",
+    "source_url": "https://www.visitcyprus.com/event/mcdonalds-ayia-napa-youth-soccer-festival-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "governor-s-beach": {
+  "beach": "Pentakomo",
+  "town": "Pentakomo",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Green Monday Kite Flying",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on Green Monday (Clean Monday / Kathara Deftera), the start of Orthodox Lent; 2026 edition on 23 February 2026",
+    "date": "2026-02-23",
+    "blurb": "On Green Monday, Cypriot families head to the countryside and beaches for picnics with fasting food and the traditional custom of flying kites. Governor's Beach and its open coastal area is a popular local spot for the day's kite flying.",
+    "source_url": "https://www.officeholidays.com/holidays/cyprus/ash-monday",
+    "image_url": ""
+   },
+   {
+    "name": "Governor's Beach Kite Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "Annually in the summer months",
+    "date": "",
+    "blurb": "A kite festival held at Governor's Beach during the summer, when the sky over the bay fills with colourful kites of all shapes and sizes, with activities for visitors of all ages.",
+    "source_url": "https://www.cyprusisland.net/cyprus-beaches/governors-beach",
+    "image_url": ""
+   },
+   {
+    "name": "Panagia Pyrgotissa Feast (Pyrgos Limassol)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on 15 August (Dormition of the Virgin Mary); 2026 edition on 15 August 2026",
+    "date": "2026-08-15",
+    "blurb": "The main church feast of nearby Pyrgos village, celebrated on 15 August, when crowds gather in the community for a large traditional panigiri with food, music and dance.",
+    "source_url": "https://cyprus.terrabook.com/cyprus/page/pyrgos-limassol-lemesou/",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Marina Feast (Pyrgos Limassol)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually around 17 July",
+    "date": "",
+    "blurb": "A religious feast at the small stone chapel of Agia Marina south of Pyrgos village, near Governor's Beach, drawing worshippers from the surrounding area to venerate its icon.",
+    "source_url": "https://cyprus.terrabook.com/cyprus/page/pyrgos-limassol-lemesou/",
+    "image_url": ""
+   },
+   {
+    "name": "Saint George Feast (Monagroulli)",
+    "type": "traditional",
+    "recurring": true,
+    "when": "Annually on the feast of Saint George (typically 23 April)",
+    "date": "",
+    "blurb": "The patron saint feast of nearby Monagroulli village, bringing the community together for a celebration of traditional Cypriot music, dance and food.",
+    "source_url": "https://www.cyprusisland.net/cyprus-villages/limassol/monagroulli-village",
+    "image_url": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "slug": "hietaniemi-beach",
+  "name": "Hietaniemi beach",
+  "qid": "Q2041018",
+  "coord": "Point(24.905373826 60.17341976)",
+  "sitelinks": 8,
+  "file": "fi-beach-hietaniemi-beach.webp",
+  "commons_file": "Beach volley at Hietsu 2013.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "kalajoen-hiekkasarkat",
+  "name": "Kalajoen Hiekkasärkät",
+  "qid": "Q18659766",
+  "coord": "Point(23.817433 64.239717)",
+  "sitelinks": 5,
+  "file": "fi-beach-kalajoen-hiekkasarkat.webp",
+  "commons_file": "Kalajoki dunes.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "yyteri-beach",
+  "name": "Yyteri Beach",
+  "qid": "Q120441350",
+  "coord": "Point(21.5244 61.563)",
+  "sitelinks": 3,
+  "file": "fi-beach-yyteri-beach.webp",
+  "commons_file": "Yyteri beach (45572598264).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "faboda",
+  "name": "Fäboda",
+  "qid": "Q10500670",
+  "coord": "Point(22.596173 63.665208)",
+  "sitelinks": 2,
+  "file": "fi-beach-faboda.webp",
+  "commons_file": "Fäboda ranta.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "pyynikki-beach",
+  "name": "Pyynikki beach",
+  "qid": "Q18515548",
+  "coord": "Point(23.733333333 61.491111111)",
+  "sitelinks": 1,
+  "file": "fi-beach-pyynikki-beach.webp",
+  "commons_file": "Pyynikin uimaranta.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "pitkathiekat",
+  "name": "Pitkäthiekat",
+  "qid": "Q99496761",
+  "coord": "Point(27.250812 60.525824)",
+  "sitelinks": 1,
+  "file": "fi-beach-pitkathiekat.webp",
+  "commons_file": "Pitkäthiekat (2).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "nallikari-beach",
+  "name": "Nallikari beach",
+  "qid": "Q105748125",
+  "coord": "Point(25.411406111 65.030269722)",
+  "sitelinks": 1,
+  "file": "fi-beach-nallikari-beach.webp",
+  "commons_file": "Nallikari Oulu 20130811 02.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "rastila-beach",
+  "name": "Rastila Beach",
+  "qid": "Q114347814",
+  "coord": "Point(25.1152769 60.2075508)",
+  "sitelinks": 1,
+  "file": "fi-beach-rastila-beach.webp",
+  "commons_file": "Rastila beach, Rastila, Helsinki, Finsko 02.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "suomenlinna-beach",
+  "name": "Suomenlinna beach",
+  "qid": "Q111633917",
+  "coord": "Point(24.985091666 60.141122222)",
+  "sitelinks": 1,
+  "file": "fi-beach-suomenlinna-beach.webp",
+  "commons_file": "Beach in Suomenlinna.JPG",
+  "credit": {}
+ }
+]

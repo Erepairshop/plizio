@@ -1,0 +1,502 @@
+[
+ {
+  "slug": "torre-mileto",
+  "name": "Torre Mileto",
+  "qid": "Q1815153",
+  "coord": "Point(15.56805 41.91857)",
+  "sitelinks": 9,
+  "file": "it-beach-torre-mileto.webp",
+  "commons_file": "Torre Mileto.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "poetto",
+  "name": "Poetto",
+  "qid": "Q3393181",
+  "coord": "Point(9.160833333 39.201694444)",
+  "sitelinks": 9,
+  "file": "it-beach-poetto.webp",
+  "commons_file": "Poetto beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-goloritze",
+  "name": "cala Goloritzé",
+  "qid": "Q2933429",
+  "coord": "Point(9.68978 40.10793)",
+  "sitelinks": 8,
+  "file": "it-beach-cala-goloritze.webp",
+  "commons_file": "Cala Goloritzé 1.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "capocotta",
+  "name": "Capocotta",
+  "qid": "Q3657228",
+  "coord": "Point(12.40297 41.66458)",
+  "sitelinks": 7,
+  "file": "it-beach-capocotta.webp",
+  "commons_file": "Spiaggia di Capocotta - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "san-leone",
+  "name": "San Leone",
+  "qid": "Q3947467",
+  "coord": "Point(13.588888888 37.261388888)",
+  "sitelinks": 7,
+  "file": "it-beach-san-leone.webp",
+  "commons_file": "San Leone Agrigento.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "piscinas",
+  "name": "Piscinas",
+  "qid": "Q3705947",
+  "coord": "Point(8.45055556 39.54027778)",
+  "sitelinks": 6,
+  "file": "it-beach-piscinas.webp",
+  "commons_file": "Arbus - Dune di Piscinas (02).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "lido-di-pomposa",
+  "name": "Lido di Pomposa",
+  "qid": "Q1121290",
+  "coord": "Point(12.237777777 44.715555555)",
+  "sitelinks": 5,
+  "file": "it-beach-lido-di-pomposa.webp",
+  "commons_file": "Comacchio, Lido di Pomposa (01).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-violina",
+  "name": "Cala Violina",
+  "qid": "Q3649992",
+  "coord": "Point(10.77433333 42.85561111)",
+  "sitelinks": 5,
+  "file": "it-beach-cala-violina.webp",
+  "commons_file": "Cala Violina Grosseto Tuscany.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "white-beaches",
+  "name": "White Beaches",
+  "qid": "Q3966656",
+  "coord": "Point(10.44008889 43.37270278)",
+  "sitelinks": 5,
+  "file": "it-beach-white-beaches.webp",
+  "commons_file": "Vada, Spiagge Bianche.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "the-pink-beach",
+  "name": "The Pink Beach",
+  "qid": "Q3966672",
+  "coord": "Point(9.35623 41.27921)",
+  "sitelinks": 5,
+  "file": "it-beach-the-pink-beach.webp",
+  "commons_file": "Spiaggia Rosa, Cala di Roto (Isola di Budelli), Arcipelago di La Maddalena, Sardegna, Italia, Mar Mediterraneo.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-sisine",
+  "name": "Cala Sisine",
+  "qid": "Q538419",
+  "coord": "Point(9.63448 40.17963)",
+  "sitelinks": 4,
+  "file": "it-beach-cala-sisine.webp",
+  "commons_file": "Cala Sisine.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-luna",
+  "name": "Cala Luna",
+  "qid": "Q3649988",
+  "coord": "Point(9.626543 40.224787)",
+  "sitelinks": 4,
+  "file": "it-beach-cala-luna.webp",
+  "commons_file": "CalaLuna.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-fuili",
+  "name": "Cala Fuili",
+  "qid": "Q24887975",
+  "coord": "Point(9.62521 40.25628)",
+  "sitelinks": 4,
+  "file": "it-beach-cala-fuili.webp",
+  "commons_file": "Dorgali - Codula e cala Fuili (05).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "scivu",
+  "name": "Scivu",
+  "qid": "Q33333130",
+  "coord": "Point(8.41188 39.49587)",
+  "sitelinks": 4,
+  "file": "it-beach-scivu.webp",
+  "commons_file": "Scivu - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-del-leone",
+  "name": "Cala del Leone",
+  "qid": "Q3649993",
+  "coord": "Point(10.35461944 43.463725)",
+  "sitelinks": 3,
+  "file": "it-beach-cala-del-leone.webp",
+  "commons_file": "Cala del Leone Livorno.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "capriccioli",
+  "name": "Capriccioli",
+  "qid": "Q3657864",
+  "coord": "Point(9.552902 41.079424)",
+  "sitelinks": 3,
+  "file": "it-beach-capriccioli.webp",
+  "commons_file": "Capriccioli.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-delle-bombarde",
+  "name": "Spiaggia delle Bombarde",
+  "qid": "Q3828296",
+  "coord": "Point(8.2578 40.5844)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-delle-bombarde.webp",
+  "commons_file": "Le Bombarde - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "lido-comunale-zerbi",
+  "name": "Lido Comunale Zerbi",
+  "qid": "Q3832077",
+  "coord": "Point(15.64843 38.1156)",
+  "sitelinks": 3,
+  "file": "it-beach-lido-comunale-zerbi.webp",
+  "commons_file": "Reggio calabria lido comunale cartolina antica2.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-mugoni",
+  "name": "Spiaggia di Mugoni",
+  "qid": "Q3905173",
+  "coord": "Point(8.20253 40.6176)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-di-mugoni.webp",
+  "commons_file": "Alghero, spiaggia di Mugoni (01).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "porto-ferro",
+  "name": "Porto Ferro",
+  "qid": "Q3909149",
+  "coord": "Point(8.196111111 40.683333333)",
+  "sitelinks": 3,
+  "file": "it-beach-porto-ferro.webp",
+  "commons_file": "Sassari, Porto Ferro (01).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "lecciona",
+  "name": "Lecciona",
+  "qid": "Q3966660",
+  "coord": "Point(10.24763 43.83895)",
+  "sitelinks": 3,
+  "file": "it-beach-lecciona.webp",
+  "commons_file": "Spiaggia della lecciona.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-berchida",
+  "name": "Spiaggia Bérchida",
+  "qid": "Q3966662",
+  "coord": "Point(9.8102331 40.4792063)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-berchida.webp",
+  "commons_file": "Siniscola - Stagno di Berchida (08).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "calamosche-beach",
+  "name": "Calamosche beach",
+  "qid": "Q3966664",
+  "coord": "Point(15.105652 36.824366)",
+  "sitelinks": 3,
+  "file": "it-beach-calamosche-beach.webp",
+  "commons_file": "Siracusa 016 spiaggia di calamosche.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-cavoli",
+  "name": "Spiaggia di Cavoli",
+  "qid": "Q3966667",
+  "coord": "Point(10.18703 42.73702)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-di-cavoli.webp",
+  "commons_file": "Elba-Cavoli.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-fetovaia",
+  "name": "spiaggia  di Fetovaia",
+  "qid": "Q3966668",
+  "coord": "Point(10.15365 42.73282)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-di-fetovaia.webp",
+  "commons_file": "Fetovaia01.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-punta-penna",
+  "name": "spiaggia di Punta Penna",
+  "qid": "Q16608028",
+  "coord": "Point(14.70355 42.17412)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-di-punta-penna.webp",
+  "commons_file": "Vasto 2009 150 (RaBoe).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "cala-civette",
+  "name": "Cala Civette",
+  "qid": "Q33325734",
+  "coord": "Point(10.775833333 42.8475)",
+  "sitelinks": 3,
+  "file": "it-beach-cala-civette.webp",
+  "commons_file": "Cala Civette, Scarlino1.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-barbarossa",
+  "name": "Spiaggia Di Barbarossa",
+  "qid": "Q33336037",
+  "coord": "Point(10.40717 42.76921)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-di-barbarossa.webp",
+  "commons_file": "Spiaggia Di Barbarossa.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-su-tiriarzu",
+  "name": "spiaggia di Su Tiriarzu",
+  "qid": "Q33341490",
+  "coord": "Point(9.74221 40.63055)",
+  "sitelinks": 3,
+  "file": "it-beach-spiaggia-di-su-tiriarzu.webp",
+  "commons_file": "Posada - ponte Rio Santa Caterina - Spiaggia di Su Tiriarzu - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-calamosca",
+  "name": "Spiaggia di Calamosca",
+  "qid": "Q3650053",
+  "coord": "Point(9.15196 39.18641)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-calamosca.webp",
+  "commons_file": "Torre e faro di Calamosca.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "fiascherino",
+  "name": "Fiascherino",
+  "qid": "Q3744366",
+  "coord": "Point(9.924599 44.064153)",
+  "sitelinks": 2,
+  "file": "it-beach-fiascherino.webp",
+  "commons_file": "Fiascherino beach.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "lazzaretto",
+  "name": "Lazzaretto",
+  "qid": "Q30285659",
+  "coord": "Point(8.24704 40.58234)",
+  "sitelinks": 2,
+  "file": "it-beach-lazzaretto.webp",
+  "commons_file": "Alghero, spiaggia del Lazzaretto (01).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-del-relitto-la-maddalena",
+  "name": "Spiaggia del Relitto (La Maddalena)",
+  "qid": "Q30288096",
+  "coord": "Point(9.47579 41.18129)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-del-relitto-la-maddalena.webp",
+  "commons_file": "La Maddalena-Caprera, spiaggia del Relitto (02).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "baia-del-silenzio",
+  "name": "Baia del Silenzio",
+  "qid": "Q33325330",
+  "coord": "Point(9.39295 44.26924)",
+  "sitelinks": 2,
+  "file": "it-beach-baia-del-silenzio.webp",
+  "commons_file": "Sestri Levante and Baia del Silenzio, the Bay of Silence.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "calamoresca",
+  "name": "Calamoresca",
+  "qid": "Q33325908",
+  "coord": "Point(10.49913 42.93533)",
+  "sitelinks": 2,
+  "file": "it-beach-calamoresca.webp",
+  "commons_file": "Piombino (LI) panorama sul golfo di Calamoresca e il quartiere Salivoli.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "eloro-beach",
+  "name": "Eloro Beach",
+  "qid": "Q33326324",
+  "coord": "Point(15.10723 36.83898)",
+  "sitelinks": 2,
+  "file": "it-beach-eloro-beach.webp",
+  "commons_file": "Beach of Eloro 03.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "la-marmorata",
+  "name": "La Marmorata",
+  "qid": "Q33326947",
+  "coord": "Point(9.23791 41.24515)",
+  "sitelinks": 2,
+  "file": "it-beach-la-marmorata.webp",
+  "commons_file": "Santa Teresa Gallura - Spiaggia della Marmolata (02).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "marina-di-orosei",
+  "name": "Marina di Orosei",
+  "qid": "Q33327535",
+  "coord": "Point(9.725 40.37179)",
+  "sitelinks": 2,
+  "file": "it-beach-marina-di-orosei.webp",
+  "commons_file": "Marina di Orosei - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "rabbit-beach",
+  "name": "Rabbit beach",
+  "qid": "Q33334371",
+  "coord": "Point(12.55776 35.5127)",
+  "sitelinks": 2,
+  "file": "it-beach-rabbit-beach.webp",
+  "commons_file": "Isola e spiaggia di Coniglie-Lampedusa.JPG",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-dei-pescatori",
+  "name": "spiaggia dei Pescatori",
+  "qid": "Q33334433",
+  "coord": "Point(13.95553 40.73817)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-dei-pescatori.webp",
+  "commons_file": "Spiaggia dei Pescatori.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-del-lido-di-orri",
+  "name": "Spiaggia del Lido di Orrì",
+  "qid": "Q33334665",
+  "coord": "Point(9.68203 39.90037)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-del-lido-di-orri.webp",
+  "commons_file": "Plage de Lido Orrì (Tortolì) en Sardaigne.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "romazzino-beach",
+  "name": "Romazzino beach",
+  "qid": "Q33334878",
+  "coord": "Point(9.56553 41.09803)",
+  "sitelinks": 2,
+  "file": "it-beach-romazzino-beach.webp",
+  "commons_file": "Sardegna, romazzino - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-della-pelosa",
+  "name": "Spiaggia della Pelosa",
+  "qid": "Q33335398",
+  "coord": "Point(8.20978 40.96502)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-della-pelosa.webp",
+  "commons_file": "La Pelosa beach, north Sardinia (Italy) (24167750496).jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-albisola-marina",
+  "name": "Spiaggia di Albisola Marina",
+  "qid": "Q33335832",
+  "coord": "Point(8.50342 44.3265)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-albisola-marina.webp",
+  "commons_file": "Spiaggia di Albisola Marina.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "baja-sardinia-beach",
+  "name": "Baja Sardinia beach",
+  "qid": "Q33336019",
+  "coord": "Point(9.47995 41.14038)",
+  "sitelinks": 2,
+  "file": "it-beach-baja-sardinia-beach.webp",
+  "commons_file": "Strand von Baia Sardinia - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-fano",
+  "name": "Spiaggia di Fano",
+  "qid": "Q33337594",
+  "coord": "Point(13.02481 43.84785)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-fano.webp",
+  "commons_file": "L'esercito dell'ombra - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-funtanazza",
+  "name": "Spiaggia di Funtanazza",
+  "qid": "Q33337921",
+  "coord": "Point(8.46617 39.61551)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-funtanazza.webp",
+  "commons_file": "Arbus - Spiaggia di Funtanazza (01).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-li-cossi",
+  "name": "Spiaggia di Li Cossi",
+  "qid": "Q33338482",
+  "coord": "Point(8.93568 41.04688)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-li-cossi.webp",
+  "commons_file": "Costa Paradiso - Spiaggia di Li Cossi (Trinità d'Agultu) (3).JPG",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-mari-ermi",
+  "name": "Spiaggia di Mari Ermi",
+  "qid": "Q33338698",
+  "coord": "Point(8.39845 39.96888)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-mari-ermi.webp",
+  "commons_file": "Spiaggia di Mari Ermi. - panoramio.jpg",
+  "credit": {}
+ },
+ {
+  "slug": "spiaggia-di-ostia",
+  "name": "Spiaggia di Ostia",
+  "qid": "Q33339413",
+  "coord": "Point(12.27731 41.7281)",
+  "sitelinks": 2,
+  "file": "it-beach-spiaggia-di-ostia.webp",
+  "commons_file": "Lido di ostia beach lungomare toscanelli.jpg",
+  "credit": {}
+ }
+]

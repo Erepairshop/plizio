@@ -1,0 +1,69 @@
+{
+ "banna-strand": {
+  "beach": "Ardfert",
+  "town": "Ardfert",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": "Roger Casement Annual Commemoration at Banna Strand",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually in April, marking the 21 April 1916 anniversary of Roger Casement's landing and capture at Banna Strand; wreath-laying at the memorial obelisk on the beach",
+    "date": "",
+    "blurb": "Annual commemoration held at the Roger Casement memorial obelisk on Banna Strand, marking the 1916 landing and capture of the republican revolutionary who came ashore here attempting to land German rifles before the Easter Rising.",
+    "source_url": "https://en.wikipedia.org/wiki/Banna_Strand",
+    "image_url": ""
+   },
+   {
+    "name": "Ballyheigue Summer Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around the first week of July; a full week of 60+ mostly free events for all ages in nearby Ballyheigue (approx. 6 km from Banna Strand)",
+    "date": "",
+    "blurb": "Week-long community summer festival in the neighbouring seaside village of Ballyheigue, featuring more than 60 diverse, mostly free events across music, sport and family activities.",
+    "source_url": "https://ballyheigue.ie/summer-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Ballyheigue Pattern Day",
+    "type": "traditional",
+    "recurring": true,
+    "when": "annually on 8 September, celebrating Our Lady's Birthday; long-standing religious/cultural gathering in Ballyheigue",
+    "date": "2026-09-08",
+    "blurb": "Traditional Pattern Day held each 8 September in Ballyheigue, a religious and community gathering celebrating Our Lady's Birthday that draws large crowds to the village near Banna Strand.",
+    "source_url": "https://ballyheigue.ie/events/",
+    "image_url": ""
+   },
+   {
+    "name": "St. Brendan Navigator Festival (Fenit)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in mid-May around the feast of St. Brendan; 2026 edition 14-17 May in Fenit, Tralee Bay, with linked events at Tobar na Molt, Ardfert",
+    "date": "2026-05-14",
+    "blurb": "Four-day celebration of Kerry's maritime heritage honouring St. Brendan the Navigator, with sailing, processions, heritage walks, music and storytelling in Fenit, including an open-air Mass at Tobar na Molt in Ardfert.",
+    "source_url": "https://saint-brendan.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Rose of Tralee International Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in August; 2026 edition 14-18 August in Tralee town centre (approx. 12 km from Banna Strand)",
+    "date": "2026-08-14",
+    "blurb": "One of Ireland's largest and longest-running festivals, held each August in Tralee with parades, the televised Rose selection, street entertainment, carnival, fireworks and live music.",
+    "source_url": "https://roseoftralee.ie/",
+    "image_url": ""
+   },
+   {
+    "name": "Feile na mBlath - Tralee Park Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June; 2026 edition 12-14 June in Tralee Town Park, free family festival with floral displays, live music and workshops",
+    "date": "2026-06-12",
+    "blurb": "Free family festival in Tralee Town Park with floral displays, live music, workshops and cultural performances over three days each June.",
+    "source_url": "https://www.discoverkerry.com/blog/post/feile-na-mbalth-flowers-music-family-fun-in-tralee/",
+    "image_url": ""
+   }
+  ]
+ }
+}

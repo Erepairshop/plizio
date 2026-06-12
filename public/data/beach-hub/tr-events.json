@@ -1,0 +1,143 @@
+{
+ "patara-beach": {
+  "beach": "Kalkan",
+  "town": "Kalkan",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Kaş International Film Festival (Kaş Film Fest)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in June; 5th edition scheduled for June 2026, with the award ceremony at the ancient Antiphellos Theatre in Kaş",
+    "date": "",
+    "blurb": "Annual film festival supported by Türkiye's Ministry of Culture and Tourism and Kaş Municipality, featuring screenings, finalist Q&A sessions and an award ceremony at the 2,000-year-old Antiphellos ancient theatre. Held in Kaş town, roughly 30 km from Patara Beach.",
+    "source_url": "https://filmfreeway.com/KasFF",
+    "image_url": ""
+   },
+   {
+    "name": "International Lycia Kaş Culture and Art Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late June (typically around 25-27 June); organised by Kaş Municipality",
+    "date": "",
+    "blurb": "Three-day cultural and arts festival organised by Kaş Municipality with concerts, performances and cultural events celebrating the Lycian region. Held in Kaş town, the nearest district centre to Patara Beach.",
+    "source_url": "https://www.kas.bel.tr/",
+    "image_url": ""
+   },
+   {
+    "name": "Kaş Jazz Festival (Kaş Caz Festivali)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late August (around the last weekend; recent editions on 23-25 August) at Setur Kaş Marina",
+    "date": "",
+    "blurb": "Annual open-air jazz festival held at the Setur Marina in Kaş, featuring Turkish and international jazz acts. Kaş is the nearest town district to Patara Beach.",
+    "source_url": "http://www.kascazfestivali.com/",
+    "image_url": ""
+   },
+   {
+    "name": "International Meis-to-Kaş Swimming and Canoe Contest",
+    "type": "sport",
+    "recurring": true,
+    "when": "annual cross-border open-water swim and canoe race from the Greek island of Meis (Kastellorizo) to Kaş harbour, about 7.5 km",
+    "date": "",
+    "blurb": "Annual open-water swimming and canoeing contest crossing roughly 7.5 km from the Greek island of Kastellorizo (Meis) to Kaş harbour, symbolising Greek-Turkish friendship. Based in Kaş town.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ },
+ "konyaalt-beach": {
+  "beach": "Antalya (Konyaaltı)",
+  "town": "Antalya (Konyaaltı)",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Antalya Golden Orange Film Festival (Altın Portakal)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early October; 59th edition 1-8 October 2026",
+    "date": "2026-10-01",
+    "blurb": "Turkey's oldest and most prestigious film festival, held annually in Antalya with screenings, an awards gala and open-air events in the city centre near Konyaaltı.",
+    "source_url": "https://en.wikipedia.org/wiki/Antalya_Golden_Orange_Film_Festival",
+    "image_url": ""
+   },
+   {
+    "name": "Antalya Akra Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late May to June; 9th edition 5-20 June 2026",
+    "date": "2026-06-05",
+    "blurb": "An annual jazz festival bringing world-renowned and local jazz musicians to Antalya for open-air concerts over several weeks in the early summer.",
+    "source_url": "https://akrajazz.com/en/akra-jazz-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Antalya Culture Road Festival (Antalya Kültür Yolu Festivali)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually as part of Turkey's nationwide Culture Road Festival (2026 series runs April-November); Antalya leg includes free concerts and events on Konyaaltı Beach",
+    "date": "",
+    "blurb": "Part of Turkey's nationwide Culture Road Festival, the Antalya edition stages free concerts, art and gastronomy events, with Konyaaltı Beach (Konyaaltı Sahili) used as one of the main open-air venues.",
+    "source_url": "https://kulturyolufestivali.com/antalya-kultur-yolu-festivali",
+    "image_url": ""
+   },
+   {
+    "name": "Konyaaltı Beach Park Summer Concerts",
+    "type": "music",
+    "recurring": true,
+    "when": "annually throughout the summer season (roughly June-September), open-air concerts along the Konyaaltı seafront and Beach Park",
+    "date": "",
+    "blurb": "Throughout the summer the Konyaaltı seafront and Beach Park host a regular series of open-air concerts by Turkish pop and other performers, right beside the beach.",
+    "source_url": "https://biletinial.com/tr-tr/mekan/konyaalti-beach-park",
+    "image_url": ""
+   },
+   {
+    "name": "Commemoration of Atatürk (10 November)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 10 November at 09:05",
+    "date": "2026-11-10",
+    "blurb": "Nationwide and locally observed commemoration of Mustafa Kemal Atatürk, marked across Antalya with a moment of silence and ceremonies on the anniversary of his death.",
+    "source_url": "https://thisisantalya.com/commemorating-ataturk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kaputas-beach": {
+  "beach": "Kaş",
+  "town": "Kaş",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "International Lycia-Kaş Culture and Art Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually towards the end of June (held since 1997); typically around 25-27 June",
+    "date": "",
+    "blurb": "Long-running festival organised by the Kaş Municipality together with the Greek island of Kastellorizo (Meis), featuring folk dance, music, a swimming race and cross-border friendship events. Held in Kaş town, the nearest locality to Kaputaş Beach.",
+    "source_url": "https://antalya.com.tr/en/festivals/Lycia-Kas-Culture-and-Art-Festival",
+    "image_url": ""
+   },
+   {
+    "name": "Kaş International Film Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in June; 5th edition scheduled for June 2026",
+    "date": "",
+    "blurb": "International film festival supported by Türkiye's Ministry of Culture and Tourism and the Municipality of Kaş, with its award ceremony held at the 2,000-year-old Antiphellos Ancient Theatre. Awarded the EFFE Label 2026-2027 by the European Festivals Association.",
+    "source_url": "https://filmfreeway.com/KasFF",
+    "image_url": ""
+   },
+   {
+    "name": "Kaş Jazz Festival (Kaş Caz Festivali)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late August, at Kaş Setur Marina; 2025 edition ran 28-31 August",
+    "date": "",
+    "blurb": "Jazz festival held at Kaş Setur Marina featuring prominent Turkish and international jazz musicians, with morning wellness sessions and evening concerts. In its 7th year as of 2025.",
+    "source_url": "http://kascazfestivali.com/",
+    "image_url": ""
+   }
+  ]
+ }
+}

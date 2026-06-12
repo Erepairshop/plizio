@@ -1,0 +1,142 @@
+[
+ {
+  "slug": "banna-strand",
+  "name": "Banna Strand",
+  "qid": "Q4856854",
+  "coord": "Point(-9.8368 52.3582)",
+  "sitelinks": 8,
+  "file": "ie-beach-banna-strand.webp",
+  "commons_file": "Banna strand.jpg",
+  "credit": {
+   "artist": "",
+   "license": "Public domain",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Banna_strand.jpg"
+  }
+ },
+ {
+  "slug": "the-silver-strand",
+  "name": "The Silver Strand",
+  "qid": "Q3687633",
+  "coord": "Point(-8.77528 54.6643)",
+  "sitelinks": 5,
+  "file": "ie-beach-the-silver-strand.webp",
+  "commons_file": "TrabaneStrand2.jpg",
+  "credit": {
+   "artist": "",
+   "license": "Public domain",
+   "descurl": "https://commons.wikimedia.org/wiki/File:TrabaneStrand2.jpg"
+  }
+ },
+ {
+  "slug": "gurteen-beach",
+  "name": "Gurteen Beach",
+  "qid": "Q5620314",
+  "coord": "",
+  "sitelinks": 5,
+  "file": "ie-beach-gurteen-beach.webp",
+  "commons_file": "26Feb07 Gurteen Beach.jpg",
+  "credit": {
+   "artist": "Perrettben at English Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:26Feb07_Gurteen_Beach.jpg"
+  }
+ },
+ {
+  "slug": "rossbeigh",
+  "name": "Rossbeigh",
+  "qid": "Q7369750",
+  "coord": "Point(-9.97293 52.0647)",
+  "sitelinks": 4,
+  "file": "ie-beach-rossbeigh.webp",
+  "commons_file": "Rossbeigh Beach..JPG",
+  "credit": {
+   "artist": "Goatoo",
+   "license": "CC BY-SA 3.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Rossbeigh_Beach..JPG"
+  }
+ },
+ {
+  "slug": "sandymount-strand",
+  "name": "Sandymount Strand",
+  "qid": "Q7417543",
+  "coord": "Point(-6.205833333 53.323611111)",
+  "sitelinks": 4,
+  "file": "ie-beach-sandymount-strand.webp",
+  "commons_file": "IMG SandymountBaths.jpg",
+  "credit": {
+   "artist": "Sarah777 at en.wikipedia",
+   "license": "Public domain",
+   "descurl": "https://commons.wikimedia.org/wiki/File:IMG_SandymountBaths.jpg"
+  }
+ },
+ {
+  "slug": "tragumna",
+  "name": "Tragumna",
+  "qid": "Q4461740",
+  "coord": "Point(-9.266764 51.500814)",
+  "sitelinks": 3,
+  "file": "ie-beach-tragumna.webp",
+  "commons_file": "Drishane Island from Tragumna - Drishanemore Townland (geograph 2448896).jpg",
+  "credit": {
+   "artist": "Mac McCarron",
+   "license": "CC BY-SA 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Drishane_Island_from_Tragumna_-_Drishanemore_Townland_(geograph_2448896).jpg"
+  }
+ },
+ {
+  "slug": "inch-beach",
+  "name": "Inch Beach",
+  "qid": "Q111417107",
+  "coord": "Point(-9.9683433 52.1244775)",
+  "sitelinks": 3,
+  "file": "ie-beach-inch-beach.webp",
+  "commons_file": "Inch Beach, 2011 (02).jpg",
+  "credit": {
+   "artist": "Draceane",
+   "license": "CC BY-SA 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Inch_Beach,_2011_(02).jpg"
+  }
+ },
+ {
+  "slug": "owenahincha",
+  "name": "Owenahincha",
+  "qid": "Q15264841",
+  "coord": "Point(-8.999 51.5666)",
+  "sitelinks": 2,
+  "file": "ie-beach-owenahincha.webp",
+  "commons_file": "Owenahincha - geograph.org.uk - 1349407.jpg",
+  "credit": {
+   "artist": "Caitlin Ferguson-Mir",
+   "license": "CC BY-SA 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Owenahincha_-_geograph.org.uk_-_1349407.jpg"
+  }
+ },
+ {
+  "slug": "uggool-beach",
+  "name": "Uggool Beach",
+  "qid": "Q56290076",
+  "coord": "Point(-9.877495 53.637306)",
+  "sitelinks": 2,
+  "file": "ie-beach-uggool-beach.webp",
+  "commons_file": "Beach nr. Killadoon, Co.Mayo - geograph.org.uk - 556555.jpg",
+  "credit": {
+   "artist": "Gordon Dunn",
+   "license": "CC BY-SA 2.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Beach_nr._Killadoon,_Co.Mayo_-_geograph.org.uk_-_556555.jpg"
+  }
+ },
+ {
+  "slug": "ballybunion-ladies-beach",
+  "name": "Ballybunion Ladies Beach",
+  "qid": "Q133444485",
+  "coord": "Point(-9.677297 52.513393)",
+  "sitelinks": 1,
+  "file": "ie-beach-ballybunion-ladies-beach.webp",
+  "commons_file": "Ballybunion Ladies Beach 18.jpg",
+  "credit": {
+   "artist": "Zairon",
+   "license": "CC BY 4.0",
+   "descurl": "https://commons.wikimedia.org/wiki/File:Ballybunion_Ladies_Beach_18.jpg"
+  }
+ }
+]
