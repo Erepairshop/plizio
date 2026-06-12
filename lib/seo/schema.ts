@@ -50,6 +50,8 @@ export function buildOrganizationSchema(): SchemaNode {
     // is the same organisation on these external sites, helping Google
     // build a unified Knowledge Graph entity across the project family.
     sameAs: [
+      "https://www.wikidata.org/wiki/Q140183544",
+      "https://de.pinterest.com/borota25/",
       "https://punktepass.de",
       "https://erepairshop.de",
       "https://diginachrichten.de",
