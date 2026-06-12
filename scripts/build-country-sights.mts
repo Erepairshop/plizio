@@ -9,6 +9,10 @@ import path from "node:path";
 
 type Lang = "de" | "hu" | "ro" | "en";
 const LANGS: Lang[] = ["de", "hu", "ro", "en"];
+// Output root. In CI set OUT_DIR=out so hubs land in the deployed release AND are
+// regenerated AFTER generate-poi-html (authoritative url-index). Local runs default
+// to "public" (committed source).
+const OUT_DIR = process.env.OUT_DIR || "public";
 
 // --- slugify (mirror lib/seo/slugify.ts) ---
 const REPL: [string, string][] = [["ä","ae"],["ö","oe"],["ü","ue"],["ß","ss"],["ă","a"],["â","a"],["î","i"],["ș","s"],["ş","s"],["ț","t"],["ţ","t"],["ł","l"]];
@@ -364,7 +368,7 @@ function buildOne(c: CountryCfg): void {
   if (!top.length) { console.log(`SKIP ${c.iso}: 0 entry (${CAT_KEY})`); return; }
   for (const lang of LANGS) {
     const slug = `${slugify(c.names[lang])}-${SIGHTS_SLUG[lang]}`;
-    const dir = path.resolve(process.cwd(), "public", slug);
+    const dir = path.resolve(process.cwd(), OUT_DIR, slug);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, "index.html"), render(c, lang, top), "utf8");
     ((HUB_MANIFEST[c.iso] ??= {})[CAT_KEY] ??= {})[lang] = slug;

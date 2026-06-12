@@ -3144,6 +3144,12 @@ async function main() {
   let written = 0;
   let skipped = 0;
   const dirsMade = new Set<string>();
+  // Authoritative url-index: id → {lang: actual written path}. This is the SINGLE
+  // SOURCE OF TRUTH for internal links (hubs/nearby/sights) and the sitemap, because
+  // it reflects EXACTLY the pages we write — unlike build-poi-url-index (poisLite),
+  // which diverged from the generator's parent resolution (donana → /spanien/spanien/
+  // vs the real /spanien/galicien/) and routed orphans to /deutschland/ort/. 2026-06-12.
+  const URL_INDEX_OUT: Record<string, Record<string, string>> = {};
 
   for (const poi of target) {
     // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`.
@@ -3166,6 +3172,7 @@ async function main() {
       const html = renderHtml(poi, lang);
       if (!html) { skipped++; continue; }
       fs.writeFileSync(file, html, "utf8");
+      (URL_INDEX_OUT[poi.id] ||= {})[lang] = url; // authoritative: id → actually-written path
       written++;
       if (written % 5000 === 0) {
         const elapsed = (Date.now() - start) / 1000;
@@ -3204,6 +3211,26 @@ async function main() {
   const elapsed = (Date.now() - start) / 1000;
   console.log(`\nDone: ${written + sightPagesWritten} written (POI ${written} + sight ${sightPagesWritten}), ${skipped} skipped in ${elapsed.toFixed(1)}s`);
   console.log(`Unique dirs: ${dirsMade.size}`);
+
+  // Write the AUTHORITATIVE url-index from the pages we actually generated.
+  // FULL run → overwrite; DELTA run (POI_IDS filter) → merge into the existing
+  // index so unchanged POIs keep their entries. Internal-link builders (hubs,
+  // nearby, sitemap) consuming this file can never point at a non-existent page.
+  try {
+    const idxPath = path.resolve(process.cwd(), "public", "data", "_poi-url-index.json");
+    const isDelta = !!(POI_IDS_FILE || POI_IDS_INLINE);
+    let merged: Record<string, Record<string, string>> = URL_INDEX_OUT;
+    if (isDelta && fs.existsSync(idxPath)) {
+      try {
+        const existing = JSON.parse(fs.readFileSync(idxPath, "utf-8"));
+        merged = { ...existing, ...URL_INDEX_OUT };
+      } catch { /* keep URL_INDEX_OUT */ }
+    }
+    fs.writeFileSync(idxPath, JSON.stringify(merged), "utf8");
+    console.log(`Authoritative url-index: ${Object.keys(URL_INDEX_OUT).length} POIs written${isDelta ? ` (delta merge → ${Object.keys(merged).length} total)` : ""} → _poi-url-index.json`);
+  } catch (e) {
+    console.warn("url-index write failed:", e);
+  }
 
   // Persist unknown-parent audit log so it's accessible after deploy
   // (served at https://plizio.com/_audit/build_warnings.json).

@@ -264,6 +264,15 @@ jobs:
           OUT_DIR: out
         run: npx tsx scripts/build-beach-hub.mts
 
+      # Country-sights hubs (/spanien-sehenswuerdigkeiten/ etc.). MUST run AFTER
+      # generate-poi-html so it consumes the AUTHORITATIVE _poi-url-index.json
+      # (id -> actually-written page path). Earlier this was not in CI at all, so
+      # the hub links froze with stale/wrong paths and 404'd (2026-06-12).
+      - name: Country-sights hubs (top-50 per country, uses authoritative url-index)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/build-country-sights.mts
+
       - name: Build sitemap.xml index from actual chunks (Next 16 export omits it)
         run: |
           set -euo pipefail
