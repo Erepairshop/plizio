@@ -287,6 +287,31 @@ jobs:
           OUT_DIR: out
         run: npx tsx scripts/generate-image-sitemap.mts
 
+      # GitHub Actions cache: 10 GB/repo, LRU-evicted. The key includes github.sha
+      # so EVERY deploy saves a fresh .next/cache; at ~9 GB that means constant
+      # eviction (2×9>10). Trim to a budget so multiple caches coexist and the
+      # save/restore is fast. Runs AFTER the build (cache already used), BEFORE the
+      # automatic post-job cache save. (2026-06-12)
+      - name: Trim .next/cache to budget (GitHub 10GB cache limit)
+        if: always()
+        shell: bash
+        run: |
+          set +e
+          D=.next/cache
+          [ -d "$D" ] || exit 0
+          BEFORE=$(du -sm "$D" 2>/dev/null | cut -f1)
+          BUDGET=$((3072 * 1024 * 1024))   # 3 GB in bytes
+          total=0
+          # newest-first; once cumulative size passes the budget, delete the rest
+          find "$D" -type f -printf '%T@ %s %p\n' | sort -rn | while read -r _ size path; do
+            total=$((total + size))
+            if [ "$total" -gt "$BUDGET" ]; then rm -f "$path"; fi
+          done
+          # drop now-empty dirs
+          find "$D" -type d -empty -delete 2>/dev/null
+          AFTER=$(du -sm "$D" 2>/dev/null | cut -f1)
+          echo ".next/cache trimmed: ${BEFORE:-?}MB -> ${AFTER:-?}MB (budget 3072MB)"
+
       - name: Atomic static release + nginx reload
         run: |
           set -euo pipefail
