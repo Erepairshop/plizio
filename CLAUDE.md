@@ -49,6 +49,75 @@ Minden feladat végén:
 
 ---
 
+## SEO / URL architektúra és 404-MEGELŐZÉS (KRITIKUS ALAP)
+
+> **ALAPSZABÁLY: 404 SEHOL nem jelenhet meg.** Sem belső linkben, sem a sitemapban.
+> A Google a belső linkeket és a sitemapot crawlolva talál 404-et — minden ilyen
+> rontja az indexelést. Bármilyen POI/SEO-változtatás UTÁN gondold végig: a
+> linkek és a sitemap CSAK tényleg legenerált oldalakra mutathatnak.
+
+### Hogyan épül egy POI-URL (slugs.ts)
+`buildPoiPath(lang, poi)` → `buildStatePath(lang, poi.parent)` + `poiSlug(poi,lang)/`
+→ `buildStatePath` = `buildCountryPath(lang, getCountryId(parent))` + `stateSlugFor(parent,lang)/`.
+Vagyis a path TISZTÁN a `poi.parent`-ből jön (nincs koord-átrendelés).
+- `getCountryId(parent)` → ország-slug. **Ismeretlen parent → "germany" fallback** (725. sor),
+  ezért estek árva POI-k `/de/deutschland/ort/...`-ra. Új: **`getCountryIdStrict`** → `null`
+  ismeretlennél; a sitemap + url-index ezzel ZÁRJA KI az árvákat.
+- Landing-oldalak (`/lang/`, `/lang/orszag/`, `/lang/orszag/regio/`) CSAK a 4 fő nyelvre
+  (de/hu/ro/en) generálódnak. **Extra nyelv (fr/tr/hr) → nincs landing → `navLang` fallback `en`-re**
+  a breadcrumb/home/footer/JSON-LD linkekben (generate-poi-html). A POI-oldal maga marad fr/tr/hr.
+
+### A KÉT POI-adatforrás (a 404-ek fő gyökere volt)
+- **Generátor** (`generate-poi-html.mts` → `loadFullPois`): **EXPLICIT import-lista**. EZ írja a
+  tényleges oldalakat. Új poiExtra-fájl ide is fel kell venni (lásd [[generate-poi-html-imports]]).
+- **poisLite** (`build-seo-index.mts` → `_all_poi_sources.generated` = MINDEN POI-fájl): ebből
+  épül a sitemap (`app/sitemap.ts`) és RÉGEN a url-index is.
+- **Divergencia** = 404: ami az ALL_POI_SOURCES-ban van, de a generátor explicit listájában NINCS
+  → sitemap/index tartalmazza, oldal NINCS → 404 (pl. montenegroCitiesExtra). Megosztott POI-knál
+  eltérő parent → eltérő path (Doñana: poisLite `/spanien/spanien/`, generátor `/spanien/galicien/`).
+
+### Az url-index = EGY IGAZSÁGFORRÁS (2026-06)
+`generate-poi-html.mts` a TÉNYLEGESEN kiírt oldalakból írja `public/data/_poi-url-index.json`-t
+(`id → {lang: valódi path}`; FULL=felülír, DELTA=merge). **Minden belső-link-építő ebből dolgozzon**,
+így sosem mutathat nem létező oldalra. Fogyasztók: country-sights hub, beach hub, nearby-POI, sight-link.
+
+### Deploy-sorrend (KRITIKUS — a hubok a generátor UTÁN!)
+```
+gen_poi_manifest → build-seo-index(poisLite) → build-poi-url-index(ideiglenes) →
+build-static-maps → Next build (app/sitemap.ts → sitemap-N.xml, poisLite-ból) →
+generate-poi-html (FELÜLÍRJA az url-indexet a HITELESsel) →
+build-beach-hub + build-country-sights (HITELES indexből, OUT_DIR=out) →
+build-sitemap-index (sitemap.xml + sitemap-hubs.xml a tényleges chunkokból)
+```
+A country-sights/beach hub MINDIG a generátor után fusson (különben befagyott/rossz linkek).
+
+### Kapcsolódási térkép
+```
+  lib/visualLab/data/*.ts (POI források)
+        │                         │
+   loadFullPois (explicit)   _all_poi_sources.generated (MINDEN)
+        │                         │
+  generate-poi-html        build-seo-index → poisLite
+        │  (írja az oldalakat)         │
+        ├─► out/<lang>/<orszag>/<regio>/<poi>/     app/sitemap.ts ─► sitemap-N.xml
+        └─► _poi-url-index.json (HITELES) ──┐         (_bad-poi-urls.json blocklist szűr)
+                                            │
+        ┌───────────────────────────────────┘
+        ▼ (belső linkek — sosem 404)
+  build-country-sights (/orszag-sehenswuerdigkeiten/) · build-beach-hub · nearby · sight-link
+```
+
+### 404-megelőző checklist (MINDIG)
+1. Új poiExtra-fájl → `generate-poi-html` explicit lista + `_all_poi_sources` + git add (különben árva/404).
+2. Belső linket CSAK a `_poi-url-index.json`-ból (poiHref), sose kézzel buildPoiPath-tal hubban.
+3. Extra-nyelvű (fr/tr/hr) oldalon landing-link → `navLang` (en) fallback.
+4. Ismeretlen/hiányzó parent → `getCountryIdStrict` → kizárás sitemapból+indexből (ne /deutschland/ort/).
+5. Sitemap maradék 404 → `public/data/_bad-poi-urls.json` blocklist (app/sitemap.ts szűri).
+6. Hub-generátorok (country-sights/beach) a deploy-ban a POI-generátor UTÁN, OUT_DIR=out.
+7. Változtatás után: `scripts/_audit_404_vps.py` a VPS release ellen (sitemap-URL + belső link vs tényleges fájl).
+
+---
+
 ## GRAVITAS — Űrállomás menedzsment játék
 
 > Route: `/gravitas` | Állapot: **aktív fejlesztés** (2026-04)
