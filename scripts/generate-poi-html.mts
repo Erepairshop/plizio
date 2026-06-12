@@ -1496,15 +1496,13 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
     hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!" },
   };
   const t = T[lang] || T.en;
-  // City-tips sidecar (build-time bake). Cities WITH itinerary already show
-  // picks in the PlizioGo widget — the tips block here is the no-itinerary fill.
+  // City-tips sidecar (build-time bake). Always render when present — the city-info
+  // card must show tips/gastro/quiet on every city, including itinerary cities
+  // (user 2026-06-12: itinerary cities were showing only weather+nearby, no city-info).
   let tipsHtml = "";
   try {
     const tp = path.resolve(process.cwd(), "public", "data", "city-tips", `${poi.id}.json`);
-    // Itinerary-s varosokon a PlizioGo-widget mutatja a pickeket (a widget a
-    // tervezo elkeszulteig marad) — ott a kartya tips-blokkja kimarad, ne duplikaljon.
-    const hasItin = fs.existsSync(path.resolve(process.cwd(), "public", "data", "itinerary", `${poi.id}.json`));
-    if (!hasItin && fs.existsSync(tp)) {
+    if (fs.existsSync(tp)) {
       const ct = JSON.parse(fs.readFileSync(tp, "utf-8"));
       const L = (o: any) => (o && (o[lang] || o.en)) || [];
       const tipLis = L(ct.tips).map((x: string) => `<li>${escapeHtml(x)}</li>`).join("");
