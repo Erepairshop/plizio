@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, GraduationCap, Map as MapIcon, type LucideIcon } from "lucide-react";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import HamburgerMenu from "@/components/HamburgerMenu";
-import type { Island, IslandGame } from "@/components/IslandMap";
+import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
@@ -21,13 +21,9 @@ import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/acce
 
 const AuthModal = dynamic(() => import("@/components/AuthModal"), { ssr: false });
 const UsernameModal = dynamic(() => import("@/components/UsernameModal"), { ssr: false });
-// Lazy: IslandMap pulls in framer-motion (~131KB, the heaviest homepage chunk). The wrapping
-// <main> already reserves h-screen + bg, so a null placeholder avoids CLS while framer-motion
-// loads as a separate async chunk instead of blocking initial hydration.
-const IslandMap = dynamic(() => import("@/components/IslandMap"), {
-  ssr: false,
-  loading: () => <div className="w-full h-screen bg-[#060614]" />,
-});
+// NOTE: IslandMap MUST stay SSR (static import above). A dynamic(ssr:false) here bailed the
+// whole homepage to client-side rendering (BAILOUT_TO_CLIENT_SIDE_RENDERING) → empty static
+// HTML → LCP 8.3s. SSR keeps the above-fold content in the static export for fast LCP.
 
 interface GameDef {
   id: string;
