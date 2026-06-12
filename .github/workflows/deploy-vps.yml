@@ -2,6 +2,12 @@ name: Deploy VPS (Leaseweb)
 
 on:
   workflow_dispatch:
+    inputs:
+      poi_mode:
+        description: "POI HTML generation mode"
+        type: choice
+        default: delta
+        options: [delta, full]
   # Push trigger DISABLED 2026-05-23 — disk-full incident + user wants manual control.
   # To re-enable: uncomment block below. Until then, run "Deploy VPS" manually via
   # GH Actions UI (workflow_dispatch).
@@ -155,38 +161,59 @@ jobs:
         run: |
           set -euo pipefail
           POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css|app/\[lang\])'
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual dispatch → regen POI"
-            echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
-          fi
-          BEFORE="${{ github.event.before }}"
+          # Outputs: mode = full | delta | none ; before = last-deployed SHA (delta only)
           AFTER="${{ github.sha }}"
-          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
-            echo "No previous SHA → regen POI"
-            echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
+          CURRENT="${{ env.RELEASE_BASE }}/current"
+          MODE_INPUT="${{ github.event.inputs.poi_mode }}"; MODE_INPUT="${MODE_INPUT:-delta}"
+          BEFORE=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ "$MODE_INPUT" = "full" ]; then
+              echo "Manual FULL dispatch → regen all"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
+            fi
+            # delta dispatch: BEFORE = commit recorded in the current live release
+            if [ -f "$CURRENT/_audit/build_warnings.json" ]; then
+              BEFORE=$(node -e "try{process.stdout.write((JSON.parse(require('fs').readFileSync(process.argv[1],'utf8')).commit)||'')}catch(e){}" "$CURRENT/_audit/build_warnings.json")
+            fi
+          else
+            BEFORE="${{ github.event.before }}"
           fi
-          # Ensure both SHAs are fetched (actions/checkout defaults to shallow)
-          git fetch --depth=20 origin "$BEFORE" "$AFTER" 2>/dev/null || true
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || [ "$BEFORE" = "unknown" ] || [ "$BEFORE" = "local" ]; then
+            echo "No usable BEFORE → FULL"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ ! -L "$CURRENT" ]; then
+            echo "No current release to reuse → FULL"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git fetch --depth=80 origin "$BEFORE" "$AFTER" 2>/dev/null || true
           if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
-            echo "BEFORE SHA unreachable → regen POI"
-            echo "should_gen=true" >> "$GITHUB_OUTPUT"; exit 0
+            echo "BEFORE SHA unreachable → FULL"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
           fi
           CHANGED=$(git diff --name-only "$BEFORE" "$AFTER" || true)
-          echo "Changed files:"; echo "$CHANGED" | head -50
+          echo "Changed files ($BEFORE..$AFTER):"; echo "$CHANGED" | head -60
           if [ -z "$CHANGED" ]; then
-            echo "No changes → skip POI gen"
-            echo "should_gen=false" >> "$GITHUB_OUTPUT"; exit 0
+            echo "No changes → none (reuse)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          if echo "$CHANGED" | grep -qE "$POI_AFFECTING"; then
-            echo "POI-affecting files changed → regen"
-            echo "should_gen=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "UI-only commit → skip POI gen, will rsync from current release"
-            echo "should_gen=false" >> "$GITHUB_OUTPUT"
+          if ! echo "$CHANGED" | grep -qE "$POI_AFFECTING"; then
+            echo "UI-only commit → none (reuse from current release)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
           fi
+          echo "POI-affecting → delta (compute step decides delta-vs-full)"
+          echo "before=$BEFORE" >> "$GITHUB_OUTPUT"
+          echo "mode=delta" >> "$GITHUB_OUTPUT"
 
-      - name: Generate POI HTML overlay (all 152K, overwrites Next POI pages)
-        if: steps.detect_poi.outputs.should_gen == 'true'
+      - name: Compute changed POI ids (delta)
+        if: steps.detect_poi.outputs.mode == 'delta'
+        id: delta
+        shell: bash
+        run: |
+          set +e
+          node scripts/compute-changed-pois.mjs "${{ steps.detect_poi.outputs.before }}" "${{ github.sha }}" _changed_pois.txt
+          rc=$?
+          if [ "$rc" -eq 3 ]; then echo "compute → FULL fallback (unmappable POI-affecting change)"; echo "delta_ok=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$rc" -ne 0 ]; then echo "compute error rc=$rc → FULL fallback"; echo "delta_ok=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          echo "changed POIs: $(wc -l < _changed_pois.txt)"
+          echo "delta_ok=true" >> "$GITHUB_OUTPUT"
+
+      - name: Generate POI HTML overlay (FULL — all 152K, overwrites Next POI pages)
+        if: steps.detect_poi.outputs.mode == 'full' || steps.delta.outputs.delta_ok == 'false'
         env:
           OUT_DIR: out
           GEN_LIMIT: '0'
@@ -195,8 +222,24 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/generate-poi-html.mts
 
+      - name: Generate POI HTML overlay (DELTA — reuse prev release + regen only changed)
+        if: steps.detect_poi.outputs.mode == 'delta' && steps.delta.outputs.delta_ok == 'true'
+        env:
+          OUT_DIR: out
+          GEN_LIMIT: '0'
+          POI_IDS_FILE: _changed_pois.txt
+          NODE_OPTIONS: --max-old-space-size=16384
+        shell: bash
+        run: |
+          set -euo pipefail
+          REAL=$(readlink -f "${{ env.RELEASE_BASE }}/current")
+          echo "Reuse prev release HTML from $REAL (no-overwrite into out/)"
+          rsync -a --ignore-existing "$REAL/" out/
+          echo "Regenerating $(wc -l < _changed_pois.txt) changed POIs (delta)"
+          npx tsx scripts/generate-poi-html.mts
+
       - name: Reuse POI HTMLs from current release (UI-only commit)
-        if: steps.detect_poi.outputs.should_gen != 'true'
+        if: steps.detect_poi.outputs.mode == 'none'
         shell: bash
         run: |
           set -euo pipefail
