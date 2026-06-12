@@ -3,27 +3,22 @@
 import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, GraduationCap, Map as MapIcon, type LucideIcon } from "lucide-react";
+import Link from "next/link";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Radio, ScrollText, Castle, Cpu, GraduationCap, Gamepad2, ChevronDown, Map as MapIcon, type LucideIcon } from "lucide-react";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import HamburgerMenu from "@/components/HamburgerMenu";
-import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
 import { claimDailyReward, awardPendingDailyStars, type DailyRewardResult } from "@/lib/dailyReward";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
-import { getGender, type AvatarGender } from "@/lib/gender";
-import { getSkinDef, getActiveSkin } from "@/lib/skins";
-import { getFaceDef, getActiveFace } from "@/lib/faces";
-import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
-import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 
 const AuthModal = dynamic(() => import("@/components/AuthModal"), { ssr: false });
 const UsernameModal = dynamic(() => import("@/components/UsernameModal"), { ssr: false });
-// NOTE: IslandMap MUST stay SSR (static import above). A dynamic(ssr:false) here bailed the
-// whole homepage to client-side rendering (BAILOUT_TO_CLIENT_SIDE_RENDERING) → empty static
-// HTML → LCP 8.3s. SSR keeps the above-fold content in the static export for fast LCP.
+// NOTE: the homepage content (hero + module cards) MUST stay statically rendered.
+// A dynamic(ssr:false) on an above-the-fold component bails the whole route to
+// client-side rendering (BAILOUT_TO_CLIENT_SIDE_RENDERING) → empty static HTML → LCP 8s.
 
 interface GameDef {
   id: string;
@@ -828,37 +823,16 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
-/* Planet positions in the 500x900 viewBox — optimized for mobile */
-const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
-  maps:       { cx: 250, cy: 230, color: "#4FC3F7", glow: "rgba(79,195,247,0.45)" },
-  quizreflex: { cx: 155, cy: 350, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
-  adventure:  { cx: 365, cy: 420, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 145, cy: 550, color: "#4ECDC4", glow: "rgba(78,205,196,0.4)" },
-  logic:      { cx: 355, cy: 630, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
-  sport:      { cx: 250, cy: 750, color: "#FF6B00", glow: "rgba(255,107,0,0.4)" },
-};
+const LETTERS = ["P", "L", "I", "Z", "I", "O"];
+const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
 
-function categoriesToIslands(categories: CategoryDef[]): Island[] {
-  return categories.map((cat) => {
-    const pos = ISLAND_POSITIONS[cat.id] ?? { cx: 400, cy: 300, color: "#fff", glow: "rgba(255,255,255,0.3)" };
-    return {
-      id: cat.id,
-      label: cat.label,
-      color: pos.color,
-      glow: pos.glow,
-      cx: pos.cx,
-      cy: pos.cy,
-      games: cat.games.map((g) => ({
-        id: g.id,
-        icon: g.icon,
-        name: g.name,
-        color: g.color,
-      })) as IslandGame[],
-      // Brain/learn island → direct navigation to SubjectPicker
-      href: cat.id === "brain" ? "/learn" : undefined,
-    };
-  });
-}
+/* The 3 homepage module cards (Karte / Lernen / Spiele) */
+const HOME_T = {
+  de: { karte: "Karte", karteSub: "6 Kontinente spielerisch erkunden", lernen: "Lernen", lernenSub: "Fächer, Astro-Spiele und Tests", spiele: "Spiele", spieleSub: "Quiz, Logik, Abenteuer und Sport", allSubjects: "Alle Fächer öffnen" },
+  en: { karte: "Maps", karteSub: "Explore 6 continents through play", lernen: "Learn", lernenSub: "Subjects, astro games and tests", spiele: "Games", spieleSub: "Quiz, logic, adventure and sport", allSubjects: "Open all subjects" },
+  hu: { karte: "Térkép", karteSub: "6 kontinens játékos felfedezése", lernen: "Tanulás", lernenSub: "Tantárgyak, astro játékok és tesztek", spiele: "Játékok", spieleSub: "Kvíz, logika, kaland és sport", allSubjects: "Összes tantárgy" },
+  ro: { karte: "Hartă", karteSub: "Explorează 6 continente prin joc", lernen: "Învățare", lernenSub: "Materii, jocuri astro și teste", spiele: "Jocuri", spieleSub: "Quiz, logică, aventură și sport", allSubjects: "Toate materiile" },
+} as const;
 
 function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   // Type guard for translations
@@ -896,28 +870,6 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   });
 }
 
-const GAME_TO_CATEGORY: Record<string, string> = {
-  quickpick: "quizreflex", reflexrush: "quizreflex", memoryflash: "quizreflex",
-  spotdiff: "quizreflex", numberrush: "quizreflex", wordscramble: "quizreflex",
-  sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
-  kodex: "quizreflex",
-  skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", astromagyar: "brain", astroromana: "brain", "astro-sachkunde": "brain", "astro-biologie": "brain", "astro-physik": "brain", "astro-geographie": "brain", astrokemia: "brain", "astro-geschichte": "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain", sachkundetest: "brain", geschichtetest: "brain", biologietest: "brain", physiktest: "brain", geographietest: "brain", kemiatest: "brain",
-  numberpath: "logic", pathbuilder: "logic", pipeflow: "logic", deductiongrid: "logic", deductiongrid2: "logic", timeecho: "logic", shadowswitch: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
-  signaldecoder: "logic",
-  pingpong: "sport", airhockey: "sport", tennis: "sport",
-};
-
-function getLastPlayedCategory(): string | null {
-  if (typeof window === "undefined") return null;
-  const cards = getCards();
-  if (cards.length === 0) return null;
-  // Find the most recent card by date
-  const sorted = [...cards].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-  const lastGame = sorted[0]?.game;
-  return lastGame ? (GAME_TO_CATEGORY[lastGame] ?? null) : null;
-}
-
 function getStreak(): number {
   if (typeof window === "undefined") return 0;
   const data = localStorage.getItem("plizio_streak");
@@ -930,6 +882,15 @@ function getStreak(): number {
   return 0;
 }
 
+function GamePill({ href, icon: GIcon, name, color }: { href: string; icon: LucideIcon; name: string; color: string }) {
+  return (
+    <Link href={href} className="flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.04] px-3 py-2.5 transition-colors hover:border-white/25 hover:bg-white/10">
+      <GIcon size={16} className="shrink-0" style={{ color }} />
+      <span className="truncate text-sm font-semibold text-white/80">{name}</span>
+    </Link>
+  );
+}
+
 export default function Home() {
   const router = useRouter();
   const { lang } = useLang();
@@ -940,56 +901,20 @@ export default function Home() {
   const [showUsernameModal, setShowUsernameModal] = useState(false);
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [categories, setCategories] = useState<CategoryDef[]>([]);
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
-  const [lastCategory, setLastCategory] = useState<string | null>(null);
+  const [openCard, setOpenCard] = useState<"maps" | "learn" | "games" | null>("maps");
 
-  // Avatar data for map marker
-  const [gender, setGenderState] = useState<AvatarGender>("girl");
-  const [activeSkin, setActiveSkinState] = useState(() => getSkinDef("default"));
-  const [activeFace, setActiveFaceState] = useState(() => getFaceDef("default"));
-  const [activeTop, setActiveTop] = useState<ReturnType<typeof getTopDef> | null>(null);
-  const [activeBottom, setActiveBottom] = useState<ReturnType<typeof getBottomDef> | null>(null);
-  const [activeShoe, setActiveShoe] = useState<ReturnType<typeof getShoeDef> | null>(null);
-  const [activeCape, setActiveCape] = useState<ReturnType<typeof getCapeDef> | null>(null);
-  const [activeGlasses, setActiveGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
-  const [activeGloves, setActiveGloves] = useState<ReturnType<typeof getGloveDef> | null>(null);
-  const [activeHat, setActiveHatState] = useState<ReturnType<typeof getHatDef> | null>(null);
-  const [activeTrail, setActiveTrailState] = useState<ReturnType<typeof getTrailDef> | null>(null);
-
-  useEffect(() => {
-    setCategories(getCategoriesWithTranslations(lang));
-  }, [lang]);
-
-  useEffect(() => {
-    setGenderState(getGender());
-    setActiveSkinState(getSkinDef(getActiveSkin()));
-    setActiveFaceState(getFaceDef(getActiveFace()));
-
-    const topId = getActive("top");
-    const bottomId = getActive("bottom");
-    const shoeId = getActive("shoe");
-    const capeId = getActive("cape");
-    const glassesId = getActive("glasses");
-    const glovesId = getActive("gloves");
-    const hatId = getActiveHat();
-    const trailId = getActiveTrail();
-
-    setActiveTop(topId ? getTopDef(topId) : null);
-    setActiveBottom(bottomId ? getBottomDef(bottomId) : null);
-    setActiveShoe(shoeId ? getShoeDef(shoeId) : null);
-    setActiveCape(capeId ? getCapeDef(capeId) : null);
-    setActiveGlasses(glassesId ? getGlassesDef(glassesId) : null);
-    setActiveGloves(glovesId ? getGloveDef(glovesId) : null);
-    setActiveHatState(hatId ? getHatDef(hatId) : null);
-    setActiveTrailState(trailId ? getTrailDef(trailId) : null);
-  }, []);
+  // Pure compute from lang → stays in the statically exported HTML (SSR LCP)
+  const categories = getCategoriesWithTranslations(lang);
+  const catById: Record<string, CategoryDef> = Object.fromEntries(categories.map((c) => [c.id, c]));
+  const ht = HOME_T[lang as keyof typeof HOME_T] || HOME_T.en;
+  const gameHref = (id: string) =>
+    id.endsWith("-map") ? `/${id}/${lang === "hu" ? "" : lang + "/"}` : `/${id}`;
 
   useEffect(() => {
     setStreak(getStreak());
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
-    setLastCategory(getLastPlayedCategory());
 
     // Daily login reward — csak akkor mutatjuk a modalt, ha a user már játszott
     // legalább 1 játékot (első látogatáskor ne nyaggassuk popuppal).
@@ -1068,7 +993,7 @@ export default function Home() {
       setCardCount(getCards().length);
       setSpecialCount(getSpecialCardCount());
     };
-    const onVisible = () => { if (document.visibilityState === "visible") { refreshCounts(); setLastCategory(getLastPlayedCategory()); } };
+    const onVisible = () => { if (document.visibilityState === "visible") refreshCounts(); };
     window.addEventListener("plizio-cards-changed", refreshCounts);
     document.addEventListener("visibilitychange", onVisible);
 
@@ -1091,29 +1016,14 @@ export default function Home() {
 
   return (
     <>
-      {/* Game island — first-screen visual (Plizio logo, avatar, menu) */}
-      <main className="relative w-full h-screen overflow-hidden bg-[#060614]">
-      <IslandMap
-        islands={categoriesToIslands(categories)}
-        username={username}
-        streak={streak}
-        specialCount={specialCount}
-        cardCount={cardCount}
-        lastPlayedCategory={lastCategory}
-        avatarProps={{
-          gender,
-          activeSkin,
-          activeFace,
-          activeTop,
-          activeBottom,
-          activeShoe,
-          activeCape,
-          activeGlasses,
-          activeGloves,
-          activeHat,
-          activeTrail,
-        }}
-      />
+      {/* Homepage — hero + 3 module cards (Karte / Lernen / Spiele), pure CSS, SSR-rendered */}
+      <main className="relative min-h-screen w-full overflow-x-hidden bg-[#060614]">
+      {/* Ambient glow background */}
+      <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden>
+        <div className="absolute -top-32 left-1/2 h-[420px] w-[680px] -translate-x-1/2 rounded-full bg-[#4FC3F7]/10 blur-[120px]" />
+        <div className="absolute top-1/3 -left-44 h-[380px] w-[380px] rounded-full bg-[#B44DFF]/10 blur-[120px]" />
+        <div className="absolute -right-44 bottom-0 h-[380px] w-[420px] rounded-full bg-[#FF2D78]/[0.08] blur-[120px]" />
+      </div>
 
       {/* Top bar — nav buttons right, language switcher left */}
       <div className="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-3 py-2.5 pointer-events-none">
@@ -1158,6 +1068,107 @@ export default function Home() {
                   <Icon size={18} style={{ color: btn.color, filter: `drop-shadow(0 0 4px ${btn.color}80)` }} />
                 </button>
               </div>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Hero + module cards */}
+      <div className="relative z-10 mx-auto w-full max-w-2xl px-4 pb-14 pt-20">
+        <header className="text-center">
+          <h1 className="flex items-baseline justify-center gap-[2px] text-5xl font-black tracking-tight">
+            {LETTERS.map((letter, i) => (
+              <span key={i} style={{ color: LETTER_COLORS[i], textShadow: `0 0 18px ${LETTER_COLORS[i]}50` }}>{letter}</span>
+            ))}
+          </h1>
+          <p className="mt-2 text-[10px] font-bold tracking-[0.35em] text-white/70">PLAY · LEARN · THINK</p>
+          {username && <p className="mt-2 text-xs font-bold tracking-wider text-white/60">{username}</p>}
+          {(streak > 0 || specialCount > 0 || cardCount > 0) && (
+            <div className="mt-2 flex items-center justify-center gap-5 text-xs font-extrabold">
+              {streak > 0 && <span className="opacity-90" style={{ color: "#FFD700" }}>🔥 {streak}</span>}
+              {specialCount > 0 && <span className="opacity-90" style={{ color: "#E040FB" }}>⭐ {specialCount}</span>}
+              {cardCount > 0 && <span className="text-white/60">🃏 {cardCount}</span>}
+            </div>
+          )}
+        </header>
+
+        <div className="mt-8 space-y-4">
+          {([
+            { id: "maps" as const, title: ht.karte, sub: ht.karteSub, icon: MapIcon, accent: "#4FC3F7", count: catById.maps?.games.length ?? 0 },
+            { id: "learn" as const, title: ht.lernen, sub: ht.lernenSub, icon: GraduationCap, accent: "#00FF88", count: catById.brain?.games.length ?? 0 },
+            { id: "games" as const, title: ht.spiele, sub: ht.spieleSub, icon: Gamepad2, accent: "#FF2D78", count: (["quizreflex", "adventure", "logic", "sport"] as const).reduce((n, c) => n + (catById[c]?.games.length ?? 0), 0) },
+          ]).map((mod) => {
+            const ModIcon = mod.icon;
+            const open = openCard === mod.id;
+            return (
+              <section
+                key={mod.id}
+                className={`overflow-hidden rounded-3xl border bg-white/[0.03] backdrop-blur-sm transition-all duration-300 ${open ? "border-white/20" : "border-white/10 hover:border-white/20"}`}
+                style={open ? { boxShadow: `0 0 50px ${mod.accent}1f, inset 0 1px 0 rgba(255,255,255,0.06)` } : { boxShadow: "inset 0 1px 0 rgba(255,255,255,0.04)" }}
+              >
+                <button
+                  onClick={() => setOpenCard(open ? null : mod.id)}
+                  className="flex w-full items-center gap-4 p-5 text-left"
+                  aria-expanded={open}
+                >
+                  <div className="grid h-14 w-14 shrink-0 place-items-center rounded-2xl" style={{ background: `${mod.accent}1a`, boxShadow: `0 0 26px ${mod.accent}30` }}>
+                    <ModIcon size={28} style={{ color: mod.accent, filter: `drop-shadow(0 0 6px ${mod.accent}80)` }} />
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <h2 className="text-xl font-extrabold text-white">{mod.title}</h2>
+                    <p className="truncate text-sm text-white/60">{mod.sub}</p>
+                  </div>
+                  <span className="shrink-0 rounded-full border border-white/10 bg-white/5 px-2.5 py-1 text-xs font-bold text-white/60">{mod.count}</span>
+                  <ChevronDown size={20} className={`shrink-0 transition-transform duration-300 ${open ? "rotate-180" : ""}`} style={{ color: mod.accent }} />
+                </button>
+                <div className={`grid transition-[grid-template-rows] duration-300 ease-out ${open ? "grid-rows-[1fr]" : "grid-rows-[0fr]"}`}>
+                  <div className="min-h-0 overflow-hidden">
+                    <div className="px-5 pb-5 pt-0.5">
+                      {mod.id === "maps" && (
+                        <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+                          {(catById.maps?.games ?? []).map((g) => (
+                            <GamePill key={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
+                          ))}
+                        </div>
+                      )}
+                      {mod.id === "learn" && (
+                        <>
+                          <Link href="/learn" className="mb-3 flex items-center justify-center gap-2 rounded-xl border border-[#00FF88]/30 bg-[#00FF88]/10 px-4 py-3 text-sm font-bold text-[#00FF88] transition-colors hover:bg-[#00FF88]/20">
+                            <GraduationCap size={18} /> {ht.allSubjects}
+                          </Link>
+                          <div className="grid grid-cols-2 gap-2">
+                            {(catById.brain?.games ?? []).map((g) => (
+                              <GamePill key={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
+                            ))}
+                          </div>
+                        </>
+                      )}
+                      {mod.id === "games" && (
+                        <div className="space-y-4">
+                          {(["quizreflex", "adventure", "logic", "sport"] as const).map((cid) => {
+                            const cat = catById[cid];
+                            if (!cat) return null;
+                            const CIcon = cat.icon;
+                            return (
+                              <div key={cid}>
+                                <div className="mb-2 flex items-center gap-1.5">
+                                  <CIcon size={13} style={{ color: cat.color }} />
+                                  <span className="text-[11px] font-bold tracking-widest text-white/60">{cat.label}</span>
+                                </div>
+                                <div className="grid grid-cols-2 gap-2">
+                                  {cat.games.map((g) => (
+                                    <GamePill key={g.id} href={gameHref(g.id)} icon={g.icon} name={g.name} color={g.color} />
+                                  ))}
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              </section>
             );
           })}
         </div>
