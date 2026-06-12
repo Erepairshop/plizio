@@ -381,6 +381,7 @@ async function loadFullPois(): Promise<POI[]> {
     { glNewV1 },
     { naNewV1 },
     { afNewV1 },
+    { asiaNewV1 },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
@@ -403,6 +404,7 @@ async function loadFullPois(): Promise<POI[]> {
     import("../lib/visualLab/data/poiExtraGlNewV1"),
     import("../lib/visualLab/data/poiExtraNaNewV1"),
     import("../lib/visualLab/data/poiExtraAfNewV1"),
+    import("../lib/visualLab/data/poiExtraAsiaNewV1"),
   ]);
   const all = ([] as POI[]).concat(
     dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
@@ -411,6 +413,7 @@ async function loadFullPois(): Promise<POI[]> {
     poiExtraUkV1 as POI[], poiExtraUkMissingV1 as POI[], poiExtraAtChMissingV1 as POI[],
     poiExtraHrV1 as POI[], poiExtraHrV2 as POI[], poiExtraItalyV2 as POI[], poiExtraEsV2 as POI[],
     poiExtraHrV3 as POI[], euNewV1 as POI[], glNewV1 as POI[], naNewV1 as POI[], afNewV1 as POI[],
+    asiaNewV1 as POI[],
   );
   // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
   const byId = new Map<string, POI>();

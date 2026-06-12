@@ -195,6 +195,7 @@ import * as _src_poiExtraArmeniaLandmarksV2 from "./poiExtraArmeniaLandmarksV2";
 import * as _src_poiExtraArmeniaLifeV2 from "./poiExtraArmeniaLifeV2";
 import * as _src_poiExtraArmeniaNatureV2 from "./poiExtraArmeniaNatureV2";
 import * as _src_poiExtraArmeniaReliefV2 from "./poiExtraArmeniaReliefV2";
+import * as _src_poiExtraAsiaNewV1 from "./poiExtraAsiaNewV1";
 import * as _src_poiExtraAtChMissingV1 from "./poiExtraAtChMissingV1";
 import * as _src_poiExtraAustriaCities from "./poiExtraAustriaCities";
 import * as _src_poiExtraAustriaCitiesV2 from "./poiExtraAustriaCitiesV2";
@@ -1961,6 +1962,7 @@ const _raw: any[] = [
   ...((_src_poiExtraArmeniaLifeV2 as any).poiExtraArmeniaLifeV2 as any[]),
   ...((_src_poiExtraArmeniaNatureV2 as any).poiExtraArmeniaNatureV2 as any[]),
   ...((_src_poiExtraArmeniaReliefV2 as any).poiExtraArmeniaReliefV2 as any[]),
+  ...((_src_poiExtraAsiaNewV1 as any).asiaNewV1 as any[]),
   ...((_src_poiExtraAtChMissingV1 as any).poiExtraAtChMissingV1 as any[]),
   ...((_src_poiExtraAustriaCities as any).austriaCities as any[]),
   ...((_src_poiExtraAustriaCitiesV2 as any).austriaCitiesV2 as any[]),
