@@ -721,8 +721,12 @@ const COUNTRY_NAME_AS_PARENT: Record<string, string> = {
   sweden: "sweden",
 };
 
-export function getCountryId(id: string) {
-  if (!id) return "germany";
+// Resolve a parent id → country slug, or null if no rule matches (unknown/orphan).
+// getCountryId keeps the legacy "germany" default; getCountryIdStrict exposes the
+// null so sitemap/url-index builders can EXCLUDE orphan POIs instead of emitting
+// dead /deutschland/ort/ URLs that Google then crawls as 404 (2026-06-12).
+function _resolveCountry(id: string): string | null {
+  if (!id) return null;
   if (HU_CITY_AS_PARENT.has(id)) return "hungary";
   if (IT_CITY_AS_PARENT.has(id)) return id === "vatican-city" ? "vatican" : "italy";
   if (REGION_PREFIX_TO_COUNTRY[id]) return REGION_PREFIX_TO_COUNTRY[id];
@@ -760,7 +764,14 @@ export function getCountryId(id: string) {
   const mapped = ISO2_TO_COUNTRY[iso2];
   if (mapped) return mapped;
   _warnUnknownParent(id);
-  return "germany";
+  return null;
+}
+export function getCountryId(id: string): string {
+  return _resolveCountry(id) ?? "germany";
+}
+// Strict: null when the parent does not resolve to a real country (orphan POI).
+export function getCountryIdStrict(id: string): string | null {
+  return _resolveCountry(id);
 }
 
 // Audit: track unknown parents so build logs surface data errors (visegrad, esztergom etc.)

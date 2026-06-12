@@ -15,6 +15,9 @@ for (const poi of s.pois) {
   if (!poi || !poi.id) continue;
   if (poi.type === "country" || poi.type === "region") continue;
   if (poi.hasIndexable === false) { skipped++; continue; }
+  // Orphan parent (unresolvable → buildPoiPath would route to /deutschland/ort/ which 404s).
+  // Exclude so no internal link points at a non-existent page (2026-06-12).
+  if (!poi.parent || s.getCountryIdStrict(poi.parent) == null) { skipped++; continue; }
   const entry: any = {};
   let any = false;
   for (const lang of LANGS) {

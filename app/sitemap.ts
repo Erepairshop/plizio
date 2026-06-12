@@ -11,6 +11,7 @@ import {
   buildStatePath,
   countrySlugFor,
   extraLangsFor,
+  getCountryIdStrict,
   pois,
   regions,
   type Lang,
@@ -70,7 +71,7 @@ export async function generateSitemaps() {
   // so when totalUrls was JUST over a 20K chunk boundary, ~10K URLs got lost
   // (last chunk wasn't requested, .slice() returned nothing).
   const indexablePois = pois.filter(
-    (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
+    (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi) && !!poi.parent && getCountryIdStrict(poi.parent) != null,
   );
   const ROOT_FIXED = 33;     // hardcoded root pages (/, /learn, /europe-map, country maps, ...)
   const GAME_FIXED = 27;     // GAME_ROUTES.length (astro + test routes), emitted per lang
@@ -186,7 +187,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   // SEO: csak az indexálható (megfelelő tartalmú) POI-kat tesszük a sitemap-ba.
   // Az üres POI-k a robots:noindex flag-et kapnak a page.tsx metadata-jában.
   const indexablePois = pois.filter(
-    (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
+    (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi) && !!poi.parent && getCountryIdStrict(poi.parent) != null,
   );
   const poiUrls: ReturnType<typeof createEntry>[] = [];
   for (const lang of SUPPORTED_LANGS) {
