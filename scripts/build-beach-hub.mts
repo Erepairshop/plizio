@@ -17,7 +17,12 @@ const DATA = path.resolve(process.cwd(), "public", "data", "beach-hub");
 const COUNTRY = {
   key: "croatia",
   name: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" } as Record<Lang, string>,
+  mapSlug: "croatia-map", // our own static country map (public/<slug>/{lang}/)
 };
+// Our map URL, lang-aware: hu lives at root, other langs in a subfolder.
+function ourMapUrl(l: Lang) {
+  return `/${COUNTRY.mapSlug}/${l === "hu" ? "" : l + "/"}`;
+}
 const BSLUG: Record<Lang, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
 const I: Record<string, Record<Lang, string>> = {
   hubTitle: { de: "Die schönsten Strände Kroatiens", hu: "Horvátország legszebb strandjai", ro: "Cele mai frumoase plaje din Croația", en: "The most beautiful beaches in Croatia" },
@@ -225,7 +230,7 @@ ${facilities ? `<section class="bh-block"><h2>${esc(t("facilities", l))}</h2><ul
 ${evList ? `<section class="bh-block"><h2>${esc(t("events", l))}</h2><ul class="bh-events">${evList}</ul></section>` : ""}
 ${tips ? `<section class="bh-block"><h2>${esc(t("tips", l))}</h2><ul class="bh-tips">${tips}</ul></section>` : ""}
 ${faqHtml ? `<section class="bh-block"><h2>${esc(t("faq", l))}</h2>${faqHtml}</section>` : ""}
-${lat ? `<p><a class="bh-maplink" href="https://www.google.com/maps/search/?api=1&query=${lat},${lng}" target="_blank" rel="nofollow noopener">${esc(t("map", l))}</a></p>` : ""}
+<p><a class="bh-maplink" href="${ourMapUrl(l)}">${esc(t("map", l))}</a></p>
 <p><a class="bh-back" href="${hubUrl(l)}">← ${esc(t("allBeaches", l))}</a></p>
 </main>` +
     footer(l) +
