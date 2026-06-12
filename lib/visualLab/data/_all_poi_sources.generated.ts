@@ -557,7 +557,8 @@ import * as _src_poiExtraEthiopiaLandmarksV2 from "./poiExtraEthiopiaLandmarksV2
 import * as _src_poiExtraEthiopiaLifeV2 from "./poiExtraEthiopiaLifeV2";
 import * as _src_poiExtraEthiopiaNatureV2 from "./poiExtraEthiopiaNatureV2";
 import * as _src_poiExtraEthiopiaReliefV2 from "./poiExtraEthiopiaReliefV2";
-import * as _src_poiExtraEuNewV1 from "./poiExtraEuNewV1";
+import * as _src_poiExtraEuNewV1a from "./poiExtraEuNewV1a";
+import * as _src_poiExtraEuNewV1b from "./poiExtraEuNewV1b";
 import * as _src_poiExtraFinlandCitiesV2 from "./poiExtraFinlandCitiesV2";
 import * as _src_poiExtraFinlandEconomicV2 from "./poiExtraFinlandEconomicV2";
 import * as _src_poiExtraFinlandHistoryV2 from "./poiExtraFinlandHistoryV2";
@@ -1020,6 +1021,7 @@ import * as _src_poiExtraMyanmarLandmarksV2 from "./poiExtraMyanmarLandmarksV2";
 import * as _src_poiExtraMyanmarLifeV2 from "./poiExtraMyanmarLifeV2";
 import * as _src_poiExtraMyanmarNatureV2 from "./poiExtraMyanmarNatureV2";
 import * as _src_poiExtraMyanmarReliefV2 from "./poiExtraMyanmarReliefV2";
+import * as _src_poiExtraNaNewV1 from "./poiExtraNaNewV1";
 import * as _src_poiExtraNamibiaCitiesV2 from "./poiExtraNamibiaCitiesV2";
 import * as _src_poiExtraNamibiaEconomicV2 from "./poiExtraNamibiaEconomicV2";
 import * as _src_poiExtraNamibiaHistoryV2 from "./poiExtraNamibiaHistoryV2";
@@ -2320,7 +2322,8 @@ const _raw: any[] = [
   ...((_src_poiExtraEthiopiaLifeV2 as any).poiExtraEthiopiaLifeV2 as any[]),
   ...((_src_poiExtraEthiopiaNatureV2 as any).poiExtraEthiopiaNatureV2 as any[]),
   ...((_src_poiExtraEthiopiaReliefV2 as any).poiExtraEthiopiaReliefV2 as any[]),
-  ...((_src_poiExtraEuNewV1 as any).euNewV1 as any[]),
+  ...((_src_poiExtraEuNewV1a as any).euNewV1a as any[]),
+  ...((_src_poiExtraEuNewV1b as any).euNewV1b as any[]),
   ...((_src_poiExtraFinlandCitiesV2 as any).finlandCitiesV2 as any[]),
   ...((_src_poiExtraFinlandEconomicV2 as any).finlandEconomicV2 as any[]),
   ...((_src_poiExtraFinlandHistoryV2 as any).finlandHistoryV2 as any[]),
@@ -2783,6 +2786,7 @@ const _raw: any[] = [
   ...((_src_poiExtraMyanmarLifeV2 as any).poiExtraMyanmarLifeV2 as any[]),
   ...((_src_poiExtraMyanmarNatureV2 as any).poiExtraMyanmarNatureV2 as any[]),
   ...((_src_poiExtraMyanmarReliefV2 as any).poiExtraMyanmarReliefV2 as any[]),
+  ...((_src_poiExtraNaNewV1 as any).naNewV1 as any[]),
   ...((_src_poiExtraNamibiaCitiesV2 as any).poiExtraNamibiaCitiesV2 as any[]),
   ...((_src_poiExtraNamibiaEconomicV2 as any).poiExtraNamibiaEconomicV2 as any[]),
   ...((_src_poiExtraNamibiaHistoryV2 as any).poiExtraNamibiaHistoryV2 as any[]),
