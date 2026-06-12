@@ -3115,6 +3115,11 @@ async function main() {
   // Filter POIs eligible for HTML generation
   const eligible = pois.filter(
     (p) => p && p.parent && p.type !== "region" && p.type !== "country" && hasIndexableContent(p)
+      // Skip orphan-parent POIs: getCountryId would fall back to "germany" and route
+      // them to /de/deutschland/ort/<slug>/ (a non-existent state) — 404. Excluding them
+      // from generation keeps sitemap/url-index/pages consistent (no broken pages/links).
+      // (Real fix later: give these POIs a recognized parent. 2026-06-12.)
+      && slugs.getCountryIdStrict(p.parent) != null
   );
   console.log(`Eligible POIs: ${eligible.length}`);
   // POI_IDS_FILE: path to a text file (one POI id per line) → generate ONLY those POIs.
