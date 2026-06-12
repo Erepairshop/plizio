@@ -45,3 +45,10 @@
 .bh-wx-chip{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:999px;padding:.3rem .7rem;font-size:.85rem;color:rgba(255,255,255,.8)}
 .bh-wx-chip b{color:#fff}
 .bh-wx-sea{background:rgba(56,189,248,.12);border-color:rgba(56,189,248,.3)}
+/* Nearby internal-link lists */
+.bh-links{list-style:none;margin:0;padding:0;columns:2;column-gap:1.4rem}
+.bh-links li{break-inside:avoid;padding:.28rem 0;font-size:.92rem}
+.bh-links a{color:#7fd4ff;text-decoration:none}
+.bh-links a:hover{text-decoration:underline}
+.bh-km{color:rgba(255,255,255,.45);font-size:.8rem;margin-left:.3rem}
+@media(max-width:640px){.bh-links{columns:1}}

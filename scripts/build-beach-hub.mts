@@ -16,6 +16,7 @@ const DATA = path.resolve(process.cwd(), "public", "data", "beach-hub");
 
 const COUNTRY = {
   key: "croatia",
+  iso: "HR", // public/data/pois/<ISO>.json
   name: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" } as Record<Lang, string>,
   mapSlug: "croatia-map", // our own static country map (public/<slug>/{lang}/)
 };
@@ -56,6 +57,8 @@ const I: Record<string, Record<Lang, string>> = {
   source: { de: "Quelle", hu: "Forrás", ro: "Sursă", en: "Source" },
   recurring: { de: "jährlich", hu: "évente", ro: "anual", en: "annual" },
   allBeaches: { de: "Alle Strände", hu: "Összes strand", ro: "Toate plajele", en: "All beaches" },
+  nearbyPlaces: { de: "Sehenswertes in der Nähe", hu: "Látnivalók a közelben", ro: "Atracții în apropiere", en: "Places nearby" },
+  nearbyBeaches: { de: "Strände in der Nähe", hu: "Közeli strandok", ro: "Plaje în apropiere", en: "Beaches nearby" },
 };
 const t = (k: string, l: Lang) => (I[k] ? I[k][l] : k);
 const BADGE: Record<string, Record<Lang, string>> = {
@@ -80,6 +83,68 @@ const imgBySlug = new Map(images.map((m) => [m.slug, m]));
 const beaches = images
   .filter((m) => content[m.slug])
   .sort((a, b) => (b.sitelinks || 0) - (a.sitelinks || 0));
+
+// --- Nearby internal links: real POI place-pages near the beach (like the POI HTML) ---
+// Country POIs (id, name{4}, coords[lon,lat]) + the per-lang URL index for their pages.
+type NearPoi = { id: string; name: Record<string, string>; lat: number; lon: number; type?: string };
+const POI_URLS: Record<string, Record<Lang, string>> = (() => {
+  try { return JSON.parse(fs.readFileSync(path.resolve("public/data/_poi-url-index.json"), "utf-8")); }
+  catch { return {}; }
+})();
+const COUNTRY_POIS: NearPoi[] = (() => {
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.resolve(`public/data/pois/${COUNTRY.iso}.json`), "utf-8"));
+    const arrays = Array.isArray(raw) ? [raw] : Object.values(raw).filter(Array.isArray) as any[][];
+    const out: NearPoi[] = [];
+    for (const arr of arrays) for (const p of arr) {
+      const c = p?.coords;
+      if (!p?.id || !Array.isArray(c) || c.length < 2 || !POI_URLS[p.id]) continue;
+      out.push({ id: p.id, name: p.name || {}, lat: c[1], lon: c[0], type: p.type });
+    }
+    return out;
+  } catch { return []; }
+})();
+function haversineKm(la1: number, lo1: number, la2: number, lo2: number): number {
+  const R = 6371, dLa = (la2 - la1) * Math.PI / 180, dLo = (lo2 - lo1) * Math.PI / 180;
+  const a = Math.sin(dLa / 2) ** 2 + Math.cos(la1 * Math.PI / 180) * Math.cos(la2 * Math.PI / 180) * Math.sin(dLo / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(a));
+}
+// Nearest POI place-pages (deduped by name), within maxKm, excluding the beach's own spot.
+const norm = (s: string) => (s || "").toLowerCase().normalize("NFKD").replace(/[^a-z0-9]/g, "");
+function nearbyPois(lat: number, lon: number, selfName: string, limit = 10, maxKm = 45): { p: NearPoi; km: number }[] {
+  const self = norm(selfName);
+  const found: { p: NearPoi; km: number }[] = [];
+  for (const p of COUNTRY_POIS) {
+    const km = haversineKm(lat, lon, p.lat, p.lon);
+    if (km <= 0.1 || km > maxKm) continue;
+    const pn = norm(p.name.en || p.name.de || "");
+    if (pn && self && (pn === self || pn.includes(self) || self.includes(pn))) continue; // skip the beach itself
+    found.push({ p, km });
+  }
+  found.sort((a, b) => a.km - b.km);
+  const seen = new Set<string>(); const out: { p: NearPoi; km: number }[] = [];
+  for (const f of found) {
+    const key = norm(f.p.name.en || f.p.name.de || f.p.id);
+    if (seen.has(key)) continue;
+    seen.add(key); out.push(f);
+    if (out.length >= limit) break;
+  }
+  return out;
+}
+// Nearest OTHER beaches in the same hub (internal links between beach pages).
+function nearbyBeaches(slug: string, lat: number, lon: number, limit = 6, maxKm = 120): { m: any; km: number }[] {
+  const out: { m: any; km: number }[] = [];
+  for (const m of beaches) {
+    if (m.slug === slug) continue;
+    const cm = /Point\(([\-0-9.]+) ([\-0-9.]+)\)/.exec(m.coord || "");
+    if (!cm) continue;
+    const km = haversineKm(lat, lon, Number(cm[2]), Number(cm[1]));
+    if (km > maxKm) continue;
+    out.push({ m, km });
+  }
+  out.sort((a, b) => a.km - b.km);
+  return out.slice(0, limit);
+}
 
 function beachUrl(l: Lang, slug: string) {
   return `/${l}/${COUNTRY.key}/${BSLUG[l]}/${slug}/`;
@@ -181,6 +246,21 @@ function beachPage(l: Lang, slug: string) {
     .map((f: any) => `<details class="plz-faq-item"><summary>${esc(L(f.q, l))}</summary><div>${esc(L(f.a, l))}</div></details>`)
     .join("");
 
+  // Internal links: nearby POI place-pages + nearby beaches (boost crawl depth / link equity).
+  const latN = Number(lat), lonN = Number(lng);
+  const nearPoiHtml = lat
+    ? nearbyPois(latN, lonN, name).map((n) => {
+        const u = POI_URLS[n.p.id]?.[l] || POI_URLS[n.p.id]?.en;
+        const nm = n.p.name[l] || n.p.name.en || n.p.id;
+        return u ? `<li><a href="${esc(u)}">${esc(nm)}</a> <span class="bh-km">${Math.round(n.km)} km</span></li>` : "";
+      }).filter(Boolean).join("")
+    : "";
+  const nearBeachHtml = lat
+    ? nearbyBeaches(slug, latN, lonN).map((n) =>
+        `<li><a href="${beachUrl(l, n.m.slug)}">${esc(n.m.name)}</a> <span class="bh-km">${Math.round(n.km)} km</span></li>`
+      ).join("")
+    : "";
+
   const jsonld = {
     "@context": "https://schema.org",
     "@graph": [
@@ -230,6 +310,8 @@ ${facilities ? `<section class="bh-block"><h2>${esc(t("facilities", l))}</h2><ul
 ${evList ? `<section class="bh-block"><h2>${esc(t("events", l))}</h2><ul class="bh-events">${evList}</ul></section>` : ""}
 ${tips ? `<section class="bh-block"><h2>${esc(t("tips", l))}</h2><ul class="bh-tips">${tips}</ul></section>` : ""}
 ${faqHtml ? `<section class="bh-block"><h2>${esc(t("faq", l))}</h2>${faqHtml}</section>` : ""}
+${nearPoiHtml ? `<section class="bh-block"><h2>${esc(t("nearbyPlaces", l))}</h2><ul class="bh-links">${nearPoiHtml}</ul></section>` : ""}
+${nearBeachHtml ? `<section class="bh-block"><h2>${esc(t("nearbyBeaches", l))}</h2><ul class="bh-links">${nearBeachHtml}</ul></section>` : ""}
 <p><a class="bh-maplink" href="${ourMapUrl(l)}">${esc(t("map", l))}</a></p>
 <p><a class="bh-back" href="${hubUrl(l)}">← ${esc(t("allBeaches", l))}</a></p>
 </main>` +
