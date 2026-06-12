@@ -63,6 +63,9 @@ const BADGE: Record<string, Record<Lang, string>> = {
 const esc = (s: any) =>
   String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const L = <T,>(o: Record<string, T> | undefined, l: Lang): T | undefined => (o ? (o[l] ?? (o as any).en) : undefined);
+// Event fields may be a plain English string (legacy) or a {de,hu,ro,en} object (translated).
+const Lstr = (v: any, l: Lang): string =>
+  v && typeof v === "object" && !Array.isArray(v) ? String(v[l] ?? v.en ?? "") : String(v ?? "");
 
 const content = JSON.parse(fs.readFileSync(path.join(DATA, "hr-content.json"), "utf-8")) as Record<string, any>;
 const events = JSON.parse(fs.readFileSync(path.join(DATA, "hr-events.json"), "utf-8")) as Record<string, any>;
@@ -96,7 +99,8 @@ ${hl}
 <meta property="og:title" content="${esc(title)}"/><meta property="og:description" content="${esc(desc)}"/>
 <meta property="og:url" content="${canonical}"/><meta property="og:type" content="article"/>
 <link rel="stylesheet" href="/poi-static/poi.css?v=${CSS_V}"/>
-<link rel="stylesheet" href="/poi-static/beach-hub.css?v=1"/>
+<link rel="stylesheet" href="/poi-static/beach-hub.css?v=2"/>
+<script defer src="/poi-static/beach-weather.js?v=1"></script>
 <script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
 <script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, "\\u003c")}</script>
 </head><body>`;
@@ -154,10 +158,10 @@ function beachPage(l: Lang, slug: string) {
 
   const evList = (ev?.events || [])
     .map((e: any) => {
-      const when = e.when ? esc(e.when) : "";
+      const when = e.when ? esc(Lstr(e.when, l)) : "";
       const rec = e.recurring ? ` · ${esc(t("recurring", l))}` : "";
       const src = e.source_url ? ` <a class="bh-src" href="${esc(e.source_url)}" target="_blank" rel="nofollow noopener">${esc(t("source", l))}</a>` : "";
-      return `<li class="bh-event"><strong>${esc(e.name)}</strong> <span class="bh-when">${when}${rec}</span><br/><span class="bh-ev-blurb">${esc(e.blurb || "")}</span>${src}</li>`;
+      return `<li class="bh-event"><strong>${esc(Lstr(e.name, l))}</strong> <span class="bh-when">${when}${rec}</span><br/><span class="bh-ev-blurb">${esc(Lstr(e.blurb, l))}</span>${src}</li>`;
     })
     .join("");
 
@@ -207,6 +211,7 @@ function beachPage(l: Lang, slug: string) {
 ${credit.artist || credit.license ? `<figcaption>${esc(t("photoBy", l))}: ${esc((credit.artist || "").replace(/<[^>]+>/g, "").slice(0, 80))}${credit.license ? " · " + esc(credit.license) : ""}${credit.descurl ? ` · <a href="${esc(credit.descurl)}" target="_blank" rel="nofollow noopener">Wikimedia Commons</a>` : ""}</figcaption>` : ""}</figure>
 <div class="bh-title-row"><h1>${esc(name)}</h1>${badges ? `<div class="bh-badges">${badges}</div>` : ""}</div>
 <div class="bh-intro">${intro.split(/\n+/).map((p) => `<p>${esc(p)}</p>`).join("")}</div>
+${lat ? `<section class="bh-block bh-weather" data-lat="${lat}" data-lng="${lng}" data-lang="${l}" hidden></section>` : ""}
 ${pinfo ? `<section class="bh-block"><h2>${esc(t("practical", l))}</h2><div class="bh-grid">${pinfo}</div></section>` : ""}
 ${L<string>(c.family, l) || L<string>(c.kids, l) ? `<section class="bh-block"><h2>${esc(t("family", l))} & ${esc(t("kids", l))}</h2><p>${esc(L<string>(c.family, l) || "")}</p><p>${esc(L<string>(c.kids, l) || "")}</p></section>` : ""}
 ${gastro ? `<section class="bh-block"><h2>${esc(t("gastro", l))}</h2><ul class="bh-gastro">${gastro}</ul></section>` : ""}

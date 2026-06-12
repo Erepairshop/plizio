@@ -35,3 +35,13 @@
 .bh-card-body h3{margin:0 0 .3rem;font-size:1.05rem;color:#fff}
 .bh-card-body p{margin:0;font-size:.84rem;color:rgba(255,255,255,.65);line-height:1.45}
 @media(max-width:640px){.bh-fac{columns:1}.bh-title-row h1{font-size:1.4rem}}
+/* Weather + sea temperature widget */
+.bh-weather h2{margin:0 0 .6rem}
+.bh-wx-main{display:flex;align-items:center;gap:.6rem;margin-bottom:.7rem}
+.bh-wx-emoji{font-size:2rem;line-height:1}
+.bh-wx-temp{font-size:1.7rem;font-weight:800;color:#fff}
+.bh-wx-desc{font-size:.95rem;color:rgba(255,255,255,.7)}
+.bh-wx-chips{display:flex;flex-wrap:wrap;gap:.5rem}
+.bh-wx-chip{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:999px;padding:.3rem .7rem;font-size:.85rem;color:rgba(255,255,255,.8)}
+.bh-wx-chip b{color:#fff}
+.bh-wx-sea{background:rgba(56,189,248,.12);border-color:rgba(56,189,248,.3)}
