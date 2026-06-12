@@ -14486,15 +14486,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Strand 1",
-                  "text": "Der schlicht Strand 1 genannte Küstenabschnitt in Boumerdès bietet alles, was man für einen klassischen Badetag braucht. Hier kann man dem Rauschen der Wellen lauschen und den Sand unter den Füßen spüren. Ein praktischer und unkomplizierter Ort für ein schnelles Bad im Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        3.470294,
-                        36.766972
-                  ]
-            },
-            {
                   "name": "Plage Le figuier 1 - Boumerdas",
                   "text": "Die Plage Le figuier 1 erstreckt sich malerisch an der Küste von Boumerdès. Mit seinem besonderen Charme zieht dieser Strandabschnitt Badegäste an, die Entspannung in einer natürlichen Umgebung suchen. Ein entspannter Nachmittag am Wasser ist hier garantiert.",
                   "category": "recreational",
@@ -14584,15 +14575,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
                   "coords": [
                         3.475418,
                         36.766445
-                  ]
-            },
-            {
-                  "name": "Tabḥirt n Grand Blu",
-                  "text": "A Boumerdèsben egyszerűen csak Strand 1-nek nevezett partszakasz mindent kínál, amire egy klasszikus fürdőzéshez szükség van. Itt hallgathatja a hullámok zúgását, és érezheti a homokot a talpa alatt. Praktikus és egyszerű hely egy gyors tengeri fürdőzéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        3.470294,
-                        36.766972
                   ]
             },
             {
@@ -14688,15 +14670,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tabḥirt n Grand Blu",
-                  "text": "Porțiunea de coastă din Boumerdès numită simplu Strand 1 oferă tot ce aveți nevoie pentru o zi clasică de baie. Aici puteți asculta sunetul valurilor și puteți simți nisipul sub picioare. Un loc practic și necomplicat pentru o baie rapidă în mare.",
-                  "category": "recreational",
-                  "coords": [
-                        3.470294,
-                        36.766972
-                  ]
-            },
-            {
                   "name": "Plage Le figuier 1 - Boumerdas",
                   "text": "Plage Le figuier 1 se întinde pitoresc pe coasta din Boumerdès. Cu farmecul său deosebit, această porțiune de plajă atrage scăldătorii care caută relaxare într-un mediu natural. O după-amiază relaxantă la apă este garantată aici.",
                   "category": "recreational",
@@ -14786,15 +14759,6 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
                   "coords": [
                         3.475418,
                         36.766445
-                  ]
-            },
-            {
-                  "name": "Tabḥirt n Grand Blu",
-                  "text": "The stretch of coast in Boumerdès simply named Strand 1 offers everything you need for a classic beach day. Here you can listen to the sound of the waves and feel the sand beneath your feet. A practical and straightforward spot for a quick dip in the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        3.470294,
-                        36.766972
                   ]
             },
             {

@@ -16524,24 +16524,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sykes Reservoir 3",
-                  "text": "Sykes Reservoir 3 ist ein schöner See in uk-stockport, ideal für einen entspannten Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "Sykes Reservoir 2 ist ein schöner See in uk-stockport, ideal für einen entspannten Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
-                  ]
-            },
-            {
                   "name": "Sykes Reservoir",
                   "text": "Sykes Reservoir ist ein schöner See in uk-stockport, ideal für einen entspannten Spaziergang.",
                   "category": "natural",
@@ -16793,24 +16775,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.040775,
                         53.391231
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 3",
-                  "text": "A(z) Sykes Reservoir 3 egy kellemes tó uk-stockport területén, tökéletes egy pihentető sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "A(z) Sykes Reservoir 2 egy kellemes tó uk-stockport területén, tökéletes egy pihentető sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
                   ]
             },
             {
@@ -17068,24 +17032,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sykes Reservoir 3",
-                  "text": "Sykes Reservoir 3 este un lac plăcut situat în uk-stockport, perfect pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "Sykes Reservoir 2 este un lac plăcut situat în uk-stockport, perfect pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
-                  ]
-            },
-            {
                   "name": "Sykes Reservoir",
                   "text": "Sykes Reservoir este un lac plăcut situat în uk-stockport, perfect pentru o plimbare relaxantă.",
                   "category": "natural",
@@ -17337,24 +17283,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.040775,
                         53.391231
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 3",
-                  "text": "Sykes Reservoir 3 is a pleasant lake located in uk-stockport, perfect for a relaxing walk.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "Sykes Reservoir 2 is a pleasant lake located in uk-stockport, perfect for a relaxing walk.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
                   ]
             },
             {
@@ -128780,24 +128708,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sykes Reservoir 3",
-                  "text": "Sykes Reservoir 3 in Reddish ist ein ruhiges Seenziel, ideal für diejenigen, die in der Nähe des Wassers spazieren gehen möchten.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "Sykes Reservoir 2 in Reddish bietet malerische Ausblicke und eine entspannte Atmosphäre für Outdoor-Enthusiasten.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
-                  ]
-            },
-            {
                   "name": "Sykes Reservoir",
                   "text": "Das Sykes Reservoir ist ein friedlicher See in Reddish, der eine herrliche Kulisse für Naturspaziergänge bietet.",
                   "category": "natural",
@@ -129022,24 +128932,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.053738,
                         53.454638
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 3",
-                  "text": "A reddishi Sykes Reservoir 3 egy csendes tavi úti cél, ideális azok számára, akik a víz közelében szeretnének sétálni.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "A Reddishben található Sykes Reservoir 2 festői kilátást és pihentető légkört kínál a szabadtéri tevékenységek kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
                   ]
             },
             {
@@ -129270,24 +129162,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sykes Reservoir 3",
-                  "text": "Sykes Reservoir 3 din Reddish este o destinație de lac liniștită, ideală pentru cei care doresc să se plimbe în apropierea apei.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "Situat în Reddish, Sykes Reservoir 2 oferă vederi pitorești și o atmosferă relaxantă pentru pasionații de aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
-                  ]
-            },
-            {
                   "name": "Sykes Reservoir",
                   "text": "Sykes Reservoir este un lac liniștit din Reddish, oferind un fundal minunat pentru plimbări în natură.",
                   "category": "natural",
@@ -129512,24 +129386,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.053738,
                         53.454638
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 3",
-                  "text": "Sykes Reservoir 3 in Reddish is a quiet lake destination, ideal for those looking to walk near the water.",
-                  "category": "natural",
-                  "coords": [
-                        -2.167786,
-                        53.398643
-                  ]
-            },
-            {
-                  "name": "Sykes Reservoir 2",
-                  "text": "Located in Reddish, Sykes Reservoir 2 offers scenic views and a relaxing atmosphere for outdoor enthusiasts.",
-                  "category": "natural",
-                  "coords": [
-                        -2.169929,
-                        53.398471
                   ]
             },
             {
@@ -219094,33 +218950,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   ]
             },
             {
-                  "name": "Barrow Reservoir 1",
-                  "text": "Barrow Reservoir 1 ist ein See in Knowle, der eine ruhige Umgebung bietet, um die Natur und die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "Barrow Reservoir 2 ist ein See in Knowle, der eine ruhige Umgebung bietet, um die Natur und die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "Barrow Reservoir 3 ist ein See in Knowle, der eine ruhige Umgebung bietet, um die Natur und die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
-                  ]
-            },
-            {
                   "name": "St George Park Lake",
                   "text": "St George Park Lake ist ein See in Knowle, der eine ruhige Umgebung bietet, um die Natur und die Landschaft zu genießen.",
                   "category": "natural",
@@ -219625,33 +219454,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.562239,
                         51.433205
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 1",
-                  "text": "A(z) Barrow Reservoir 1 egy tó Knowle városában, amely nyugodt környezetet kínál a természet és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "A(z) Barrow Reservoir 2 egy tó Knowle városában, amely nyugodt környezetet kínál a természet és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "A(z) Barrow Reservoir 3 egy tó Knowle városában, amely nyugodt környezetet kínál a természet és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
                   ]
             },
             {
@@ -220162,33 +219964,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   ]
             },
             {
-                  "name": "Barrow Reservoir 1",
-                  "text": "Barrow Reservoir 1 este un lac în Knowle, oferind un cadru liniștit pentru a vă bucura de aer liber și de peisajul din apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "Barrow Reservoir 2 este un lac în Knowle, oferind un cadru liniștit pentru a vă bucura de aer liber și de peisajul din apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "Barrow Reservoir 3 este un lac în Knowle, oferind un cadru liniștit pentru a vă bucura de aer liber și de peisajul din apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
-                  ]
-            },
-            {
                   "name": "St George Park Lake",
                   "text": "St George Park Lake este un lac în Knowle, oferind un cadru liniștit pentru a vă bucura de aer liber și de peisajul din apropiere.",
                   "category": "natural",
@@ -220693,33 +220468,6 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.562239,
                         51.433205
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 1",
-                  "text": "Barrow Reservoir 1 is a lake in Knowle, offering a calm setting for enjoying the outdoors and nearby scenery.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "Barrow Reservoir 2 is a lake in Knowle, offering a calm setting for enjoying the outdoors and nearby scenery.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "Barrow Reservoir 3 is a lake in Knowle, offering a calm setting for enjoying the outdoors and nearby scenery.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
                   ]
             },
             {

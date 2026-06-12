@@ -17092,33 +17092,6 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   ]
             },
             {
-                  "name": "Barrow Reservoir 1",
-                  "text": "Barrow Reservoir 1 ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "Barrow Reservoir 2 ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "Barrow Reservoir 3 ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
-                  ]
-            },
-            {
                   "name": "Ham Green Lake",
                   "text": "Ham Green Lake ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
                   "category": "natural",
@@ -18051,33 +18024,6 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.611358,
                         51.459094
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 1",
-                  "text": "A(z) Barrow Reservoir 1 egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "A(z) Barrow Reservoir 2 egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "A(z) Barrow Reservoir 3 egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
                   ]
             },
             {
@@ -19016,33 +18962,6 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   ]
             },
             {
-                  "name": "Barrow Reservoir 1",
-                  "text": "Barrow Reservoir 1 este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "Barrow Reservoir 2 este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "Barrow Reservoir 3 este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
-                  ]
-            },
-            {
                   "name": "Ham Green Lake",
                   "text": "Ham Green Lake este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
                   "category": "natural",
@@ -19975,33 +19894,6 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.611358,
                         51.459094
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 1",
-                  "text": "Barrow Reservoir 1 is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -2.668256,
-                        51.402079
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 2",
-                  "text": "Barrow Reservoir 2 is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -2.664692,
-                        51.404172
-                  ]
-            },
-            {
-                  "name": "Barrow Reservoir 3",
-                  "text": "Barrow Reservoir 3 is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -2.658835,
-                        51.40875
                   ]
             },
             {

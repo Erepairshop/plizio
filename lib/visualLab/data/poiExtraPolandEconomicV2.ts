@@ -1403,15 +1403,6 @@ export const polandEconomicV2: POI[] = [
     id: "poland-kozienice-power-station-economic-v2", "sights": {
       "de": [
             {
-                  "name": "użytek 30",
-                  "text": "Ein geschütztes Naturgebiet in der Nähe des Kraftwerks Kozienice.",
-                  "category": "natural",
-                  "coords": [
-                        21.481513,
-                        51.645835
-                  ]
-            },
-            {
                   "name": "Dzwonnica kościelna",
                   "text": "Ein Glockenturm in der Nähe des Gebiets des Kraftwerks Kozienice.",
                   "category": "landmark",
@@ -1422,15 +1413,6 @@ export const polandEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "użytek 30",
-                  "text": "Védett természeti terület a Kozienicei Erőmű közelében.",
-                  "category": "natural",
-                  "coords": [
-                        21.481513,
-                        51.645835
-                  ]
-            },
             {
                   "name": "Dzwonnica kościelna",
                   "text": "Egy templomi harangtorony a Kozienicei Erőmű környékén.",
@@ -1443,15 +1425,6 @@ export const polandEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "użytek 30",
-                  "text": "O zonă naturală protejată lângă Centrala Electrică Kozienice.",
-                  "category": "natural",
-                  "coords": [
-                        21.481513,
-                        51.645835
-                  ]
-            },
-            {
                   "name": "Dzwonnica kościelna",
                   "text": "O clădire cu clopotniță situată în apropierea zonei Centralei Electrice Kozienice.",
                   "category": "landmark",
@@ -1462,15 +1435,6 @@ export const polandEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "użytek 30",
-                  "text": "A protected natural area near the Kozienice Power Station.",
-                  "category": "natural",
-                  "coords": [
-                        21.481513,
-                        51.645835
-                  ]
-            },
             {
                   "name": "Dzwonnica kościelna",
                   "text": "A church bell tower building located in the vicinity of the Kozienice Power Station area.",

@@ -2590,33 +2590,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielzone",
-                  "text": "Ein schöner Spielplatz in Wolfsburg für Kinder zum Austoben.",
-                  "category": "family",
-                  "coords": [
-                        10.747442,
-                        52.402977
-                  ]
-            },
-            {
-                  "name": "Spielplatz an der Goetheschule",
-                  "text": "Ein abwechslungsreicher Spielplatz in Wolfsburg für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        10.777352,
-                        52.421138
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1",
-                  "text": "Ein klassischer Spielplatz in Wolfsburg mit verschiedenen Spielgeräten.",
-                  "category": "family",
-                  "coords": [
-                        10.785596,
-                        52.420035
-                  ]
-            },
-            {
                   "name": "Lasertag Revolution",
                   "text": "Ein spannendes Freizeitzentrum in Wolfsburg für Spiel und Spaß.",
                   "category": "family",
@@ -2988,33 +2961,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz 1",
-                  "text": "Hagyományos játszótér Wolfsburgban különböző játékeszközökkel.",
-                  "category": "family",
-                  "coords": [
-                        10.785596,
-                        52.420035
-                  ]
-            },
-            {
-                  "name": "Lasertag Revolution",
-                  "text": "Izgalmas szabadidőközpont Wolfsburg területén játékkal és élményekkel.",
-                  "category": "family",
-                  "coords": [
-                        10.842803,
-                        52.418047
-                  ]
-            },
-            {
-                  "name": "33301 Von-Droste-Hülshoff-Straße 18",
-                  "text": "Gondozott játszótér Wolfsburgban a mindennapi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        10.831246,
-                        52.415546
-                  ]
-            },
-            {
                   "name": "5549 Ellenrieder Straße",
                   "text": "Barátságos játszótér Wolfsburgban minden korosztály számára.",
                   "category": "family",
@@ -3365,33 +3311,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.777352,
                         52.421138
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1",
-                  "text": "Un teren de joacă clasic în Wolfsburg cu diverse echipamente de joacă.",
-                  "category": "family",
-                  "coords": [
-                        10.785596,
-                        52.420035
-                  ]
-            },
-            {
-                  "name": "Lasertag Revolution",
-                  "text": "Un centru de divertisment captivant în Wolfsburg pentru jocuri și distracție.",
-                  "category": "family",
-                  "coords": [
-                        10.842803,
-                        52.418047
-                  ]
-            },
-            {
-                  "name": "33301 Von-Droste-Hülshoff-Straße 18",
-                  "text": "Un teren de joacă bine întreținut în Wolfsburg pentru recreere zilnică.",
-                  "category": "family",
-                  "coords": [
-                        10.831246,
-                        52.415546
                   ]
             },
             {
@@ -3753,33 +3672,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.747442,
                         52.402977
-                  ]
-            },
-            {
-                  "name": "Spielplatz an der Goetheschule",
-                  "text": "A versatile playground in Wolfsburg for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        10.777352,
-                        52.421138
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1",
-                  "text": "A classic playground in Wolfsburg with various play equipment.",
-                  "category": "family",
-                  "coords": [
-                        10.785596,
-                        52.420035
-                  ]
-            },
-            {
-                  "name": "Lasertag Revolution",
-                  "text": "An exciting leisure center in Wolfsburg for games and fun.",
-                  "category": "family",
-                  "coords": [
-                        10.842803,
-                        52.418047
                   ]
             },
             {

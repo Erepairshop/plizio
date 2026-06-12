@@ -39720,30 +39720,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 68",
-                  "text": "Ein Strandbad in Rimini, das zum Schwimmen und Entspannen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        12.595381,
-                        44.055937
-                  ]
-            },
-            {
                   "name": "Cocobeach 106/b",
                   "text": "Ein Strandresort in Rimini für Erholung am Sandstrand.",
                   "category": "family",
                   "coords": [
                         12.610515,
                         44.041727
-                  ]
-            },
-            {
-                  "name": "Bagno 49",
-                  "text": "Ein Strandbad in Rimini mit Möglichkeiten zum Sonnenbaden.",
-                  "category": "family",
-                  "coords": [
-                        12.588702,
-                        44.061815
                   ]
             },
             {
@@ -39864,15 +39846,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 29",
-                  "text": "Ein Strandresort in Rimini für einen erholsamen Aufenthalt am Meer.",
-                  "category": "family",
-                  "coords": [
-                        12.583377,
-                        44.067041
-                  ]
-            },
-            {
                   "name": "Anna 22",
                   "text": "Ein Strandbad in Rimini, ideal für Schwimmer und Sonnenanbeter.",
                   "category": "family",
@@ -39951,15 +39924,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.576748,
                         44.074816
-                  ]
-            },
-            {
-                  "name": "Bagno 98",
-                  "text": "Bagno 98 ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        12.606912,
-                        44.045358
                   ]
             },
             {
@@ -40210,30 +40174,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 68",
-                  "text": "Strandfürdő Rimini városában, amely úszásra és pihenésre hívogat.",
-                  "category": "family",
-                  "coords": [
-                        12.595381,
-                        44.055937
-                  ]
-            },
-            {
                   "name": "Cocobeach 106/b",
                   "text": "Strandüdülőhely Rimini városában a homokos parton való kikapcsolódáshoz.",
                   "category": "family",
                   "coords": [
                         12.610515,
                         44.041727
-                  ]
-            },
-            {
-                  "name": "Bagno 49",
-                  "text": "Strandfürdő Rimini városában napozási lehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        12.588702,
-                        44.061815
                   ]
             },
             {
@@ -40354,15 +40300,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 29",
-                  "text": "Strandüdülőhely Rimini városában egy pihentető tengerparti tartózkodáshoz.",
-                  "category": "family",
-                  "coords": [
-                        12.583377,
-                        44.067041
-                  ]
-            },
-            {
                   "name": "Anna 22",
                   "text": "Strandfürdő Rimini városában, ideális úszóknak és napozni vágyóknak.",
                   "category": "family",
@@ -40441,15 +40378,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.576748,
                         44.074816
-                  ]
-            },
-            {
-                  "name": "Bagno 98",
-                  "text": "A Bagno 98 egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
-                  "category": "recreational",
-                  "coords": [
-                        12.606912,
-                        44.045358
                   ]
             },
             {
@@ -40700,30 +40628,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 68",
-                  "text": "O stațiune de plajă în Rimini care invită la înot și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        12.595381,
-                        44.055937
-                  ]
-            },
-            {
                   "name": "Cocobeach 106/b",
                   "text": "O stațiune de plajă în Rimini pentru recreere pe plaja de nisip.",
                   "category": "family",
                   "coords": [
                         12.610515,
                         44.041727
-                  ]
-            },
-            {
-                  "name": "Bagno 49",
-                  "text": "O stațiune de plajă în Rimini cu posibilități de plajă.",
-                  "category": "family",
-                  "coords": [
-                        12.588702,
-                        44.061815
                   ]
             },
             {
@@ -40844,15 +40754,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 29",
-                  "text": "O stațiune de plajă în Rimini pentru un sejur relaxant la mare.",
-                  "category": "family",
-                  "coords": [
-                        12.583377,
-                        44.067041
-                  ]
-            },
-            {
                   "name": "Anna 22",
                   "text": "O stațiune de plajă în Rimini, ideală pentru înotători și iubitorii de soare.",
                   "category": "family",
@@ -40931,15 +40832,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.576748,
                         44.074816
-                  ]
-            },
-            {
-                  "name": "Bagno 98",
-                  "text": "Bagno 98 este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        12.606912,
-                        44.045358
                   ]
             },
             {
@@ -41190,30 +41082,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 68",
-                  "text": "A beach resort in Rimini inviting you to swim and relax.",
-                  "category": "family",
-                  "coords": [
-                        12.595381,
-                        44.055937
-                  ]
-            },
-            {
                   "name": "Cocobeach 106/b",
                   "text": "A beach resort in Rimini for recreation on the sandy beach.",
                   "category": "family",
                   "coords": [
                         12.610515,
                         44.041727
-                  ]
-            },
-            {
-                  "name": "Bagno 49",
-                  "text": "A beach resort in Rimini with sunbathing opportunities.",
-                  "category": "family",
-                  "coords": [
-                        12.588702,
-                        44.061815
                   ]
             },
             {
@@ -41334,15 +41208,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagno 29",
-                  "text": "A beach resort in Rimini for a relaxing stay by the sea.",
-                  "category": "family",
-                  "coords": [
-                        12.583377,
-                        44.067041
-                  ]
-            },
-            {
                   "name": "Anna 22",
                   "text": "A beach resort in Rimini, ideal for swimmers and sun seekers.",
                   "category": "family",
@@ -41421,15 +41286,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.576748,
                         44.074816
-                  ]
-            },
-            {
-                  "name": "Bagno 98",
-                  "text": "Bagno 98 is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        12.606912,
-                        44.045358
                   ]
             },
             {

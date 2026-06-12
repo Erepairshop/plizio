@@ -3336,24 +3336,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Ein Gewässer in Durlesti, geeignet für einen kurzen Ausflug ins Grüne.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Ein lokaler See in Durlesti für entspannte Momente am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Ein See in Durlesti, der sich harmonisch in die Landschaft einfügt.",
                   "category": "natural",
@@ -3423,15 +3405,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "See Nr. 3 in Durlești, Teil einer Seenkette.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -3527,24 +3500,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Vízfelület Durlestiben, amely alkalmas egy rövid kiránduláshoz a zöldbe.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Helyi tó Durlestiben a vízparti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Durlesti tava, amely harmonikusan illeszkedik a tájba.",
                   "category": "natural",
@@ -3614,15 +3569,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "3-as tó Durlești-ben, egy tólánc része.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -3718,24 +3664,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "O apă în Durlesti, potrivită pentru o scurtă excursie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Un lac local în Durlesti pentru momente de relaxare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Un lac în Durlesti care se integrează armonios în peisaj.",
                   "category": "natural",
@@ -3805,15 +3733,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lacul nr. 3 din Durlești, parte a unui lanț de lacuri.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -3909,24 +3828,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "A water body in Durlesti, suitable for a short trip into the green.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "A local lake in Durlesti for relaxed moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Albișoara Lake",
                   "text": "A lake in Durlesti that fits harmoniously into the landscape.",
                   "category": "natural",
@@ -3996,15 +3897,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lake No. 3 in Durlești, part of a chain of lakes.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -8647,24 +8539,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Der See Nr. 1 in Codru bietet eine entspannte Atmosphäre am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Das Lacul nr. 2 in Codru ist ein kleiner See, ideal für kurze Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Der Albișoara-See in Codru lädt zum Verweilen in der Natur ein.",
                   "category": "natural",
@@ -8725,15 +8599,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Der See Nr. 3 in Codru ist ein friedlicher Ort für Entspannung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -8874,24 +8739,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Az 1-es számú tó Codruban pihentető vízparti környezetet biztosít.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "A 2-es számú tó Codruban egy kis tó, ideális rövid sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Az Albișoara-tó Codruban kellemes kikapcsolódást nyújt a természetben.",
                   "category": "natural",
@@ -8952,15 +8799,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "A 3-as számú tó Codruban békés hely a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -9101,24 +8939,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Lacul nr. 1 din Codru oferă o atmosferă relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Lacul nr. 2 din Codru este un lac mic, ideal pentru plimbări scurte.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Lacul Albișoara din Codru invită la petrecerea timpului în natură.",
                   "category": "natural",
@@ -9179,15 +8999,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lacul nr. 3 din Codru este un loc liniștit pentru relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -9328,24 +9139,6 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Lake No. 1 in Codru offers a relaxing atmosphere by the water.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Lake No. 2 in Codru is a small lake, ideal for short walks.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
                   "name": "Albișoara Lake",
                   "text": "Albișoara Lake in Codru is a pleasant place for spending time in nature.",
                   "category": "natural",
@@ -9406,15 +9199,6 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.798866,
                         46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lake No. 3 in Codru is a peaceful spot for relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        28.857157,
-                        47.00382
                   ]
             },
             {
@@ -12184,39 +11968,12 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 2",
-                  "text": "Der See Nr. 2 in Vatra ist ein ruhiger Ort für einen Spaziergang und bietet Besuchern eine friedliche natürliche Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        28.794822,
-                        47.047468
-                  ]
-            },
-            {
                   "name": "Lacul nr. 4 (Traktornîi)",
                   "text": "Der See Nr. 4 in Vatra bietet eine neutrale Umgebung, um einen ruhigen Spaziergang und die umliegende Landschaft zu genießen.",
                   "category": "natural",
                   "coords": [
                         28.81581,
                         47.047367
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 1",
-                  "text": "Der See Nr. 1 in Vatra ist ein ruhiges Gewässer, ideal für einen friedlichen Spaziergang im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        28.78942,
-                        47.047842
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Der See Nr. 3 in Vatra bietet eine ruhige und einfache Umgebung für Besucher, die einen entspannten Spaziergang am Ufer suchen.",
-                  "category": "natural",
-                  "coords": [
-                        28.80144,
-                        47.048601
                   ]
             },
             {
@@ -12321,39 +12078,12 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 2",
-                  "text": "A vatrai 2-es számú tó nyugodt hely egy sétához, békés természeti környezetet kínálva a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        28.794822,
-                        47.047468
-                  ]
-            },
-            {
                   "name": "Lacul nr. 4 (Traktornîi)",
                   "text": "A vatrai 4-es számú tó semleges környezetet biztosít egy csendes séta és a környező táj élvezetéhez.",
                   "category": "natural",
                   "coords": [
                         28.81581,
                         47.047367
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 1",
-                  "text": "A vatrai 1-es számú tó egy nyugodt vízfelület, amely ideális egy békés szabadtéri sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.78942,
-                        47.047842
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "A vatrai 3-as számú tó nyugodt és egyszerű környezetet kínál a parton pihentető sétát kereső látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        28.80144,
-                        47.048601
                   ]
             },
             {
@@ -12458,39 +12188,12 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 2",
-                  "text": "Lacul nr. 2 din Vatra este un loc calm pentru o plimbare, oferind vizitatorilor un mediu natural liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        28.794822,
-                        47.047468
-                  ]
-            },
-            {
                   "name": "Lacul nr. 4 (Traktornîi)",
                   "text": "Lacul nr. 4 din Vatra oferă un cadru neutru pentru o plimbare liniștită și pentru a admira peisajul din jur.",
                   "category": "natural",
                   "coords": [
                         28.81581,
                         47.047367
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 1",
-                  "text": "Lacul nr. 1 din Vatra este o întindere de apă liniștită, ideală pentru o plimbare calmă în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        28.78942,
-                        47.047842
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lacul nr. 3 din Vatra oferă un cadru calm și simplu pentru vizitatorii care caută o plimbare relaxantă pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        28.80144,
-                        47.048601
                   ]
             },
             {
@@ -12595,39 +12298,12 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lake No. 2",
-                  "text": "Lake No. 2 in Vatra is a calm spot for a walk, offering visitors a peaceful natural environment.",
-                  "category": "natural",
-                  "coords": [
-                        28.794822,
-                        47.047468
-                  ]
-            },
-            {
                   "name": "Lake No. 4",
                   "text": "Lake No. 4 in Vatra provides a neutral setting for enjoying a quiet walk and the surrounding scenery.",
                   "category": "natural",
                   "coords": [
                         28.81581,
                         47.047367
-                  ]
-            },
-            {
-                  "name": "Lake No. 1",
-                  "text": "Lake No. 1 in Vatra is a tranquil body of water, ideal for a peaceful outdoor stroll.",
-                  "category": "natural",
-                  "coords": [
-                        28.78942,
-                        47.047842
-                  ]
-            },
-            {
-                  "name": "Lake No. 3",
-                  "text": "Lake No. 3 in Vatra offers a calm and simple setting for visitors seeking a relaxing walk by the shore.",
-                  "category": "natural",
-                  "coords": [
-                        28.80144,
-                        47.048601
                   ]
             },
             {

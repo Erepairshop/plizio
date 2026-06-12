@@ -1888,33 +1888,6 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Der See Nr. 1 in Chisinau bietet eine neutrale und ruhige Umgebung, in der Besucher einen Spaziergang am Wasser genießen können.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Der See Nr. 2 in Chisinau ist ein ruhiges Gewässer, ideal für einen entspannten Spaziergang im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Der See Nr. 3 in Chisinau bietet eine ruhige natürliche Umgebung für alle, die einen einfachen Spaziergang am Ufer suchen.",
-                  "category": "natural",
-                  "coords": [
-                        28.872622,
-                        47.050285
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Der Albișoara-See in Chisinau ist ein angenehmes Seengebiet, das sich für einen ruhigen Spaziergang und zum Genießen der Landschaft eignet.",
                   "category": "natural",
@@ -2130,33 +2103,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.877672,
                         46.969661
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 1",
-                  "text": "A kisinyovi 1-es számú tó semleges és nyugodt környezetet kínál a látogatóknak egy vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "A kisinyovi 2-es számú tó egy békés vízfelület, amely ideális egy pihentető szabadtéri sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "A kisinyovi 3-as számú tó nyugodt természeti környezetet biztosít azoknak, akik egy egyszerű sétát keresnek a parton.",
-                  "category": "natural",
-                  "coords": [
-                        28.872622,
-                        47.050285
                   ]
             },
             {
@@ -2378,33 +2324,6 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul nr. 1",
-                  "text": "Lacul nr. 1 din Chișinău oferă un cadru neutru și calm pentru vizitatorii care doresc să se bucure de o plimbare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Lacul nr. 2 din Chișinău este o întindere de apă liniștită, ideală pentru o plimbare relaxantă în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lacul nr. 3 din Chișinău oferă un mediu natural liniștit pentru cei care caută o simplă plimbare pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        28.872622,
-                        47.050285
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Lacul Albișoara din Chișinău este o zonă lacustră plăcută, potrivită pentru o plimbare calmă și pentru a admira peisajul.",
                   "category": "natural",
@@ -2620,33 +2539,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.877672,
                         46.969661
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 1",
-                  "text": "Lacul nr. 1 in Chisinau offers a neutral and calm setting for visitors to enjoy a stroll by the water.",
-                  "category": "natural",
-                  "coords": [
-                        28.848794,
-                        47.001232
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 2",
-                  "text": "Lacul nr. 2 in Chisinau is a peaceful body of water, ideal for a relaxing outdoor walk.",
-                  "category": "natural",
-                  "coords": [
-                        28.853535,
-                        47.001529
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 3",
-                  "text": "Lacul nr. 3 in Chisinau provides a quiet natural environment for those seeking a simple walk by the shore.",
-                  "category": "natural",
-                  "coords": [
-                        28.872622,
-                        47.050285
                   ]
             },
             {

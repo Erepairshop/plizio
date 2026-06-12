@@ -10505,24 +10505,6 @@ export const franceCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Réserve incendie 2",
-                  "text": "Dieses Gewässer in Avignon Nord bietet eine ruhige Kulisse für einen Spaziergang in der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        4.824001,
-                        43.940024
-                  ]
-            },
-            {
-                  "name": "Réserve incendie 3",
-                  "text": "Dieser Ort in Avignon Nord lädt zu einer kurzen Auszeit am Wasser und zur Naturbeobachtung ein.",
-                  "category": "natural",
-                  "coords": [
-                        4.822945,
-                        43.940375
-                  ]
-            },
-            {
                   "name": "Square Saint-Ruf",
                   "text": "Dieser Spielplatz in Avignon Nord bietet Kindern einen schönen Ort zum Spielen im Freien.",
                   "category": "family",
@@ -10576,24 +10558,6 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.854365,
                         43.961929
-                  ]
-            },
-            {
-                  "name": "Réserve incendie 2",
-                  "text": "Ez a Avignon Nord-i vízfelület nyugodt környezetet biztosít egy természetközeli sétához.",
-                  "category": "natural",
-                  "coords": [
-                        4.824001,
-                        43.940024
-                  ]
-            },
-            {
-                  "name": "Réserve incendie 3",
-                  "text": "Ez a Avignon Nord-i helyszín kellemes pihenést kínál a vízparton a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        4.822945,
-                        43.940375
                   ]
             },
             {
@@ -10653,24 +10617,6 @@ export const franceCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Réserve incendie 2",
-                  "text": "Această zonă de apă din Avignon Nord oferă un cadru liniștit pentru o plimbare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.824001,
-                        43.940024
-                  ]
-            },
-            {
-                  "name": "Réserve incendie 3",
-                  "text": "Acest loc din Avignon Nord invită la o scurtă pauză lângă apă și la observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        4.822945,
-                        43.940375
-                  ]
-            },
-            {
                   "name": "Square Saint-Ruf",
                   "text": "Acest teren de joacă din Avignon Nord oferă un spațiu plăcut pentru joaca copiilor.",
                   "category": "family",
@@ -10724,24 +10670,6 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.854365,
                         43.961929
-                  ]
-            },
-            {
-                  "name": "Réserve incendie 2",
-                  "text": "This water area in Avignon Nord offers a quiet setting for a walk in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        4.824001,
-                        43.940024
-                  ]
-            },
-            {
-                  "name": "Réserve incendie 3",
-                  "text": "This spot in Avignon Nord is a nice place for a short break by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.822945,
-                        43.940375
                   ]
             },
             {

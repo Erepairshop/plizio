@@ -30801,7 +30801,2125 @@ export const pois: POI[] = [
       fr: ["Le Bergpark Wilhelmshöhe est, avec 2,4 kilomètres carrés, le plus grand parc de montagne d'Europe.", "Le monument d'Hercule a été érigé entre 1701 et 1717 au sommet du Karlsberg.", "La 'documenta' se tient tous les cinq ans depuis 1955 et dure à chaque fois 100 jours.", "Jacob et Wilhelm Grimm ont vécu et travaillé à Cassel de 1798 à 1841.", "Le Fridericianum était, lors de son ouverture en 1779, le premier musée public d'Europe.", "Lors de la nuit de bombardements du 22 octobre 1943, le centre-ville a été presque entièrement détruit."],
     
       "tr": ["Bergpark Wilhelmshöhe, 2,4 kilometrekarelik alanıyla Avrupa'nın en büyük dağ parkıdır.", "Herkules anıtı, 1701 ile 1717 yılları arasında Karlsberg'in zirvesine inşa edilmiştir.", "1955'ten beri yapılan 'documenta' her beş yılda bir gerçekleşir ve 100 gün sürer.", "Jacob ve Wilhelm Grimm, 1798'den 1841'e kadar Kassel'de yaşamış ve çalışmışlardır.", "Fridericianum, 1779'daki açılışında Avrupa'nın ilk halka açık müzesiydi.", "22 Ekim 1943'teki bombardıman gecesinde şehir merkezi neredeyse tamamen yok olmuştur."]},
-    "sights": {"de": [{"name": "Herkules-Monument", "text": "Das imposante Wahrzeichen Kassels thront über dem Bergpark Wilhelmshöhe und ist der Ausgangspunkt der barocken Wasserspiele.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Schloss Wilhelmshöhe", "text": "Ein klassizistisches Schloss im Bergpark, das heute bedeutende Kunstsammlungen wie die Gemäldegalerie Alte Meister beherbergt.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Löwenburg", "text": "Eine künstlich errichtete Burgruine aus dem späten 18. Jahrhundert, die als romantisches Rittergrabmal konzipiert wurde.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue", "text": "Ein weitläufiger barocker Park direkt an der Fulda mit der markanten Orangerie und einer künstlichen Inselwelt.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "Ein modernes Museum, das dem Leben und Werk der Brüder Grimm gewidmet ist und ihre berühmten Märchen interaktiv präsentiert.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Das erste öffentliche Museumsgebäude auf dem europäischen Festland und heute zentraler Ausstellungsort der documenta.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "Ein barockes Schlossgebäude im Staatspark Karlsaue, das heute das Astronomisch-Physikalische Kabinett beherbergt.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Galerie für komische Kunst und Karikaturen im Kasseler Kulturbahnhof.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Museum über das Leben und Werk des Komponisten Louis Spohr in Kassel.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Privates Musicaltheater in der Kasseler Innenstadt mit vielfältigem Programm.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Großes Naturschutz- und Erholungsgebiet entlang der Fulda in Kassel.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Barockes Prachtbad mit Marmorskulpturen neben der Orangerie in Kassel.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Naturkundemuseum im historischen Ottoneum, dem ersten festen Theaterbau Deutschlands.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Moderne Ausstellungshalle in Kassel, die primär für die documenta genutzt wird.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Modernes Freizeit- und Sportbad in Kassel mit Innen- und Außenbereichen.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Museum zur Geschichte und Stadtentwicklung von Kassel am Ständeplatz.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Einzigartiges Museum in Kassel, das sich der Bestattungskultur und dem Totengedenken widmet.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "Ein Museum am Brüder-Grimm-Platz, das die Kunst- und Kulturgeschichte des Landes Hessen präsentiert.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "Das Museum dokumentiert die regionale Industriegeschichte und bedeutende technische Innovationen der Stadt.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "Ein spezialisiertes Museum in Kassel, das sich der Geschichte und Entwicklung der Badekultur widmet.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "Museum zur Geschichte der Firma Henschel, die weltweit für ihren Lokomotivbau bekannt war.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "Ein Museum in Kassel, das die Geschichte der Videotheken und Heimvideomedien dokumentiert.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "Eine Voliere in einer Parkanlage zur Beobachtung verschiedener Vogelarten im Stadtgebiet.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "Am malerischen Ufer der Fulda in Kassel erstreckt sich dieser einladende Sandstrand. Hier finden Sonnenanbeter und Erholungssuchende eine urbane Oase für entspannte Nachmittage direkt am Wasser. Die ruhige Stimmung macht den Abschnitt zu einem beliebten Ziel, um dem Stadttrubel für eine Weile zu entfliehen. Besonders an sonnigen Tagen lohnt es sich, eine Decke für ein gemütliches Picknick mitzubringen.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "Als beliebter Treffpunkt am Wasser bereichert dieser Liegeplatz das Freizeitangebot im Stadtgebiet von Kassel. Besucher nutzen das gepflegte Areal gerne, um in geselliger Runde zu verweilen und die Seele baumeln zu lassen. Die lockere Atmosphäre zieht ein bunt gemischtes lokales Publikum an, das die Nähe zum kühlen Nass schätzt. Für einen perfekten Sommernachmittag sollten Snacks und kühle Getränke nicht im Gepäck fehlen.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Wer in Kassel einen ruhigen Ort zur Entspannung sucht, wird an diesem idyllischen Uferabschnitt fündig. Abseits des größten Trubels lässt sich hier die sanfte Strömung des Flusses wunderbar beobachten. Die beschauliche Umgebung lädt zu ausgedehnten Spaziergängen oder einfach zum entspannten Lesen am Wasser ein. Ein Besuch in den frühen Morgenstunden offenbart eine besonders friedliche Stimmung.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "In den Sommermonaten erwacht dieser öffentliche Bereich am Flussufer in Kassel zu echtem Leben. Familien, Freunde und Singles kommen hier zusammen, um die warmen Temperaturen in geselliger Runde zu genießen. Neben der Möglichkeit zum Sonnenbaden eignet sich der Platz hervorragend als Ausgangspunkt für kleine Stadtabenteuer. Ein Fahrrad ist oft das beste Verkehrsmittel, um diesen sommerlichen Treffpunkt bequem zu erreichen.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "Vielfältige Möglichkeiten für die Freizeitgestaltung am Wasser prägen diesen attraktiven Uferabschnitt in Kassel. Ob für eine kleine Pause vom Alltag oder einen entspannten Nachmittag mit Freunden, die offene Fläche bietet ausreichend Raum für alle. Die entspannte Stimmung vor Ort lässt schnell das Gefühl eines kleinen Kurzurlaubs aufkommen. Bei gutem Wetter empfiehlt es sich, frühzeitig einen schönen Platz in Wassernähe zu sichern.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "Entlang des Gewässers in Kassel eröffnet sich mit diesem Bereich ein weiterer wunderschöner Punkt für Erholungssuchende. Spaziergänger schätzen die naturnahe Gestaltung, die zum Innehalten und Durchatmen einlädt. Die harmonische Verbindung von Wasser und grünen Uferzonen schafft eine äußerst friedliche Kulisse für den Nachmittag. Bequeme Schuhe sind ideal, um die angrenzenden Wege ausgiebig zu erkunden.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "Mitten in der Stadt gelegen, bietet dieser Uferbereich in Kassel eine unkomplizierte Möglichkeit zur Entspannung am Wasser. Das urbane Flair mischt sich hier auf angenehme Weise mit der beruhigenden Präsenz des Flusses. Anwohner nutzen den Platz gerne für eine spontane Auszeit nach Feierabend oder am Wochenende. Ein gutes Buch oder etwas Musik machen den Aufenthalt an diesem städtischen Rückzugsort perfekt.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "Wenn die Temperaturen steigen, verwandelt sich dieser Strandabschnitt in Kassel in ein lebendiges Zentrum für Freizeitaktivitäten. Die Nähe zum Wasser verspricht an heißen Tagen eine willkommene Abkühlung und lockt viele Besucher ins Freie. Die heitere Stimmung ist ansteckend und macht Lust auf ausgedehnte sommerliche Nachmittage. Packen Sie am besten ein Handtuch und Sonnencreme ein, um das Wetter unbeschwert zu genießen.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "Eine gepflegte Grünanlage an der Stadthalle Kassel.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "Eine öffentliche Parkanlage im Westen von Kassel.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "Ein historischer Park im Kasseler Stadtteil Vorderer Westen.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "Die Überreste des ehemaligen Zeughauses, ein Denkmal der Stadtgeschichte.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "Eine zentrale Grünfläche am Rande der Innenstadt von Kassel.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "Ein Garten mit einer vielfältigen Sammlung heimischer und exotischer Pflanzen.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "Ein weitläufiger Landschaftspark mit dem Schloss Schönfeld.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "Eine naturnahe Gartenanlage am Rande des Stadtteils Helleböhn.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "Ein mittelalterlicher Wachturm der einstigen Stadtbefestigung Kassels.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "Der Silbersee ist ein schöner See in Kassel, der sich ideal für Naturspaziergänge am Ufer eignet.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "Das Sichelbachbecken in Kassel ist ein lokaler See, der eine ruhige Umgebung für Spaziergänge und Erholung im Freien bietet.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "Der Bugasee ist ein See in Kassel, der beliebt ist für gemütliche Spaziergänge und zum Bewundern der Natur.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "Der Spielplatz Landaustraße ist ein Quartiersspielplatz in Kassel, auf dem Kinder spielen und Familien sich treffen können.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "Der Spielplatz Glockenbruchweg in Kassel ist ein schöner Ort, um Kinder aktiv zu halten und gemeinsam Zeit zu verbringen.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "Der Kinderspielplatz Mühlhäuser Platz in Kassel bietet einen wunderbaren Außenbereich für Familienaktivitäten.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Der Aktivspielplatz Quellhofstraße ist ein Spielplatz in Kassel, der sich perfekt für energiegeladene Kinder und Familienausflüge eignet.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "Der Spielplatz an der Kochstraße in Kassel bietet eine freundliche Umgebung, in der Familien entspannen können.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "Der Spielplatz Buddengasse in Kassel ist ein charmanter Ort, an dem Familien frische Luft schnappen und Spaß haben können.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "Der Spielplatz Tischbeinstraße ist ein ansprechender Spielplatz in Kassel, ideal für die gemeinsame Freizeit von Eltern und Kindern.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "Dieser Spielplatz an der Bremelbachstraße in Kassel bietet einen tollen Spielbereich im Freien und Platz für die Familie.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "Der Spielplatz Geysostraße ist ein familienorientierter Spielplatz in Kassel, der für Spiel und Spaß im Freien konzipiert wurde.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "Minigolf Au Garden in Kassel ist eine Anlage, auf der Familien einen lustigen und wettbewerbsfähigen Nachmittag verbringen können.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "Der Spielplatz Bosestraße in Kassel bietet eine sichere und angenehme Umgebung für Familienausflüge.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "Der Spielplatz Grüner Waldweg in Kassel bietet Familien und Kindern einen von der Natur inspirierten Raum zum gemeinsamen Spielen.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "Der Spielplatz an der Holländischen Straße in Kassel ist ein lebendiger Ort für Kinderaktivitäten und Familienausflüge.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "Der Spielplatz Motzberg ist ein schöner Bereich in Kassel, der Familien zu Spiel und Spaß im Freien einlädt.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "Der Sky Spielplatz Bleichenweg in Kassel ist gut ausgestattet und ideal für einen entspannten Nachmittag mit der Familie.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "Der Spielplatz am Graßweg in Kassel ist ein hervorragender Ort für Familien, der einen sicheren Spielbereich bietet.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "Der Spielplatz Germaniastraße ist ein Treffpunkt in Kassel, an dem Familien gemeinsam Zeit an der frischen Luft verbringen können.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "Die Kurhessen Therme in Kassel ist ein Ort für Gesundheit, Wellness und Entspannung.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "Der Zoo am Rammelsberg in Kassel bietet ein naturnahes Erlebnis für kleine und große Tierfreunde.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "Das Freibad Wilhelmshöhe in Kassel lädt zu einer Erfrischung in historischer Umgebung ein.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "Der Saunasee in Kassel ist ein besonderer Ort für Ruhe und Entspannung im Wasser.", "category": "family", "coords": [9.425643, 51.313673]}], "hu": [{"name": "Herkules-emlékmű", "text": "Kassel impozáns jelképe a Wilhelmshöhe hegyi park felett magasodik, és a barokk vízijátékok kiindulópontja.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Wilhelmshöhe-kastély", "text": "Klasszicista kastély a hegyi parkban, amely ma jelentős művészeti gyűjteményeknek, például a Régi Mesterek Képtárának ad otthont.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Löwenburg", "text": "A 18. század végén épült mesterséges várrom, amelyet romantikus lovagi síremlékként terveztek.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue", "text": "Kiterjedt barokk park a Fulda folyó mentén a jellegzetes Orangerie épületével és mesterséges szigetvilággal.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "Modern múzeum a Grimm testvérek életének és munkásságának szentelve, ahol híres meséiket interaktívan mutatják be.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Az európai szárazföld első nyilvános múzeumépülete, ma a documenta kortárs művészeti kiállítás központi helyszíne.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "Barokk kastélyépület a Karlsaue állami parkban, amely ma a Csillagászati és Fizikai Kabinetnek ad helyet.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Képregény- és karikatúragaléria a kasseli Kulturbahnhof területén.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Louis Spohr zeneszerző életét és munkásságát bemutató múzeum Kasselben.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Magánkézben lévő zenés színház Kassel belvárosában, változatos műsorral.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Kiterjedt természetvédelmi és pihenőövezet a Fulda folyó mentén Kasselben.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Barokk márványfürdő szobrokkal a kasseli Orangerie mellett.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Természettudományi múzeum a történelmi Ottoneumban, Németország első állandó színházépületében.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Modern kiállítócsarnok Kasselben, amelyet elsősorban a documenta művészeti eseményhez használnak.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Modern szabadidős és sportfürdő Kasselben, fedett és szabadtéri medencékkel.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Kassel történelmét és városfejlődését bemutató múzeum a Ständeplatzon.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Kasseli múzeum, amely a temetkezési kultúrának és a gyásznak szentelt.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "Hessen tartomány művészeti és kultúrtörténeti gyűjteményét bemutató múzeum Kasselben.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "A múzeum a regionális ipartörténetet és a város jelentős technikai innovációit mutatja be.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "A fürdőkultúra történetének és fejlődésének szentelt szakmúzeum Kasselben.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "A mozdonygyártásáról világszerte ismert Henschel cég történetét bemutató múzeum.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "A videotékák és az otthoni videohordozók történetét dokumentáló múzeum Kasselben.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "Parkban található madárröpde, ahol különféle madárfajok figyelhetőek meg a városban.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "A Fulda festői partján, Kasselben terül el ez a hívogató homokos strand. A napozni és pihenni vágyók igazi városi oázisra lelhetnek itt egy nyugodt, vízparti délutánhoz. A békés hangulat miatt a partszakasz kedvelt célpontja azoknak, akik egy időre szeretnének kiszakadni a város zajából. Különösen napsütéses napokon érdemes takarót hozni egy hangulatos piknikhez.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "A vízparti találkozóhelyként kedvelt terület nagyszerűen gazdagítja Kassel városi szabadidős kínálatát. A látogatók előszeretettel használják a gondozott partszakaszt baráti beszélgetésekre és feltöltődésre. A laza atmoszféra sokszínű helyi közönséget vonz, akik értékelik a hűsítő víz közelségét. Egy tökéletes nyári délutánhoz érdemes rágcsálnivalót és hideg italokat pakolni a táskába.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Aki nyugodt pihenőhelyet keres Kasselben, ezen az idilli partszakaszon biztosan megtalálja. A legnagyobb nyüzsgéstől távol csodálatosan megfigyelhető a folyó lágy áramlása. A csendes környezet hosszú sétákra vagy egyszerűen csak egy jó könyv melletti vízparti lazításra hívogat. A kora reggeli órákban tett látogatás különösen békés hangulatot tár a látogatók elé.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "A nyári hónapokban ez a kasseli folyóparti közterület igazán életre kel. Családok, barátok és egyedülállók gyűlnek itt össze, hogy társaságban élvezzék a meleg időt. A napozási lehetőség mellett a tér kiváló kiindulópont kisebb városi kalandokhoz is. Gyakran a kerékpár a legjobb közlekedési eszköz, amellyel kényelmesen megközelíthető ez a nyári találkozóhely.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "A vízparti szabadidős tevékenységek változatos lehetőségei jellemzik ezt a vonzó kasseli partszakaszt. Legyen szó egy rövid szünetről a mindennapokban vagy egy pihentető délutánról a barátokkal, a nyitott tér mindenki számára elegendő helyet biztosít. A laza helyi atmoszféra gyorsan egy minivakáció érzését kelti az emberben. Jó idő esetén tanácsos korán érkezni, hogy biztosítsuk a legjobb helyet a víz közelében.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "A kasseli vízpart mentén ezen a területen egy újabb gyönyörű pont nyílik meg a pihenni vágyók előtt. A sétálók nagyra értékelik a természetközeli kialakítást, amely megállásra és egy mély lélegzetvételre ösztönöz. A víz és a zöldellő partvidék harmonikus kapcsolata rendkívül békés hátteret teremt a délutánokhoz. Kényelmes cipő viselése ideális a környező ösvények alapos felfedezéséhez.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "A város közepén található kasseli partszakasz egyszerű lehetőséget kínál a vízparti kikapcsolódásra. Az urbánus hangulat itt kellemesen keveredik a folyó nyugtató jelenlétével. A helyi lakosok előszeretettel használják a teret egy spontán munka utáni vagy hétvégi pihenőre. Egy jó könyv vagy egy kis zene tökéletessé varázsolja az ittlétet ezen a városi menedékhelyen.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "Amikor emelkedik a hőmérséklet, ez a kasseli partszakasz a szabadidős tevékenységek nyüzsgő központjává változik. A víz közelsége a forró napokon szívesen látott felfrissülést ígér, és sok látogatót csábít a szabadba. A vidám hangulat ragadós, és azonnal meghozza a kedvet a hosszú nyári délutánokhoz. Érdemes törölközőt és naptejet pakolni, hogy gondtalanul élvezhesse a jó időt.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "Gondozott zöldterület a kasseli Stadthalle mellett.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "Nyilvános parkerdő Kassel nyugati részén.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "Történelmi park Kassel Vorderer Westen negyedében.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "Az egykori fegyvertár maradványai, a város történelmének emlékműve.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "Központi zöldterület Kassel belvárosának szélén.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "Kert hazai és egzotikus növények változatos gyűjteményével.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "Kiterjedt tájképi park a Schönfeld-kastéllyal.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "Természetközeli kert a Helleböhn negyed szélén.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "Kassel egykori városfalának középkori őrtornya.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "A Silbersee egy gyönyörű tó Kasselben, amely ideális a part menti természetjáráshoz.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "A kasseli Sichelbachbecken egy helyi tó, amely nyugodt környezetet kínál a sétákhoz és a szabadtéri pihenéshez.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "A Bugasee egy tó Kasselben, amely népszerű a kényelmes séták és a természet megcsodálása miatt.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "A Spielplatz Landaustraße egy környékbeli játszótér Kasselben, ahol a gyerekek játszhatnak és a családok találkozhatnak.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "A Kasselben található Spielplatz Glockenbruchweg egy szép hely a gyerekek aktívan tartására és a közös időtöltésre.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "A kasseli Kinderspielplatz Mühlhäuser Platz csodálatos szabadtéri teret biztosít a családi tevékenységekhez.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Az Aktivspielplatz Quellhofstraße egy játszótér Kasselben, amely tökéletes az energikus gyerekek és a családi kirándulások számára.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "A kasseli Kochstraße játszótere barátságos környezetet kínál, ahol a családok pihenhetnek.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "A kasseli Spielplatz Buddengasse egy bájos hely, ahol a családok friss levegőt szívhatnak és szórakozhatnak.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "A Spielplatz Tischbeinstraße egy vonzó játszótér Kasselben, amely ideális a szülők és gyermekek közös szabadidejéhez.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "Ez a kasseli Bremelbachstraße menti játszótér remek szabadtéri játszóteret és helyet kínál a család számára.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "A Spielplatz Geysostraße egy családcentrikus játszótér Kasselben, amelyet szabadtéri játékra és szórakozásra terveztek.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "A kasseli Minigolf Au Garden egy olyan létesítmény, ahol a családok szórakoztató és versengő délutánt tölthetnek el.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "A kasseli Bosestraße játszótér biztonságos és kellemes környezetet kínál a családi kirándulásokhoz.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "A kasseli Spielplatz Grüner Waldweg a természet ihlette teret kínál a családok és gyerekek közös játékához.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "A kasseli Holländische Straße játszótere egy nyüzsgő hely a gyermekprogramokhoz és családi kirándulásokhoz.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "A Spielplatz Motzberg egy szép terület Kasselben, amely szabadtéri játékra és szórakozásra hívja a családokat.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "A kasseli Sky Spielplatz Bleichenweg jól felszerelt, és ideális egy pihentető délutánhoz a családdal.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "A kasseli Graßweg játszótér egy kiváló hely a családok számára, amely biztonságos játszóteret kínál.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "A Spielplatz Germaniastraße egy olyan találkozóhely Kasselben, ahol a családok együtt tölthetnek időt a friss levegőn.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "A kasseli Kurhessen Therme az egészség, a wellness és a pihenés helyszíne.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "A kasseli Zoo am Rammelsberg természetközeli élményt nyújt a kicsi és nagy állatbarátoknak.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "A kasseli Freibad Wilhelmshöhe felfrissülésre hív történelmi környezetben.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "A kasseli Saunasee különleges hely a nyugalomra és a vízben való pihenésre.", "category": "family", "coords": [9.425643, 51.313673]}], "ro": [{"name": "Monumentul Hercules", "text": "Simbolul impunător al orașului Kassel tronează peste parcul Wilhelmshöhe și este punctul de plecare al jocurilor de apă baroce.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Palatul Wilhelmshöhe", "text": "Un palat clasicist în parcul de munte, care găzduiește astăzi colecții importante de artă, precum Galeria Vechilor Maeștri.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Castelul Löwenburg", "text": "O ruină de castel construită artificial la sfârșitul secolului al XVIII-lea, concepută ca un mausoleu romantic pentru cavaler.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Parcul Karlsaue", "text": "Un parc baroc vast situat pe malul râului Fulda, cu monumentala Orangerie și un sistem de insule artificiale.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "Un muzeu modern dedicat vieții și operei fraților Grimm, prezentând celebrele lor basme într-un mod interactiv.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Prima clădire de muzeu public de pe continentul european și astăzi centrul expozițional principal pentru documenta.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "O clădire de palat baroc în parcul de stat Karlsaue, care găzduiește astăzi Cabinetul de Astronomie și Fizică.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Galerie pentru artă comică și caricatură situată în incinta Kulturbahnhof din Kassel.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Muzeu dedicat vieții și operei compozitorului Louis Spohr din Kassel.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Teatru muzical privat din centrul orașului Kassel, cu un program variat.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Rezervație naturală și zonă de recreere extinsă de-a lungul râului Fulda în Kassel.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Baie barocă spectaculoasă cu sculpturi din marmură, situată lângă Orangeria din Kassel.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Muzeu de istorie naturală în istoricul Ottoneum, prima clădire de teatru permanentă din Germania.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Sală de expoziții modernă din Kassel, utilizată în principal pentru expoziția documenta.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Centru acvatic modern pentru agrement și sport din Kassel, cu piscine interioare și exterioare.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Muzeu dedicat istoriei și dezvoltării urbane a orașului Kassel, situat în Ständeplatz.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Muzeu unic în Kassel, dedicat culturii funerare și tradițiilor de doliu.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "Un muzeu în Kassel dedicat istoriei artei și culturii landului Hessa.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "Muzeul documentează istoria industrială regională și inovațiile tehnice importante ale orașului.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "Un muzeu specializat din Kassel dedicat istoriei și dezvoltării culturii băilor.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "Muzeu dedicat istoriei companiei Henschel, cunoscută la nivel mondial pentru construcția de locomotive.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "Un muzeu din Kassel care documentează istoria magazinelor video și a mediilor video de acasă.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "O volieră într-un parc pentru observarea diverselor specii de păsări din zona orașului.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "Pe malul pitoresc al râului Fulda din Kassel se întinde această plajă primitoare cu nisip. Aici, iubitorii de soare și cei aflați în căutarea relaxării găsesc o oază urbană pentru după-amiezi liniștite chiar lângă apă. Atmosfera calmă face din acest segment de țărm o destinație populară pentru a scăpa de agitația orașului. Mai ales în zilele însorite, merită să aduceți o pătură pentru un picnic confortabil.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "Ca un loc de întâlnire popular pe malul apei, această zonă de relaxare îmbogățește opțiunile de agrement din zona urbană Kassel. Vizitatorii se bucură de spațiul bine întreținut pentru a petrece timp cu prietenii și a se deconecta. Atmosfera relaxată atrage un public local divers, care apreciază proximitatea apei răcoroase. Pentru o după-amiază perfectă de vară, nu uitați să luați în bagaj gustări și băuturi reci.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Cei care caută un loc liniștit pentru relaxare în Kassel vor fi încântați de acest segment de țărm idilic. Departe de agitația majoră, aici se poate observa minunat curgerea lină a râului. Împrejurimile pașnice vă invită la plimbări lungi sau pur și simplu la o lectură relaxantă pe malul apei. O vizită la primele ore ale dimineții dezvăluie o atmosferă deosebit de liniștită.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "În lunile de vară, această zonă publică de pe malul râului din Kassel prinde cu adevărat viață. Familii, prieteni și persoane singure se adună aici pentru a se bucura de temperaturile calde într-o companie plăcută. Pe lângă posibilitatea de a face plajă, locul este un punct de plecare excelent pentru mici aventuri urbane. O bicicletă este adesea cel mai bun mijloc de transport pentru a ajunge confortabil la acest punct de întâlnire estival.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "Diversele posibilități de petrecere a timpului liber la malul apei caracterizează acest segment atractiv din Kassel. Fie pentru o scurtă pauză de la rutina zilnică, fie pentru o după-amiază relaxantă cu prietenii, spațiul deschis oferă loc suficient pentru toată lumea. Atmosfera destinsă de la fața locului creează rapid senzația unei scurte vacanțe. Pe vreme bună, este recomandat să vă asigurați din timp un loc frumos aproape de apă.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "De-a lungul apei din Kassel, această zonă deschide un alt punct minunat pentru cei în căutarea relaxării. Plimbăreții apreciază designul apropiat de natură, care te invită să te oprești și să respiri adânc. Combinația armonioasă dintre apă și zonele verzi de pe mal creează un decor extrem de pașnic pentru după-amiază. Încălțămintea confortabilă este ideală pentru a explora pe îndelete potecile adiacente.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "Situată în mijlocul orașului, această zonă riverană din Kassel oferă o oportunitate simplă de relaxare la malul apei. Aerul urban se împletește aici într-un mod plăcut cu prezența liniștitoare a râului. Localnicii folosesc cu plăcere locul pentru o pauză spontană după muncă sau în weekend. O carte bună sau puțină muzică fac ca șederea în acest refugiu citadin să fie perfectă.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "Când temperaturile cresc, acest segment de plajă din Kassel se transformă într-un centru plin de viață pentru activități recreative. Proximitatea apei promite o răcorire binevenită în zilele fierbinți și atrage numeroși vizitatori în aer liber. Atmosfera veselă este contagioasă și te face să îți dorești seri lungi de vară. Cel mai bine este să împachetați un prosop și cremă de protecție solară pentru a vă bucura de vreme fără griji.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "O zonă verde îngrijită lângă Stadthalle Kassel.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "Un parc public în partea de vest a orașului Kassel.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "Un parc istoric în cartierul Vorderer Westen din Kassel.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "Rămășițele fostului arsenal, un monument al istoriei orașului.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "Un spațiu verde central la marginea centrului orașului Kassel.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "O grădină cu o colecție diversă de plante native și exotice.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "Un parc peisagistic vast care include castelul Schönfeld.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "O grădină naturală la marginea cartierului Helleböhn.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "Un turn de veghe medieval din fosta fortificație a orașului Kassel.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "Silbersee este un lac frumos situat în Kassel, ideal pentru plimbări în natură pe mal.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "Sichelbachbecken din Kassel este un lac local care oferă un cadru liniștit pentru plimbări și relaxare în aer liber.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "Bugasee este un lac din Kassel, popular pentru plimbări relaxante și pentru admirarea naturii.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "Spielplatz Landaustraße este un loc de joacă de cartier din Kassel, unde copiii se pot juca și familiile se pot întâlni.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "Spielplatz Glockenbruchweg din Kassel este un loc frumos pentru a menține copiii activi și a petrece timpul împreună.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "Kinderspielplatz Mühlhäuser Platz din Kassel oferă o zonă minunată în aer liber pentru activități în familie.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Aktivspielplatz Quellhofstraße este un loc de joacă în Kassel, perfect pentru copiii plini de energie și ieșirile în familie.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "Locul de joacă de pe Kochstraße din Kassel oferă un mediu prietenos unde familiile se pot relaxa.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "Spielplatz Buddengasse din Kassel este un loc fermecător unde familiile pot lua o gură de aer proaspăt și se pot distra.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "Spielplatz Tischbeinstraße este un loc de joacă atractiv din Kassel, ideal pentru timpul liber comun al părinților și copiilor.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "Acest loc de joacă de pe Bremelbachstraße din Kassel oferă o zonă excelentă de joacă în aer liber și spațiu pentru familie.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "Spielplatz Geysostraße este un loc de joacă orientat spre familie din Kassel, conceput pentru joacă și distracție în aer liber.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "Minigolf Au Garden din Kassel este un teren unde familiile pot petrece o după-amiază distractivă și competitivă.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "Locul de joacă Bosestraße din Kassel oferă un mediu sigur și plăcut pentru ieșirile în familie.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "Spielplatz Grüner Waldweg din Kassel oferă familiilor și copiilor un spațiu inspirat de natură pentru joacă împreună.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "Locul de joacă de pe Holländische Straße din Kassel este un loc plin de viață pentru activitățile copiilor și ieșirile în familie.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "Spielplatz Motzberg este o zonă frumoasă din Kassel care invită familiile la joacă și distracție în aer liber.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "Sky Spielplatz Bleichenweg din Kassel este bine echipat și ideal pentru o după-amiază relaxantă în familie.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "Locul de joacă de pe Graßweg din Kassel este un loc excelent pentru familii, oferind o zonă de joacă sigură.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "Spielplatz Germaniastraße este un punct de întâlnire în Kassel unde familiile pot petrece timp împreună la aer curat.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "Kurhessen Therme din Kassel este un loc pentru sănătate, wellness și relaxare.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "Zoo am Rammelsberg din Kassel oferă o experiență aproape de natură pentru micii și marii iubitori de animale.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "Ștrandul Wilhelmshöhe din Kassel invită la o răcorire într-un cadru istoric.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "Saunasee din Kassel este un loc special pentru liniște și relaxare în apă.", "category": "family", "coords": [9.425643, 51.313673]}], "en": [{"name": "Hercules Monument", "text": "The imposing landmark of Kassel towers over Bergpark Wilhelmshöhe and is the starting point of the baroque water features.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Schloss Wilhelmshöhe", "text": "A neoclassical palace in the mountain park, now housing significant art collections like the Old Masters Picture Gallery.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Löwenburg Castle", "text": "A mock-medieval castle ruin built in the late 18th century, designed as a romantic knight's tomb.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue Park", "text": "An extensive baroque park directly on the Fulda River with the striking Orangerie and an artificial island world.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "A modern museum dedicated to the life and work of the Brothers Grimm, presenting their famous fairy tales interactively.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "The first public museum building on the European mainland and today a central exhibition venue for the documenta.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "A baroque palace building in the Karlsaue State Park, which now houses the Cabinet of Astronomy and Physics.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Gallery for comic art and caricatures located in Kassel's Kulturbahnhof.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Museum dedicated to the life and work of the composer Louis Spohr in Kassel.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Private musical theatre in Kassel city centre with a diverse programme.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Large nature reserve and recreational area along the Fulda river in Kassel.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Baroque marble bath with sculptures located next to the Orangerie in Kassel.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Natural history museum in the historical Ottoneum, Germany's first permanent theatre building.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Modern exhibition hall in Kassel primarily used for the documenta art event.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Modern leisure and sports swimming pool in Kassel with indoor and outdoor areas.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Museum focusing on the history and urban development of Kassel on Ständeplatz.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Unique museum in Kassel dedicated to burial culture and mourning traditions.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "A museum in Kassel showcasing the art and cultural history of the state of Hesse.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "The museum documents regional industrial history and important technical innovations of the city.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "A specialized museum in Kassel dedicated to the history and development of bathing culture.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "A museum about the history of the Henschel company, world-renowned for its locomotive construction.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "A museum in Kassel documenting the history of video rental stores and home video media.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "An aviary in a park setting for observing various bird species within the city area.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "Situated along the picturesque banks of the Fulda River in Kassel, this inviting sandy beach stretches out gracefully. Sunbathers and those seeking relaxation will find an urban oasis here for leisurely afternoons right by the water. The peaceful mood makes this spot a popular destination to escape the city bustle for a while. Taking a blanket for a cozy picnic is especially worthwhile on sunny days.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "Serving as a popular waterside meeting point, this lounging area greatly enriches the leisure options within Kassel's city limits. Visitors love to use the well-kept space to spend time in good company and simply unwind. The laid-back atmosphere attracts a diverse local crowd that appreciates being close to the cooling water. Packing snacks and cold drinks is a must for a perfect summer afternoon.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Those looking for a quiet place to relax in Kassel will find exactly what they need at this idyllic stretch of riverbank. Away from the main hustle and bustle, one can beautifully observe the gentle flow of the river here. The tranquil surroundings are perfect for long walks or simply enjoying a good book by the water. Visiting in the early morning hours reveals an especially peaceful ambiance.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "During the summer months, this public area along the riverbank in Kassel truly comes to life. Families, friends, and solo visitors gather here to enjoy the warm temperatures in a highly sociable setting. Aside from sunbathing opportunities, the spot serves as an excellent starting point for small urban adventures. A bicycle is often the best mode of transport to comfortably reach this lively summer hangout.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "Diverse opportunities for waterside leisure activities define this attractive stretch of riverbank in Kassel. Whether for a short break from the daily grind or a relaxed afternoon with friends, the open space provides enough room for everyone. The laid-back local vibe quickly conjures up the feeling of a mini getaway. When the weather is good, securing a nice spot near the water early on is a smart move.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "Running along the water in Kassel, this area reveals yet another beautiful spot for those seeking relaxation. Walkers highly appreciate the nature-oriented layout, which invites you to pause and take a deep breath. The harmonious combination of water and green bank zones creates an extremely peaceful backdrop for the afternoon. Wearing comfortable shoes is ideal to fully explore the adjacent pathways.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "Located right in the middle of the city, this riverside area in Kassel offers a straightforward way to unwind by the water. The urban flair mixes pleasantly here with the calming presence of the river. Residents love to use the space for a spontaneous break after work or during the weekend. Bringing a good book or some music makes spending time at this city retreat absolutely perfect.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "When the temperatures rise, this stretch of beach in Kassel transforms into a vibrant hub for leisure activities. The proximity to the water promises a welcome cool-down on hot days and draws many visitors outdoors. The cheerful mood is completely contagious and sparks the desire for extended summer afternoons. It is best to pack a towel and sunscreen to enjoy the weather without a care in the world.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "A well-maintained green area next to the Stadthalle Kassel.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "A public park area in the western part of Kassel.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "A historical park in the Vorderer Westen district of Kassel.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "The remains of the former arsenal, a monument to the city's history.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "A central green space on the edge of Kassel city center.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "A garden featuring a diverse collection of native and exotic plants.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "A spacious landscape park featuring the Schönfeld Castle.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "A nature-oriented garden area on the edge of the Helleböhn district.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "A medieval watchtower from Kassel's former city fortifications.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "Silbersee is a beautiful lake located in Kassel, ideal for nature walks along the shore.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "Sichelbachbecken in Kassel is a local lake offering a tranquil setting for walking and outdoor relaxation.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "Bugasee is a lake in Kassel, popular for leisurely strolls and admiring the natural surroundings.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "Spielplatz Landaustraße is a neighborhood playground in Kassel where children can play and families can gather.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "Spielplatz Glockenbruchweg in Kassel is a lovely spot to keep children active and spend time together as a family.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "Kinderspielplatz Mühlhäuser Platz in Kassel provides a wonderful outdoor space for family activities.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Aktivspielplatz Quellhofstraße is a playground in Kassel, perfect for energetic kids and family outings.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "The playground on Kochstraße in Kassel offers a friendly environment where families can relax.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "Spielplatz Buddengasse in Kassel is a charming spot where families can get some fresh air and have fun.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "Spielplatz Tischbeinstraße is an engaging playground in Kassel, ideal for shared leisure time for parents and children.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "This playground on Bremelbachstraße in Kassel provides a great outdoor play area and space for the family.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "Spielplatz Geysostraße is a family-oriented playground in Kassel designed for outdoor play and fun.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "Minigolf Au Garden in Kassel is a course where families can spend a fun and competitive afternoon.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "The Bosestraße playground in Kassel offers a safe and pleasant environment for family outings.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "Spielplatz Grüner Waldweg in Kassel provides families and children with a nature-inspired space to play together.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "The playground on Holländische Straße in Kassel is a lively spot for children's activities and family outings.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "Spielplatz Motzberg is a lovely area in Kassel that invites families for outdoor games and fun.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "Sky Spielplatz Bleichenweg in Kassel is well-equipped and ideal for a relaxing afternoon with the family.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "The playground on Graßweg in Kassel is an excellent spot for families, offering a safe play area.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "Spielplatz Germaniastraße is a meeting point in Kassel where families can spend time together in the fresh air.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "The Kurhessen Therme in Kassel is a place for health, wellness, and relaxation.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "The Zoo am Rammelsberg in Kassel offers a close-to-nature experience for small and large animal lovers.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "The Freibad Wilhelmshöhe in Kassel invites you for a refreshment in historic surroundings.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "The Saunasee in Kassel is a special place for peace and relaxation in the water.", "category": "family", "coords": [9.425643, 51.313673]}], "tr": [{"name": "Herkül Anıtı", "text": "Wilhelmshöhe Dağ Parkı'nın tepesinde yükselen anıt, görkemli Barok su gösterilerinin başlangıç noktasıdır.", "category": "Landmark", "coords": [9.39278, 51.3164]}, {"name": "Schloss Wilhelmshöhe", "text": "Klasisist tarzda inşa edilen saray, günümüzde Eski Ustalar Resim Galerisi gibi önemli koleksiyonları barındırır.", "category": "Castle", "coords": [9.416111, 51.315]}, {"name": "Löwenburg", "text": "18. yüzyıl sonlarında inşa edilen bu yapay kale kalıntısı, romantik bir şövalye anıt mezarı olarak tasarlanmıştır.", "category": "Castle", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue", "text": "Fulda kıyısındaki geniş Barok park, karakteristik Limonluk binası ve yapay adalarıyla huzurlu bir alandır.", "category": "Park", "coords": [9.49333, 51.3019]}, {"name": "Kassel Grimm Dünyası", "text": "Grimm Kardeşlerin yaşamına adanmış modern müzede, ünlü masallar etkileşimli bir şekilde sunulmaktadır.", "category": "Museum", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Avrupa ana karasındaki ilk halka açık müze binası olup günümüzde documenta sergisinin ana merkezidir.", "category": "Museum", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "Karlsaue Parkı'ndaki bu Barok saray binası, günümüzde Astronomi ve Fizik Kabinesi'ne ev sahipliği yapar.", "category": "Museum", "coords": [9.500802, 51.310268]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Herkules-Monument",
+                  "text": "Das imposante Wahrzeichen Kassels thront über dem Bergpark Wilhelmshöhe und ist der Ausgangspunkt der barocken Wasserspiele.",
+                  "category": "Landmark",
+                  "confidence": "high",
+                  "coords": [
+                        9.39278,
+                        51.3164
+                  ]
+            },
+            {
+                  "name": "Schloss Wilhelmshöhe",
+                  "text": "Ein klassizistisches Schloss im Bergpark, das heute bedeutende Kunstsammlungen wie die Gemäldegalerie Alte Meister beherbergt.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.416111,
+                        51.315
+                  ]
+            },
+            {
+                  "name": "Löwenburg",
+                  "text": "Eine künstlich errichtete Burgruine aus dem späten 18. Jahrhundert, die als romantisches Rittergrabmal konzipiert wurde.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.40861,
+                        51.3114
+                  ]
+            },
+            {
+                  "name": "Karlsaue",
+                  "text": "Ein weitläufiger barocker Park direkt an der Fulda mit der markanten Orangerie und einer künstlichen Inselwelt.",
+                  "category": "Park",
+                  "confidence": "high",
+                  "coords": [
+                        9.49333,
+                        51.3019
+                  ]
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "Ein modernes Museum, das dem Leben und Werk der Brüder Grimm gewidmet ist und ihre berühmten Märchen interaktiv präsentiert.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.48927,
+                        51.3092
+                  ]
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Das erste öffentliche Museumsgebäude auf dem europäischen Festland und heute zentraler Ausstellungsort der documenta.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.4975,
+                        51.3136
+                  ]
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Ein barockes Schlossgebäude im Staatspark Karlsaue, das heute das Astronomisch-Physikalische Kabinett beherbergt.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.500802,
+                        51.310268
+                  ]
+            },
+            {
+                  "name": "Caricatura",
+                  "text": "Galerie für komische Kunst und Karikaturen im Kasseler Kulturbahnhof.",
+                  "category": "museum",
+                  "coords": [
+                        9.490577,
+                        51.318292
+                  ]
+            },
+            {
+                  "name": "Spohr Museum",
+                  "text": "Museum über das Leben und Werk des Komponisten Louis Spohr in Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.493975,
+                        51.309915
+                  ]
+            },
+            {
+                  "name": "theater im centrum",
+                  "text": "Privates Musicaltheater in der Kasseler Innenstadt mit vielfältigem Programm.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487182,
+                        51.316169
+                  ]
+            },
+            {
+                  "name": "Fuldaaue",
+                  "text": "Großes Naturschutz- und Erholungsgebiet entlang der Fulda in Kassel.",
+                  "category": "natural",
+                  "coords": [
+                        9.504426,
+                        51.299587
+                  ]
+            },
+            {
+                  "name": "Marmorbad",
+                  "text": "Barockes Prachtbad mit Marmorskulpturen neben der Orangerie in Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.499539,
+                        51.310435
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Naturkundemuseum im historischen Ottoneum, dem ersten festen Theaterbau Deutschlands.",
+                  "category": "museum",
+                  "coords": [
+                        9.49895,
+                        51.313262
+                  ]
+            },
+            {
+                  "name": "documenta-Halle",
+                  "text": "Moderne Ausstellungshalle in Kassel, die primär für die documenta genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        9.499489,
+                        51.312135
+                  ]
+            },
+            {
+                  "name": "Auebad",
+                  "text": "Modernes Freizeit- und Sportbad in Kassel mit Innen- und Außenbereichen.",
+                  "category": "family",
+                  "coords": [
+                        9.500481,
+                        51.300685
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Museum zur Geschichte und Stadtentwicklung von Kassel am Ständeplatz.",
+                  "category": "museum",
+                  "coords": [
+                        9.489631,
+                        51.314898
+                  ]
+            },
+            {
+                  "name": "Museum für Sepulkralkultur",
+                  "text": "Einzigartiges Museum in Kassel, das sich der Bestattungskultur und dem Totengedenken widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.488012,
+                        51.309078
+                  ]
+            },
+            {
+                  "name": "Hessisches Landesmuseum",
+                  "text": "Ein Museum am Brüder-Grimm-Platz, das die Kunst- und Kulturgeschichte des Landes Hessen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.489872,
+                        51.310631
+                  ]
+            },
+            {
+                  "name": "Technik-Museum Kassel",
+                  "text": "Das Museum dokumentiert die regionale Industriegeschichte und bedeutende technische Innovationen der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        9.479507,
+                        51.324776
+                  ]
+            },
+            {
+                  "name": "Bademuseum",
+                  "text": "Ein spezialisiertes Museum in Kassel, das sich der Geschichte und Entwicklung der Badekultur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.504719,
+                        51.312631
+                  ]
+            },
+            {
+                  "name": "Henschel Museum",
+                  "text": "Museum zur Geschichte der Firma Henschel, die weltweit für ihren Lokomotivbau bekannt war.",
+                  "category": "museum",
+                  "coords": [
+                        9.480815,
+                        51.324625
+                  ]
+            },
+            {
+                  "name": "Deutsches Videothekenmuseum",
+                  "text": "Ein Museum in Kassel, das die Geschichte der Videotheken und Heimvideomedien dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.493168,
+                        51.320154
+                  ]
+            },
+            {
+                  "name": "Vogelvolière",
+                  "text": "Eine Voliere in einer Parkanlage zur Beobachtung verschiedener Vogelarten im Stadtgebiet.",
+                  "category": "family",
+                  "coords": [
+                        9.486446,
+                        51.295519
+                  ]
+            },
+            {
+                  "name": "Stadthallengarten",
+                  "text": "Eine gepflegte Grünanlage an der Stadthalle Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.458827,
+                        51.317392
+                  ]
+            },
+            {
+                  "name": "Goetheanlage",
+                  "text": "Eine öffentliche Parkanlage im Westen von Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.45727,
+                        51.3144
+                  ]
+            },
+            {
+                  "name": "Aschrottpark",
+                  "text": "Ein historischer Park im Kasseler Stadtteil Vorderer Westen.",
+                  "category": "park",
+                  "coords": [
+                        9.451739,
+                        51.315999
+                  ]
+            },
+            {
+                  "name": "Zeughausruine",
+                  "text": "Die Überreste des ehemaligen Zeughauses, ein Denkmal der Stadtgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        9.505746,
+                        51.317894
+                  ]
+            },
+            {
+                  "name": "Lutherplatz",
+                  "text": "Eine zentrale Grünfläche am Rande der Innenstadt von Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.496835,
+                        51.318033
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Ein Garten mit einer vielfältigen Sammlung heimischer und exotischer Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        9.470035,
+                        51.298494
+                  ]
+            },
+            {
+                  "name": "Park Schönfeld",
+                  "text": "Ein weitläufiger Landschaftspark mit dem Schloss Schönfeld.",
+                  "category": "park",
+                  "coords": [
+                        9.467048,
+                        51.299654
+                  ]
+            },
+            {
+                  "name": "Waldgarten am Helleböhnweg",
+                  "text": "Eine naturnahe Gartenanlage am Rande des Stadtteils Helleböhn.",
+                  "category": "park",
+                  "coords": [
+                        9.449987,
+                        51.303053
+                  ]
+            },
+            {
+                  "name": "Druselturm",
+                  "text": "Ein mittelalterlicher Wachturm der einstigen Stadtbefestigung Kassels.",
+                  "category": "tower",
+                  "coords": [
+                        9.499433,
+                        51.316297
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Der Silbersee ist ein schöner See in Kassel, der sich ideal für Naturspaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.36883,
+                        51.332445
+                  ]
+            },
+            {
+                  "name": "Sichelbachbecken",
+                  "text": "Das Sichelbachbecken in Kassel ist ein lokaler See, der eine ruhige Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.3783,
+                        51.317592
+                  ]
+            },
+            {
+                  "name": "Bugasee",
+                  "text": "Der Bugasee ist ein See in Kassel, der beliebt ist für gemütliche Spaziergänge und zum Bewundern der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.498807,
+                        51.296113
+                  ]
+            },
+            {
+                  "name": "Spielplatz Landaustraße",
+                  "text": "Der Spielplatz Landaustraße ist ein Quartiersspielplatz in Kassel, auf dem Kinder spielen und Familien sich treffen können.",
+                  "category": "family",
+                  "coords": [
+                        9.491281,
+                        51.306029
+                  ]
+            },
+            {
+                  "name": "Spielplatz Glockenbruchweg",
+                  "text": "Der Spielplatz Glockenbruchweg in Kassel ist ein schöner Ort, um Kinder aktiv zu halten und gemeinsam Zeit zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        9.456586,
+                        51.297923
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Mühlhäuser Platz",
+                  "text": "Der Kinderspielplatz Mühlhäuser Platz in Kassel bietet einen wunderbaren Außenbereich für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        9.511053,
+                        51.330913
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Quellhofstraße",
+                  "text": "Der Aktivspielplatz Quellhofstraße ist ein Spielplatz in Kassel, der sich perfekt für energiegeladene Kinder und Familienausflüge eignet.",
+                  "category": "family",
+                  "coords": [
+                        9.501789,
+                        51.335878
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kochstraße",
+                  "text": "Der Spielplatz an der Kochstraße in Kassel bietet eine freundliche Umgebung, in der Familien entspannen können.",
+                  "category": "family",
+                  "coords": [
+                        9.467334,
+                        51.308035
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buddengasse",
+                  "text": "Der Spielplatz Buddengasse in Kassel ist ein charmanter Ort, an dem Familien frische Luft schnappen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        9.467786,
+                        51.310817
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tischbeinstraße",
+                  "text": "Der Spielplatz Tischbeinstraße ist ein ansprechender Spielplatz in Kassel, ideal für die gemeinsame Freizeit von Eltern und Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.473274,
+                        51.309726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bremelbachstraße",
+                  "text": "Dieser Spielplatz an der Bremelbachstraße in Kassel bietet einen tollen Spielbereich im Freien und Platz für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.444846,
+                        51.316448
+                  ]
+            },
+            {
+                  "name": "Spielplatz Geysostraße",
+                  "text": "Der Spielplatz Geysostraße ist ein familienorientierter Spielplatz in Kassel, der für Spiel und Spaß im Freien konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        9.459223,
+                        51.315771
+                  ]
+            },
+            {
+                  "name": "Minigolf Au Garden",
+                  "text": "Minigolf Au Garden in Kassel ist eine Anlage, auf der Familien einen lustigen und wettbewerbsfähigen Nachmittag verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        9.49321,
+                        51.296374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bosestraße",
+                  "text": "Der Spielplatz Bosestraße in Kassel bietet eine sichere und angenehme Umgebung für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        9.473671,
+                        51.299165
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grüner Waldweg",
+                  "text": "Der Spielplatz Grüner Waldweg in Kassel bietet Familien und Kindern einen von der Natur inspirierten Raum zum gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.450289,
+                        51.312675
+                  ]
+            },
+            {
+                  "name": "Spielplatz Holländische Straße",
+                  "text": "Der Spielplatz an der Holländischen Straße in Kassel ist ein lebendiger Ort für Kinderaktivitäten und Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        9.50108,
+                        51.32772
+                  ]
+            },
+            {
+                  "name": "Spielplatz Motzberg",
+                  "text": "Der Spielplatz Motzberg ist ein schöner Bereich in Kassel, der Familien zu Spiel und Spaß im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.479492,
+                        51.3142
+                  ]
+            },
+            {
+                  "name": "Sky Spielplatz Bleichenweg",
+                  "text": "Der Sky Spielplatz Bleichenweg in Kassel ist gut ausgestattet und ideal für einen entspannten Nachmittag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.516698,
+                        51.318879
+                  ]
+            },
+            {
+                  "name": "Spielplatz Graßweg",
+                  "text": "Der Spielplatz am Graßweg in Kassel ist ein hervorragender Ort für Familien, der einen sicheren Spielbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.459808,
+                        51.302913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Germaniastraße",
+                  "text": "Der Spielplatz Germaniastraße ist ein Treffpunkt in Kassel, an dem Familien gemeinsam Zeit an der frischen Luft verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        9.468874,
+                        51.313067
+                  ]
+            },
+            {
+                  "name": "Kurhessen Therme",
+                  "text": "Die Kurhessen Therme in Kassel ist ein Ort für Gesundheit, Wellness und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        9.426879,
+                        51.313365
+                  ]
+            },
+            {
+                  "name": "Zoo am Rammelsberg",
+                  "text": "Der Zoo am Rammelsberg in Kassel bietet ein naturnahes Erlebnis für kleine und große Tierfreunde.",
+                  "category": "family",
+                  "coords": [
+                        9.436655,
+                        51.317716
+                  ]
+            },
+            {
+                  "name": "Freibad Wilhelmshöhe",
+                  "text": "Das Freibad Wilhelmshöhe in Kassel lädt zu einer Erfrischung in historischer Umgebung ein.",
+                  "category": "family",
+                  "coords": [
+                        9.425673,
+                        51.308562
+                  ]
+            },
+            {
+                  "name": "Saunasee",
+                  "text": "Der Saunasee in Kassel ist ein besonderer Ort für Ruhe und Entspannung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.425643,
+                        51.313673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herkules-emlékmű",
+                  "text": "Kassel impozáns jelképe a Wilhelmshöhe hegyi park felett magasodik, és a barokk vízijátékok kiindulópontja.",
+                  "category": "Landmark",
+                  "confidence": "high",
+                  "coords": [
+                        9.39278,
+                        51.3164
+                  ]
+            },
+            {
+                  "name": "Wilhelmshöhe-kastély",
+                  "text": "Klasszicista kastély a hegyi parkban, amely ma jelentős művészeti gyűjteményeknek, például a Régi Mesterek Képtárának ad otthont.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.416111,
+                        51.315
+                  ]
+            },
+            {
+                  "name": "Löwenburg",
+                  "text": "A 18. század végén épült mesterséges várrom, amelyet romantikus lovagi síremlékként terveztek.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.40861,
+                        51.3114
+                  ]
+            },
+            {
+                  "name": "Karlsaue",
+                  "text": "Kiterjedt barokk park a Fulda folyó mentén a jellegzetes Orangerie épületével és mesterséges szigetvilággal.",
+                  "category": "Park",
+                  "confidence": "high",
+                  "coords": [
+                        9.49333,
+                        51.3019
+                  ]
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "Modern múzeum a Grimm testvérek életének és munkásságának szentelve, ahol híres meséiket interaktívan mutatják be.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.48927,
+                        51.3092
+                  ]
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Az európai szárazföld első nyilvános múzeumépülete, ma a documenta kortárs művészeti kiállítás központi helyszíne.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.4975,
+                        51.3136
+                  ]
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Barokk kastélyépület a Karlsaue állami parkban, amely ma a Csillagászati és Fizikai Kabinetnek ad helyet.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.500802,
+                        51.310268
+                  ]
+            },
+            {
+                  "name": "Caricatura",
+                  "text": "Képregény- és karikatúragaléria a kasseli Kulturbahnhof területén.",
+                  "category": "museum",
+                  "coords": [
+                        9.490577,
+                        51.318292
+                  ]
+            },
+            {
+                  "name": "Spohr Museum",
+                  "text": "Louis Spohr zeneszerző életét és munkásságát bemutató múzeum Kasselben.",
+                  "category": "museum",
+                  "coords": [
+                        9.493975,
+                        51.309915
+                  ]
+            },
+            {
+                  "name": "theater im centrum",
+                  "text": "Magánkézben lévő zenés színház Kassel belvárosában, változatos műsorral.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487182,
+                        51.316169
+                  ]
+            },
+            {
+                  "name": "Fuldaaue",
+                  "text": "Kiterjedt természetvédelmi és pihenőövezet a Fulda folyó mentén Kasselben.",
+                  "category": "natural",
+                  "coords": [
+                        9.504426,
+                        51.299587
+                  ]
+            },
+            {
+                  "name": "Marmorbad",
+                  "text": "Barokk márványfürdő szobrokkal a kasseli Orangerie mellett.",
+                  "category": "museum",
+                  "coords": [
+                        9.499539,
+                        51.310435
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Természettudományi múzeum a történelmi Ottoneumban, Németország első állandó színházépületében.",
+                  "category": "museum",
+                  "coords": [
+                        9.49895,
+                        51.313262
+                  ]
+            },
+            {
+                  "name": "documenta-Halle",
+                  "text": "Modern kiállítócsarnok Kasselben, amelyet elsősorban a documenta művészeti eseményhez használnak.",
+                  "category": "museum",
+                  "coords": [
+                        9.499489,
+                        51.312135
+                  ]
+            },
+            {
+                  "name": "Auebad",
+                  "text": "Modern szabadidős és sportfürdő Kasselben, fedett és szabadtéri medencékkel.",
+                  "category": "family",
+                  "coords": [
+                        9.500481,
+                        51.300685
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Kassel történelmét és városfejlődését bemutató múzeum a Ständeplatzon.",
+                  "category": "museum",
+                  "coords": [
+                        9.489631,
+                        51.314898
+                  ]
+            },
+            {
+                  "name": "Museum für Sepulkralkultur",
+                  "text": "Kasseli múzeum, amely a temetkezési kultúrának és a gyásznak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        9.488012,
+                        51.309078
+                  ]
+            },
+            {
+                  "name": "Hessisches Landesmuseum",
+                  "text": "Hessen tartomány művészeti és kultúrtörténeti gyűjteményét bemutató múzeum Kasselben.",
+                  "category": "museum",
+                  "coords": [
+                        9.489872,
+                        51.310631
+                  ]
+            },
+            {
+                  "name": "Technik-Museum Kassel",
+                  "text": "A múzeum a regionális ipartörténetet és a város jelentős technikai innovációit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.479507,
+                        51.324776
+                  ]
+            },
+            {
+                  "name": "Bademuseum",
+                  "text": "A fürdőkultúra történetének és fejlődésének szentelt szakmúzeum Kasselben.",
+                  "category": "museum",
+                  "coords": [
+                        9.504719,
+                        51.312631
+                  ]
+            },
+            {
+                  "name": "Henschel Museum",
+                  "text": "A mozdonygyártásáról világszerte ismert Henschel cég történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.480815,
+                        51.324625
+                  ]
+            },
+            {
+                  "name": "Deutsches Videothekenmuseum",
+                  "text": "A videotékák és az otthoni videohordozók történetét dokumentáló múzeum Kasselben.",
+                  "category": "museum",
+                  "coords": [
+                        9.493168,
+                        51.320154
+                  ]
+            },
+            {
+                  "name": "Vogelvolière",
+                  "text": "Parkban található madárröpde, ahol különféle madárfajok figyelhetőek meg a városban.",
+                  "category": "family",
+                  "coords": [
+                        9.486446,
+                        51.295519
+                  ]
+            },
+            {
+                  "name": "Stadthallengarten",
+                  "text": "Gondozott zöldterület a kasseli Stadthalle mellett.",
+                  "category": "park",
+                  "coords": [
+                        9.458827,
+                        51.317392
+                  ]
+            },
+            {
+                  "name": "Goetheanlage",
+                  "text": "Nyilvános parkerdő Kassel nyugati részén.",
+                  "category": "park",
+                  "coords": [
+                        9.45727,
+                        51.3144
+                  ]
+            },
+            {
+                  "name": "Aschrottpark",
+                  "text": "Történelmi park Kassel Vorderer Westen negyedében.",
+                  "category": "park",
+                  "coords": [
+                        9.451739,
+                        51.315999
+                  ]
+            },
+            {
+                  "name": "Zeughausruine",
+                  "text": "Az egykori fegyvertár maradványai, a város történelmének emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        9.505746,
+                        51.317894
+                  ]
+            },
+            {
+                  "name": "Lutherplatz",
+                  "text": "Központi zöldterület Kassel belvárosának szélén.",
+                  "category": "park",
+                  "coords": [
+                        9.496835,
+                        51.318033
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Kert hazai és egzotikus növények változatos gyűjteményével.",
+                  "category": "park",
+                  "coords": [
+                        9.470035,
+                        51.298494
+                  ]
+            },
+            {
+                  "name": "Park Schönfeld",
+                  "text": "Kiterjedt tájképi park a Schönfeld-kastéllyal.",
+                  "category": "park",
+                  "coords": [
+                        9.467048,
+                        51.299654
+                  ]
+            },
+            {
+                  "name": "Waldgarten am Helleböhnweg",
+                  "text": "Természetközeli kert a Helleböhn negyed szélén.",
+                  "category": "park",
+                  "coords": [
+                        9.449987,
+                        51.303053
+                  ]
+            },
+            {
+                  "name": "Druselturm",
+                  "text": "Kassel egykori városfalának középkori őrtornya.",
+                  "category": "tower",
+                  "coords": [
+                        9.499433,
+                        51.316297
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "A Silbersee egy gyönyörű tó Kasselben, amely ideális a part menti természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.36883,
+                        51.332445
+                  ]
+            },
+            {
+                  "name": "Sichelbachbecken",
+                  "text": "A kasseli Sichelbachbecken egy helyi tó, amely nyugodt környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.3783,
+                        51.317592
+                  ]
+            },
+            {
+                  "name": "Bugasee",
+                  "text": "A Bugasee egy tó Kasselben, amely népszerű a kényelmes séták és a természet megcsodálása miatt.",
+                  "category": "natural",
+                  "coords": [
+                        9.498807,
+                        51.296113
+                  ]
+            },
+            {
+                  "name": "Spielplatz Landaustraße",
+                  "text": "A Spielplatz Landaustraße egy környékbeli játszótér Kasselben, ahol a gyerekek játszhatnak és a családok találkozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.491281,
+                        51.306029
+                  ]
+            },
+            {
+                  "name": "Spielplatz Glockenbruchweg",
+                  "text": "A Kasselben található Spielplatz Glockenbruchweg egy szép hely a gyerekek aktívan tartására és a közös időtöltésre.",
+                  "category": "family",
+                  "coords": [
+                        9.456586,
+                        51.297923
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Mühlhäuser Platz",
+                  "text": "A kasseli Kinderspielplatz Mühlhäuser Platz csodálatos szabadtéri teret biztosít a családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        9.511053,
+                        51.330913
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Quellhofstraße",
+                  "text": "Az Aktivspielplatz Quellhofstraße egy játszótér Kasselben, amely tökéletes az energikus gyerekek és a családi kirándulások számára.",
+                  "category": "family",
+                  "coords": [
+                        9.501789,
+                        51.335878
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kochstraße",
+                  "text": "A kasseli Kochstraße játszótere barátságos környezetet kínál, ahol a családok pihenhetnek.",
+                  "category": "family",
+                  "coords": [
+                        9.467334,
+                        51.308035
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buddengasse",
+                  "text": "A kasseli Spielplatz Buddengasse egy bájos hely, ahol a családok friss levegőt szívhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.467786,
+                        51.310817
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tischbeinstraße",
+                  "text": "A Spielplatz Tischbeinstraße egy vonzó játszótér Kasselben, amely ideális a szülők és gyermekek közös szabadidejéhez.",
+                  "category": "family",
+                  "coords": [
+                        9.473274,
+                        51.309726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bremelbachstraße",
+                  "text": "Ez a kasseli Bremelbachstraße menti játszótér remek szabadtéri játszóteret és helyet kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        9.444846,
+                        51.316448
+                  ]
+            },
+            {
+                  "name": "Spielplatz Geysostraße",
+                  "text": "A Spielplatz Geysostraße egy családcentrikus játszótér Kasselben, amelyet szabadtéri játékra és szórakozásra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        9.459223,
+                        51.315771
+                  ]
+            },
+            {
+                  "name": "Minigolf Au Garden",
+                  "text": "A kasseli Minigolf Au Garden egy olyan létesítmény, ahol a családok szórakoztató és versengő délutánt tölthetnek el.",
+                  "category": "family",
+                  "coords": [
+                        9.49321,
+                        51.296374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bosestraße",
+                  "text": "A kasseli Bosestraße játszótér biztonságos és kellemes környezetet kínál a családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.473671,
+                        51.299165
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grüner Waldweg",
+                  "text": "A kasseli Spielplatz Grüner Waldweg a természet ihlette teret kínál a családok és gyerekek közös játékához.",
+                  "category": "family",
+                  "coords": [
+                        9.450289,
+                        51.312675
+                  ]
+            },
+            {
+                  "name": "Spielplatz Holländische Straße",
+                  "text": "A kasseli Holländische Straße játszótere egy nyüzsgő hely a gyermekprogramokhoz és családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.50108,
+                        51.32772
+                  ]
+            },
+            {
+                  "name": "Spielplatz Motzberg",
+                  "text": "A Spielplatz Motzberg egy szép terület Kasselben, amely szabadtéri játékra és szórakozásra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        9.479492,
+                        51.3142
+                  ]
+            },
+            {
+                  "name": "Sky Spielplatz Bleichenweg",
+                  "text": "A kasseli Sky Spielplatz Bleichenweg jól felszerelt, és ideális egy pihentető délutánhoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        9.516698,
+                        51.318879
+                  ]
+            },
+            {
+                  "name": "Spielplatz Graßweg",
+                  "text": "A kasseli Graßweg játszótér egy kiváló hely a családok számára, amely biztonságos játszóteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        9.459808,
+                        51.302913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Germaniastraße",
+                  "text": "A Spielplatz Germaniastraße egy olyan találkozóhely Kasselben, ahol a családok együtt tölthetnek időt a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        9.468874,
+                        51.313067
+                  ]
+            },
+            {
+                  "name": "Kurhessen Therme",
+                  "text": "A kasseli Kurhessen Therme az egészség, a wellness és a pihenés helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        9.426879,
+                        51.313365
+                  ]
+            },
+            {
+                  "name": "Zoo am Rammelsberg",
+                  "text": "A kasseli Zoo am Rammelsberg természetközeli élményt nyújt a kicsi és nagy állatbarátoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.436655,
+                        51.317716
+                  ]
+            },
+            {
+                  "name": "Freibad Wilhelmshöhe",
+                  "text": "A kasseli Freibad Wilhelmshöhe felfrissülésre hív történelmi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.425673,
+                        51.308562
+                  ]
+            },
+            {
+                  "name": "Saunasee",
+                  "text": "A kasseli Saunasee különleges hely a nyugalomra és a vízben való pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        9.425643,
+                        51.313673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Hercules",
+                  "text": "Simbolul impunător al orașului Kassel tronează peste parcul Wilhelmshöhe și este punctul de plecare al jocurilor de apă baroce.",
+                  "category": "Landmark",
+                  "confidence": "high",
+                  "coords": [
+                        9.39278,
+                        51.3164
+                  ]
+            },
+            {
+                  "name": "Palatul Wilhelmshöhe",
+                  "text": "Un palat clasicist în parcul de munte, care găzduiește astăzi colecții importante de artă, precum Galeria Vechilor Maeștri.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.416111,
+                        51.315
+                  ]
+            },
+            {
+                  "name": "Castelul Löwenburg",
+                  "text": "O ruină de castel construită artificial la sfârșitul secolului al XVIII-lea, concepută ca un mausoleu romantic pentru cavaler.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.40861,
+                        51.3114
+                  ]
+            },
+            {
+                  "name": "Parcul Karlsaue",
+                  "text": "Un parc baroc vast situat pe malul râului Fulda, cu monumentala Orangerie și un sistem de insule artificiale.",
+                  "category": "Park",
+                  "confidence": "high",
+                  "coords": [
+                        9.49333,
+                        51.3019
+                  ]
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "Un muzeu modern dedicat vieții și operei fraților Grimm, prezentând celebrele lor basme într-un mod interactiv.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.48927,
+                        51.3092
+                  ]
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Prima clădire de muzeu public de pe continentul european și astăzi centrul expozițional principal pentru documenta.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.4975,
+                        51.3136
+                  ]
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "O clădire de palat baroc în parcul de stat Karlsaue, care găzduiește astăzi Cabinetul de Astronomie și Fizică.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.500802,
+                        51.310268
+                  ]
+            },
+            {
+                  "name": "Caricatura",
+                  "text": "Galerie pentru artă comică și caricatură situată în incinta Kulturbahnhof din Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.490577,
+                        51.318292
+                  ]
+            },
+            {
+                  "name": "Spohr Museum",
+                  "text": "Muzeu dedicat vieții și operei compozitorului Louis Spohr din Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.493975,
+                        51.309915
+                  ]
+            },
+            {
+                  "name": "theater im centrum",
+                  "text": "Teatru muzical privat din centrul orașului Kassel, cu un program variat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487182,
+                        51.316169
+                  ]
+            },
+            {
+                  "name": "Fuldaaue",
+                  "text": "Rezervație naturală și zonă de recreere extinsă de-a lungul râului Fulda în Kassel.",
+                  "category": "natural",
+                  "coords": [
+                        9.504426,
+                        51.299587
+                  ]
+            },
+            {
+                  "name": "Marmorbad",
+                  "text": "Baie barocă spectaculoasă cu sculpturi din marmură, situată lângă Orangeria din Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.499539,
+                        51.310435
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Muzeu de istorie naturală în istoricul Ottoneum, prima clădire de teatru permanentă din Germania.",
+                  "category": "museum",
+                  "coords": [
+                        9.49895,
+                        51.313262
+                  ]
+            },
+            {
+                  "name": "documenta-Halle",
+                  "text": "Sală de expoziții modernă din Kassel, utilizată în principal pentru expoziția documenta.",
+                  "category": "museum",
+                  "coords": [
+                        9.499489,
+                        51.312135
+                  ]
+            },
+            {
+                  "name": "Auebad",
+                  "text": "Centru acvatic modern pentru agrement și sport din Kassel, cu piscine interioare și exterioare.",
+                  "category": "family",
+                  "coords": [
+                        9.500481,
+                        51.300685
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeu dedicat istoriei și dezvoltării urbane a orașului Kassel, situat în Ständeplatz.",
+                  "category": "museum",
+                  "coords": [
+                        9.489631,
+                        51.314898
+                  ]
+            },
+            {
+                  "name": "Museum für Sepulkralkultur",
+                  "text": "Muzeu unic în Kassel, dedicat culturii funerare și tradițiilor de doliu.",
+                  "category": "museum",
+                  "coords": [
+                        9.488012,
+                        51.309078
+                  ]
+            },
+            {
+                  "name": "Hessisches Landesmuseum",
+                  "text": "Un muzeu în Kassel dedicat istoriei artei și culturii landului Hessa.",
+                  "category": "museum",
+                  "coords": [
+                        9.489872,
+                        51.310631
+                  ]
+            },
+            {
+                  "name": "Technik-Museum Kassel",
+                  "text": "Muzeul documentează istoria industrială regională și inovațiile tehnice importante ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        9.479507,
+                        51.324776
+                  ]
+            },
+            {
+                  "name": "Bademuseum",
+                  "text": "Un muzeu specializat din Kassel dedicat istoriei și dezvoltării culturii băilor.",
+                  "category": "museum",
+                  "coords": [
+                        9.504719,
+                        51.312631
+                  ]
+            },
+            {
+                  "name": "Henschel Museum",
+                  "text": "Muzeu dedicat istoriei companiei Henschel, cunoscută la nivel mondial pentru construcția de locomotive.",
+                  "category": "museum",
+                  "coords": [
+                        9.480815,
+                        51.324625
+                  ]
+            },
+            {
+                  "name": "Deutsches Videothekenmuseum",
+                  "text": "Un muzeu din Kassel care documentează istoria magazinelor video și a mediilor video de acasă.",
+                  "category": "museum",
+                  "coords": [
+                        9.493168,
+                        51.320154
+                  ]
+            },
+            {
+                  "name": "Vogelvolière",
+                  "text": "O volieră într-un parc pentru observarea diverselor specii de păsări din zona orașului.",
+                  "category": "family",
+                  "coords": [
+                        9.486446,
+                        51.295519
+                  ]
+            },
+            {
+                  "name": "Stadthallengarten",
+                  "text": "O zonă verde îngrijită lângă Stadthalle Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.458827,
+                        51.317392
+                  ]
+            },
+            {
+                  "name": "Goetheanlage",
+                  "text": "Un parc public în partea de vest a orașului Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.45727,
+                        51.3144
+                  ]
+            },
+            {
+                  "name": "Aschrottpark",
+                  "text": "Un parc istoric în cartierul Vorderer Westen din Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.451739,
+                        51.315999
+                  ]
+            },
+            {
+                  "name": "Zeughausruine",
+                  "text": "Rămășițele fostului arsenal, un monument al istoriei orașului.",
+                  "category": "historical",
+                  "coords": [
+                        9.505746,
+                        51.317894
+                  ]
+            },
+            {
+                  "name": "Lutherplatz",
+                  "text": "Un spațiu verde central la marginea centrului orașului Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.496835,
+                        51.318033
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "O grădină cu o colecție diversă de plante native și exotice.",
+                  "category": "park",
+                  "coords": [
+                        9.470035,
+                        51.298494
+                  ]
+            },
+            {
+                  "name": "Park Schönfeld",
+                  "text": "Un parc peisagistic vast care include castelul Schönfeld.",
+                  "category": "park",
+                  "coords": [
+                        9.467048,
+                        51.299654
+                  ]
+            },
+            {
+                  "name": "Waldgarten am Helleböhnweg",
+                  "text": "O grădină naturală la marginea cartierului Helleböhn.",
+                  "category": "park",
+                  "coords": [
+                        9.449987,
+                        51.303053
+                  ]
+            },
+            {
+                  "name": "Druselturm",
+                  "text": "Un turn de veghe medieval din fosta fortificație a orașului Kassel.",
+                  "category": "tower",
+                  "coords": [
+                        9.499433,
+                        51.316297
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Silbersee este un lac frumos situat în Kassel, ideal pentru plimbări în natură pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.36883,
+                        51.332445
+                  ]
+            },
+            {
+                  "name": "Sichelbachbecken",
+                  "text": "Sichelbachbecken din Kassel este un lac local care oferă un cadru liniștit pentru plimbări și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.3783,
+                        51.317592
+                  ]
+            },
+            {
+                  "name": "Bugasee",
+                  "text": "Bugasee este un lac din Kassel, popular pentru plimbări relaxante și pentru admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.498807,
+                        51.296113
+                  ]
+            },
+            {
+                  "name": "Spielplatz Landaustraße",
+                  "text": "Spielplatz Landaustraße este un loc de joacă de cartier din Kassel, unde copiii se pot juca și familiile se pot întâlni.",
+                  "category": "family",
+                  "coords": [
+                        9.491281,
+                        51.306029
+                  ]
+            },
+            {
+                  "name": "Spielplatz Glockenbruchweg",
+                  "text": "Spielplatz Glockenbruchweg din Kassel este un loc frumos pentru a menține copiii activi și a petrece timpul împreună.",
+                  "category": "family",
+                  "coords": [
+                        9.456586,
+                        51.297923
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Mühlhäuser Platz",
+                  "text": "Kinderspielplatz Mühlhäuser Platz din Kassel oferă o zonă minunată în aer liber pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.511053,
+                        51.330913
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Quellhofstraße",
+                  "text": "Aktivspielplatz Quellhofstraße este un loc de joacă în Kassel, perfect pentru copiii plini de energie și ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.501789,
+                        51.335878
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kochstraße",
+                  "text": "Locul de joacă de pe Kochstraße din Kassel oferă un mediu prietenos unde familiile se pot relaxa.",
+                  "category": "family",
+                  "coords": [
+                        9.467334,
+                        51.308035
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buddengasse",
+                  "text": "Spielplatz Buddengasse din Kassel este un loc fermecător unde familiile pot lua o gură de aer proaspăt și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        9.467786,
+                        51.310817
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tischbeinstraße",
+                  "text": "Spielplatz Tischbeinstraße este un loc de joacă atractiv din Kassel, ideal pentru timpul liber comun al părinților și copiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.473274,
+                        51.309726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bremelbachstraße",
+                  "text": "Acest loc de joacă de pe Bremelbachstraße din Kassel oferă o zonă excelentă de joacă în aer liber și spațiu pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        9.444846,
+                        51.316448
+                  ]
+            },
+            {
+                  "name": "Spielplatz Geysostraße",
+                  "text": "Spielplatz Geysostraße este un loc de joacă orientat spre familie din Kassel, conceput pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.459223,
+                        51.315771
+                  ]
+            },
+            {
+                  "name": "Minigolf Au Garden",
+                  "text": "Minigolf Au Garden din Kassel este un teren unde familiile pot petrece o după-amiază distractivă și competitivă.",
+                  "category": "family",
+                  "coords": [
+                        9.49321,
+                        51.296374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bosestraße",
+                  "text": "Locul de joacă Bosestraße din Kassel oferă un mediu sigur și plăcut pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.473671,
+                        51.299165
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grüner Waldweg",
+                  "text": "Spielplatz Grüner Waldweg din Kassel oferă familiilor și copiilor un spațiu inspirat de natură pentru joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        9.450289,
+                        51.312675
+                  ]
+            },
+            {
+                  "name": "Spielplatz Holländische Straße",
+                  "text": "Locul de joacă de pe Holländische Straße din Kassel este un loc plin de viață pentru activitățile copiilor și ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.50108,
+                        51.32772
+                  ]
+            },
+            {
+                  "name": "Spielplatz Motzberg",
+                  "text": "Spielplatz Motzberg este o zonă frumoasă din Kassel care invită familiile la joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.479492,
+                        51.3142
+                  ]
+            },
+            {
+                  "name": "Sky Spielplatz Bleichenweg",
+                  "text": "Sky Spielplatz Bleichenweg din Kassel este bine echipat și ideal pentru o după-amiază relaxantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.516698,
+                        51.318879
+                  ]
+            },
+            {
+                  "name": "Spielplatz Graßweg",
+                  "text": "Locul de joacă de pe Graßweg din Kassel este un loc excelent pentru familii, oferind o zonă de joacă sigură.",
+                  "category": "family",
+                  "coords": [
+                        9.459808,
+                        51.302913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Germaniastraße",
+                  "text": "Spielplatz Germaniastraße este un punct de întâlnire în Kassel unde familiile pot petrece timp împreună la aer curat.",
+                  "category": "family",
+                  "coords": [
+                        9.468874,
+                        51.313067
+                  ]
+            },
+            {
+                  "name": "Kurhessen Therme",
+                  "text": "Kurhessen Therme din Kassel este un loc pentru sănătate, wellness și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        9.426879,
+                        51.313365
+                  ]
+            },
+            {
+                  "name": "Zoo am Rammelsberg",
+                  "text": "Zoo am Rammelsberg din Kassel oferă o experiență aproape de natură pentru micii și marii iubitori de animale.",
+                  "category": "family",
+                  "coords": [
+                        9.436655,
+                        51.317716
+                  ]
+            },
+            {
+                  "name": "Freibad Wilhelmshöhe",
+                  "text": "Ștrandul Wilhelmshöhe din Kassel invită la o răcorire într-un cadru istoric.",
+                  "category": "family",
+                  "coords": [
+                        9.425673,
+                        51.308562
+                  ]
+            },
+            {
+                  "name": "Saunasee",
+                  "text": "Saunasee din Kassel este un loc special pentru liniște și relaxare în apă.",
+                  "category": "family",
+                  "coords": [
+                        9.425643,
+                        51.313673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hercules Monument",
+                  "text": "The imposing landmark of Kassel towers over Bergpark Wilhelmshöhe and is the starting point of the baroque water features.",
+                  "category": "Landmark",
+                  "confidence": "high",
+                  "coords": [
+                        9.39278,
+                        51.3164
+                  ]
+            },
+            {
+                  "name": "Schloss Wilhelmshöhe",
+                  "text": "A neoclassical palace in the mountain park, now housing significant art collections like the Old Masters Picture Gallery.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.416111,
+                        51.315
+                  ]
+            },
+            {
+                  "name": "Löwenburg Castle",
+                  "text": "A mock-medieval castle ruin built in the late 18th century, designed as a romantic knight's tomb.",
+                  "category": "Castle",
+                  "confidence": "high",
+                  "coords": [
+                        9.40861,
+                        51.3114
+                  ]
+            },
+            {
+                  "name": "Karlsaue Park",
+                  "text": "An extensive baroque park directly on the Fulda River with the striking Orangerie and an artificial island world.",
+                  "category": "Park",
+                  "confidence": "high",
+                  "coords": [
+                        9.49333,
+                        51.3019
+                  ]
+            },
+            {
+                  "name": "Grimmwelt Kassel",
+                  "text": "A modern museum dedicated to the life and work of the Brothers Grimm, presenting their famous fairy tales interactively.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.48927,
+                        51.3092
+                  ]
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "The first public museum building on the European mainland and today a central exhibition venue for the documenta.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.4975,
+                        51.3136
+                  ]
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "A baroque palace building in the Karlsaue State Park, which now houses the Cabinet of Astronomy and Physics.",
+                  "category": "Museum",
+                  "confidence": "high",
+                  "coords": [
+                        9.500802,
+                        51.310268
+                  ]
+            },
+            {
+                  "name": "Caricatura",
+                  "text": "Gallery for comic art and caricatures located in Kassel's Kulturbahnhof.",
+                  "category": "museum",
+                  "coords": [
+                        9.490577,
+                        51.318292
+                  ]
+            },
+            {
+                  "name": "Spohr Museum",
+                  "text": "Museum dedicated to the life and work of the composer Louis Spohr in Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.493975,
+                        51.309915
+                  ]
+            },
+            {
+                  "name": "theater im centrum",
+                  "text": "Private musical theatre in Kassel city centre with a diverse programme.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487182,
+                        51.316169
+                  ]
+            },
+            {
+                  "name": "Fuldaaue",
+                  "text": "Large nature reserve and recreational area along the Fulda river in Kassel.",
+                  "category": "natural",
+                  "coords": [
+                        9.504426,
+                        51.299587
+                  ]
+            },
+            {
+                  "name": "Marmorbad",
+                  "text": "Baroque marble bath with sculptures located next to the Orangerie in Kassel.",
+                  "category": "museum",
+                  "coords": [
+                        9.499539,
+                        51.310435
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum",
+                  "text": "Natural history museum in the historical Ottoneum, Germany's first permanent theatre building.",
+                  "category": "museum",
+                  "coords": [
+                        9.49895,
+                        51.313262
+                  ]
+            },
+            {
+                  "name": "documenta-Halle",
+                  "text": "Modern exhibition hall in Kassel primarily used for the documenta art event.",
+                  "category": "museum",
+                  "coords": [
+                        9.499489,
+                        51.312135
+                  ]
+            },
+            {
+                  "name": "Auebad",
+                  "text": "Modern leisure and sports swimming pool in Kassel with indoor and outdoor areas.",
+                  "category": "family",
+                  "coords": [
+                        9.500481,
+                        51.300685
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Museum focusing on the history and urban development of Kassel on Ständeplatz.",
+                  "category": "museum",
+                  "coords": [
+                        9.489631,
+                        51.314898
+                  ]
+            },
+            {
+                  "name": "Museum für Sepulkralkultur",
+                  "text": "Unique museum in Kassel dedicated to burial culture and mourning traditions.",
+                  "category": "museum",
+                  "coords": [
+                        9.488012,
+                        51.309078
+                  ]
+            },
+            {
+                  "name": "Hessisches Landesmuseum",
+                  "text": "A museum in Kassel showcasing the art and cultural history of the state of Hesse.",
+                  "category": "museum",
+                  "coords": [
+                        9.489872,
+                        51.310631
+                  ]
+            },
+            {
+                  "name": "Technik-Museum Kassel",
+                  "text": "The museum documents regional industrial history and important technical innovations of the city.",
+                  "category": "museum",
+                  "coords": [
+                        9.479507,
+                        51.324776
+                  ]
+            },
+            {
+                  "name": "Bademuseum",
+                  "text": "A specialized museum in Kassel dedicated to the history and development of bathing culture.",
+                  "category": "museum",
+                  "coords": [
+                        9.504719,
+                        51.312631
+                  ]
+            },
+            {
+                  "name": "Henschel Museum",
+                  "text": "A museum about the history of the Henschel company, world-renowned for its locomotive construction.",
+                  "category": "museum",
+                  "coords": [
+                        9.480815,
+                        51.324625
+                  ]
+            },
+            {
+                  "name": "Deutsches Videothekenmuseum",
+                  "text": "A museum in Kassel documenting the history of video rental stores and home video media.",
+                  "category": "museum",
+                  "coords": [
+                        9.493168,
+                        51.320154
+                  ]
+            },
+            {
+                  "name": "Vogelvolière",
+                  "text": "An aviary in a park setting for observing various bird species within the city area.",
+                  "category": "family",
+                  "coords": [
+                        9.486446,
+                        51.295519
+                  ]
+            },
+            {
+                  "name": "Stadthallengarten",
+                  "text": "A well-maintained green area next to the Stadthalle Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.458827,
+                        51.317392
+                  ]
+            },
+            {
+                  "name": "Goetheanlage",
+                  "text": "A public park area in the western part of Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.45727,
+                        51.3144
+                  ]
+            },
+            {
+                  "name": "Aschrottpark",
+                  "text": "A historical park in the Vorderer Westen district of Kassel.",
+                  "category": "park",
+                  "coords": [
+                        9.451739,
+                        51.315999
+                  ]
+            },
+            {
+                  "name": "Zeughausruine",
+                  "text": "The remains of the former arsenal, a monument to the city's history.",
+                  "category": "historical",
+                  "coords": [
+                        9.505746,
+                        51.317894
+                  ]
+            },
+            {
+                  "name": "Lutherplatz",
+                  "text": "A central green space on the edge of Kassel city center.",
+                  "category": "park",
+                  "coords": [
+                        9.496835,
+                        51.318033
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A garden featuring a diverse collection of native and exotic plants.",
+                  "category": "park",
+                  "coords": [
+                        9.470035,
+                        51.298494
+                  ]
+            },
+            {
+                  "name": "Park Schönfeld",
+                  "text": "A spacious landscape park featuring the Schönfeld Castle.",
+                  "category": "park",
+                  "coords": [
+                        9.467048,
+                        51.299654
+                  ]
+            },
+            {
+                  "name": "Waldgarten am Helleböhnweg",
+                  "text": "A nature-oriented garden area on the edge of the Helleböhn district.",
+                  "category": "park",
+                  "coords": [
+                        9.449987,
+                        51.303053
+                  ]
+            },
+            {
+                  "name": "Druselturm",
+                  "text": "A medieval watchtower from Kassel's former city fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        9.499433,
+                        51.316297
+                  ]
+            },
+            {
+                  "name": "Silbersee",
+                  "text": "Silbersee is a beautiful lake located in Kassel, ideal for nature walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.36883,
+                        51.332445
+                  ]
+            },
+            {
+                  "name": "Sichelbachbecken",
+                  "text": "Sichelbachbecken in Kassel is a local lake offering a tranquil setting for walking and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.3783,
+                        51.317592
+                  ]
+            },
+            {
+                  "name": "Bugasee",
+                  "text": "Bugasee is a lake in Kassel, popular for leisurely strolls and admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        9.498807,
+                        51.296113
+                  ]
+            },
+            {
+                  "name": "Spielplatz Landaustraße",
+                  "text": "Spielplatz Landaustraße is a neighborhood playground in Kassel where children can play and families can gather.",
+                  "category": "family",
+                  "coords": [
+                        9.491281,
+                        51.306029
+                  ]
+            },
+            {
+                  "name": "Spielplatz Glockenbruchweg",
+                  "text": "Spielplatz Glockenbruchweg in Kassel is a lovely spot to keep children active and spend time together as a family.",
+                  "category": "family",
+                  "coords": [
+                        9.456586,
+                        51.297923
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Mühlhäuser Platz",
+                  "text": "Kinderspielplatz Mühlhäuser Platz in Kassel provides a wonderful outdoor space for family activities.",
+                  "category": "family",
+                  "coords": [
+                        9.511053,
+                        51.330913
+                  ]
+            },
+            {
+                  "name": "Aktivspielplatz Quellhofstraße",
+                  "text": "Aktivspielplatz Quellhofstraße is a playground in Kassel, perfect for energetic kids and family outings.",
+                  "category": "family",
+                  "coords": [
+                        9.501789,
+                        51.335878
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kochstraße",
+                  "text": "The playground on Kochstraße in Kassel offers a friendly environment where families can relax.",
+                  "category": "family",
+                  "coords": [
+                        9.467334,
+                        51.308035
+                  ]
+            },
+            {
+                  "name": "Spielplatz Buddengasse",
+                  "text": "Spielplatz Buddengasse in Kassel is a charming spot where families can get some fresh air and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.467786,
+                        51.310817
+                  ]
+            },
+            {
+                  "name": "Spielplatz Tischbeinstraße",
+                  "text": "Spielplatz Tischbeinstraße is an engaging playground in Kassel, ideal for shared leisure time for parents and children.",
+                  "category": "family",
+                  "coords": [
+                        9.473274,
+                        51.309726
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bremelbachstraße",
+                  "text": "This playground on Bremelbachstraße in Kassel provides a great outdoor play area and space for the family.",
+                  "category": "family",
+                  "coords": [
+                        9.444846,
+                        51.316448
+                  ]
+            },
+            {
+                  "name": "Spielplatz Geysostraße",
+                  "text": "Spielplatz Geysostraße is a family-oriented playground in Kassel designed for outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        9.459223,
+                        51.315771
+                  ]
+            },
+            {
+                  "name": "Minigolf Au Garden",
+                  "text": "Minigolf Au Garden in Kassel is a course where families can spend a fun and competitive afternoon.",
+                  "category": "family",
+                  "coords": [
+                        9.49321,
+                        51.296374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bosestraße",
+                  "text": "The Bosestraße playground in Kassel offers a safe and pleasant environment for family outings.",
+                  "category": "family",
+                  "coords": [
+                        9.473671,
+                        51.299165
+                  ]
+            },
+            {
+                  "name": "Spielplatz Grüner Waldweg",
+                  "text": "Spielplatz Grüner Waldweg in Kassel provides families and children with a nature-inspired space to play together.",
+                  "category": "family",
+                  "coords": [
+                        9.450289,
+                        51.312675
+                  ]
+            },
+            {
+                  "name": "Spielplatz Holländische Straße",
+                  "text": "The playground on Holländische Straße in Kassel is a lively spot for children's activities and family outings.",
+                  "category": "family",
+                  "coords": [
+                        9.50108,
+                        51.32772
+                  ]
+            },
+            {
+                  "name": "Spielplatz Motzberg",
+                  "text": "Spielplatz Motzberg is a lovely area in Kassel that invites families for outdoor games and fun.",
+                  "category": "family",
+                  "coords": [
+                        9.479492,
+                        51.3142
+                  ]
+            },
+            {
+                  "name": "Sky Spielplatz Bleichenweg",
+                  "text": "Sky Spielplatz Bleichenweg in Kassel is well-equipped and ideal for a relaxing afternoon with the family.",
+                  "category": "family",
+                  "coords": [
+                        9.516698,
+                        51.318879
+                  ]
+            },
+            {
+                  "name": "Spielplatz Graßweg",
+                  "text": "The playground on Graßweg in Kassel is an excellent spot for families, offering a safe play area.",
+                  "category": "family",
+                  "coords": [
+                        9.459808,
+                        51.302913
+                  ]
+            },
+            {
+                  "name": "Spielplatz Germaniastraße",
+                  "text": "Spielplatz Germaniastraße is a meeting point in Kassel where families can spend time together in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        9.468874,
+                        51.313067
+                  ]
+            },
+            {
+                  "name": "Kurhessen Therme",
+                  "text": "The Kurhessen Therme in Kassel is a place for health, wellness, and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        9.426879,
+                        51.313365
+                  ]
+            },
+            {
+                  "name": "Zoo am Rammelsberg",
+                  "text": "The Zoo am Rammelsberg in Kassel offers a close-to-nature experience for small and large animal lovers.",
+                  "category": "family",
+                  "coords": [
+                        9.436655,
+                        51.317716
+                  ]
+            },
+            {
+                  "name": "Freibad Wilhelmshöhe",
+                  "text": "The Freibad Wilhelmshöhe in Kassel invites you for a refreshment in historic surroundings.",
+                  "category": "family",
+                  "coords": [
+                        9.425673,
+                        51.308562
+                  ]
+            },
+            {
+                  "name": "Saunasee",
+                  "text": "The Saunasee in Kassel is a special place for peace and relaxation in the water.",
+                  "category": "family",
+                  "coords": [
+                        9.425643,
+                        51.313673
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Herkül Anıtı",
+                  "text": "Wilhelmshöhe Dağ Parkı'nın tepesinde yükselen anıt, görkemli Barok su gösterilerinin başlangıç noktasıdır.",
+                  "category": "Landmark",
+                  "coords": [
+                        9.39278,
+                        51.3164
+                  ]
+            },
+            {
+                  "name": "Schloss Wilhelmshöhe",
+                  "text": "Klasisist tarzda inşa edilen saray, günümüzde Eski Ustalar Resim Galerisi gibi önemli koleksiyonları barındırır.",
+                  "category": "Castle",
+                  "coords": [
+                        9.416111,
+                        51.315
+                  ]
+            },
+            {
+                  "name": "Löwenburg",
+                  "text": "18. yüzyıl sonlarında inşa edilen bu yapay kale kalıntısı, romantik bir şövalye anıt mezarı olarak tasarlanmıştır.",
+                  "category": "Castle",
+                  "coords": [
+                        9.40861,
+                        51.3114
+                  ]
+            },
+            {
+                  "name": "Karlsaue",
+                  "text": "Fulda kıyısındaki geniş Barok park, karakteristik Limonluk binası ve yapay adalarıyla huzurlu bir alandır.",
+                  "category": "Park",
+                  "coords": [
+                        9.49333,
+                        51.3019
+                  ]
+            },
+            {
+                  "name": "Kassel Grimm Dünyası",
+                  "text": "Grimm Kardeşlerin yaşamına adanmış modern müzede, ünlü masallar etkileşimli bir şekilde sunulmaktadır.",
+                  "category": "Museum",
+                  "coords": [
+                        9.48927,
+                        51.3092
+                  ]
+            },
+            {
+                  "name": "Fridericianum",
+                  "text": "Avrupa ana karasındaki ilk halka açık müze binası olup günümüzde documenta sergisinin ana merkezidir.",
+                  "category": "Museum",
+                  "coords": [
+                        9.4975,
+                        51.3136
+                  ]
+            },
+            {
+                  "name": "Orangerie",
+                  "text": "Karlsaue Parkı'ndaki bu Barok saray binası, günümüzde Astronomi ve Fizik Kabinesi'ne ev sahipliği yapar.",
+                  "category": "Museum",
+                  "coords": [
+                        9.500802,
+                        51.310268
+                  ]
+            }
+      ]
+}
   },
   {
     id: "city-aachen",

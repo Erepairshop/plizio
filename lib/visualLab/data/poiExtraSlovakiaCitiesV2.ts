@@ -7946,24 +7946,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 137",
-                  "text": "Detské ihrisko 137 ist ein lokaler Spielplatz in Trenčín mit verschiedenen Geräten.",
-                  "category": "family",
-                  "coords": [
-                        18.030364,
-                        48.877946
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 120",
-                  "text": "Detské ihrisko 120 in Trenčín lädt Familien zum gemeinsamen Spielen im Freien ein.",
-                  "category": "family",
-                  "coords": [
-                        18.0194,
-                        48.88248
-                  ]
-            },
-            {
                   "name": "Ihrisko Pádivec",
                   "text": "Ihrisko Pádivec in Trenčín – öffentlicher Spielplatz mit Rutschen, Schaukeln und Sandkasten.",
                   "category": "family",
@@ -7982,15 +7964,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 119",
-                  "text": "Detské ihrisko 119 bietet Kindern in Trenčín eine klassische Spielumgebung.",
-                  "category": "family",
-                  "coords": [
-                        18.020415,
-                        48.882919
-                  ]
-            },
-            {
                   "name": "Detský zábavný areál Ostrov",
                   "text": "Detský zábavný areál Ostrov in Trenčín bietet vielfältige Aktivitäten für einen Familientag.",
                   "category": "family",
@@ -8000,75 +7973,12 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 353",
-                  "text": "Detské ihrisko 353 in Trenčín ist ein praktischer Spielbereich für Kinder aus der Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        18.082583,
-                        48.89364
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 332",
-                  "text": "Detské ihrisko 332 ist ein kleinerer Spielplatz in Trenčín für kurze Spielpausen.",
-                  "category": "family",
-                  "coords": [
-                        18.078822,
-                        48.893022
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 125",
-                  "text": "Detské ihrisko 125 in Trenčín ist ein gut ausgestatteter Platz für Bewegung und Spaß.",
-                  "category": "family",
-                  "coords": [
-                        18.048362,
-                        48.89557
-                  ]
-            },
-            {
                   "name": "Srdiečko",
                   "text": "Srdiečko in Trenčín ist ein liebevoll gestalteter Spielplatz für die Kleinsten.",
                   "category": "family",
                   "coords": [
                         18.046451,
                         48.883989
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 102",
-                  "text": "Detské ihrisko 102 in Trenčín ist ein einfacher Ort für tägliches Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        18.032933,
-                        48.878701
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 103",
-                  "text": "Detské ihrisko 103 bietet Kindern in Trenčín eine weitere Möglichkeit zum Toben.",
-                  "category": "family",
-                  "coords": [
-                        18.033849,
-                        48.878126
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 334",
-                  "text": "Detské ihrisko 334 in Trenčín dient als Treffpunkt für Familien im Wohnviertel.",
-                  "category": "family",
-                  "coords": [
-                        18.068493,
-                        48.89499
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 333",
-                  "text": "Detské ihrisko 333 in Trenčín bietet eine solide Auswahl an Spielgeräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        18.070862,
-                        48.894617
                   ]
             }
       ],
@@ -8299,24 +8209,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 137",
-                  "text": "A 137-es számú játszótér egy helyi pihenőhely Trencsénben különféle játékokkal.",
-                  "category": "family",
-                  "coords": [
-                        18.030364,
-                        48.877946
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 120",
-                  "text": "A trencséni 120-as számú játszótér szabadtéri játékra hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        18.0194,
-                        48.88248
-                  ]
-            },
-            {
                   "name": "Ihrisko Pádivec",
                   "text": "Ihrisko Pádivec Trencsénben – nyilvános játszótér csúszdákkal, hintákkal és homokozóval.",
                   "category": "family",
@@ -8335,15 +8227,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 119",
-                  "text": "A 119-es számú játszótér klasszikus játékkörnyezetet biztosít a gyerekeknek Trencsénben.",
-                  "category": "family",
-                  "coords": [
-                        18.020415,
-                        48.882919
-                  ]
-            },
-            {
                   "name": "Detský zábavný areál Ostrov",
                   "text": "A trencséni Ostrov gyermekszórakoztató központ változatos programokat kínál egy családi naphoz.",
                   "category": "family",
@@ -8353,75 +8236,12 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 353",
-                  "text": "A trencséni 353-as számú játszótér praktikus játszóhely a környékbeli gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        18.082583,
-                        48.89364
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 332",
-                  "text": "A 332-es számú játszótér egy kisebb játékhely Trencsénben rövid szünetekhez.",
-                  "category": "family",
-                  "coords": [
-                        18.078822,
-                        48.893022
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 125",
-                  "text": "A trencséni 125-ös számú játszótér jól felszerelt hely a mozgáshoz és szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        18.048362,
-                        48.89557
-                  ]
-            },
-            {
                   "name": "Srdiečko",
                   "text": "A trencséni Srdiečko egy kedvesen kialakított játszótér a legkisebbek számára.",
                   "category": "family",
                   "coords": [
                         18.046451,
                         48.883989
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 102",
-                  "text": "A trencséni 102-es számú játszótér egyszerű hely a mindennapi szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        18.032933,
-                        48.878701
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 103",
-                  "text": "A 103-as számú játszótér újabb lehetőséget nyújt a gyerekeknek Trencsénben a játékra.",
-                  "category": "family",
-                  "coords": [
-                        18.033849,
-                        48.878126
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 334",
-                  "text": "A trencséni 334-es számú játszótér találkozóhelyként szolgál a lakónegyed családjai számára.",
-                  "category": "family",
-                  "coords": [
-                        18.068493,
-                        48.89499
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 333",
-                  "text": "A trencséni 333-as számú játszótér alapvető játékeszközöket kínál a gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        18.070862,
-                        48.894617
                   ]
             }
       ],
@@ -8652,24 +8472,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 137",
-                  "text": "Detské ihrisko 137 este un loc de joacă local din Trenčín, dotat cu diverse echipamente.",
-                  "category": "family",
-                  "coords": [
-                        18.030364,
-                        48.877946
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 120",
-                  "text": "Detské ihrisko 120 din Trenčín invită familiile la joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        18.0194,
-                        48.88248
-                  ]
-            },
-            {
                   "name": "Ihrisko Pádivec",
                   "text": "Ihrisko Pádivec în Trenčín – loc de joacă public cu tobogane, leagăne și nisipar.",
                   "category": "family",
@@ -8688,15 +8490,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 119",
-                  "text": "Detské ihrisko 119 oferă copiilor din Trenčín un mediu de joacă clasic.",
-                  "category": "family",
-                  "coords": [
-                        18.020415,
-                        48.882919
-                  ]
-            },
-            {
                   "name": "Detský zábavný areál Ostrov",
                   "text": "Complexul de distracție Ostrov din Trenčín oferă activități variate pentru o zi în familie.",
                   "category": "family",
@@ -8706,75 +8499,12 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 353",
-                  "text": "Detské ihrisko 353 din Trenčín este o zonă de joacă practică pentru copiii din zonă.",
-                  "category": "family",
-                  "coords": [
-                        18.082583,
-                        48.89364
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 332",
-                  "text": "Detské ihrisko 332 este un loc de joacă mai mic din Trenčín pentru pauze scurte de joacă.",
-                  "category": "family",
-                  "coords": [
-                        18.078822,
-                        48.893022
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 125",
-                  "text": "Detské ihrisko 125 din Trenčín este un loc bine echipat pentru mișcare și distracție.",
-                  "category": "family",
-                  "coords": [
-                        18.048362,
-                        48.89557
-                  ]
-            },
-            {
                   "name": "Srdiečko",
                   "text": "Srdiečko din Trenčín este un loc de joacă amenajat cu drag pentru cei mici.",
                   "category": "family",
                   "coords": [
                         18.046451,
                         48.883989
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 102",
-                  "text": "Detské ihrisko 102 din Trenčín este un loc simplu pentru joaca zilnică în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        18.032933,
-                        48.878701
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 103",
-                  "text": "Detské ihrisko 103 oferă copiilor din Trenčín o altă opțiune pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        18.033849,
-                        48.878126
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 334",
-                  "text": "Detské ihrisko 334 din Trenčín servește ca punct de întâlnire pentru familiile din cartier.",
-                  "category": "family",
-                  "coords": [
-                        18.068493,
-                        48.89499
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 333",
-                  "text": "Detské ihrisko 333 din Trenčín oferă o selecție de echipamente de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        18.070862,
-                        48.894617
                   ]
             }
       ],
@@ -9005,24 +8735,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 137",
-                  "text": "Detské ihrisko 137 is a local playground in Trencin with various play equipment.",
-                  "category": "family",
-                  "coords": [
-                        18.030364,
-                        48.877946
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 120",
-                  "text": "Detské ihrisko 120 in Trencin invites families for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        18.0194,
-                        48.88248
-                  ]
-            },
-            {
                   "name": "Ihrisko Pádivec",
                   "text": "Ihrisko Pádivec in Trenčín – a public playground with slides, swings, and a sandbox.",
                   "category": "family",
@@ -9041,15 +8753,6 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 119",
-                  "text": "Detské ihrisko 119 provides a classic play environment for children in Trencin.",
-                  "category": "family",
-                  "coords": [
-                        18.020415,
-                        48.882919
-                  ]
-            },
-            {
                   "name": "Detský zábavný areál Ostrov",
                   "text": "Detský zábavný areál Ostrov in Trencin offers diverse activities for a family day out.",
                   "category": "family",
@@ -9059,75 +8762,12 @@ imageHint: "Building of Matica slovenská in Martin",
                   ]
             },
             {
-                  "name": "Detské ihrisko 353",
-                  "text": "Detské ihrisko 353 in Trencin is a convenient play area for local children.",
-                  "category": "family",
-                  "coords": [
-                        18.082583,
-                        48.89364
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 332",
-                  "text": "Detské ihrisko 332 is a smaller playground in Trencin for quick play breaks.",
-                  "category": "family",
-                  "coords": [
-                        18.078822,
-                        48.893022
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 125",
-                  "text": "Detské ihrisko 125 in Trencin is a well-equipped spot for exercise and fun.",
-                  "category": "family",
-                  "coords": [
-                        18.048362,
-                        48.89557
-                  ]
-            },
-            {
                   "name": "Srdiečko",
                   "text": "Srdiečko in Trencin is a charmingly designed playground for young children.",
                   "category": "family",
                   "coords": [
                         18.046451,
                         48.883989
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 102",
-                  "text": "Detské ihrisko 102 in Trencin is a simple spot for daily outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        18.032933,
-                        48.878701
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 103",
-                  "text": "Detské ihrisko 103 provides children in Trencin another option for recreation.",
-                  "category": "family",
-                  "coords": [
-                        18.033849,
-                        48.878126
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 334",
-                  "text": "Detské ihrisko 334 in Trencin serves as a meeting point for local families.",
-                  "category": "family",
-                  "coords": [
-                        18.068493,
-                        48.89499
-                  ]
-            },
-            {
-                  "name": "Detské ihrisko 333",
-                  "text": "Detské ihrisko 333 in Trencin offers a solid selection of play equipment for kids.",
-                  "category": "family",
-                  "coords": [
-                        18.070862,
-                        48.894617
                   ]
             }
       ]
@@ -23366,78 +23006,6 @@ imageHint: "Rožňava main square with the historic watchtower",
                   ]
             },
             {
-                  "name": "Odhanka 1",
-                  "text": "Odhanka 1 in Púchov ist Teil einer Seengruppe, die ideal für kurze Spaziergänge im Grünen ist.",
-                  "category": "natural",
-                  "coords": [
-                        18.326127,
-                        49.119031
-                  ]
-            },
-            {
-                  "name": "Odhanka 7",
-                  "text": "Odhanka 7 in Púchov ist ein ruhiger See, der sich gut für die Erholung abseits des Trubels eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.319996,
-                        49.115731
-                  ]
-            },
-            {
-                  "name": "Odhanka 5",
-                  "text": "Odhanka 5 in Púchov bietet eine friedliche Atmosphäre für Naturfreunde und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        18.321918,
-                        49.116696
-                  ]
-            },
-            {
-                  "name": "Odhanka 3",
-                  "text": "Odhanka 3 in Púchov ist ein kleinerer See, der zu einer gemütlichen Pause im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.324036,
-                        49.117829
-                  ]
-            },
-            {
-                  "name": "Odhanka 2",
-                  "text": "Odhanka 2 in Púchov ist ein naturbelassener See, ideal für entspannende Beobachtungen am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        18.325079,
-                        49.118431
-                  ]
-            },
-            {
-                  "name": "Odhanka 4",
-                  "text": "Odhanka 4 in Púchov bietet eine grüne Umgebung für Erholungssuchende und Wanderer.",
-                  "category": "natural",
-                  "coords": [
-                        18.32294,
-                        49.117247
-                  ]
-            },
-            {
-                  "name": "Odhanka 9",
-                  "text": "Odhanka 9 in Púchov ist ein stilles Gewässer, das zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.317643,
-                        49.114854
-                  ]
-            },
-            {
-                  "name": "Odhanka 8",
-                  "text": "Odhanka 8 in Púchov ist ein ruhiger Ort für kleine Ausflüge und Naturgenuss am Seeufer.",
-                  "category": "natural",
-                  "coords": [
-                        18.318716,
-                        49.115316
-                  ]
-            },
-            {
                   "name": "Kúpeľné jazierko",
                   "text": "Das Kúpeľné jazierko in Púchov ist ein kleiner Kursee, der sich ideal für ruhige Spaziergänge eignet.",
                   "category": "natural",
@@ -23545,78 +23113,6 @@ imageHint: "Rožňava main square with the historic watchtower",
                   "coords": [
                         18.308345,
                         49.158671
-                  ]
-            },
-            {
-                  "name": "Odhanka 1",
-                  "text": "A puhói Odhanka 1 egy tócsoport része, amely ideális a zöldövezetben tett rövid sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.326127,
-                        49.119031
-                  ]
-            },
-            {
-                  "name": "Odhanka 7",
-                  "text": "A puhói Odhanka 7 egy csendes tó, amely kiválóan alkalmas a tömegtől távoli kikapcsolódásra.",
-                  "category": "natural",
-                  "coords": [
-                        18.319996,
-                        49.115731
-                  ]
-            },
-            {
-                  "name": "Odhanka 5",
-                  "text": "A puhói Odhanka 5 békés környezetet biztosít a természetbarátok és a sétálni vágyók számára.",
-                  "category": "natural",
-                  "coords": [
-                        18.321918,
-                        49.116696
-                  ]
-            },
-            {
-                  "name": "Odhanka 3",
-                  "text": "A puhói Odhanka 3 egy kisebb tó, amely hívogató hely egy kellemes szabadtéri pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        18.324036,
-                        49.117829
-                  ]
-            },
-            {
-                  "name": "Odhanka 2",
-                  "text": "A puhói Odhanka 2 egy természetközeli tó, amely ideális a vízparti pihentető megfigyelésekhez.",
-                  "category": "natural",
-                  "coords": [
-                        18.325079,
-                        49.118431
-                  ]
-            },
-            {
-                  "name": "Odhanka 4",
-                  "text": "A puhói Odhanka 4 zöld környezetet biztosít a pihenni vágyók és a kirándulók számára.",
-                  "category": "natural",
-                  "coords": [
-                        18.32294,
-                        49.117247
-                  ]
-            },
-            {
-                  "name": "Odhanka 9",
-                  "text": "A puhói Odhanka 9 egy csendes állóvíz, amely a természetben való időtöltésre ösztönöz.",
-                  "category": "natural",
-                  "coords": [
-                        18.317643,
-                        49.114854
-                  ]
-            },
-            {
-                  "name": "Odhanka 8",
-                  "text": "A puhói Odhanka 8 egy nyugodt hely kisebb kirándulásokhoz és a tóparti természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        18.318716,
-                        49.115316
                   ]
             },
             {
@@ -23730,78 +23226,6 @@ imageHint: "Rožňava main square with the historic watchtower",
                   ]
             },
             {
-                  "name": "Odhanka 1",
-                  "text": "Odhanka 1 din Púchov face parte dintr-un grup de lacuri, fiind ideală pentru scurte plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.326127,
-                        49.119031
-                  ]
-            },
-            {
-                  "name": "Odhanka 7",
-                  "text": "Odhanka 7 din Púchov este un lac liniștit, potrivit pentru relaxare departe de agitație.",
-                  "category": "natural",
-                  "coords": [
-                        18.319996,
-                        49.115731
-                  ]
-            },
-            {
-                  "name": "Odhanka 5",
-                  "text": "Odhanka 5 din Púchov oferă o atmosferă pașnică pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        18.321918,
-                        49.116696
-                  ]
-            },
-            {
-                  "name": "Odhanka 3",
-                  "text": "Odhanka 3 din Púchov este un lac mai mic, ce invită la o pauză plăcută în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        18.324036,
-                        49.117829
-                  ]
-            },
-            {
-                  "name": "Odhanka 2",
-                  "text": "Odhanka 2 din Púchov este un lac natural, ideal pentru observații relaxante la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.325079,
-                        49.118431
-                  ]
-            },
-            {
-                  "name": "Odhanka 4",
-                  "text": "Odhanka 4 din Púchov oferă un mediu verde pentru cei care caută relaxare și drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        18.32294,
-                        49.117247
-                  ]
-            },
-            {
-                  "name": "Odhanka 9",
-                  "text": "Odhanka 9 din Púchov este un luciu de apă liniștit care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.317643,
-                        49.114854
-                  ]
-            },
-            {
-                  "name": "Odhanka 8",
-                  "text": "Odhanka 8 din Púchov este un loc liniștit pentru mici excursii și bucuria naturii pe malul lacului.",
-                  "category": "natural",
-                  "coords": [
-                        18.318716,
-                        49.115316
-                  ]
-            },
-            {
                   "name": "Kúpeľné jazierko",
                   "text": "Kúpeľné jazierko din Púchov este un mic lac balnear, ideal pentru plimbări liniștite.",
                   "category": "natural",
@@ -23909,78 +23333,6 @@ imageHint: "Rožňava main square with the historic watchtower",
                   "coords": [
                         18.308345,
                         49.158671
-                  ]
-            },
-            {
-                  "name": "Odhanka 1",
-                  "text": "Odhanka 1 in Púchov is part of a group of lakes, ideal for short walks in green areas.",
-                  "category": "natural",
-                  "coords": [
-                        18.326127,
-                        49.119031
-                  ]
-            },
-            {
-                  "name": "Odhanka 7",
-                  "text": "Odhanka 7 in Púchov is a quiet lake suitable for relaxation away from the crowds.",
-                  "category": "natural",
-                  "coords": [
-                        18.319996,
-                        49.115731
-                  ]
-            },
-            {
-                  "name": "Odhanka 5",
-                  "text": "Odhanka 5 in Púchov offers a peaceful atmosphere for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        18.321918,
-                        49.116696
-                  ]
-            },
-            {
-                  "name": "Odhanka 3",
-                  "text": "Odhanka 3 in Púchov is a smaller lake that invites visitors to a pleasant outdoor break.",
-                  "category": "natural",
-                  "coords": [
-                        18.324036,
-                        49.117829
-                  ]
-            },
-            {
-                  "name": "Odhanka 2",
-                  "text": "Odhanka 2 in Púchov is a natural lake, ideal for relaxing observations by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.325079,
-                        49.118431
-                  ]
-            },
-            {
-                  "name": "Odhanka 4",
-                  "text": "Odhanka 4 in Púchov provides a green setting for those seeking relaxation and hiking.",
-                  "category": "natural",
-                  "coords": [
-                        18.32294,
-                        49.117247
-                  ]
-            },
-            {
-                  "name": "Odhanka 9",
-                  "text": "Odhanka 9 in Púchov is a quiet body of water that invites lingering in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.317643,
-                        49.114854
-                  ]
-            },
-            {
-                  "name": "Odhanka 8",
-                  "text": "Odhanka 8 in Púchov is a calm spot for small outings and enjoying nature by the lakeshore.",
-                  "category": "natural",
-                  "coords": [
-                        18.318716,
-                        49.115316
                   ]
             },
             {

@@ -38302,15 +38302,6 @@ export const poiExtraDeCities: POI[] = [
                         8.061902,
                         50.400998
                   ]
-            },
-            {
-                  "name": "Spielplatz  12",
-                  "text": "Der Spielplatz 12 in Limburg An Der Lahn bietet einfache und sichere Spielgeräte für Kinder aus der Nachbarschaft.",
-                  "category": "family",
-                  "coords": [
-                        8.061065,
-                        50.381358
-                  ]
             }
       ],
       "hu": [
@@ -38435,15 +38426,6 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         8.061902,
                         50.400998
-                  ]
-            },
-            {
-                  "name": "Spielplatz  12",
-                  "text": "A 12-es játszótér Limburg An Der Lahnban egyszerű és biztonságos játékokat kínál a környékbeli gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.061065,
-                        50.381358
                   ]
             }
       ],
@@ -38570,15 +38552,6 @@ export const poiExtraDeCities: POI[] = [
                         8.061902,
                         50.400998
                   ]
-            },
-            {
-                  "name": "Spielplatz  12",
-                  "text": "Locul de joacă 12 din Limburg An Der Lahn oferă echipamente de joacă simple și sigure pentru copiii din zonă.",
-                  "category": "family",
-                  "coords": [
-                        8.061065,
-                        50.381358
-                  ]
             }
       ],
       "en": [
@@ -38703,15 +38676,6 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         8.061902,
                         50.400998
-                  ]
-            },
-            {
-                  "name": "Spielplatz  12",
-                  "text": "Playground 12 in Limburg An Der Lahn offers simple and safe play equipment for children in the neighborhood.",
-                  "category": "family",
-                  "coords": [
-                        8.061065,
-                        50.381358
                   ]
             }
       ],
